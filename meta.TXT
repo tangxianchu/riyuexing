@@ -1,5 +1,5 @@
 # 模版名称：ACL4SSR_Online_Full_Google.ini
-# 生成时间：2024-10-12 20:55:47
+# 生成时间：2024-10-12 21:26:59
 # 不要随意改变关键字，否则会导致出错
 # acl4SSR规则
 # 去广告：支持
@@ -57,28 +57,104 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 💫星月/优选🇺🇸美国_1
+  - name: 💫星月/优选_1
+    port: 8009
+    server: 69.50.92.110
+    type: ss
+    udp: true
+    password: XKFKl2rULjIp74
+    cipher: aes-256-gcm
+  - name: 💫星月/优选_2
+    port: 7002
+    server: 38.75.137.105
+    type: ss
+    udp: true
+    password: RexnBgU7EV5ADxG
+    cipher: aes-256-gcm
+  - name: 💫星月/优选_3
+    port: 80
+    server: 45.133.247.51
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    skip-cert-verify: true
+    ws-opts:
+      path: /vless
+      headers:
+        host: 242b9.olielielie.store.
+    uuid: 58c741fe-d085-542e-a5f7-d4cfbc410797
+  - name: 💫星月/优选_4
+    port: 8080
+    server: 45.158.171.19
+    type: ss
+    udp: true
+    password: a8bt9fY0QsLS6eLnXUe0Ym
+    cipher: chacha20-ietf-poly1305
+  - name: 💫星月/优选_5
+    port: 22222
+    server: 13.49.242.221
+    type: trojan
+    network: tcp
+    udp: true
+    sni: trojan.burgerip.co.uk
+    password: telegram-id-privatevpns
+    skip-cert-verify: false
+    alpn:
+      - http/1.1
+  - name: 💫星月/优选_6
+    port: 6379
+    server: 23.157.40.89
+    type: ss
+    udp: true
+    password: zDNVedRFPQexG9v
+    cipher: aes-256-gcm
+  - name: 💫星月/优选_7
+    port: 43526
+    server: 120.232.153.71
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875
+    alterId: 64
+  - name: 💫星月/优选_8
+    port: 43526
+    server: 120.232.153.40
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875
+    alterId: 64
+  - name: 💫星月/优选_9
     port: 10089
     server: osaka002-a.oraclenat.cc
     type: ss
     udp: true
     password: e414f51b-9e30-4d5c-afd6-b10766117259
     cipher: chacha20-ietf-poly1305
-  - name: 💫星月/优选🏳️未知_1
+  - name: 💫星月/优选_10
     port: 10086
     server: dubai0.oraclenat.cc
     type: ss
     udp: true
     password: e414f51b-9e30-4d5c-afd6-b10766117259
     cipher: chacha20-ietf-poly1305
-  - name: 💫星月/优选🇦🇺澳大利亚_1
+  - name: 💫星月/优选_11
     port: 10086
     server: syd-01.oci.ee
     type: ss
     udp: true
     password: e414f51b-9e30-4d5c-afd6-b10766117259
     cipher: chacha20-ietf-poly1305
-  - name: 💫星月/优选🇺🇸美国_2
+  - name: 💫星月/优选_12
     port: 443
     server: Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz
     type: trojan
@@ -94,9 +170,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇬🇧英国_1
+  - name: 💫星月/优选_13
     port: 443
-    server: 217.163.76.60
+    server: 216.24.57.29
     type: trojan
     network: ws
     udp: true
@@ -110,9 +186,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇷🇺俄罗斯_1
+  - name: 💫星月/优选_14
     port: 443
-    server: 194.76.18.62
+    server: 206.238.237.182
     type: trojan
     network: ws
     udp: true
@@ -126,759 +202,7 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_3
-    port: 443
-    server: 206.238.237.74
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇷🇴罗马尼亚
-    port: 443
-    server: 94.177.8.51
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇦乌克兰_1
-    port: 443
-    server: 45.67.215.208
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_4
-    port: 443
-    server: 216.24.57.68
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇷🇺俄罗斯_2
-    port: 443
-    server: 194.76.18.113
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_5
-    port: 443
-    server: 192.0.54.172
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇷🇺俄罗斯_3
-    port: 443
-    server: 194.76.18.22
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇩🇪德国_1
-    port: 443
-    server: 18.196.70.197
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_6
-    port: 443
-    server: 216.24.57.59
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇦🇺澳大利亚_2
-    port: 443
-    server: 202.61.193.248
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_7
-    port: 443
-    server: 160.79.105.106
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_8
-    port: 443
-    server: 207.174.31.150
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_9
-    port: 443
-    server: 198.62.62.67
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_10
-    port: 443
-    server: 69.84.182.44
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇨🇳中国_1
-    port: 443
-    server: 219.76.13.164
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_11
-    port: 6443
-    server: 138.2.64.175
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇸🇬新加坡
-    port: 2001
-    server: 51.79.249.214
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇨🇳中国_2
-    port: 16008
-    server: 119.28.45.14
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇨🇳中国_3
-    port: 12345
-    server: 223.18.129.85
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇰🇷韩国_1
-    port: 10250
-    server: 175.200.197.248
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇰🇷韩国_2
-    port: 38164
-    server: 211.211.84.123
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇰🇷韩国_3
-    port: 10201
-    server: 121.145.59.207
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇰🇷韩国_4
-    port: 50000
-    server: 222.108.94.228
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_12
-    port: 80
-    server: 204.110.220.1
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_13
-    port: 448
-    server: 202.91.35.39
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_14
-    port: 80
-    server: 204.110.220.254
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇦🇺澳大利亚_3
-    port: 33684
-    server: 37.123.192.146
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_15
-    port: 54709
-    server: 212.50.254.116
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_16
-    port: 42031
-    server: 216.24.189.68
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_17
-    port: 443
-    server: 162.159.152.123
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_18
-    port: 443
-    server: 162.159.152.44
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_19
-    port: 443
-    server: 162.159.152.5
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_20
-    port: 443
-    server: 162.159.153.99
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_21
-    port: 443
-    server: 162.159.152.2
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_22
-    port: 443
-    server: 162.159.153.143
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_23
-    port: 443
-    server: 104.19.35.123
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_24
-    port: 443
-    server: 104.19.35.245
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_25
-    port: 443
-    server: 104.19.40.69
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_26
-    port: 443
-    server: 104.19.34.51
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_27
-    port: 443
-    server: 104.19.42.46
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_28
-    port: 443
-    server: 104.19.35.145
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_2
-    port: 443
-    server: "[2606:4700:3036::ce:d6ea]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_3
-    port: 443
-    server: "[2606:4700:3036:6ed4:260:e367:c3d4:d3bb]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_4
-    port: 443
-    server: "[2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_5
-    port: 443
-    server: "[2606:4700:3036:0:a36a:4aa4:75d9:9f75]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_6
-    port: 443
-    server: "[2606:4700:3036:ef:db9e:eecc:caef:9d4a]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_7
-    port: 443
-    server: "[2606:4700:3036:ef:3f32:9601:b705:e94b]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_29
+  - name: 💫星月/优选_15
     port: 443
     server: 216.24.57.85
     type: trojan
@@ -894,151 +218,7 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇬🇧英国_2
-    port: 443
-    server: 194.35.119.193
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_30
-    port: 443
-    server: 69.84.182.247
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_31
-    port: 443
-    server: 160.79.105.133
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_32
-    port: 443
-    server: 198.62.62.208
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_33
-    port: 443
-    server: 192.0.63.109
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_34
-    port: 443
-    server: 216.24.57.30
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇬🇧英国_3
-    port: 443
-    server: 217.163.76.116
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇦乌克兰_2
-    port: 443
-    server: 45.67.215.53
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_35
-    port: 443
-    server: 192.236.249.109
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇦乌克兰_3
+  - name: 💫星月/优选_16
     port: 443
     server: 45.67.215.42
     type: trojan
@@ -1054,9 +234,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇷🇺俄罗斯_4
+  - name: 💫星月/优选_17
     port: 443
-    server: 194.67.200.82
+    server: 194.76.18.62
     type: trojan
     network: ws
     udp: true
@@ -1070,1337 +250,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇬🇧英国_4
-    port: 80
-    server: 3.9.223.59
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_36
-    port: 443
-    server: 162.159.153.50
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_37
-    port: 443
-    server: 162.159.152.70
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_38
-    port: 443
-    server: 162.159.153.205
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_39
-    port: 443
-    server: 162.159.152.188
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_40
-    port: 443
-    server: 162.159.153.49
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_41
-    port: 443
-    server: 162.159.153.105
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_42
-    port: 443
-    server: 104.19.37.65
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_43
-    port: 443
-    server: 104.19.40.144
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_44
-    port: 443
-    server: 104.19.34.54
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_45
-    port: 443
-    server: 104.19.49.117
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_8
-    port: 443
-    server: "[2606:4700:3036:6ed4:e1ed:36:8916:dace]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_9
-    port: 443
-    server: "[2606:4700:3036:0:a36a:4a94:8d40:c92c]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_10
-    port: 443
-    server: "[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_11
-    port: 443
-    server: "[2606:4700:3036:ef:95e:7a29:2ccc:d331]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_12
-    port: 443
-    server: "[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_46
-    port: 443
-    server: 160.79.104.178
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_47
-    port: 2053
-    server: 23.94.95.60
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_48
-    port: 443
-    server: 192.9.237.203
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_49
-    port: 443
-    server: 192.0.54.28
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_50
-    port: 443
-    server: 192.200.160.193
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_51
-    port: 443
-    server: 192.237.192.175
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_52
-    port: 443
-    server: 216.24.57.24
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇷🇺俄罗斯_5
-    port: 443
-    server: 194.76.18.116
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_53
-    port: 443
-    server: 216.24.57.230
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇬🇧英国_5
-    port: 443
-    server: 217.163.76.63
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_54
-    port: 443
-    server: 162.159.153.229
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_55
-    port: 443
-    server: 162.159.153.119
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_56
-    port: 443
-    server: 162.159.153.236
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_57
-    port: 443
-    server: 104.19.39.50
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_13
-    port: 443
-    server: "[2606:4700:3036:ef:92f:be51:8695:9fc5]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_14
-    port: 443
-    server: "[2606:4700:3036:6ed4:e1ed:36:7204:2031]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_15
-    port: 443
-    server: "[2606:4700:3036:0:a36a:4a23:4a60:9f3f]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_58
-    port: 443
-    server: 69.84.182.234
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇦🇹奥地利_1
-    port: 443
-    server: 212.183.88.81
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_59
-    port: 443
-    server: 192.200.160.155
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇬🇧英国_6
-    port: 443
-    server: 217.163.76.65
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_60
-    port: 443
-    server: 206.238.237.60
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_61
-    port: 443
-    server: 192.200.160.33
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇬🇧英国_7
-    port: 443
-    server: 217.163.76.147
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇩🇪德国_2
-    port: 443
-    server: 217.160.216.30
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_62
-    port: 443
-    server: 216.24.57.57
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_63
-    port: 443
-    server: 160.79.105.118
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_64
-    port: 443
-    server: 162.159.153.120
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_65
-    port: 443
-    server: 104.19.51.231
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_66
-    port: 443
-    server: 104.19.35.171
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_67
-    port: 443
-    server: 104.19.39.46
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_16
-    port: 443
-    server: "[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_17
-    port: 443
-    server: "[2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_18
-    port: 443
-    server: "[2606:4700:3036:0:a36a:4af2:65e7:a0d6]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_68
-    port: 443
-    server: 216.24.57.61
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇦乌克兰_4
-    port: 443
-    server: 45.67.215.218
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_69
-    port: 443
-    server: 192.200.160.90
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_70
-    port: 443
-    server: 206.238.237.133
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_71
-    port: 443
-    server: 216.24.57.250
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇬🇧英国_8
-    port: 443
-    server: 217.163.76.114
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇳🇱荷兰_1
-    port: 443
-    server: 37.1.207.228
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇳🇱荷兰_2
-    port: 443
-    server: 185.133.35.144
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_72
-    port: 443
-    server: 104.19.40.134
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_73
-    port: 443
-    server: 104.19.32.12
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_19
-    port: 443
-    server: "[2606:4700:3036:0:a36a:3160:b566:8741]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇦🇹奥地利_2
-    port: 443
-    server: 212.183.88.77
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_74
-    port: 443
-    server: 63.141.128.254
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_75
-    port: 443
-    server: 192.200.160.168
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇦🇹奥地利_3
-    port: 443
-    server: 212.183.88.189
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_76
-    port: 443
-    server: 192.236.249.103
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇷🇺俄罗斯_6
-    port: 443
-    server: 194.76.18.50
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_77
-    port: 443
-    server: 192.200.160.211
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇳🇱荷兰_3
-    port: 443
-    server: 185.133.35.178
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_78
-    port: 443
-    server: 162.159.152.66
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_79
-    port: 443
-    server: 104.19.50.68
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_80
-    port: 443
-    server: 104.19.37.82
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_81
-    port: 443
-    server: 216.221.214.50
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_82
-    port: 443
-    server: 192.236.249.102
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_83
-    port: 443
-    server: 216.24.57.48
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_84
-    port: 443
-    server: 216.221.213.172
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇷🇺俄罗斯_7
-    port: 443
-    server: 194.76.18.121
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇷🇺俄罗斯_8
-    port: 443
-    server: 194.76.18.129
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_85
-    port: 443
-    server: 162.159.153.194
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_86
-    port: 443
-    server: 104.19.37.125
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🏳️未知_20
-    port: 443
-    server: "[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇳🇱荷兰_4
-    port: 443
-    server: 185.133.35.115
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_87
-    port: 443
-    server: 206.238.236.160
-    type: trojan
-    network: ws
-    udp: true
-    sni: tg.cmliussss.us.kg
-    password: auto
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: tg.cmliussss.us.kg
-    alpn:
-      - h3
-    client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_88
+  - name: 💫星月/优选_18
     port: 443
-    server: 216.24.57.35
+    server: 216.24.57.92
     type: trojan
     network: ws
     udp: true
@@ -2414,9 +266,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇦🇹奥地利_4
+  - name: 💫星月/优选_19
     port: 443
-    server: 212.183.88.29
+    server: 194.76.18.113
     type: trojan
     network: ws
     udp: true
@@ -2430,7 +282,7 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇳🇱荷兰_5
+  - name: 💫星月/优选_20
     port: 443
     server: 185.133.35.96
     type: trojan
@@ -2446,9 +298,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_89
+  - name: 💫星月/优选_21
     port: 443
-    server: 216.24.57.69
+    server: 212.183.88.242
     type: trojan
     network: ws
     udp: true
@@ -2462,9 +314,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇬🇧英国_9
+  - name: 💫星月/优选_22
     port: 443
-    server: 217.163.76.203
+    server: 45.67.215.119
     type: trojan
     network: ws
     udp: true
@@ -2478,9 +330,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_90
+  - name: 💫星月/优选_23
     port: 443
-    server: 162.159.153.87
+    server: 194.35.119.193
     type: trojan
     network: ws
     udp: true
@@ -2494,9 +346,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_91
+  - name: 💫星月/优选_24
     port: 443
-    server: 192.200.160.2
+    server: 192.200.160.229
     type: trojan
     network: ws
     udp: true
@@ -2510,9 +362,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_92
+  - name: 💫星月/优选_25
     port: 443
-    server: 192.200.160.81
+    server: 216.24.57.171
     type: trojan
     network: ws
     udp: true
@@ -2526,7 +378,599 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇬🇧英国_10
+  - name: 💫星月/优选_26
+    port: 443
+    server: 212.183.88.29
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_27
+    port: 443
+    server: 80.158.63.104
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_28
+    port: 443
+    server: 192.0.63.8
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_29
+    port: 443
+    server: 219.76.13.164
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_30
+    port: 6443
+    server: 138.2.64.175
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_31
+    port: 2001
+    server: 51.79.249.214
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_32
+    port: 16008
+    server: 119.28.45.14
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_33
+    port: 12345
+    server: 223.18.129.85
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_34
+    port: 10250
+    server: 175.200.197.248
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_35
+    port: 38164
+    server: 211.211.84.123
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_36
+    port: 10201
+    server: 121.145.59.207
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_37
+    port: 50000
+    server: 222.108.94.228
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_38
+    port: 80
+    server: 204.110.220.1
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_39
+    port: 448
+    server: 202.91.35.39
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_40
+    port: 80
+    server: 204.110.220.254
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_41
+    port: 33684
+    server: 37.123.192.146
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_42
+    port: 54709
+    server: 212.50.254.116
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_43
+    port: 42031
+    server: 216.24.189.68
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_44
+    port: 443
+    server: 162.159.152.70
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_45
+    port: 443
+    server: 162.159.153.50
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_46
+    port: 443
+    server: 162.159.152.2
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_47
+    port: 443
+    server: 162.159.152.44
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_48
+    port: 443
+    server: 162.159.152.66
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_49
+    port: 443
+    server: 162.159.153.194
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_50
+    port: 443
+    server: 104.19.32.24
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_51
+    port: 443
+    server: 104.19.34.51
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_52
+    port: 443
+    server: 104.19.35.171
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_53
+    port: 443
+    server: 104.19.40.144
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_54
+    port: 443
+    server: 104.19.49.117
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_55
+    port: 443
+    server: 104.19.34.54
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_56
+    port: 443
+    server: "[2606:4700:3036:ef:92f:be51:8695:9fc5]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_57
+    port: 443
+    server: "[2606:4700:3036:0:a36a:4aa4:75d9:9f75]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_58
+    port: 443
+    server: "[2606:4700:3036:6ed4:260:e3e9:a48c:8437]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_59
+    port: 443
+    server: "[2606:4700:3036:6ed4:260:e367:c3d4:d3bb]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_60
+    port: 443
+    server: "[2606:4700:3036:0:a36a:4af2:65e7:a0d6]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_61
+    port: 443
+    server: "[2606:4700:3036:ef:db9e:eecc:caef:9d4a]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_62
+    port: 443
+    server: 217.163.76.147
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_63
     port: 443
     server: 217.163.76.180
     type: trojan
@@ -2542,9 +986,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇰🇼科威特
+  - name: 💫星月/优选_64
     port: 443
-    server: 91.230.213.70
+    server: 69.84.182.100
     type: trojan
     network: ws
     udp: true
@@ -2558,9 +1002,9 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇷🇺俄罗斯_9
+  - name: 💫星月/优选_65
     port: 443
-    server: 194.76.18.197
+    server: 185.133.35.115
     type: trojan
     network: ws
     udp: true
@@ -2574,7 +1018,199 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_93
+  - name: 💫星月/优选_66
+    port: 443
+    server: 194.76.18.223
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_67
+    port: 443
+    server: 217.163.76.203
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_68
+    port: 443
+    server: 216.24.57.30
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_69
+    port: 443
+    server: 195.58.50.194
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_70
+    port: 443
+    server: 192.0.63.109
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_71
+    port: 443
+    server: 216.24.57.57
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_72
+    port: 443
+    server: 216.24.57.239
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_73
+    port: 443
+    server: 63.141.128.254
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_74
+    port: 443
+    server: 192.200.160.211
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_75
+    port: 443
+    server: 198.62.62.208
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_76
+    port: 443
+    server: 162.159.153.105
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_77
+    port: 443
+    server: 162.159.152.123
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_78
     port: 443
     server: 162.159.153.242
     type: trojan
@@ -2590,9 +1226,985 @@ proxies:
     alpn:
       - h3
     client-fingerprint: randomized
-  - name: 💫星月/优选🇺🇸美国_94
+  - name: 💫星月/优选_79
     port: 443
-    server: 104.19.32.24
+    server: 104.19.32.12
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_80
+    port: 443
+    server: 104.19.40.134
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_81
+    port: 443
+    server: 104.19.37.125
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_82
+    port: 443
+    server: 104.19.37.65
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_83
+    port: 443
+    server: 104.19.40.69
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_84
+    port: 443
+    server: "[2606:4700:3036:0:a36a:4a23:4a60:9f3f]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_85
+    port: 443
+    server: "[2606:4700:3036:0:a36a:3160:b566:8741]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_86
+    port: 443
+    server: "[2606:4700:3036:ef:95e:7a29:2ccc:d331]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_87
+    port: 443
+    server: "[2606:4700:3036:0:a36a:4a94:8d40:c92c]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_88
+    port: 443
+    server: "[2606:4700:3036::ce:d6ea]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_89
+    port: 443
+    server: 194.76.18.22
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_90
+    port: 443
+    server: 217.163.76.60
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_91
+    port: 443
+    server: 20.246.127.166
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_92
+    port: 443
+    server: 94.177.8.51
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_93
+    port: 443
+    server: 217.163.76.65
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_94
+    port: 443
+    server: 80.76.34.13
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_95
+    port: 443
+    server: 216.221.213.149
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_96
+    port: 443
+    server: 45.67.215.208
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_97
+    port: 443
+    server: 192.200.160.81
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_98
+    port: 443
+    server: 162.159.153.119
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_99
+    port: 443
+    server: 162.159.153.236
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_100
+    port: 443
+    server: 162.159.152.188
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_101
+    port: 443
+    server: 162.159.153.99
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_102
+    port: 443
+    server: 162.159.153.120
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_103
+    port: 443
+    server: 104.19.51.231
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_104
+    port: 443
+    server: 104.19.37.82
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_105
+    port: 443
+    server: 104.19.35.245
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_106
+    port: 443
+    server: "[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_107
+    port: 443
+    server: "[2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_108
+    port: 443
+    server: 45.67.215.53
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_109
+    port: 443
+    server: 194.76.18.116
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_110
+    port: 443
+    server: 206.238.237.60
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_111
+    port: 443
+    server: 192.200.160.2
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_112
+    port: 443
+    server: 69.84.182.44
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_113
+    port: 443
+    server: 216.221.213.172
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_114
+    port: 443
+    server: 216.24.57.91
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_115
+    port: 443
+    server: 18.196.70.197
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_116
+    port: 443
+    server: 160.79.105.106
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_117
+    port: 443
+    server: 162.159.153.229
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_118
+    port: 443
+    server: 162.159.153.49
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_119
+    port: 443
+    server: 162.159.152.5
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_120
+    port: 443
+    server: 104.19.39.50
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_121
+    port: 443
+    server: 217.163.76.114
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_122
+    port: 443
+    server: 194.76.18.121
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_123
+    port: 443
+    server: 216.24.57.48
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_124
+    port: 443
+    server: 192.200.160.197
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_125
+    port: 443
+    server: 216.24.57.68
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_126
+    port: 443
+    server: 202.61.193.248
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_127
+    port: 443
+    server: 206.238.237.74
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_128
+    port: 443
+    server: 194.67.200.82
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_129
+    port: 443
+    server: 162.159.153.87
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_130
+    port: 443
+    server: 162.159.153.143
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_131
+    port: 443
+    server: 104.19.42.46
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_132
+    port: 443
+    server: "[2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_133
+    port: 443
+    server: 216.24.57.35
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_134
+    port: 443
+    server: 192.200.160.90
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_135
+    port: 443
+    server: 160.79.105.133
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_136
+    port: 443
+    server: 192.200.160.155
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_137
+    port: 443
+    server: 192.200.160.63
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_138
+    port: 443
+    server: 206.238.236.108
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_139
+    port: 443
+    server: 104.19.39.46
+    type: trojan
+    network: ws
+    udp: true
+    sni: tg.cmliussss.us.kg
+    password: auto
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: tg.cmliussss.us.kg
+    alpn:
+      - h3
+    client-fingerprint: randomized
+  - name: 💫星月/优选_140
+    port: 443
+    server: "[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]"
     type: trojan
     network: ws
     udp: true
@@ -2612,999 +2224,873 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 💫星月/优选🇺🇸美国_1
-      - 💫星月/优选🏳️未知_1
-      - 💫星月/优选🇦🇺澳大利亚_1
-      - 💫星月/优选🇺🇸美国_2
-      - 💫星月/优选🇬🇧英国_1
-      - 💫星月/优选🇷🇺俄罗斯_1
-      - 💫星月/优选🇺🇸美国_3
-      - 💫星月/优选🇷🇴罗马尼亚
-      - 💫星月/优选🇺🇦乌克兰_1
-      - 💫星月/优选🇺🇸美国_4
-      - 💫星月/优选🇷🇺俄罗斯_2
-      - 💫星月/优选🇺🇸美国_5
-      - 💫星月/优选🇷🇺俄罗斯_3
-      - 💫星月/优选🇩🇪德国_1
-      - 💫星月/优选🇺🇸美国_6
-      - 💫星月/优选🇦🇺澳大利亚_2
-      - 💫星月/优选🇺🇸美国_7
-      - 💫星月/优选🇺🇸美国_8
-      - 💫星月/优选🇺🇸美国_9
-      - 💫星月/优选🇺🇸美国_10
-      - 💫星月/优选🇨🇳中国_1
-      - 💫星月/优选🇺🇸美国_11
-      - 💫星月/优选🇸🇬新加坡
-      - 💫星月/优选🇨🇳中国_2
-      - 💫星月/优选🇨🇳中国_3
-      - 💫星月/优选🇰🇷韩国_1
-      - 💫星月/优选🇰🇷韩国_2
-      - 💫星月/优选🇰🇷韩国_3
-      - 💫星月/优选🇰🇷韩国_4
-      - 💫星月/优选🇺🇸美国_12
-      - 💫星月/优选🇺🇸美国_13
-      - 💫星月/优选🇺🇸美国_14
-      - 💫星月/优选🇦🇺澳大利亚_3
-      - 💫星月/优选🇺🇸美国_15
-      - 💫星月/优选🇺🇸美国_16
-      - 💫星月/优选🇺🇸美国_17
-      - 💫星月/优选🇺🇸美国_18
-      - 💫星月/优选🇺🇸美国_19
-      - 💫星月/优选🇺🇸美国_20
-      - 💫星月/优选🇺🇸美国_21
-      - 💫星月/优选🇺🇸美国_22
-      - 💫星月/优选🇺🇸美国_23
-      - 💫星月/优选🇺🇸美国_24
-      - 💫星月/优选🇺🇸美国_25
-      - 💫星月/优选🇺🇸美国_26
-      - 💫星月/优选🇺🇸美国_27
-      - 💫星月/优选🇺🇸美国_28
-      - 💫星月/优选🏳️未知_2
-      - 💫星月/优选🏳️未知_3
-      - 💫星月/优选🏳️未知_4
-      - 💫星月/优选🏳️未知_5
-      - 💫星月/优选🏳️未知_6
-      - 💫星月/优选🏳️未知_7
-      - 💫星月/优选🇺🇸美国_29
-      - 💫星月/优选🇬🇧英国_2
-      - 💫星月/优选🇺🇸美国_30
-      - 💫星月/优选🇺🇸美国_31
-      - 💫星月/优选🇺🇸美国_32
-      - 💫星月/优选🇺🇸美国_33
-      - 💫星月/优选🇺🇸美国_34
-      - 💫星月/优选🇬🇧英国_3
-      - 💫星月/优选🇺🇦乌克兰_2
-      - 💫星月/优选🇺🇸美国_35
-      - 💫星月/优选🇺🇦乌克兰_3
-      - 💫星月/优选🇷🇺俄罗斯_4
-      - 💫星月/优选🇬🇧英国_4
-      - 💫星月/优选🇺🇸美国_36
-      - 💫星月/优选🇺🇸美国_37
-      - 💫星月/优选🇺🇸美国_38
-      - 💫星月/优选🇺🇸美国_39
-      - 💫星月/优选🇺🇸美国_40
-      - 💫星月/优选🇺🇸美国_41
-      - 💫星月/优选🇺🇸美国_42
-      - 💫星月/优选🇺🇸美国_43
-      - 💫星月/优选🇺🇸美国_44
-      - 💫星月/优选🇺🇸美国_45
-      - 💫星月/优选🏳️未知_8
-      - 💫星月/优选🏳️未知_9
-      - 💫星月/优选🏳️未知_10
-      - 💫星月/优选🏳️未知_11
-      - 💫星月/优选🏳️未知_12
-      - 💫星月/优选🇺🇸美国_46
-      - 💫星月/优选🇺🇸美国_47
-      - 💫星月/优选🇺🇸美国_48
-      - 💫星月/优选🇺🇸美国_49
-      - 💫星月/优选🇺🇸美国_50
-      - 💫星月/优选🇺🇸美国_51
-      - 💫星月/优选🇺🇸美国_52
-      - 💫星月/优选🇷🇺俄罗斯_5
-      - 💫星月/优选🇺🇸美国_53
-      - 💫星月/优选🇬🇧英国_5
-      - 💫星月/优选🇺🇸美国_54
-      - 💫星月/优选🇺🇸美国_55
-      - 💫星月/优选🇺🇸美国_56
-      - 💫星月/优选🇺🇸美国_57
-      - 💫星月/优选🏳️未知_13
-      - 💫星月/优选🏳️未知_14
-      - 💫星月/优选🏳️未知_15
-      - 💫星月/优选🇺🇸美国_58
-      - 💫星月/优选🇦🇹奥地利_1
-      - 💫星月/优选🇺🇸美国_59
-      - 💫星月/优选🇬🇧英国_6
-      - 💫星月/优选🇺🇸美国_60
-      - 💫星月/优选🇺🇸美国_61
-      - 💫星月/优选🇬🇧英国_7
-      - 💫星月/优选🇩🇪德国_2
-      - 💫星月/优选🇺🇸美国_62
-      - 💫星月/优选🇺🇸美国_63
-      - 💫星月/优选🇺🇸美国_64
-      - 💫星月/优选🇺🇸美国_65
-      - 💫星月/优选🇺🇸美国_66
-      - 💫星月/优选🇺🇸美国_67
-      - 💫星月/优选🏳️未知_16
-      - 💫星月/优选🏳️未知_17
-      - 💫星月/优选🏳️未知_18
-      - 💫星月/优选🇺🇸美国_68
-      - 💫星月/优选🇺🇦乌克兰_4
-      - 💫星月/优选🇺🇸美国_69
-      - 💫星月/优选🇺🇸美国_70
-      - 💫星月/优选🇺🇸美国_71
-      - 💫星月/优选🇬🇧英国_8
-      - 💫星月/优选🇳🇱荷兰_1
-      - 💫星月/优选🇳🇱荷兰_2
-      - 💫星月/优选🇺🇸美国_72
-      - 💫星月/优选🇺🇸美国_73
-      - 💫星月/优选🏳️未知_19
-      - 💫星月/优选🇦🇹奥地利_2
-      - 💫星月/优选🇺🇸美国_74
-      - 💫星月/优选🇺🇸美国_75
-      - 💫星月/优选🇦🇹奥地利_3
-      - 💫星月/优选🇺🇸美国_76
-      - 💫星月/优选🇷🇺俄罗斯_6
-      - 💫星月/优选🇺🇸美国_77
-      - 💫星月/优选🇳🇱荷兰_3
-      - 💫星月/优选🇺🇸美国_78
-      - 💫星月/优选🇺🇸美国_79
-      - 💫星月/优选🇺🇸美国_80
-      - 💫星月/优选🇺🇸美国_81
-      - 💫星月/优选🇺🇸美国_82
-      - 💫星月/优选🇺🇸美国_83
-      - 💫星月/优选🇺🇸美国_84
-      - 💫星月/优选🇷🇺俄罗斯_7
-      - 💫星月/优选🇷🇺俄罗斯_8
-      - 💫星月/优选🇺🇸美国_85
-      - 💫星月/优选🇺🇸美国_86
-      - 💫星月/优选🏳️未知_20
-      - 💫星月/优选🇳🇱荷兰_4
-      - 💫星月/优选🇺🇸美国_87
-      - 💫星月/优选🇺🇸美国_88
-      - 💫星月/优选🇦🇹奥地利_4
-      - 💫星月/优选🇳🇱荷兰_5
-      - 💫星月/优选🇺🇸美国_89
-      - 💫星月/优选🇬🇧英国_9
-      - 💫星月/优选🇺🇸美国_90
-      - 💫星月/优选🇺🇸美国_91
-      - 💫星月/优选🇺🇸美国_92
-      - 💫星月/优选🇬🇧英国_10
-      - 💫星月/优选🇰🇼科威特
-      - 💫星月/优选🇷🇺俄罗斯_9
-      - 💫星月/优选🇺🇸美国_93
-      - 💫星月/优选🇺🇸美国_94
+      - 💫星月/优选_1
+      - 💫星月/优选_2
+      - 💫星月/优选_3
+      - 💫星月/优选_4
+      - 💫星月/优选_5
+      - 💫星月/优选_6
+      - 💫星月/优选_7
+      - 💫星月/优选_8
+      - 💫星月/优选_9
+      - 💫星月/优选_10
+      - 💫星月/优选_11
+      - 💫星月/优选_12
+      - 💫星月/优选_13
+      - 💫星月/优选_14
+      - 💫星月/优选_15
+      - 💫星月/优选_16
+      - 💫星月/优选_17
+      - 💫星月/优选_18
+      - 💫星月/优选_19
+      - 💫星月/优选_20
+      - 💫星月/优选_21
+      - 💫星月/优选_22
+      - 💫星月/优选_23
+      - 💫星月/优选_24
+      - 💫星月/优选_25
+      - 💫星月/优选_26
+      - 💫星月/优选_27
+      - 💫星月/优选_28
+      - 💫星月/优选_29
+      - 💫星月/优选_30
+      - 💫星月/优选_31
+      - 💫星月/优选_32
+      - 💫星月/优选_33
+      - 💫星月/优选_34
+      - 💫星月/优选_35
+      - 💫星月/优选_36
+      - 💫星月/优选_37
+      - 💫星月/优选_38
+      - 💫星月/优选_39
+      - 💫星月/优选_40
+      - 💫星月/优选_41
+      - 💫星月/优选_42
+      - 💫星月/优选_43
+      - 💫星月/优选_44
+      - 💫星月/优选_45
+      - 💫星月/优选_46
+      - 💫星月/优选_47
+      - 💫星月/优选_48
+      - 💫星月/优选_49
+      - 💫星月/优选_50
+      - 💫星月/优选_51
+      - 💫星月/优选_52
+      - 💫星月/优选_53
+      - 💫星月/优选_54
+      - 💫星月/优选_55
+      - 💫星月/优选_56
+      - 💫星月/优选_57
+      - 💫星月/优选_58
+      - 💫星月/优选_59
+      - 💫星月/优选_60
+      - 💫星月/优选_61
+      - 💫星月/优选_62
+      - 💫星月/优选_63
+      - 💫星月/优选_64
+      - 💫星月/优选_65
+      - 💫星月/优选_66
+      - 💫星月/优选_67
+      - 💫星月/优选_68
+      - 💫星月/优选_69
+      - 💫星月/优选_70
+      - 💫星月/优选_71
+      - 💫星月/优选_72
+      - 💫星月/优选_73
+      - 💫星月/优选_74
+      - 💫星月/优选_75
+      - 💫星月/优选_76
+      - 💫星月/优选_77
+      - 💫星月/优选_78
+      - 💫星月/优选_79
+      - 💫星月/优选_80
+      - 💫星月/优选_81
+      - 💫星月/优选_82
+      - 💫星月/优选_83
+      - 💫星月/优选_84
+      - 💫星月/优选_85
+      - 💫星月/优选_86
+      - 💫星月/优选_87
+      - 💫星月/优选_88
+      - 💫星月/优选_89
+      - 💫星月/优选_90
+      - 💫星月/优选_91
+      - 💫星月/优选_92
+      - 💫星月/优选_93
+      - 💫星月/优选_94
+      - 💫星月/优选_95
+      - 💫星月/优选_96
+      - 💫星月/优选_97
+      - 💫星月/优选_98
+      - 💫星月/优选_99
+      - 💫星月/优选_100
+      - 💫星月/优选_101
+      - 💫星月/优选_102
+      - 💫星月/优选_103
+      - 💫星月/优选_104
+      - 💫星月/优选_105
+      - 💫星月/优选_106
+      - 💫星月/优选_107
+      - 💫星月/优选_108
+      - 💫星月/优选_109
+      - 💫星月/优选_110
+      - 💫星月/优选_111
+      - 💫星月/优选_112
+      - 💫星月/优选_113
+      - 💫星月/优选_114
+      - 💫星月/优选_115
+      - 💫星月/优选_116
+      - 💫星月/优选_117
+      - 💫星月/优选_118
+      - 💫星月/优选_119
+      - 💫星月/优选_120
+      - 💫星月/优选_121
+      - 💫星月/优选_122
+      - 💫星月/优选_123
+      - 💫星月/优选_124
+      - 💫星月/优选_125
+      - 💫星月/优选_126
+      - 💫星月/优选_127
+      - 💫星月/优选_128
+      - 💫星月/优选_129
+      - 💫星月/优选_130
+      - 💫星月/优选_131
+      - 💫星月/优选_132
+      - 💫星月/优选_133
+      - 💫星月/优选_134
+      - 💫星月/优选_135
+      - 💫星月/优选_136
+      - 💫星月/优选_137
+      - 💫星月/优选_138
+      - 💫星月/优选_139
+      - 💫星月/优选_140
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 💫星月/优选🇺🇸美国_1
-      - 💫星月/优选🏳️未知_1
-      - 💫星月/优选🇦🇺澳大利亚_1
-      - 💫星月/优选🇺🇸美国_2
-      - 💫星月/优选🇬🇧英国_1
-      - 💫星月/优选🇷🇺俄罗斯_1
-      - 💫星月/优选🇺🇸美国_3
-      - 💫星月/优选🇷🇴罗马尼亚
-      - 💫星月/优选🇺🇦乌克兰_1
-      - 💫星月/优选🇺🇸美国_4
-      - 💫星月/优选🇷🇺俄罗斯_2
-      - 💫星月/优选🇺🇸美国_5
-      - 💫星月/优选🇷🇺俄罗斯_3
-      - 💫星月/优选🇩🇪德国_1
-      - 💫星月/优选🇺🇸美国_6
-      - 💫星月/优选🇦🇺澳大利亚_2
-      - 💫星月/优选🇺🇸美国_7
-      - 💫星月/优选🇺🇸美国_8
-      - 💫星月/优选🇺🇸美国_9
-      - 💫星月/优选🇺🇸美国_10
-      - 💫星月/优选🇨🇳中国_1
-      - 💫星月/优选🇺🇸美国_11
-      - 💫星月/优选🇸🇬新加坡
-      - 💫星月/优选🇨🇳中国_2
-      - 💫星月/优选🇨🇳中国_3
-      - 💫星月/优选🇰🇷韩国_1
-      - 💫星月/优选🇰🇷韩国_2
-      - 💫星月/优选🇰🇷韩国_3
-      - 💫星月/优选🇰🇷韩国_4
-      - 💫星月/优选🇺🇸美国_12
-      - 💫星月/优选🇺🇸美国_13
-      - 💫星月/优选🇺🇸美国_14
-      - 💫星月/优选🇦🇺澳大利亚_3
-      - 💫星月/优选🇺🇸美国_15
-      - 💫星月/优选🇺🇸美国_16
-      - 💫星月/优选🇺🇸美国_17
-      - 💫星月/优选🇺🇸美国_18
-      - 💫星月/优选🇺🇸美国_19
-      - 💫星月/优选🇺🇸美国_20
-      - 💫星月/优选🇺🇸美国_21
-      - 💫星月/优选🇺🇸美国_22
-      - 💫星月/优选🇺🇸美国_23
-      - 💫星月/优选🇺🇸美国_24
-      - 💫星月/优选🇺🇸美国_25
-      - 💫星月/优选🇺🇸美国_26
-      - 💫星月/优选🇺🇸美国_27
-      - 💫星月/优选🇺🇸美国_28
-      - 💫星月/优选🏳️未知_2
-      - 💫星月/优选🏳️未知_3
-      - 💫星月/优选🏳️未知_4
-      - 💫星月/优选🏳️未知_5
-      - 💫星月/优选🏳️未知_6
-      - 💫星月/优选🏳️未知_7
-      - 💫星月/优选🇺🇸美国_29
-      - 💫星月/优选🇬🇧英国_2
-      - 💫星月/优选🇺🇸美国_30
-      - 💫星月/优选🇺🇸美国_31
-      - 💫星月/优选🇺🇸美国_32
-      - 💫星月/优选🇺🇸美国_33
-      - 💫星月/优选🇺🇸美国_34
-      - 💫星月/优选🇬🇧英国_3
-      - 💫星月/优选🇺🇦乌克兰_2
-      - 💫星月/优选🇺🇸美国_35
-      - 💫星月/优选🇺🇦乌克兰_3
-      - 💫星月/优选🇷🇺俄罗斯_4
-      - 💫星月/优选🇬🇧英国_4
-      - 💫星月/优选🇺🇸美国_36
-      - 💫星月/优选🇺🇸美国_37
-      - 💫星月/优选🇺🇸美国_38
-      - 💫星月/优选🇺🇸美国_39
-      - 💫星月/优选🇺🇸美国_40
-      - 💫星月/优选🇺🇸美国_41
-      - 💫星月/优选🇺🇸美国_42
-      - 💫星月/优选🇺🇸美国_43
-      - 💫星月/优选🇺🇸美国_44
-      - 💫星月/优选🇺🇸美国_45
-      - 💫星月/优选🏳️未知_8
-      - 💫星月/优选🏳️未知_9
-      - 💫星月/优选🏳️未知_10
-      - 💫星月/优选🏳️未知_11
-      - 💫星月/优选🏳️未知_12
-      - 💫星月/优选🇺🇸美国_46
-      - 💫星月/优选🇺🇸美国_47
-      - 💫星月/优选🇺🇸美国_48
-      - 💫星月/优选🇺🇸美国_49
-      - 💫星月/优选🇺🇸美国_50
-      - 💫星月/优选🇺🇸美国_51
-      - 💫星月/优选🇺🇸美国_52
-      - 💫星月/优选🇷🇺俄罗斯_5
-      - 💫星月/优选🇺🇸美国_53
-      - 💫星月/优选🇬🇧英国_5
-      - 💫星月/优选🇺🇸美国_54
-      - 💫星月/优选🇺🇸美国_55
-      - 💫星月/优选🇺🇸美国_56
-      - 💫星月/优选🇺🇸美国_57
-      - 💫星月/优选🏳️未知_13
-      - 💫星月/优选🏳️未知_14
-      - 💫星月/优选🏳️未知_15
-      - 💫星月/优选🇺🇸美国_58
-      - 💫星月/优选🇦🇹奥地利_1
-      - 💫星月/优选🇺🇸美国_59
-      - 💫星月/优选🇬🇧英国_6
-      - 💫星月/优选🇺🇸美国_60
-      - 💫星月/优选🇺🇸美国_61
-      - 💫星月/优选🇬🇧英国_7
-      - 💫星月/优选🇩🇪德国_2
-      - 💫星月/优选🇺🇸美国_62
-      - 💫星月/优选🇺🇸美国_63
-      - 💫星月/优选🇺🇸美国_64
-      - 💫星月/优选🇺🇸美国_65
-      - 💫星月/优选🇺🇸美国_66
-      - 💫星月/优选🇺🇸美国_67
-      - 💫星月/优选🏳️未知_16
-      - 💫星月/优选🏳️未知_17
-      - 💫星月/优选🏳️未知_18
-      - 💫星月/优选🇺🇸美国_68
-      - 💫星月/优选🇺🇦乌克兰_4
-      - 💫星月/优选🇺🇸美国_69
-      - 💫星月/优选🇺🇸美国_70
-      - 💫星月/优选🇺🇸美国_71
-      - 💫星月/优选🇬🇧英国_8
-      - 💫星月/优选🇳🇱荷兰_1
-      - 💫星月/优选🇳🇱荷兰_2
-      - 💫星月/优选🇺🇸美国_72
-      - 💫星月/优选🇺🇸美国_73
-      - 💫星月/优选🏳️未知_19
-      - 💫星月/优选🇦🇹奥地利_2
-      - 💫星月/优选🇺🇸美国_74
-      - 💫星月/优选🇺🇸美国_75
-      - 💫星月/优选🇦🇹奥地利_3
-      - 💫星月/优选🇺🇸美国_76
-      - 💫星月/优选🇷🇺俄罗斯_6
-      - 💫星月/优选🇺🇸美国_77
-      - 💫星月/优选🇳🇱荷兰_3
-      - 💫星月/优选🇺🇸美国_78
-      - 💫星月/优选🇺🇸美国_79
-      - 💫星月/优选🇺🇸美国_80
-      - 💫星月/优选🇺🇸美国_81
-      - 💫星月/优选🇺🇸美国_82
-      - 💫星月/优选🇺🇸美国_83
-      - 💫星月/优选🇺🇸美国_84
-      - 💫星月/优选🇷🇺俄罗斯_7
-      - 💫星月/优选🇷🇺俄罗斯_8
-      - 💫星月/优选🇺🇸美国_85
-      - 💫星月/优选🇺🇸美国_86
-      - 💫星月/优选🏳️未知_20
-      - 💫星月/优选🇳🇱荷兰_4
-      - 💫星月/优选🇺🇸美国_87
-      - 💫星月/优选🇺🇸美国_88
-      - 💫星月/优选🇦🇹奥地利_4
-      - 💫星月/优选🇳🇱荷兰_5
-      - 💫星月/优选🇺🇸美国_89
-      - 💫星月/优选🇬🇧英国_9
-      - 💫星月/优选🇺🇸美国_90
-      - 💫星月/优选🇺🇸美国_91
-      - 💫星月/优选🇺🇸美国_92
-      - 💫星月/优选🇬🇧英国_10
-      - 💫星月/优选🇰🇼科威特
-      - 💫星月/优选🇷🇺俄罗斯_9
-      - 💫星月/优选🇺🇸美国_93
-      - 💫星月/优选🇺🇸美国_94
+      - 💫星月/优选_1
+      - 💫星月/优选_2
+      - 💫星月/优选_3
+      - 💫星月/优选_4
+      - 💫星月/优选_5
+      - 💫星月/优选_6
+      - 💫星月/优选_7
+      - 💫星月/优选_8
+      - 💫星月/优选_9
+      - 💫星月/优选_10
+      - 💫星月/优选_11
+      - 💫星月/优选_12
+      - 💫星月/优选_13
+      - 💫星月/优选_14
+      - 💫星月/优选_15
+      - 💫星月/优选_16
+      - 💫星月/优选_17
+      - 💫星月/优选_18
+      - 💫星月/优选_19
+      - 💫星月/优选_20
+      - 💫星月/优选_21
+      - 💫星月/优选_22
+      - 💫星月/优选_23
+      - 💫星月/优选_24
+      - 💫星月/优选_25
+      - 💫星月/优选_26
+      - 💫星月/优选_27
+      - 💫星月/优选_28
+      - 💫星月/优选_29
+      - 💫星月/优选_30
+      - 💫星月/优选_31
+      - 💫星月/优选_32
+      - 💫星月/优选_33
+      - 💫星月/优选_34
+      - 💫星月/优选_35
+      - 💫星月/优选_36
+      - 💫星月/优选_37
+      - 💫星月/优选_38
+      - 💫星月/优选_39
+      - 💫星月/优选_40
+      - 💫星月/优选_41
+      - 💫星月/优选_42
+      - 💫星月/优选_43
+      - 💫星月/优选_44
+      - 💫星月/优选_45
+      - 💫星月/优选_46
+      - 💫星月/优选_47
+      - 💫星月/优选_48
+      - 💫星月/优选_49
+      - 💫星月/优选_50
+      - 💫星月/优选_51
+      - 💫星月/优选_52
+      - 💫星月/优选_53
+      - 💫星月/优选_54
+      - 💫星月/优选_55
+      - 💫星月/优选_56
+      - 💫星月/优选_57
+      - 💫星月/优选_58
+      - 💫星月/优选_59
+      - 💫星月/优选_60
+      - 💫星月/优选_61
+      - 💫星月/优选_62
+      - 💫星月/优选_63
+      - 💫星月/优选_64
+      - 💫星月/优选_65
+      - 💫星月/优选_66
+      - 💫星月/优选_67
+      - 💫星月/优选_68
+      - 💫星月/优选_69
+      - 💫星月/优选_70
+      - 💫星月/优选_71
+      - 💫星月/优选_72
+      - 💫星月/优选_73
+      - 💫星月/优选_74
+      - 💫星月/优选_75
+      - 💫星月/优选_76
+      - 💫星月/优选_77
+      - 💫星月/优选_78
+      - 💫星月/优选_79
+      - 💫星月/优选_80
+      - 💫星月/优选_81
+      - 💫星月/优选_82
+      - 💫星月/优选_83
+      - 💫星月/优选_84
+      - 💫星月/优选_85
+      - 💫星月/优选_86
+      - 💫星月/优选_87
+      - 💫星月/优选_88
+      - 💫星月/优选_89
+      - 💫星月/优选_90
+      - 💫星月/优选_91
+      - 💫星月/优选_92
+      - 💫星月/优选_93
+      - 💫星月/优选_94
+      - 💫星月/优选_95
+      - 💫星月/优选_96
+      - 💫星月/优选_97
+      - 💫星月/优选_98
+      - 💫星月/优选_99
+      - 💫星月/优选_100
+      - 💫星月/优选_101
+      - 💫星月/优选_102
+      - 💫星月/优选_103
+      - 💫星月/优选_104
+      - 💫星月/优选_105
+      - 💫星月/优选_106
+      - 💫星月/优选_107
+      - 💫星月/优选_108
+      - 💫星月/优选_109
+      - 💫星月/优选_110
+      - 💫星月/优选_111
+      - 💫星月/优选_112
+      - 💫星月/优选_113
+      - 💫星月/优选_114
+      - 💫星月/优选_115
+      - 💫星月/优选_116
+      - 💫星月/优选_117
+      - 💫星月/优选_118
+      - 💫星月/优选_119
+      - 💫星月/优选_120
+      - 💫星月/优选_121
+      - 💫星月/优选_122
+      - 💫星月/优选_123
+      - 💫星月/优选_124
+      - 💫星月/优选_125
+      - 💫星月/优选_126
+      - 💫星月/优选_127
+      - 💫星月/优选_128
+      - 💫星月/优选_129
+      - 💫星月/优选_130
+      - 💫星月/优选_131
+      - 💫星月/优选_132
+      - 💫星月/优选_133
+      - 💫星月/优选_134
+      - 💫星月/优选_135
+      - 💫星月/优选_136
+      - 💫星月/优选_137
+      - 💫星月/优选_138
+      - 💫星月/优选_139
+      - 💫星月/优选_140
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 💫星月/优选🇺🇸美国_1
-      - 💫星月/优选🏳️未知_1
-      - 💫星月/优选🇦🇺澳大利亚_1
-      - 💫星月/优选🇺🇸美国_2
-      - 💫星月/优选🇬🇧英国_1
-      - 💫星月/优选🇷🇺俄罗斯_1
-      - 💫星月/优选🇺🇸美国_3
-      - 💫星月/优选🇷🇴罗马尼亚
-      - 💫星月/优选🇺🇦乌克兰_1
-      - 💫星月/优选🇺🇸美国_4
-      - 💫星月/优选🇷🇺俄罗斯_2
-      - 💫星月/优选🇺🇸美国_5
-      - 💫星月/优选🇷🇺俄罗斯_3
-      - 💫星月/优选🇩🇪德国_1
-      - 💫星月/优选🇺🇸美国_6
-      - 💫星月/优选🇦🇺澳大利亚_2
-      - 💫星月/优选🇺🇸美国_7
-      - 💫星月/优选🇺🇸美国_8
-      - 💫星月/优选🇺🇸美国_9
-      - 💫星月/优选🇺🇸美国_10
-      - 💫星月/优选🇨🇳中国_1
-      - 💫星月/优选🇺🇸美国_11
-      - 💫星月/优选🇸🇬新加坡
-      - 💫星月/优选🇨🇳中国_2
-      - 💫星月/优选🇨🇳中国_3
-      - 💫星月/优选🇰🇷韩国_1
-      - 💫星月/优选🇰🇷韩国_2
-      - 💫星月/优选🇰🇷韩国_3
-      - 💫星月/优选🇰🇷韩国_4
-      - 💫星月/优选🇺🇸美国_12
-      - 💫星月/优选🇺🇸美国_13
-      - 💫星月/优选🇺🇸美国_14
-      - 💫星月/优选🇦🇺澳大利亚_3
-      - 💫星月/优选🇺🇸美国_15
-      - 💫星月/优选🇺🇸美国_16
-      - 💫星月/优选🇺🇸美国_17
-      - 💫星月/优选🇺🇸美国_18
-      - 💫星月/优选🇺🇸美国_19
-      - 💫星月/优选🇺🇸美国_20
-      - 💫星月/优选🇺🇸美国_21
-      - 💫星月/优选🇺🇸美国_22
-      - 💫星月/优选🇺🇸美国_23
-      - 💫星月/优选🇺🇸美国_24
-      - 💫星月/优选🇺🇸美国_25
-      - 💫星月/优选🇺🇸美国_26
-      - 💫星月/优选🇺🇸美国_27
-      - 💫星月/优选🇺🇸美国_28
-      - 💫星月/优选🏳️未知_2
-      - 💫星月/优选🏳️未知_3
-      - 💫星月/优选🏳️未知_4
-      - 💫星月/优选🏳️未知_5
-      - 💫星月/优选🏳️未知_6
-      - 💫星月/优选🏳️未知_7
-      - 💫星月/优选🇺🇸美国_29
-      - 💫星月/优选🇬🇧英国_2
-      - 💫星月/优选🇺🇸美国_30
-      - 💫星月/优选🇺🇸美国_31
-      - 💫星月/优选🇺🇸美国_32
-      - 💫星月/优选🇺🇸美国_33
-      - 💫星月/优选🇺🇸美国_34
-      - 💫星月/优选🇬🇧英国_3
-      - 💫星月/优选🇺🇦乌克兰_2
-      - 💫星月/优选🇺🇸美国_35
-      - 💫星月/优选🇺🇦乌克兰_3
-      - 💫星月/优选🇷🇺俄罗斯_4
-      - 💫星月/优选🇬🇧英国_4
-      - 💫星月/优选🇺🇸美国_36
-      - 💫星月/优选🇺🇸美国_37
-      - 💫星月/优选🇺🇸美国_38
-      - 💫星月/优选🇺🇸美国_39
-      - 💫星月/优选🇺🇸美国_40
-      - 💫星月/优选🇺🇸美国_41
-      - 💫星月/优选🇺🇸美国_42
-      - 💫星月/优选🇺🇸美国_43
-      - 💫星月/优选🇺🇸美国_44
-      - 💫星月/优选🇺🇸美国_45
-      - 💫星月/优选🏳️未知_8
-      - 💫星月/优选🏳️未知_9
-      - 💫星月/优选🏳️未知_10
-      - 💫星月/优选🏳️未知_11
-      - 💫星月/优选🏳️未知_12
-      - 💫星月/优选🇺🇸美国_46
-      - 💫星月/优选🇺🇸美国_47
-      - 💫星月/优选🇺🇸美国_48
-      - 💫星月/优选🇺🇸美国_49
-      - 💫星月/优选🇺🇸美国_50
-      - 💫星月/优选🇺🇸美国_51
-      - 💫星月/优选🇺🇸美国_52
-      - 💫星月/优选🇷🇺俄罗斯_5
-      - 💫星月/优选🇺🇸美国_53
-      - 💫星月/优选🇬🇧英国_5
-      - 💫星月/优选🇺🇸美国_54
-      - 💫星月/优选🇺🇸美国_55
-      - 💫星月/优选🇺🇸美国_56
-      - 💫星月/优选🇺🇸美国_57
-      - 💫星月/优选🏳️未知_13
-      - 💫星月/优选🏳️未知_14
-      - 💫星月/优选🏳️未知_15
-      - 💫星月/优选🇺🇸美国_58
-      - 💫星月/优选🇦🇹奥地利_1
-      - 💫星月/优选🇺🇸美国_59
-      - 💫星月/优选🇬🇧英国_6
-      - 💫星月/优选🇺🇸美国_60
-      - 💫星月/优选🇺🇸美国_61
-      - 💫星月/优选🇬🇧英国_7
-      - 💫星月/优选🇩🇪德国_2
-      - 💫星月/优选🇺🇸美国_62
-      - 💫星月/优选🇺🇸美国_63
-      - 💫星月/优选🇺🇸美国_64
-      - 💫星月/优选🇺🇸美国_65
-      - 💫星月/优选🇺🇸美国_66
-      - 💫星月/优选🇺🇸美国_67
-      - 💫星月/优选🏳️未知_16
-      - 💫星月/优选🏳️未知_17
-      - 💫星月/优选🏳️未知_18
-      - 💫星月/优选🇺🇸美国_68
-      - 💫星月/优选🇺🇦乌克兰_4
-      - 💫星月/优选🇺🇸美国_69
-      - 💫星月/优选🇺🇸美国_70
-      - 💫星月/优选🇺🇸美国_71
-      - 💫星月/优选🇬🇧英国_8
-      - 💫星月/优选🇳🇱荷兰_1
-      - 💫星月/优选🇳🇱荷兰_2
-      - 💫星月/优选🇺🇸美国_72
-      - 💫星月/优选🇺🇸美国_73
-      - 💫星月/优选🏳️未知_19
-      - 💫星月/优选🇦🇹奥地利_2
-      - 💫星月/优选🇺🇸美国_74
-      - 💫星月/优选🇺🇸美国_75
-      - 💫星月/优选🇦🇹奥地利_3
-      - 💫星月/优选🇺🇸美国_76
-      - 💫星月/优选🇷🇺俄罗斯_6
-      - 💫星月/优选🇺🇸美国_77
-      - 💫星月/优选🇳🇱荷兰_3
-      - 💫星月/优选🇺🇸美国_78
-      - 💫星月/优选🇺🇸美国_79
-      - 💫星月/优选🇺🇸美国_80
-      - 💫星月/优选🇺🇸美国_81
-      - 💫星月/优选🇺🇸美国_82
-      - 💫星月/优选🇺🇸美国_83
-      - 💫星月/优选🇺🇸美国_84
-      - 💫星月/优选🇷🇺俄罗斯_7
-      - 💫星月/优选🇷🇺俄罗斯_8
-      - 💫星月/优选🇺🇸美国_85
-      - 💫星月/优选🇺🇸美国_86
-      - 💫星月/优选🏳️未知_20
-      - 💫星月/优选🇳🇱荷兰_4
-      - 💫星月/优选🇺🇸美国_87
-      - 💫星月/优选🇺🇸美国_88
-      - 💫星月/优选🇦🇹奥地利_4
-      - 💫星月/优选🇳🇱荷兰_5
-      - 💫星月/优选🇺🇸美国_89
-      - 💫星月/优选🇬🇧英国_9
-      - 💫星月/优选🇺🇸美国_90
-      - 💫星月/优选🇺🇸美国_91
-      - 💫星月/优选🇺🇸美国_92
-      - 💫星月/优选🇬🇧英国_10
-      - 💫星月/优选🇰🇼科威特
-      - 💫星月/优选🇷🇺俄罗斯_9
-      - 💫星月/优选🇺🇸美国_93
-      - 💫星月/优选🇺🇸美国_94
+      - 💫星月/优选_1
+      - 💫星月/优选_2
+      - 💫星月/优选_3
+      - 💫星月/优选_4
+      - 💫星月/优选_5
+      - 💫星月/优选_6
+      - 💫星月/优选_7
+      - 💫星月/优选_8
+      - 💫星月/优选_9
+      - 💫星月/优选_10
+      - 💫星月/优选_11
+      - 💫星月/优选_12
+      - 💫星月/优选_13
+      - 💫星月/优选_14
+      - 💫星月/优选_15
+      - 💫星月/优选_16
+      - 💫星月/优选_17
+      - 💫星月/优选_18
+      - 💫星月/优选_19
+      - 💫星月/优选_20
+      - 💫星月/优选_21
+      - 💫星月/优选_22
+      - 💫星月/优选_23
+      - 💫星月/优选_24
+      - 💫星月/优选_25
+      - 💫星月/优选_26
+      - 💫星月/优选_27
+      - 💫星月/优选_28
+      - 💫星月/优选_29
+      - 💫星月/优选_30
+      - 💫星月/优选_31
+      - 💫星月/优选_32
+      - 💫星月/优选_33
+      - 💫星月/优选_34
+      - 💫星月/优选_35
+      - 💫星月/优选_36
+      - 💫星月/优选_37
+      - 💫星月/优选_38
+      - 💫星月/优选_39
+      - 💫星月/优选_40
+      - 💫星月/优选_41
+      - 💫星月/优选_42
+      - 💫星月/优选_43
+      - 💫星月/优选_44
+      - 💫星月/优选_45
+      - 💫星月/优选_46
+      - 💫星月/优选_47
+      - 💫星月/优选_48
+      - 💫星月/优选_49
+      - 💫星月/优选_50
+      - 💫星月/优选_51
+      - 💫星月/优选_52
+      - 💫星月/优选_53
+      - 💫星月/优选_54
+      - 💫星月/优选_55
+      - 💫星月/优选_56
+      - 💫星月/优选_57
+      - 💫星月/优选_58
+      - 💫星月/优选_59
+      - 💫星月/优选_60
+      - 💫星月/优选_61
+      - 💫星月/优选_62
+      - 💫星月/优选_63
+      - 💫星月/优选_64
+      - 💫星月/优选_65
+      - 💫星月/优选_66
+      - 💫星月/优选_67
+      - 💫星月/优选_68
+      - 💫星月/优选_69
+      - 💫星月/优选_70
+      - 💫星月/优选_71
+      - 💫星月/优选_72
+      - 💫星月/优选_73
+      - 💫星月/优选_74
+      - 💫星月/优选_75
+      - 💫星月/优选_76
+      - 💫星月/优选_77
+      - 💫星月/优选_78
+      - 💫星月/优选_79
+      - 💫星月/优选_80
+      - 💫星月/优选_81
+      - 💫星月/优选_82
+      - 💫星月/优选_83
+      - 💫星月/优选_84
+      - 💫星月/优选_85
+      - 💫星月/优选_86
+      - 💫星月/优选_87
+      - 💫星月/优选_88
+      - 💫星月/优选_89
+      - 💫星月/优选_90
+      - 💫星月/优选_91
+      - 💫星月/优选_92
+      - 💫星月/优选_93
+      - 💫星月/优选_94
+      - 💫星月/优选_95
+      - 💫星月/优选_96
+      - 💫星月/优选_97
+      - 💫星月/优选_98
+      - 💫星月/优选_99
+      - 💫星月/优选_100
+      - 💫星月/优选_101
+      - 💫星月/优选_102
+      - 💫星月/优选_103
+      - 💫星月/优选_104
+      - 💫星月/优选_105
+      - 💫星月/优选_106
+      - 💫星月/优选_107
+      - 💫星月/优选_108
+      - 💫星月/优选_109
+      - 💫星月/优选_110
+      - 💫星月/优选_111
+      - 💫星月/优选_112
+      - 💫星月/优选_113
+      - 💫星月/优选_114
+      - 💫星月/优选_115
+      - 💫星月/优选_116
+      - 💫星月/优选_117
+      - 💫星月/优选_118
+      - 💫星月/优选_119
+      - 💫星月/优选_120
+      - 💫星月/优选_121
+      - 💫星月/优选_122
+      - 💫星月/优选_123
+      - 💫星月/优选_124
+      - 💫星月/优选_125
+      - 💫星月/优选_126
+      - 💫星月/优选_127
+      - 💫星月/优选_128
+      - 💫星月/优选_129
+      - 💫星月/优选_130
+      - 💫星月/优选_131
+      - 💫星月/优选_132
+      - 💫星月/优选_133
+      - 💫星月/优选_134
+      - 💫星月/优选_135
+      - 💫星月/优选_136
+      - 💫星月/优选_137
+      - 💫星月/优选_138
+      - 💫星月/优选_139
+      - 💫星月/优选_140
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 💫星月/优选🇺🇸美国_1
-      - 💫星月/优选🏳️未知_1
-      - 💫星月/优选🇦🇺澳大利亚_1
-      - 💫星月/优选🇺🇸美国_2
-      - 💫星月/优选🇬🇧英国_1
-      - 💫星月/优选🇷🇺俄罗斯_1
-      - 💫星月/优选🇺🇸美国_3
-      - 💫星月/优选🇷🇴罗马尼亚
-      - 💫星月/优选🇺🇦乌克兰_1
-      - 💫星月/优选🇺🇸美国_4
-      - 💫星月/优选🇷🇺俄罗斯_2
-      - 💫星月/优选🇺🇸美国_5
-      - 💫星月/优选🇷🇺俄罗斯_3
-      - 💫星月/优选🇩🇪德国_1
-      - 💫星月/优选🇺🇸美国_6
-      - 💫星月/优选🇦🇺澳大利亚_2
-      - 💫星月/优选🇺🇸美国_7
-      - 💫星月/优选🇺🇸美国_8
-      - 💫星月/优选🇺🇸美国_9
-      - 💫星月/优选🇺🇸美国_10
-      - 💫星月/优选🇨🇳中国_1
-      - 💫星月/优选🇺🇸美国_11
-      - 💫星月/优选🇸🇬新加坡
-      - 💫星月/优选🇨🇳中国_2
-      - 💫星月/优选🇨🇳中国_3
-      - 💫星月/优选🇰🇷韩国_1
-      - 💫星月/优选🇰🇷韩国_2
-      - 💫星月/优选🇰🇷韩国_3
-      - 💫星月/优选🇰🇷韩国_4
-      - 💫星月/优选🇺🇸美国_12
-      - 💫星月/优选🇺🇸美国_13
-      - 💫星月/优选🇺🇸美国_14
-      - 💫星月/优选🇦🇺澳大利亚_3
-      - 💫星月/优选🇺🇸美国_15
-      - 💫星月/优选🇺🇸美国_16
-      - 💫星月/优选🇺🇸美国_17
-      - 💫星月/优选🇺🇸美国_18
-      - 💫星月/优选🇺🇸美国_19
-      - 💫星月/优选🇺🇸美国_20
-      - 💫星月/优选🇺🇸美国_21
-      - 💫星月/优选🇺🇸美国_22
-      - 💫星月/优选🇺🇸美国_23
-      - 💫星月/优选🇺🇸美国_24
-      - 💫星月/优选🇺🇸美国_25
-      - 💫星月/优选🇺🇸美国_26
-      - 💫星月/优选🇺🇸美国_27
-      - 💫星月/优选🇺🇸美国_28
-      - 💫星月/优选🏳️未知_2
-      - 💫星月/优选🏳️未知_3
-      - 💫星月/优选🏳️未知_4
-      - 💫星月/优选🏳️未知_5
-      - 💫星月/优选🏳️未知_6
-      - 💫星月/优选🏳️未知_7
-      - 💫星月/优选🇺🇸美国_29
-      - 💫星月/优选🇬🇧英国_2
-      - 💫星月/优选🇺🇸美国_30
-      - 💫星月/优选🇺🇸美国_31
-      - 💫星月/优选🇺🇸美国_32
-      - 💫星月/优选🇺🇸美国_33
-      - 💫星月/优选🇺🇸美国_34
-      - 💫星月/优选🇬🇧英国_3
-      - 💫星月/优选🇺🇦乌克兰_2
-      - 💫星月/优选🇺🇸美国_35
-      - 💫星月/优选🇺🇦乌克兰_3
-      - 💫星月/优选🇷🇺俄罗斯_4
-      - 💫星月/优选🇬🇧英国_4
-      - 💫星月/优选🇺🇸美国_36
-      - 💫星月/优选🇺🇸美国_37
-      - 💫星月/优选🇺🇸美国_38
-      - 💫星月/优选🇺🇸美国_39
-      - 💫星月/优选🇺🇸美国_40
-      - 💫星月/优选🇺🇸美国_41
-      - 💫星月/优选🇺🇸美国_42
-      - 💫星月/优选🇺🇸美国_43
-      - 💫星月/优选🇺🇸美国_44
-      - 💫星月/优选🇺🇸美国_45
-      - 💫星月/优选🏳️未知_8
-      - 💫星月/优选🏳️未知_9
-      - 💫星月/优选🏳️未知_10
-      - 💫星月/优选🏳️未知_11
-      - 💫星月/优选🏳️未知_12
-      - 💫星月/优选🇺🇸美国_46
-      - 💫星月/优选🇺🇸美国_47
-      - 💫星月/优选🇺🇸美国_48
-      - 💫星月/优选🇺🇸美国_49
-      - 💫星月/优选🇺🇸美国_50
-      - 💫星月/优选🇺🇸美国_51
-      - 💫星月/优选🇺🇸美国_52
-      - 💫星月/优选🇷🇺俄罗斯_5
-      - 💫星月/优选🇺🇸美国_53
-      - 💫星月/优选🇬🇧英国_5
-      - 💫星月/优选🇺🇸美国_54
-      - 💫星月/优选🇺🇸美国_55
-      - 💫星月/优选🇺🇸美国_56
-      - 💫星月/优选🇺🇸美国_57
-      - 💫星月/优选🏳️未知_13
-      - 💫星月/优选🏳️未知_14
-      - 💫星月/优选🏳️未知_15
-      - 💫星月/优选🇺🇸美国_58
-      - 💫星月/优选🇦🇹奥地利_1
-      - 💫星月/优选🇺🇸美国_59
-      - 💫星月/优选🇬🇧英国_6
-      - 💫星月/优选🇺🇸美国_60
-      - 💫星月/优选🇺🇸美国_61
-      - 💫星月/优选🇬🇧英国_7
-      - 💫星月/优选🇩🇪德国_2
-      - 💫星月/优选🇺🇸美国_62
-      - 💫星月/优选🇺🇸美国_63
-      - 💫星月/优选🇺🇸美国_64
-      - 💫星月/优选🇺🇸美国_65
-      - 💫星月/优选🇺🇸美国_66
-      - 💫星月/优选🇺🇸美国_67
-      - 💫星月/优选🏳️未知_16
-      - 💫星月/优选🏳️未知_17
-      - 💫星月/优选🏳️未知_18
-      - 💫星月/优选🇺🇸美国_68
-      - 💫星月/优选🇺🇦乌克兰_4
-      - 💫星月/优选🇺🇸美国_69
-      - 💫星月/优选🇺🇸美国_70
-      - 💫星月/优选🇺🇸美国_71
-      - 💫星月/优选🇬🇧英国_8
-      - 💫星月/优选🇳🇱荷兰_1
-      - 💫星月/优选🇳🇱荷兰_2
-      - 💫星月/优选🇺🇸美国_72
-      - 💫星月/优选🇺🇸美国_73
-      - 💫星月/优选🏳️未知_19
-      - 💫星月/优选🇦🇹奥地利_2
-      - 💫星月/优选🇺🇸美国_74
-      - 💫星月/优选🇺🇸美国_75
-      - 💫星月/优选🇦🇹奥地利_3
-      - 💫星月/优选🇺🇸美国_76
-      - 💫星月/优选🇷🇺俄罗斯_6
-      - 💫星月/优选🇺🇸美国_77
-      - 💫星月/优选🇳🇱荷兰_3
-      - 💫星月/优选🇺🇸美国_78
-      - 💫星月/优选🇺🇸美国_79
-      - 💫星月/优选🇺🇸美国_80
-      - 💫星月/优选🇺🇸美国_81
-      - 💫星月/优选🇺🇸美国_82
-      - 💫星月/优选🇺🇸美国_83
-      - 💫星月/优选🇺🇸美国_84
-      - 💫星月/优选🇷🇺俄罗斯_7
-      - 💫星月/优选🇷🇺俄罗斯_8
-      - 💫星月/优选🇺🇸美国_85
-      - 💫星月/优选🇺🇸美国_86
-      - 💫星月/优选🏳️未知_20
-      - 💫星月/优选🇳🇱荷兰_4
-      - 💫星月/优选🇺🇸美国_87
-      - 💫星月/优选🇺🇸美国_88
-      - 💫星月/优选🇦🇹奥地利_4
-      - 💫星月/优选🇳🇱荷兰_5
-      - 💫星月/优选🇺🇸美国_89
-      - 💫星月/优选🇬🇧英国_9
-      - 💫星月/优选🇺🇸美国_90
-      - 💫星月/优选🇺🇸美国_91
-      - 💫星月/优选🇺🇸美国_92
-      - 💫星月/优选🇬🇧英国_10
-      - 💫星月/优选🇰🇼科威特
-      - 💫星月/优选🇷🇺俄罗斯_9
-      - 💫星月/优选🇺🇸美国_93
-      - 💫星月/优选🇺🇸美国_94
+      - 💫星月/优选_1
+      - 💫星月/优选_2
+      - 💫星月/优选_3
+      - 💫星月/优选_4
+      - 💫星月/优选_5
+      - 💫星月/优选_6
+      - 💫星月/优选_7
+      - 💫星月/优选_8
+      - 💫星月/优选_9
+      - 💫星月/优选_10
+      - 💫星月/优选_11
+      - 💫星月/优选_12
+      - 💫星月/优选_13
+      - 💫星月/优选_14
+      - 💫星月/优选_15
+      - 💫星月/优选_16
+      - 💫星月/优选_17
+      - 💫星月/优选_18
+      - 💫星月/优选_19
+      - 💫星月/优选_20
+      - 💫星月/优选_21
+      - 💫星月/优选_22
+      - 💫星月/优选_23
+      - 💫星月/优选_24
+      - 💫星月/优选_25
+      - 💫星月/优选_26
+      - 💫星月/优选_27
+      - 💫星月/优选_28
+      - 💫星月/优选_29
+      - 💫星月/优选_30
+      - 💫星月/优选_31
+      - 💫星月/优选_32
+      - 💫星月/优选_33
+      - 💫星月/优选_34
+      - 💫星月/优选_35
+      - 💫星月/优选_36
+      - 💫星月/优选_37
+      - 💫星月/优选_38
+      - 💫星月/优选_39
+      - 💫星月/优选_40
+      - 💫星月/优选_41
+      - 💫星月/优选_42
+      - 💫星月/优选_43
+      - 💫星月/优选_44
+      - 💫星月/优选_45
+      - 💫星月/优选_46
+      - 💫星月/优选_47
+      - 💫星月/优选_48
+      - 💫星月/优选_49
+      - 💫星月/优选_50
+      - 💫星月/优选_51
+      - 💫星月/优选_52
+      - 💫星月/优选_53
+      - 💫星月/优选_54
+      - 💫星月/优选_55
+      - 💫星月/优选_56
+      - 💫星月/优选_57
+      - 💫星月/优选_58
+      - 💫星月/优选_59
+      - 💫星月/优选_60
+      - 💫星月/优选_61
+      - 💫星月/优选_62
+      - 💫星月/优选_63
+      - 💫星月/优选_64
+      - 💫星月/优选_65
+      - 💫星月/优选_66
+      - 💫星月/优选_67
+      - 💫星月/优选_68
+      - 💫星月/优选_69
+      - 💫星月/优选_70
+      - 💫星月/优选_71
+      - 💫星月/优选_72
+      - 💫星月/优选_73
+      - 💫星月/优选_74
+      - 💫星月/优选_75
+      - 💫星月/优选_76
+      - 💫星月/优选_77
+      - 💫星月/优选_78
+      - 💫星月/优选_79
+      - 💫星月/优选_80
+      - 💫星月/优选_81
+      - 💫星月/优选_82
+      - 💫星月/优选_83
+      - 💫星月/优选_84
+      - 💫星月/优选_85
+      - 💫星月/优选_86
+      - 💫星月/优选_87
+      - 💫星月/优选_88
+      - 💫星月/优选_89
+      - 💫星月/优选_90
+      - 💫星月/优选_91
+      - 💫星月/优选_92
+      - 💫星月/优选_93
+      - 💫星月/优选_94
+      - 💫星月/优选_95
+      - 💫星月/优选_96
+      - 💫星月/优选_97
+      - 💫星月/优选_98
+      - 💫星月/优选_99
+      - 💫星月/优选_100
+      - 💫星月/优选_101
+      - 💫星月/优选_102
+      - 💫星月/优选_103
+      - 💫星月/优选_104
+      - 💫星月/优选_105
+      - 💫星月/优选_106
+      - 💫星月/优选_107
+      - 💫星月/优选_108
+      - 💫星月/优选_109
+      - 💫星月/优选_110
+      - 💫星月/优选_111
+      - 💫星月/优选_112
+      - 💫星月/优选_113
+      - 💫星月/优选_114
+      - 💫星月/优选_115
+      - 💫星月/优选_116
+      - 💫星月/优选_117
+      - 💫星月/优选_118
+      - 💫星月/优选_119
+      - 💫星月/优选_120
+      - 💫星月/优选_121
+      - 💫星月/优选_122
+      - 💫星月/优选_123
+      - 💫星月/优选_124
+      - 💫星月/优选_125
+      - 💫星月/优选_126
+      - 💫星月/优选_127
+      - 💫星月/优选_128
+      - 💫星月/优选_129
+      - 💫星月/优选_130
+      - 💫星月/优选_131
+      - 💫星月/优选_132
+      - 💫星月/优选_133
+      - 💫星月/优选_134
+      - 💫星月/优选_135
+      - 💫星月/优选_136
+      - 💫星月/优选_137
+      - 💫星月/优选_138
+      - 💫星月/优选_139
+      - 💫星月/优选_140
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 💫星月/优选🇺🇸美国_1
-      - 💫星月/优选🏳️未知_1
-      - 💫星月/优选🇦🇺澳大利亚_1
-      - 💫星月/优选🇺🇸美国_2
-      - 💫星月/优选🇬🇧英国_1
-      - 💫星月/优选🇷🇺俄罗斯_1
-      - 💫星月/优选🇺🇸美国_3
-      - 💫星月/优选🇷🇴罗马尼亚
-      - 💫星月/优选🇺🇦乌克兰_1
-      - 💫星月/优选🇺🇸美国_4
-      - 💫星月/优选🇷🇺俄罗斯_2
-      - 💫星月/优选🇺🇸美国_5
-      - 💫星月/优选🇷🇺俄罗斯_3
-      - 💫星月/优选🇩🇪德国_1
-      - 💫星月/优选🇺🇸美国_6
-      - 💫星月/优选🇦🇺澳大利亚_2
-      - 💫星月/优选🇺🇸美国_7
-      - 💫星月/优选🇺🇸美国_8
-      - 💫星月/优选🇺🇸美国_9
-      - 💫星月/优选🇺🇸美国_10
-      - 💫星月/优选🇨🇳中国_1
-      - 💫星月/优选🇺🇸美国_11
-      - 💫星月/优选🇸🇬新加坡
-      - 💫星月/优选🇨🇳中国_2
-      - 💫星月/优选🇨🇳中国_3
-      - 💫星月/优选🇰🇷韩国_1
-      - 💫星月/优选🇰🇷韩国_2
-      - 💫星月/优选🇰🇷韩国_3
-      - 💫星月/优选🇰🇷韩国_4
-      - 💫星月/优选🇺🇸美国_12
-      - 💫星月/优选🇺🇸美国_13
-      - 💫星月/优选🇺🇸美国_14
-      - 💫星月/优选🇦🇺澳大利亚_3
-      - 💫星月/优选🇺🇸美国_15
-      - 💫星月/优选🇺🇸美国_16
-      - 💫星月/优选🇺🇸美国_17
-      - 💫星月/优选🇺🇸美国_18
-      - 💫星月/优选🇺🇸美国_19
-      - 💫星月/优选🇺🇸美国_20
-      - 💫星月/优选🇺🇸美国_21
-      - 💫星月/优选🇺🇸美国_22
-      - 💫星月/优选🇺🇸美国_23
-      - 💫星月/优选🇺🇸美国_24
-      - 💫星月/优选🇺🇸美国_25
-      - 💫星月/优选🇺🇸美国_26
-      - 💫星月/优选🇺🇸美国_27
-      - 💫星月/优选🇺🇸美国_28
-      - 💫星月/优选🏳️未知_2
-      - 💫星月/优选🏳️未知_3
-      - 💫星月/优选🏳️未知_4
-      - 💫星月/优选🏳️未知_5
-      - 💫星月/优选🏳️未知_6
-      - 💫星月/优选🏳️未知_7
-      - 💫星月/优选🇺🇸美国_29
-      - 💫星月/优选🇬🇧英国_2
-      - 💫星月/优选🇺🇸美国_30
-      - 💫星月/优选🇺🇸美国_31
-      - 💫星月/优选🇺🇸美国_32
-      - 💫星月/优选🇺🇸美国_33
-      - 💫星月/优选🇺🇸美国_34
-      - 💫星月/优选🇬🇧英国_3
-      - 💫星月/优选🇺🇦乌克兰_2
-      - 💫星月/优选🇺🇸美国_35
-      - 💫星月/优选🇺🇦乌克兰_3
-      - 💫星月/优选🇷🇺俄罗斯_4
-      - 💫星月/优选🇬🇧英国_4
-      - 💫星月/优选🇺🇸美国_36
-      - 💫星月/优选🇺🇸美国_37
-      - 💫星月/优选🇺🇸美国_38
-      - 💫星月/优选🇺🇸美国_39
-      - 💫星月/优选🇺🇸美国_40
-      - 💫星月/优选🇺🇸美国_41
-      - 💫星月/优选🇺🇸美国_42
-      - 💫星月/优选🇺🇸美国_43
-      - 💫星月/优选🇺🇸美国_44
-      - 💫星月/优选🇺🇸美国_45
-      - 💫星月/优选🏳️未知_8
-      - 💫星月/优选🏳️未知_9
-      - 💫星月/优选🏳️未知_10
-      - 💫星月/优选🏳️未知_11
-      - 💫星月/优选🏳️未知_12
-      - 💫星月/优选🇺🇸美国_46
-      - 💫星月/优选🇺🇸美国_47
-      - 💫星月/优选🇺🇸美国_48
-      - 💫星月/优选🇺🇸美国_49
-      - 💫星月/优选🇺🇸美国_50
-      - 💫星月/优选🇺🇸美国_51
-      - 💫星月/优选🇺🇸美国_52
-      - 💫星月/优选🇷🇺俄罗斯_5
-      - 💫星月/优选🇺🇸美国_53
-      - 💫星月/优选🇬🇧英国_5
-      - 💫星月/优选🇺🇸美国_54
-      - 💫星月/优选🇺🇸美国_55
-      - 💫星月/优选🇺🇸美国_56
-      - 💫星月/优选🇺🇸美国_57
-      - 💫星月/优选🏳️未知_13
-      - 💫星月/优选🏳️未知_14
-      - 💫星月/优选🏳️未知_15
-      - 💫星月/优选🇺🇸美国_58
-      - 💫星月/优选🇦🇹奥地利_1
-      - 💫星月/优选🇺🇸美国_59
-      - 💫星月/优选🇬🇧英国_6
-      - 💫星月/优选🇺🇸美国_60
-      - 💫星月/优选🇺🇸美国_61
-      - 💫星月/优选🇬🇧英国_7
-      - 💫星月/优选🇩🇪德国_2
-      - 💫星月/优选🇺🇸美国_62
-      - 💫星月/优选🇺🇸美国_63
-      - 💫星月/优选🇺🇸美国_64
-      - 💫星月/优选🇺🇸美国_65
-      - 💫星月/优选🇺🇸美国_66
-      - 💫星月/优选🇺🇸美国_67
-      - 💫星月/优选🏳️未知_16
-      - 💫星月/优选🏳️未知_17
-      - 💫星月/优选🏳️未知_18
-      - 💫星月/优选🇺🇸美国_68
-      - 💫星月/优选🇺🇦乌克兰_4
-      - 💫星月/优选🇺🇸美国_69
-      - 💫星月/优选🇺🇸美国_70
-      - 💫星月/优选🇺🇸美国_71
-      - 💫星月/优选🇬🇧英国_8
-      - 💫星月/优选🇳🇱荷兰_1
-      - 💫星月/优选🇳🇱荷兰_2
-      - 💫星月/优选🇺🇸美国_72
-      - 💫星月/优选🇺🇸美国_73
-      - 💫星月/优选🏳️未知_19
-      - 💫星月/优选🇦🇹奥地利_2
-      - 💫星月/优选🇺🇸美国_74
-      - 💫星月/优选🇺🇸美国_75
-      - 💫星月/优选🇦🇹奥地利_3
-      - 💫星月/优选🇺🇸美国_76
-      - 💫星月/优选🇷🇺俄罗斯_6
-      - 💫星月/优选🇺🇸美国_77
-      - 💫星月/优选🇳🇱荷兰_3
-      - 💫星月/优选🇺🇸美国_78
-      - 💫星月/优选🇺🇸美国_79
-      - 💫星月/优选🇺🇸美国_80
-      - 💫星月/优选🇺🇸美国_81
-      - 💫星月/优选🇺🇸美国_82
-      - 💫星月/优选🇺🇸美国_83
-      - 💫星月/优选🇺🇸美国_84
-      - 💫星月/优选🇷🇺俄罗斯_7
-      - 💫星月/优选🇷🇺俄罗斯_8
-      - 💫星月/优选🇺🇸美国_85
-      - 💫星月/优选🇺🇸美国_86
-      - 💫星月/优选🏳️未知_20
-      - 💫星月/优选🇳🇱荷兰_4
-      - 💫星月/优选🇺🇸美国_87
-      - 💫星月/优选🇺🇸美国_88
-      - 💫星月/优选🇦🇹奥地利_4
-      - 💫星月/优选🇳🇱荷兰_5
-      - 💫星月/优选🇺🇸美国_89
-      - 💫星月/优选🇬🇧英国_9
-      - 💫星月/优选🇺🇸美国_90
-      - 💫星月/优选🇺🇸美国_91
-      - 💫星月/优选🇺🇸美国_92
-      - 💫星月/优选🇬🇧英国_10
-      - 💫星月/优选🇰🇼科威特
-      - 💫星月/优选🇷🇺俄罗斯_9
-      - 💫星月/优选🇺🇸美国_93
-      - 💫星月/优选🇺🇸美国_94
+      - 💫星月/优选_1
+      - 💫星月/优选_2
+      - 💫星月/优选_3
+      - 💫星月/优选_4
+      - 💫星月/优选_5
+      - 💫星月/优选_6
+      - 💫星月/优选_7
+      - 💫星月/优选_8
+      - 💫星月/优选_9
+      - 💫星月/优选_10
+      - 💫星月/优选_11
+      - 💫星月/优选_12
+      - 💫星月/优选_13
+      - 💫星月/优选_14
+      - 💫星月/优选_15
+      - 💫星月/优选_16
+      - 💫星月/优选_17
+      - 💫星月/优选_18
+      - 💫星月/优选_19
+      - 💫星月/优选_20
+      - 💫星月/优选_21
+      - 💫星月/优选_22
+      - 💫星月/优选_23
+      - 💫星月/优选_24
+      - 💫星月/优选_25
+      - 💫星月/优选_26
+      - 💫星月/优选_27
+      - 💫星月/优选_28
+      - 💫星月/优选_29
+      - 💫星月/优选_30
+      - 💫星月/优选_31
+      - 💫星月/优选_32
+      - 💫星月/优选_33
+      - 💫星月/优选_34
+      - 💫星月/优选_35
+      - 💫星月/优选_36
+      - 💫星月/优选_37
+      - 💫星月/优选_38
+      - 💫星月/优选_39
+      - 💫星月/优选_40
+      - 💫星月/优选_41
+      - 💫星月/优选_42
+      - 💫星月/优选_43
+      - 💫星月/优选_44
+      - 💫星月/优选_45
+      - 💫星月/优选_46
+      - 💫星月/优选_47
+      - 💫星月/优选_48
+      - 💫星月/优选_49
+      - 💫星月/优选_50
+      - 💫星月/优选_51
+      - 💫星月/优选_52
+      - 💫星月/优选_53
+      - 💫星月/优选_54
+      - 💫星月/优选_55
+      - 💫星月/优选_56
+      - 💫星月/优选_57
+      - 💫星月/优选_58
+      - 💫星月/优选_59
+      - 💫星月/优选_60
+      - 💫星月/优选_61
+      - 💫星月/优选_62
+      - 💫星月/优选_63
+      - 💫星月/优选_64
+      - 💫星月/优选_65
+      - 💫星月/优选_66
+      - 💫星月/优选_67
+      - 💫星月/优选_68
+      - 💫星月/优选_69
+      - 💫星月/优选_70
+      - 💫星月/优选_71
+      - 💫星月/优选_72
+      - 💫星月/优选_73
+      - 💫星月/优选_74
+      - 💫星月/优选_75
+      - 💫星月/优选_76
+      - 💫星月/优选_77
+      - 💫星月/优选_78
+      - 💫星月/优选_79
+      - 💫星月/优选_80
+      - 💫星月/优选_81
+      - 💫星月/优选_82
+      - 💫星月/优选_83
+      - 💫星月/优选_84
+      - 💫星月/优选_85
+      - 💫星月/优选_86
+      - 💫星月/优选_87
+      - 💫星月/优选_88
+      - 💫星月/优选_89
+      - 💫星月/优选_90
+      - 💫星月/优选_91
+      - 💫星月/优选_92
+      - 💫星月/优选_93
+      - 💫星月/优选_94
+      - 💫星月/优选_95
+      - 💫星月/优选_96
+      - 💫星月/优选_97
+      - 💫星月/优选_98
+      - 💫星月/优选_99
+      - 💫星月/优选_100
+      - 💫星月/优选_101
+      - 💫星月/优选_102
+      - 💫星月/优选_103
+      - 💫星月/优选_104
+      - 💫星月/优选_105
+      - 💫星月/优选_106
+      - 💫星月/优选_107
+      - 💫星月/优选_108
+      - 💫星月/优选_109
+      - 💫星月/优选_110
+      - 💫星月/优选_111
+      - 💫星月/优选_112
+      - 💫星月/优选_113
+      - 💫星月/优选_114
+      - 💫星月/优选_115
+      - 💫星月/优选_116
+      - 💫星月/优选_117
+      - 💫星月/优选_118
+      - 💫星月/优选_119
+      - 💫星月/优选_120
+      - 💫星月/优选_121
+      - 💫星月/优选_122
+      - 💫星月/优选_123
+      - 💫星月/优选_124
+      - 💫星月/优选_125
+      - 💫星月/优选_126
+      - 💫星月/优选_127
+      - 💫星月/优选_128
+      - 💫星月/优选_129
+      - 💫星月/优选_130
+      - 💫星月/优选_131
+      - 💫星月/优选_132
+      - 💫星月/优选_133
+      - 💫星月/优选_134
+      - 💫星月/优选_135
+      - 💫星月/优选_136
+      - 💫星月/优选_137
+      - 💫星月/优选_138
+      - 💫星月/优选_139
+      - 💫星月/优选_140
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 💫星月/优选🇺🇸美国_1
-      - 💫星月/优选🏳️未知_1
-      - 💫星月/优选🇦🇺澳大利亚_1
-      - 💫星月/优选🇺🇸美国_2
-      - 💫星月/优选🇬🇧英国_1
-      - 💫星月/优选🇷🇺俄罗斯_1
-      - 💫星月/优选🇺🇸美国_3
-      - 💫星月/优选🇷🇴罗马尼亚
-      - 💫星月/优选🇺🇦乌克兰_1
-      - 💫星月/优选🇺🇸美国_4
-      - 💫星月/优选🇷🇺俄罗斯_2
-      - 💫星月/优选🇺🇸美国_5
-      - 💫星月/优选🇷🇺俄罗斯_3
-      - 💫星月/优选🇩🇪德国_1
-      - 💫星月/优选🇺🇸美国_6
-      - 💫星月/优选🇦🇺澳大利亚_2
-      - 💫星月/优选🇺🇸美国_7
-      - 💫星月/优选🇺🇸美国_8
-      - 💫星月/优选🇺🇸美国_9
-      - 💫星月/优选🇺🇸美国_10
-      - 💫星月/优选🇨🇳中国_1
-      - 💫星月/优选🇺🇸美国_11
-      - 💫星月/优选🇸🇬新加坡
-      - 💫星月/优选🇨🇳中国_2
-      - 💫星月/优选🇨🇳中国_3
-      - 💫星月/优选🇰🇷韩国_1
-      - 💫星月/优选🇰🇷韩国_2
-      - 💫星月/优选🇰🇷韩国_3
-      - 💫星月/优选🇰🇷韩国_4
-      - 💫星月/优选🇺🇸美国_12
-      - 💫星月/优选🇺🇸美国_13
-      - 💫星月/优选🇺🇸美国_14
-      - 💫星月/优选🇦🇺澳大利亚_3
-      - 💫星月/优选🇺🇸美国_15
-      - 💫星月/优选🇺🇸美国_16
-      - 💫星月/优选🇺🇸美国_17
-      - 💫星月/优选🇺🇸美国_18
-      - 💫星月/优选🇺🇸美国_19
-      - 💫星月/优选🇺🇸美国_20
-      - 💫星月/优选🇺🇸美国_21
-      - 💫星月/优选🇺🇸美国_22
-      - 💫星月/优选🇺🇸美国_23
-      - 💫星月/优选🇺🇸美国_24
-      - 💫星月/优选🇺🇸美国_25
-      - 💫星月/优选🇺🇸美国_26
-      - 💫星月/优选🇺🇸美国_27
-      - 💫星月/优选🇺🇸美国_28
-      - 💫星月/优选🏳️未知_2
-      - 💫星月/优选🏳️未知_3
-      - 💫星月/优选🏳️未知_4
-      - 💫星月/优选🏳️未知_5
-      - 💫星月/优选🏳️未知_6
-      - 💫星月/优选🏳️未知_7
-      - 💫星月/优选🇺🇸美国_29
-      - 💫星月/优选🇬🇧英国_2
-      - 💫星月/优选🇺🇸美国_30
-      - 💫星月/优选🇺🇸美国_31
-      - 💫星月/优选🇺🇸美国_32
-      - 💫星月/优选🇺🇸美国_33
-      - 💫星月/优选🇺🇸美国_34
-      - 💫星月/优选🇬🇧英国_3
-      - 💫星月/优选🇺🇦乌克兰_2
-      - 💫星月/优选🇺🇸美国_35
-      - 💫星月/优选🇺🇦乌克兰_3
-      - 💫星月/优选🇷🇺俄罗斯_4
-      - 💫星月/优选🇬🇧英国_4
-      - 💫星月/优选🇺🇸美国_36
-      - 💫星月/优选🇺🇸美国_37
-      - 💫星月/优选🇺🇸美国_38
-      - 💫星月/优选🇺🇸美国_39
-      - 💫星月/优选🇺🇸美国_40
-      - 💫星月/优选🇺🇸美国_41
-      - 💫星月/优选🇺🇸美国_42
-      - 💫星月/优选🇺🇸美国_43
-      - 💫星月/优选🇺🇸美国_44
-      - 💫星月/优选🇺🇸美国_45
-      - 💫星月/优选🏳️未知_8
-      - 💫星月/优选🏳️未知_9
-      - 💫星月/优选🏳️未知_10
-      - 💫星月/优选🏳️未知_11
-      - 💫星月/优选🏳️未知_12
-      - 💫星月/优选🇺🇸美国_46
-      - 💫星月/优选🇺🇸美国_47
-      - 💫星月/优选🇺🇸美国_48
-      - 💫星月/优选🇺🇸美国_49
-      - 💫星月/优选🇺🇸美国_50
-      - 💫星月/优选🇺🇸美国_51
-      - 💫星月/优选🇺🇸美国_52
-      - 💫星月/优选🇷🇺俄罗斯_5
-      - 💫星月/优选🇺🇸美国_53
-      - 💫星月/优选🇬🇧英国_5
-      - 💫星月/优选🇺🇸美国_54
-      - 💫星月/优选🇺🇸美国_55
-      - 💫星月/优选🇺🇸美国_56
-      - 💫星月/优选🇺🇸美国_57
-      - 💫星月/优选🏳️未知_13
-      - 💫星月/优选🏳️未知_14
-      - 💫星月/优选🏳️未知_15
-      - 💫星月/优选🇺🇸美国_58
-      - 💫星月/优选🇦🇹奥地利_1
-      - 💫星月/优选🇺🇸美国_59
-      - 💫星月/优选🇬🇧英国_6
-      - 💫星月/优选🇺🇸美国_60
-      - 💫星月/优选🇺🇸美国_61
-      - 💫星月/优选🇬🇧英国_7
-      - 💫星月/优选🇩🇪德国_2
-      - 💫星月/优选🇺🇸美国_62
-      - 💫星月/优选🇺🇸美国_63
-      - 💫星月/优选🇺🇸美国_64
-      - 💫星月/优选🇺🇸美国_65
-      - 💫星月/优选🇺🇸美国_66
-      - 💫星月/优选🇺🇸美国_67
-      - 💫星月/优选🏳️未知_16
-      - 💫星月/优选🏳️未知_17
-      - 💫星月/优选🏳️未知_18
-      - 💫星月/优选🇺🇸美国_68
-      - 💫星月/优选🇺🇦乌克兰_4
-      - 💫星月/优选🇺🇸美国_69
-      - 💫星月/优选🇺🇸美国_70
-      - 💫星月/优选🇺🇸美国_71
-      - 💫星月/优选🇬🇧英国_8
-      - 💫星月/优选🇳🇱荷兰_1
-      - 💫星月/优选🇳🇱荷兰_2
-      - 💫星月/优选🇺🇸美国_72
-      - 💫星月/优选🇺🇸美国_73
-      - 💫星月/优选🏳️未知_19
-      - 💫星月/优选🇦🇹奥地利_2
-      - 💫星月/优选🇺🇸美国_74
-      - 💫星月/优选🇺🇸美国_75
-      - 💫星月/优选🇦🇹奥地利_3
-      - 💫星月/优选🇺🇸美国_76
-      - 💫星月/优选🇷🇺俄罗斯_6
-      - 💫星月/优选🇺🇸美国_77
-      - 💫星月/优选🇳🇱荷兰_3
-      - 💫星月/优选🇺🇸美国_78
-      - 💫星月/优选🇺🇸美国_79
-      - 💫星月/优选🇺🇸美国_80
-      - 💫星月/优选🇺🇸美国_81
-      - 💫星月/优选🇺🇸美国_82
-      - 💫星月/优选🇺🇸美国_83
-      - 💫星月/优选🇺🇸美国_84
-      - 💫星月/优选🇷🇺俄罗斯_7
-      - 💫星月/优选🇷🇺俄罗斯_8
-      - 💫星月/优选🇺🇸美国_85
-      - 💫星月/优选🇺🇸美国_86
-      - 💫星月/优选🏳️未知_20
-      - 💫星月/优选🇳🇱荷兰_4
-      - 💫星月/优选🇺🇸美国_87
-      - 💫星月/优选🇺🇸美国_88
-      - 💫星月/优选🇦🇹奥地利_4
-      - 💫星月/优选🇳🇱荷兰_5
-      - 💫星月/优选🇺🇸美国_89
-      - 💫星月/优选🇬🇧英国_9
-      - 💫星月/优选🇺🇸美国_90
-      - 💫星月/优选🇺🇸美国_91
-      - 💫星月/优选🇺🇸美国_92
-      - 💫星月/优选🇬🇧英国_10
-      - 💫星月/优选🇰🇼科威特
-      - 💫星月/优选🇷🇺俄罗斯_9
-      - 💫星月/优选🇺🇸美国_93
-      - 💫星月/优选🇺🇸美国_94
+      - 💫星月/优选_1
+      - 💫星月/优选_2
+      - 💫星月/优选_3
+      - 💫星月/优选_4
+      - 💫星月/优选_5
+      - 💫星月/优选_6
+      - 💫星月/优选_7
+      - 💫星月/优选_8
+      - 💫星月/优选_9
+      - 💫星月/优选_10
+      - 💫星月/优选_11
+      - 💫星月/优选_12
+      - 💫星月/优选_13
+      - 💫星月/优选_14
+      - 💫星月/优选_15
+      - 💫星月/优选_16
+      - 💫星月/优选_17
+      - 💫星月/优选_18
+      - 💫星月/优选_19
+      - 💫星月/优选_20
+      - 💫星月/优选_21
+      - 💫星月/优选_22
+      - 💫星月/优选_23
+      - 💫星月/优选_24
+      - 💫星月/优选_25
+      - 💫星月/优选_26
+      - 💫星月/优选_27
+      - 💫星月/优选_28
+      - 💫星月/优选_29
+      - 💫星月/优选_30
+      - 💫星月/优选_31
+      - 💫星月/优选_32
+      - 💫星月/优选_33
+      - 💫星月/优选_34
+      - 💫星月/优选_35
+      - 💫星月/优选_36
+      - 💫星月/优选_37
+      - 💫星月/优选_38
+      - 💫星月/优选_39
+      - 💫星月/优选_40
+      - 💫星月/优选_41
+      - 💫星月/优选_42
+      - 💫星月/优选_43
+      - 💫星月/优选_44
+      - 💫星月/优选_45
+      - 💫星月/优选_46
+      - 💫星月/优选_47
+      - 💫星月/优选_48
+      - 💫星月/优选_49
+      - 💫星月/优选_50
+      - 💫星月/优选_51
+      - 💫星月/优选_52
+      - 💫星月/优选_53
+      - 💫星月/优选_54
+      - 💫星月/优选_55
+      - 💫星月/优选_56
+      - 💫星月/优选_57
+      - 💫星月/优选_58
+      - 💫星月/优选_59
+      - 💫星月/优选_60
+      - 💫星月/优选_61
+      - 💫星月/优选_62
+      - 💫星月/优选_63
+      - 💫星月/优选_64
+      - 💫星月/优选_65
+      - 💫星月/优选_66
+      - 💫星月/优选_67
+      - 💫星月/优选_68
+      - 💫星月/优选_69
+      - 💫星月/优选_70
+      - 💫星月/优选_71
+      - 💫星月/优选_72
+      - 💫星月/优选_73
+      - 💫星月/优选_74
+      - 💫星月/优选_75
+      - 💫星月/优选_76
+      - 💫星月/优选_77
+      - 💫星月/优选_78
+      - 💫星月/优选_79
+      - 💫星月/优选_80
+      - 💫星月/优选_81
+      - 💫星月/优选_82
+      - 💫星月/优选_83
+      - 💫星月/优选_84
+      - 💫星月/优选_85
+      - 💫星月/优选_86
+      - 💫星月/优选_87
+      - 💫星月/优选_88
+      - 💫星月/优选_89
+      - 💫星月/优选_90
+      - 💫星月/优选_91
+      - 💫星月/优选_92
+      - 💫星月/优选_93
+      - 💫星月/优选_94
+      - 💫星月/优选_95
+      - 💫星月/优选_96
+      - 💫星月/优选_97
+      - 💫星月/优选_98
+      - 💫星月/优选_99
+      - 💫星月/优选_100
+      - 💫星月/优选_101
+      - 💫星月/优选_102
+      - 💫星月/优选_103
+      - 💫星月/优选_104
+      - 💫星月/优选_105
+      - 💫星月/优选_106
+      - 💫星月/优选_107
+      - 💫星月/优选_108
+      - 💫星月/优选_109
+      - 💫星月/优选_110
+      - 💫星月/优选_111
+      - 💫星月/优选_112
+      - 💫星月/优选_113
+      - 💫星月/优选_114
+      - 💫星月/优选_115
+      - 💫星月/优选_116
+      - 💫星月/优选_117
+      - 💫星月/优选_118
+      - 💫星月/优选_119
+      - 💫星月/优选_120
+      - 💫星月/优选_121
+      - 💫星月/优选_122
+      - 💫星月/优选_123
+      - 💫星月/优选_124
+      - 💫星月/优选_125
+      - 💫星月/优选_126
+      - 💫星月/优选_127
+      - 💫星月/优选_128
+      - 💫星月/优选_129
+      - 💫星月/优选_130
+      - 💫星月/优选_131
+      - 💫星月/优选_132
+      - 💫星月/优选_133
+      - 💫星月/优选_134
+      - 💫星月/优选_135
+      - 💫星月/优选_136
+      - 💫星月/优选_137
+      - 💫星月/优选_138
+      - 💫星月/优选_139
+      - 💫星月/优选_140
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -3627,167 +3113,146 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 💫星月/优选🇺🇸美国_1
-      - 💫星月/优选🏳️未知_1
-      - 💫星月/优选🇦🇺澳大利亚_1
-      - 💫星月/优选🇺🇸美国_2
-      - 💫星月/优选🇬🇧英国_1
-      - 💫星月/优选🇷🇺俄罗斯_1
-      - 💫星月/优选🇺🇸美国_3
-      - 💫星月/优选🇷🇴罗马尼亚
-      - 💫星月/优选🇺🇦乌克兰_1
-      - 💫星月/优选🇺🇸美国_4
-      - 💫星月/优选🇷🇺俄罗斯_2
-      - 💫星月/优选🇺🇸美国_5
-      - 💫星月/优选🇷🇺俄罗斯_3
-      - 💫星月/优选🇩🇪德国_1
-      - 💫星月/优选🇺🇸美国_6
-      - 💫星月/优选🇦🇺澳大利亚_2
-      - 💫星月/优选🇺🇸美国_7
-      - 💫星月/优选🇺🇸美国_8
-      - 💫星月/优选🇺🇸美国_9
-      - 💫星月/优选🇺🇸美国_10
-      - 💫星月/优选🇨🇳中国_1
-      - 💫星月/优选🇺🇸美国_11
-      - 💫星月/优选🇸🇬新加坡
-      - 💫星月/优选🇨🇳中国_2
-      - 💫星月/优选🇨🇳中国_3
-      - 💫星月/优选🇰🇷韩国_1
-      - 💫星月/优选🇰🇷韩国_2
-      - 💫星月/优选🇰🇷韩国_3
-      - 💫星月/优选🇰🇷韩国_4
-      - 💫星月/优选🇺🇸美国_12
-      - 💫星月/优选🇺🇸美国_13
-      - 💫星月/优选🇺🇸美国_14
-      - 💫星月/优选🇦🇺澳大利亚_3
-      - 💫星月/优选🇺🇸美国_15
-      - 💫星月/优选🇺🇸美国_16
-      - 💫星月/优选🇺🇸美国_17
-      - 💫星月/优选🇺🇸美国_18
-      - 💫星月/优选🇺🇸美国_19
-      - 💫星月/优选🇺🇸美国_20
-      - 💫星月/优选🇺🇸美国_21
-      - 💫星月/优选🇺🇸美国_22
-      - 💫星月/优选🇺🇸美国_23
-      - 💫星月/优选🇺🇸美国_24
-      - 💫星月/优选🇺🇸美国_25
-      - 💫星月/优选🇺🇸美国_26
-      - 💫星月/优选🇺🇸美国_27
-      - 💫星月/优选🇺🇸美国_28
-      - 💫星月/优选🏳️未知_2
-      - 💫星月/优选🏳️未知_3
-      - 💫星月/优选🏳️未知_4
-      - 💫星月/优选🏳️未知_5
-      - 💫星月/优选🏳️未知_6
-      - 💫星月/优选🏳️未知_7
-      - 💫星月/优选🇺🇸美国_29
-      - 💫星月/优选🇬🇧英国_2
-      - 💫星月/优选🇺🇸美国_30
-      - 💫星月/优选🇺🇸美国_31
-      - 💫星月/优选🇺🇸美国_32
-      - 💫星月/优选🇺🇸美国_33
-      - 💫星月/优选🇺🇸美国_34
-      - 💫星月/优选🇬🇧英国_3
-      - 💫星月/优选🇺🇦乌克兰_2
-      - 💫星月/优选🇺🇸美国_35
-      - 💫星月/优选🇺🇦乌克兰_3
-      - 💫星月/优选🇷🇺俄罗斯_4
-      - 💫星月/优选🇬🇧英国_4
-      - 💫星月/优选🇺🇸美国_36
-      - 💫星月/优选🇺🇸美国_37
-      - 💫星月/优选🇺🇸美国_38
-      - 💫星月/优选🇺🇸美国_39
-      - 💫星月/优选🇺🇸美国_40
-      - 💫星月/优选🇺🇸美国_41
-      - 💫星月/优选🇺🇸美国_42
-      - 💫星月/优选🇺🇸美国_43
-      - 💫星月/优选🇺🇸美国_44
-      - 💫星月/优选🇺🇸美国_45
-      - 💫星月/优选🏳️未知_8
-      - 💫星月/优选🏳️未知_9
-      - 💫星月/优选🏳️未知_10
-      - 💫星月/优选🏳️未知_11
-      - 💫星月/优选🏳️未知_12
-      - 💫星月/优选🇺🇸美国_46
-      - 💫星月/优选🇺🇸美国_47
-      - 💫星月/优选🇺🇸美国_48
-      - 💫星月/优选🇺🇸美国_49
-      - 💫星月/优选🇺🇸美国_50
-      - 💫星月/优选🇺🇸美国_51
-      - 💫星月/优选🇺🇸美国_52
-      - 💫星月/优选🇷🇺俄罗斯_5
-      - 💫星月/优选🇺🇸美国_53
-      - 💫星月/优选🇬🇧英国_5
-      - 💫星月/优选🇺🇸美国_54
-      - 💫星月/优选🇺🇸美国_55
-      - 💫星月/优选🇺🇸美国_56
-      - 💫星月/优选🇺🇸美国_57
-      - 💫星月/优选🏳️未知_13
-      - 💫星月/优选🏳️未知_14
-      - 💫星月/优选🏳️未知_15
-      - 💫星月/优选🇺🇸美国_58
-      - 💫星月/优选🇦🇹奥地利_1
-      - 💫星月/优选🇺🇸美国_59
-      - 💫星月/优选🇬🇧英国_6
-      - 💫星月/优选🇺🇸美国_60
-      - 💫星月/优选🇺🇸美国_61
-      - 💫星月/优选🇬🇧英国_7
-      - 💫星月/优选🇩🇪德国_2
-      - 💫星月/优选🇺🇸美国_62
-      - 💫星月/优选🇺🇸美国_63
-      - 💫星月/优选🇺🇸美国_64
-      - 💫星月/优选🇺🇸美国_65
-      - 💫星月/优选🇺🇸美国_66
-      - 💫星月/优选🇺🇸美国_67
-      - 💫星月/优选🏳️未知_16
-      - 💫星月/优选🏳️未知_17
-      - 💫星月/优选🏳️未知_18
-      - 💫星月/优选🇺🇸美国_68
-      - 💫星月/优选🇺🇦乌克兰_4
-      - 💫星月/优选🇺🇸美国_69
-      - 💫星月/优选🇺🇸美国_70
-      - 💫星月/优选🇺🇸美国_71
-      - 💫星月/优选🇬🇧英国_8
-      - 💫星月/优选🇳🇱荷兰_1
-      - 💫星月/优选🇳🇱荷兰_2
-      - 💫星月/优选🇺🇸美国_72
-      - 💫星月/优选🇺🇸美国_73
-      - 💫星月/优选🏳️未知_19
-      - 💫星月/优选🇦🇹奥地利_2
-      - 💫星月/优选🇺🇸美国_74
-      - 💫星月/优选🇺🇸美国_75
-      - 💫星月/优选🇦🇹奥地利_3
-      - 💫星月/优选🇺🇸美国_76
-      - 💫星月/优选🇷🇺俄罗斯_6
-      - 💫星月/优选🇺🇸美国_77
-      - 💫星月/优选🇳🇱荷兰_3
-      - 💫星月/优选🇺🇸美国_78
-      - 💫星月/优选🇺🇸美国_79
-      - 💫星月/优选🇺🇸美国_80
-      - 💫星月/优选🇺🇸美国_81
-      - 💫星月/优选🇺🇸美国_82
-      - 💫星月/优选🇺🇸美国_83
-      - 💫星月/优选🇺🇸美国_84
-      - 💫星月/优选🇷🇺俄罗斯_7
-      - 💫星月/优选🇷🇺俄罗斯_8
-      - 💫星月/优选🇺🇸美国_85
-      - 💫星月/优选🇺🇸美国_86
-      - 💫星月/优选🏳️未知_20
-      - 💫星月/优选🇳🇱荷兰_4
-      - 💫星月/优选🇺🇸美国_87
-      - 💫星月/优选🇺🇸美国_88
-      - 💫星月/优选🇦🇹奥地利_4
-      - 💫星月/优选🇳🇱荷兰_5
-      - 💫星月/优选🇺🇸美国_89
-      - 💫星月/优选🇬🇧英国_9
-      - 💫星月/优选🇺🇸美国_90
-      - 💫星月/优选🇺🇸美国_91
-      - 💫星月/优选🇺🇸美国_92
-      - 💫星月/优选🇬🇧英国_10
-      - 💫星月/优选🇰🇼科威特
-      - 💫星月/优选🇷🇺俄罗斯_9
-      - 💫星月/优选🇺🇸美国_93
-      - 💫星月/优选🇺🇸美国_94
+      - 💫星月/优选_1
+      - 💫星月/优选_2
+      - 💫星月/优选_3
+      - 💫星月/优选_4
+      - 💫星月/优选_5
+      - 💫星月/优选_6
+      - 💫星月/优选_7
+      - 💫星月/优选_8
+      - 💫星月/优选_9
+      - 💫星月/优选_10
+      - 💫星月/优选_11
+      - 💫星月/优选_12
+      - 💫星月/优选_13
+      - 💫星月/优选_14
+      - 💫星月/优选_15
+      - 💫星月/优选_16
+      - 💫星月/优选_17
+      - 💫星月/优选_18
+      - 💫星月/优选_19
+      - 💫星月/优选_20
+      - 💫星月/优选_21
+      - 💫星月/优选_22
+      - 💫星月/优选_23
+      - 💫星月/优选_24
+      - 💫星月/优选_25
+      - 💫星月/优选_26
+      - 💫星月/优选_27
+      - 💫星月/优选_28
+      - 💫星月/优选_29
+      - 💫星月/优选_30
+      - 💫星月/优选_31
+      - 💫星月/优选_32
+      - 💫星月/优选_33
+      - 💫星月/优选_34
+      - 💫星月/优选_35
+      - 💫星月/优选_36
+      - 💫星月/优选_37
+      - 💫星月/优选_38
+      - 💫星月/优选_39
+      - 💫星月/优选_40
+      - 💫星月/优选_41
+      - 💫星月/优选_42
+      - 💫星月/优选_43
+      - 💫星月/优选_44
+      - 💫星月/优选_45
+      - 💫星月/优选_46
+      - 💫星月/优选_47
+      - 💫星月/优选_48
+      - 💫星月/优选_49
+      - 💫星月/优选_50
+      - 💫星月/优选_51
+      - 💫星月/优选_52
+      - 💫星月/优选_53
+      - 💫星月/优选_54
+      - 💫星月/优选_55
+      - 💫星月/优选_56
+      - 💫星月/优选_57
+      - 💫星月/优选_58
+      - 💫星月/优选_59
+      - 💫星月/优选_60
+      - 💫星月/优选_61
+      - 💫星月/优选_62
+      - 💫星月/优选_63
+      - 💫星月/优选_64
+      - 💫星月/优选_65
+      - 💫星月/优选_66
+      - 💫星月/优选_67
+      - 💫星月/优选_68
+      - 💫星月/优选_69
+      - 💫星月/优选_70
+      - 💫星月/优选_71
+      - 💫星月/优选_72
+      - 💫星月/优选_73
+      - 💫星月/优选_74
+      - 💫星月/优选_75
+      - 💫星月/优选_76
+      - 💫星月/优选_77
+      - 💫星月/优选_78
+      - 💫星月/优选_79
+      - 💫星月/优选_80
+      - 💫星月/优选_81
+      - 💫星月/优选_82
+      - 💫星月/优选_83
+      - 💫星月/优选_84
+      - 💫星月/优选_85
+      - 💫星月/优选_86
+      - 💫星月/优选_87
+      - 💫星月/优选_88
+      - 💫星月/优选_89
+      - 💫星月/优选_90
+      - 💫星月/优选_91
+      - 💫星月/优选_92
+      - 💫星月/优选_93
+      - 💫星月/优选_94
+      - 💫星月/优选_95
+      - 💫星月/优选_96
+      - 💫星月/优选_97
+      - 💫星月/优选_98
+      - 💫星月/优选_99
+      - 💫星月/优选_100
+      - 💫星月/优选_101
+      - 💫星月/优选_102
+      - 💫星月/优选_103
+      - 💫星月/优选_104
+      - 💫星月/优选_105
+      - 💫星月/优选_106
+      - 💫星月/优选_107
+      - 💫星月/优选_108
+      - 💫星月/优选_109
+      - 💫星月/优选_110
+      - 💫星月/优选_111
+      - 💫星月/优选_112
+      - 💫星月/优选_113
+      - 💫星月/优选_114
+      - 💫星月/优选_115
+      - 💫星月/优选_116
+      - 💫星月/优选_117
+      - 💫星月/优选_118
+      - 💫星月/优选_119
+      - 💫星月/优选_120
+      - 💫星月/优选_121
+      - 💫星月/优选_122
+      - 💫星月/优选_123
+      - 💫星月/优选_124
+      - 💫星月/优选_125
+      - 💫星月/优选_126
+      - 💫星月/优选_127
+      - 💫星月/优选_128
+      - 💫星月/优选_129
+      - 💫星月/优选_130
+      - 💫星月/优选_131
+      - 💫星月/优选_132
+      - 💫星月/优选_133
+      - 💫星月/优选_134
+      - 💫星月/优选_135
+      - 💫星月/优选_136
+      - 💫星月/优选_137
+      - 💫星月/优选_138
+      - 💫星月/优选_139
+      - 💫星月/优选_140
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
