@@ -1,5 +1,5 @@
 # 模版名称：ACL4SSR_Online_Full_Google.ini
-# 生成时间：2024-10-13 01:29:33
+# 生成时间：2024-10-13 02:03:32
 # 不要随意改变关键字，否则会导致出错
 # acl4SSR规则
 # 去广告：支持
@@ -2592,51 +2592,6 @@ proxies:
     udp: true
     password: XoYrrEfZYxxHL3AI
     cipher: chacha20-ietf-poly1305
-  - name: 💫official/优选💫160
-    port: 36444
-    server: 193.123.241.149
-    type: hysteria2
-    udp: true
-    sni: www.apple.com
-    obfs: none
-    password: e9bcbbe9-5056-4cb2-be14-3ea8d43d07eb
-    skip-cert-verify: true
-  - name: 💫official/优选💫161
-    port: 35046
-    server: 163.123.192.149
-    type: hysteria2
-    udp: true
-    sni: apps.apple.com
-    obfs: none
-    password: e9bcbbe9-5056-4cb2-be14-3ea8d43d07eb
-    skip-cert-verify: true
-  - name: 💫official/优选💫162
-    port: 35079
-    server: 163.123.192.62
-    type: hysteria2
-    udp: true
-    sni: apps.apple.com
-    obfs: none
-    password: e9bcbbe9-5056-4cb2-be14-3ea8d43d07eb
-    skip-cert-verify: true
-  - name: 💫official/优选💫163
-    port: 35059
-    server: 163.123.192.151
-    type: hysteria2
-    udp: true
-    sni: music.apple.com
-    obfs: none
-    password: e9bcbbe9-5056-4cb2-be14-3ea8d43d07eb
-    skip-cert-verify: true
-  - name: 💫official/优选💫164
-    port: 35063
-    server: 163.123.192.152
-    type: hysteria2
-    udp: true
-    sni: music.apple.com
-    obfs: none
-    password: e9bcbbe9-5056-4cb2-be14-3ea8d43d07eb
-    skip-cert-verify: true
   - name: 💫official/优选💫165
     port: 20934
     server: 221.181.185.71
@@ -2865,11 +2820,6 @@ proxy-groups:
       - 💫official/优选💫157
       - 💫official/优选💫158
       - 💫official/优选💫159
-      - 💫official/优选💫160
-      - 💫official/优选💫161
-      - 💫official/优选💫162
-      - 💫official/优选💫163
-      - 💫official/优选💫164
       - 💫official/优选💫165
       - 💫official/优选💫166
       - 💫official/优选💫167
@@ -3044,11 +2994,6 @@ proxy-groups:
       - 💫official/优选💫157
       - 💫official/优选💫158
       - 💫official/优选💫159
-      - 💫official/优选💫160
-      - 💫official/优选💫161
-      - 💫official/优选💫162
-      - 💫official/优选💫163
-      - 💫official/优选💫164
       - 💫official/优选💫165
       - 💫official/优选💫166
       - 💫official/优选💫167
@@ -3223,11 +3168,6 @@ proxy-groups:
       - 💫official/优选💫157
       - 💫official/优选💫158
       - 💫official/优选💫159
-      - 💫official/优选💫160
-      - 💫official/优选💫161
-      - 💫official/优选💫162
-      - 💫official/优选💫163
-      - 💫official/优选💫164
       - 💫official/优选💫165
       - 💫official/优选💫166
       - 💫official/优选💫167
@@ -3401,11 +3341,6 @@ proxy-groups:
       - 💫official/优选💫157
       - 💫official/优选💫158
       - 💫official/优选💫159
-      - 💫official/优选💫160
-      - 💫official/优选💫161
-      - 💫official/优选💫162
-      - 💫official/优选💫163
-      - 💫official/优选💫164
       - 💫official/优选💫165
       - 💫official/优选💫166
       - 💫official/优选💫167
@@ -3579,11 +3514,6 @@ proxy-groups:
       - 💫official/优选💫157
       - 💫official/优选💫158
       - 💫official/优选💫159
-      - 💫official/优选💫160
-      - 💫official/优选💫161
-      - 💫official/优选💫162
-      - 💫official/优选💫163
-      - 💫official/优选💫164
       - 💫official/优选💫165
       - 💫official/优选💫166
       - 💫official/优选💫167
@@ -3757,11 +3687,6 @@ proxy-groups:
       - 💫official/优选💫157
       - 💫official/优选💫158
       - 💫official/优选💫159
-      - 💫official/优选💫160
-      - 💫official/优选💫161
-      - 💫official/优选💫162
-      - 💫official/优选💫163
-      - 💫official/优选💫164
       - 💫official/优选💫165
       - 💫official/优选💫166
       - 💫official/优选💫167
@@ -3952,11 +3877,6 @@ proxy-groups:
       - 💫official/优选💫157
       - 💫official/优选💫158
       - 💫official/优选💫159
-      - 💫official/优选💫160
-      - 💫official/优选💫161
-      - 💫official/优选💫162
-      - 💫official/优选💫163
-      - 💫official/优选💫164
       - 💫official/优选💫165
       - 💫official/优选💫166
       - 💫official/优选💫167
