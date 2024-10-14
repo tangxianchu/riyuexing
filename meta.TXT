@@ -1,5 +1,5 @@
 # 模版名称：ACL4SSR_Online_Full_Google.ini
-# 生成时间：2024-10-14 11:11:01
+# 生成时间：2024-10-14 12:06:19
 # 不要随意改变关键字，否则会导致出错
 # acl4SSR规则
 # 去广告：支持
@@ -57,82 +57,92 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 💫日月💫优选💫1
+  - name: 💫星月💫优选💫1
     port: 443
-    server: 54.244.188.170
+    server: 43.202.68.249
     type: ss
     udp: true
     password: amazonskr05
     cipher: aes-256-cfb
-  - name: 💫日月💫优选💫2
-    port: 443
-    server: 212.102.53.198
+  - name: 💫星月💫优选💫2
+    port: 40076
+    server: 194.87.45.189
     type: ss
     udp: true
-    password: shadowsocks
-    cipher: aes-128-gcm
-  - name: 💫日月💫优选💫3
-    port: 8191
-    server: 14.152.94.40
-    type: ssr
-    udp: true
-    obfs: plain
-    password: "123456"
-    protocol: auth_chain_a
-    cipher: dummy
-    group: SSRProvider
-    obfsparam: 59869:ES8PT7
-    protocol-param: 59869:ES8PT7
-  - name: 💫日月💫优选💫4
-    port: 8080
-    server: 45.87.175.199
-    type: ss
-    udp: true
-    password: gDFRe52uiIvVaxqPlqw439
+    password: e3USCK01yjEMg6QX51yVxQ
     cipher: chacha20-ietf-poly1305
-  - name: 💫日月💫优选💫5
+  - name: 💫星月💫优选💫3
     port: 443
     server: 205.134.180.150
     type: ss
     udp: true
     password: 5cp9Z3iWnJZ2
     cipher: chacha20-ietf-poly1305
-  - name: 💫日月💫优选💫6
-    port: 443
-    server: 43.203.254.79
+  - name: 💫星月💫优选💫4
+    port: 38007
+    server: 142.4.108.131
+    type: vmess
+    network: ws
+    tls: true
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    ws-opts:
+      path: /path/283126261303
+      headers:
+        host: ""
+    cipher: auto
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+  - name: 💫星月💫优选💫5
+    port: 38091
+    server: ba3l.thchroute.club
+    type: trojan
+    udp: true
+    sni: ba3l.thchroute.club
+    password: b382cb9d7924e76112ab30ad4e45b430
+    skip-cert-verify: true
+  - name: 💫星月💫优选💫6
+    port: 21017
+    server: tt07.51feitu.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 💫日月💫优选💫7
-    port: 443
-    server: 43.201.82.24
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 💫日月💫优选💫8
-    port: 51348
-    server: 103.174.86.113
-    type: ss
-    udp: true
-    password: vZr8MlUXUihNEndqIpjDxQdSeqi37FbgoHBmQ1syy6ZjkbBn
+    password: 030b7ede-55e5-4e1f-b509-efcacc1877e1
     cipher: chacha20-ietf-poly1305
-  - name: 💫日月💫优选💫9
+  - name: 💫星月💫优选💫7
     port: 443
-    server: 13.115.231.230
+    server: 3.113.6.44
     type: ss
     udp: true
     password: amazonskr05
     cipher: aes-256-cfb
-  - name: 💫日月💫优选💫10
-    port: 443
-    server: 18.142.178.38
+  - name: 💫星月💫优选💫8
+    port: 50101
+    server: iepl1.forlive.live
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 💫日月💫优选💫11
+    password: 0e91a29a-989d-4934-a1fb-7b653319397f
+    cipher: chacha20-ietf-poly1305
+  - name: 💫星月💫优选💫9
+    port: 8080
+    server: 45.87.175.192
+    type: ss
+    udp: true
+    password: g9AJsrBPgW4Nhjoy3xCioC
+    cipher: chacha20-ietf-poly1305
+  - name: 💫星月💫优选💫10
+    port: 43526
+    server: 120.232.153.71
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875
+    alterId: 64
+  - name: 💫星月💫优选💫11
     port: 443
     server: Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz
     type: trojan
@@ -147,7 +157,7 @@ proxies:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫12
+  - name: 💫星月💫优选💫12
     port: 443
     server: visa.cn
     type: vless
@@ -161,40 +171,11 @@ proxies:
       headers:
         Host: fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net
     uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
     tfo: false
-  - name: 💫日月💫优选💫13
+  - name: 💫星月💫优选💫13
     port: 8443
     server: www.visa.com
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: 159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com
-    skip-cert-verify: true
-    ws-opts:
-      path: /riyuevles.pages.dev/?ed=2560
-      headers:
-        Host: 159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com
-    uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
-    tfo: false
-  - name: 💫日月💫优选💫14
-    port: 2053
-    server: cis.visa.com
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org
-    skip-cert-verify: true
-    ws-opts:
-      path: /riyuevles.pages.dev/?ed=2560
-      headers:
-        Host: fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org
-    uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
-    tfo: false
-  - name: 💫日月💫优选💫15
-    port: 2083
-    server: africa.visa.com
     type: vless
     network: ws
     tls: true
@@ -206,38 +187,73 @@ proxies:
       headers:
         Host: 15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org
     uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
     tfo: false
-  - name: 💫日月💫优选💫16
+  - name: 💫星月💫优选💫14
+    port: 2053
+    server: cis.visa.com
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: 159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com
+    skip-cert-verify: true
+    ws-opts:
+      path: /riyuevles.pages.dev/?ed=2560
+      headers:
+        Host: 159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com
+    uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
+    tfo: false
+  - name: 💫星月💫优选💫15
+    port: 2083
+    server: africa.visa.com
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: 159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com
+    skip-cert-verify: true
+    ws-opts:
+      path: /riyuevles.pages.dev/?ed=2560
+      headers:
+        Host: 159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com
+    uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
+    tfo: false
+  - name: 💫星月💫优选💫16
     port: 2087
     server: www.visa.com.sg
     type: vless
     network: ws
     tls: true
     udp: true
-    servername: 30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com
+    servername: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
     skip-cert-verify: true
     ws-opts:
       path: /riyuevles.pages.dev/?ed=2560
       headers:
-        Host: 30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com
+        Host: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
     uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
     tfo: false
-  - name: 💫日月💫优选💫17
+  - name: 💫星月💫优选💫17
     port: 2096
     server: www.visaeurope.at
     type: vless
     network: ws
     tls: true
     udp: true
-    servername: 547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com
+    servername: fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net
     skip-cert-verify: true
     ws-opts:
       path: /riyuevles.pages.dev/?ed=2560
       headers:
-        Host: 547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com
+        Host: fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net
     uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
     tfo: false
-  - name: 💫日月💫优选💫18
+  - name: 💫星月💫优选💫18
     port: 8443
     server: www.visa.com.mt
     type: vless
@@ -251,100 +267,107 @@ proxies:
       headers:
         Host: 8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com
     uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
     tfo: false
-  - name: 💫日月💫优选💫19
+  - name: 💫星月💫优选💫19
     port: 443
     server: qa.visamiddleeast.com
     type: vless
     network: ws
     tls: true
     udp: true
-    servername: c543a30d-e872-49ad-8be6-2836890f3d20.b9caf607-1ef7-4fd2-be07-224869a92bdf.accesscam.org
+    servername: 3ca919ae-4e52-48cb-9f79-f920f0c234bd.b6071df2-af24-4fe5-a53c-5482f4bf5bce.kozow.com
     skip-cert-verify: true
     ws-opts:
       path: /riyuevles.pages.dev/?ed=2560
       headers:
-        Host: c543a30d-e872-49ad-8be6-2836890f3d20.b9caf607-1ef7-4fd2-be07-224869a92bdf.accesscam.org
+        Host: 3ca919ae-4e52-48cb-9f79-f920f0c234bd.b6071df2-af24-4fe5-a53c-5482f4bf5bce.kozow.com
     uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
     tfo: false
-  - name: 💫日月💫优选💫20
+  - name: 💫星月💫优选💫20
     port: 443
     server: time.is
     type: vless
     network: ws
     tls: true
     udp: true
-    servername: fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net
+    servername: e8b99cbe-9ebd-4a20-a497-38f4b29f2c98.83b11782-ecae-411f-90c3-2a01bb33260a.gleeze.com
     skip-cert-verify: true
     ws-opts:
       path: /riyuevles.pages.dev/?ed=2560
       headers:
-        Host: fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net
+        Host: e8b99cbe-9ebd-4a20-a497-38f4b29f2c98.83b11782-ecae-411f-90c3-2a01bb33260a.gleeze.com
     uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
     tfo: false
-  - name: 💫日月💫优选💫21
+  - name: 💫星月💫优选💫21
     port: 8443
     server: www.wto.org
     type: vless
     network: ws
     tls: true
     udp: true
-    servername: fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net
+    servername: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
     skip-cert-verify: true
     ws-opts:
       path: /riyuevles.pages.dev/?ed=2560
       headers:
-        Host: fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net
+        Host: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
     uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
     tfo: false
-  - name: 💫日月💫优选💫22
+  - name: 💫星月💫优选💫22
     port: 2087
     server: chatgpt.com
     type: vless
     network: ws
     tls: true
     udp: true
-    servername: 30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com
+    servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com
     skip-cert-verify: true
     ws-opts:
       path: /riyuevles.pages.dev/?ed=2560
       headers:
-        Host: 30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com
+        Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com
     uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
     tfo: false
-  - name: 💫日月💫优选💫23
+  - name: 💫星月💫优选💫23
     port: 443
     server: icook.hk
     type: vless
     network: ws
     tls: true
     udp: true
-    servername: ceb98438-36f6-4f6c-9596-8d0409bbe285.b1e18cfc-f959-4f08-94da-4878c3cd4a5f.mywire.org
+    servername: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com
     skip-cert-verify: true
     ws-opts:
       path: /riyuevles.pages.dev/?ed=2560
       headers:
-        Host: ceb98438-36f6-4f6c-9596-8d0409bbe285.b1e18cfc-f959-4f08-94da-4878c3cd4a5f.mywire.org
+        Host: 2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com
     uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
     tfo: false
-  - name: 💫日月💫优选💫24
+  - name: 💫星月💫优选💫24
     port: 443
     server: "2606:4700::"
     type: vless
     network: ws
     tls: true
     udp: true
-    servername: fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net
+    servername: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
     skip-cert-verify: true
     ws-opts:
       path: /riyuevles.pages.dev/?ed=2560
       headers:
-        Host: fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net
+        Host: e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com
     uuid: ebeb5261-a28d-4dab-89fe-80ed1ab46e99
+    client-fingerprint: random
     tfo: false
-  - name: 💫日月💫优选💫25
+  - name: 💫星月💫优选💫25
     port: 443
-    server: 45.67.215.42
+    server: 192.236.249.96
     type: trojan
     network: ws
     udp: true
@@ -352,14 +375,27 @@ proxies:
     password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560&proxyip=45.67.215.42:443
+      path: /?ed=2560&proxyip=192.236.249.96:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫26
+    port: 443
+    server: 217.160.216.30
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=217.160.216.30:443
       headers:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫26
+  - name: 💫星月💫优选💫27
     port: 443
-    server: 217.163.76.60
+    server: 192.200.160.155
     type: trojan
     network: ws
     udp: true
@@ -367,14 +403,14 @@ proxies:
     password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560&proxyip=217.163.76.60:443
+      path: /?ed=2560&proxyip=192.200.160.155:443
       headers:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫27
+  - name: 💫星月💫优选💫28
     port: 443
-    server: 219.76.13.164
+    server: 216.221.214.50
     type: trojan
     network: ws
     udp: true
@@ -382,14 +418,14 @@ proxies:
     password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560&proxyip=ProxyIP.Oracle.fxxk.dedyn.io
+      path: /?ed=2560&proxyip=216.221.214.50:443
       headers:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫28
+  - name: 💫星月💫优选💫29
     port: 443
-    server: 192.200.160.214
+    server: 192.200.160.193
     type: trojan
     network: ws
     udp: true
@@ -397,66 +433,14 @@ proxies:
     password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560&proxyip=192.200.160.214:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫29
-    port: 443
-    server: 194.76.18.129
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=194.76.18.129:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫30
-    port: 443
-    server: 206.238.237.133
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=206.238.237.133:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫31
-    port: 443
-    server: 212.183.88.29
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=212.183.88.29:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫32
-    port: 443
-    server: 216.24.57.98
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=216.24.57.98:443
+      path: /?ed=2560&proxyip=192.200.160.193:443
       headers:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫33
+  - name: 💫星月💫优选💫30
     port: 443
-    server: 194.76.18.50
+    server: 217.163.76.63
     type: trojan
     network: ws
     udp: true
@@ -464,10 +448,25 @@ proxies:
     password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560&proxyip=194.76.18.50:443
+      path: /?ed=2560&proxyip=217.163.76.63:443
       headers:
         Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫34
+  - name: 💫星月💫优选💫31
+    port: 443
+    server: 216.24.57.239
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=216.24.57.239:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫32
     port: 443
     server: 94.177.8.51
     type: trojan
@@ -480,9 +479,11 @@ proxies:
       path: /?ed=2560&proxyip=94.177.8.51:443
       headers:
         Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫35
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫33
     port: 443
-    server: 216.24.57.250
+    server: 18.196.70.197
     type: trojan
     network: ws
     udp: true
@@ -490,771 +491,12 @@ proxies:
     password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560&proxyip=216.24.57.250:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫36
-    port: 443
-    server: 198.62.62.67
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=198.62.62.67:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫37
-    port: 443
-    server: 192.0.54.172
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=192.0.54.172:443
+      path: /?ed=2560&proxyip=18.196.70.197:443
       headers:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫38
-    port: 443
-    server: 216.24.57.57
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=216.24.57.57:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫39
-    port: 443
-    server: 185.133.35.115
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=185.133.35.115:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫40
-    port: 443
-    server: 217.163.76.147
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=217.163.76.147:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫41
-    port: 21953
-    server: 158.101.76.55
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=158.101.76.55:21953
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫42
-    port: 12508
-    server: 150.230.97.136
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=150.230.97.136:12508
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫43
-    port: 11263
-    server: 223.18.129.85
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=223.18.129.85:11263
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫44
-    port: 30037
-    server: 223.16.13.20
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=223.16.13.20:30037
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫45
-    port: 50000
-    server: 14.39.254.65
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=14.39.254.65:50000
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫46
-    port: 30033
-    server: 130.162.144.178
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=130.162.144.178:30033
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫47
-    port: 30001
-    server: 59.9.38.133
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=59.9.38.133:30001
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫48
-    port: 10320
-    server: 1.232.40.93
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=1.232.40.93:10320
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫49
-    port: 10086
-    server: 107.172.5.160
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=107.172.5.160:10086
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫50
-    port: 80
-    server: 35.167.93.200
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=35.167.93.200:80
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫51
-    port: 10086
-    server: 172.245.184.89
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=172.245.184.89:10086
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫52
-    port: 80
-    server: 204.110.221.208
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=204.110.221.208:80
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫53
-    port: 36308
-    server: 101.32.41.135
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=101.32.41.135:36308
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫54
-    port: 25411
-    server: 104.194.84.219
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=104.194.84.219:25411
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫55
-    port: 1901
-    server: 124.156.139.192
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=124.156.139.192:1901
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫56
-    port: 443
-    server: 152.67.212.141
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=152.67.212.141:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫57
-    port: 81
-    server: 210.61.97.241
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=210.61.97.241:81
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫58
-    port: 54709
-    server: 212.50.254.116
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=212.50.254.116:54709
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫59
-    port: 12014
-    server: 47.242.20.210
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=47.242.20.210:12014
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫60
-    port: 443
-    server: 162.159.152.123
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫61
-    port: 443
-    server: 162.159.153.119
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫62
-    port: 443
-    server: 162.159.153.49
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫63
-    port: 443
-    server: 162.159.152.44
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫64
-    port: 443
-    server: 162.159.152.2
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫65
-    port: 443
-    server: 162.159.152.188
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫66
-    port: 443
-    server: 104.19.35.145
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫67
-    port: 443
-    server: 104.19.34.54
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫68
-    port: 443
-    server: 104.19.35.245
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫69
-    port: 443
-    server: 104.19.32.24
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫70
-    port: 443
-    server: 104.19.40.144
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫71
-    port: 443
-    server: 104.19.35.123
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫72
-    port: 443
-    server: "[2606:4700:3036:0:a36a:4a94:8d40:c92c]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫73
-    port: 443
-    server: "[2606:4700:3036:0:a36a:4aa4:75d9:9f75]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫74
-    port: 443
-    server: "[2606:4700:3036::ce:d6ea]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫75
-    port: 443
-    server: "[2606:4700:3036:6ed4:e1ed:36:7204:2031]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫76
-    port: 443
-    server: "[2606:4700:3036:0:a36a:3160:b566:8741]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-  - name: 💫日月💫优选💫77
-    port: 443
-    server: "[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]"
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫78
-    port: 443
-    server: 194.76.18.197
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=194.76.18.197:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫79
-    port: 2053
-    server: 23.94.95.60
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.us.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫80
-    port: 443
-    server: 192.0.54.28
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=192.0.54.28:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫81
-    port: 443
-    server: 192.9.237.203
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=192.9.237.203:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫82
-    port: 443
-    server: 45.67.215.119
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=45.67.215.119:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫83
-    port: 443
-    server: 206.238.236.160
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=206.238.236.160:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫84
-    port: 443
-    server: 5.255.118.176
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=5.255.118.176:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫85
-    port: 443
-    server: 69.84.182.93
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=69.84.182.93:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫86
-    port: 443
-    server: 216.24.57.59
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=216.24.57.59:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫87
-    port: 443
-    server: 207.174.31.150
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=207.174.31.150:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫88
-    port: 443
-    server: 212.183.88.185
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=212.183.88.185:443
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫89
+  - name: 💫星月💫优选💫34
     port: 443
     server: 216.221.213.172
     type: trojan
@@ -1269,7 +511,352 @@ proxies:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫90
+  - name: 💫星月💫优选💫35
+    port: 443
+    server: 216.24.57.69
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=216.24.57.69:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫36
+    port: 443
+    server: 217.163.76.65
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=217.163.76.65:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫37
+    port: 443
+    server: 216.24.57.230
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=216.24.57.230:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫38
+    port: 443
+    server: 216.24.57.24
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=216.24.57.24:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫39
+    port: 443
+    server: 69.84.182.234
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=69.84.182.234:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫40
+    port: 443
+    server: 45.67.215.95
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=45.67.215.95:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫41
+    port: 443
+    server: 219.76.13.164
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=219.76.13.164:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫42
+    port: 21953
+    server: 158.101.76.55
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=158.101.76.55:21953
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫43
+    port: 12508
+    server: 150.230.97.136
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=150.230.97.136:12508
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫44
+    port: 11263
+    server: 223.18.129.85
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=223.18.129.85:11263
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫45
+    port: 30037
+    server: 223.16.13.20
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=223.16.13.20:30037
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫46
+    port: 50000
+    server: 14.39.254.65
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=14.39.254.65:50000
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫47
+    port: 30033
+    server: 130.162.144.178
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=130.162.144.178:30033
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫48
+    port: 30001
+    server: 59.9.38.133
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=59.9.38.133:30001
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫49
+    port: 10320
+    server: 1.232.40.93
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=1.232.40.93:10320
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫50
+    port: 10086
+    server: 107.172.5.160
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=107.172.5.160:10086
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫51
+    port: 80
+    server: 35.167.93.200
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=35.167.93.200:80
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫52
+    port: 10086
+    server: 172.245.184.89
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=172.245.184.89:10086
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫53
+    port: 80
+    server: 204.110.221.208
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=204.110.221.208:80
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫54
+    port: 36308
+    server: 101.32.41.135
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=101.32.41.135:36308
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫55
+    port: 1901
+    server: 124.156.139.192
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=124.156.139.192:1901
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫56
+    port: 81
+    server: 210.61.97.241
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=210.61.97.241:81
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫57
+    port: 443
+    server: 162.159.152.66
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫58
     port: 443
     server: 162.159.153.105
     type: trojan
@@ -1284,9 +871,9 @@ proxies:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫91
+  - name: 💫星月💫优选💫59
     port: 443
-    server: 162.159.152.70
+    server: 162.159.152.44
     type: trojan
     network: ws
     udp: true
@@ -1299,22 +886,7 @@ proxies:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫92
-    port: 443
-    server: 162.159.153.87
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫93
+  - name: 💫星月💫优选💫60
     port: 443
     server: 162.159.152.5
     type: trojan
@@ -1329,9 +901,22 @@ proxies:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫94
+  - name: 💫星月💫优选💫61
     port: 443
-    server: 162.159.153.50
+    server: 162.159.153.87
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫62
+    port: 443
+    server: 162.159.153.119
     type: trojan
     network: ws
     udp: true
@@ -1344,9 +929,9 @@ proxies:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫95
+  - name: 💫星月💫优选💫63
     port: 443
-    server: 104.19.32.12
+    server: 104.19.35.123
     type: trojan
     network: ws
     udp: true
@@ -1359,9 +944,9 @@ proxies:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫96
+  - name: 💫星月💫优选💫64
     port: 443
-    server: 104.19.42.46
+    server: 104.19.40.134
     type: trojan
     network: ws
     udp: true
@@ -1374,22 +959,7 @@ proxies:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫97
-    port: 443
-    server: 104.19.51.231
-    type: trojan
-    network: ws
-    udp: true
-    sni: riyue.ttxx4.dynv6.net
-    password: riyue
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
-      headers:
-        Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫98
+  - name: 💫星月💫优选💫65
     port: 443
     server: 104.19.35.171
     type: trojan
@@ -1404,7 +974,448 @@ proxies:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫99
+  - name: 💫星月💫优选💫66
+    port: 443
+    server: 104.19.40.69
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫67
+    port: 443
+    server: 104.19.42.46
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫68
+    port: 443
+    server: 104.19.34.54
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫69
+    port: 443
+    server: "[2606:4700:3036:0:a36a:4aa4:75d9:9f75]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫70
+    port: 443
+    server: "[2606:4700:3036::ce:d6ea]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫71
+    port: 443
+    server: "[2606:4700:3036:ef:3f32:9601:b705:e94b]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫72
+    port: 443
+    server: "[2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫73
+    port: 443
+    server: "[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫74
+    port: 443
+    server: "[2606:4700:3036:ef:db9e:eecc:caef:9d4a]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫75
+    port: 443
+    server: 185.133.35.144
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=185.133.35.144:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫76
+    port: 443
+    server: 216.24.57.250
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=216.24.57.250:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫77
+    port: 443
+    server: 192.236.249.101
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=192.236.249.101:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫78
+    port: 443
+    server: 63.141.128.254
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=63.141.128.254:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫79
+    port: 443
+    server: 192.236.249.103
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=192.236.249.103:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫80
+    port: 443
+    server: 192.236.249.102
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=192.236.249.102:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫81
+    port: 443
+    server: 216.24.57.30
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=216.24.57.30:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫82
+    port: 443
+    server: 216.24.57.57
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=216.24.57.57:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫83
+    port: 443
+    server: 206.238.236.160
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=206.238.236.160:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫84
+    port: 443
+    server: 217.163.76.114
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=217.163.76.114:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫85
+    port: 443
+    server: 216.24.57.85
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=216.24.57.85:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫86
+    port: 443
+    server: 194.76.18.116
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=194.76.18.116:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫87
+    port: 443
+    server: 192.200.160.229
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=192.200.160.229:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫88
+    port: 443
+    server: 194.76.18.62
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=194.76.18.62:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫89
+    port: 443
+    server: 162.159.153.99
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫90
+    port: 443
+    server: 162.159.153.120
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫91
+    port: 443
+    server: 162.159.152.188
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫92
+    port: 443
+    server: 104.19.39.46
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫93
+    port: 443
+    server: 104.19.37.125
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫94
+    port: 443
+    server: 104.19.32.12
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫95
+    port: 443
+    server: 104.19.51.231
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫96
+    port: 443
+    server: "[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫97
     port: 443
     server: "[2606:4700:3036:6ed4:e1ed:36:8916:dace]"
     type: trojan
@@ -1419,9 +1430,9 @@ proxies:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫100
+  - name: 💫星月💫优选💫98
     port: 443
-    server: "[2606:4700:3036:0:a36a:4af2:65e7:a0d6]"
+    server: "[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]"
     type: trojan
     network: ws
     udp: true
@@ -1432,9 +1443,20 @@ proxies:
       path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
         Host: riyue.ttxx4.dynv6.net
-    alpn:
-      - h3
-  - name: 💫日月💫优选💫101
+  - name: 💫星月💫优选💫99
+    port: 443
+    server: "[2606:4700:3036:0:a36a:3160:b566:8741]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫100
     port: 443
     server: "[2606:4700:3036:0:a36a:4a23:4a60:9f3f]"
     type: trojan
@@ -1449,9 +1471,579 @@ proxies:
         Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-  - name: 💫日月💫优选💫102
+  - name: 💫星月💫优选💫101
     port: 443
-    server: "[2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]"
+    server: 192.236.249.109
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=192.236.249.109:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫102
+    port: 443
+    server: 69.84.182.44
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=69.84.182.44:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫103
+    port: 443
+    server: 206.238.237.74
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=206.238.237.74:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫104
+    port: 443
+    server: 194.76.18.121
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=194.76.18.121:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫105
+    port: 443
+    server: 212.183.88.24
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=212.183.88.24:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫106
+    port: 443
+    server: 185.133.35.115
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=185.133.35.115:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫107
+    port: 443
+    server: 192.200.160.214
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=192.200.160.214:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫108
+    port: 443
+    server: 185.133.35.96
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=185.133.35.96:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫109
+    port: 443
+    server: 216.24.57.98
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=216.24.57.98:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫110
+    port: 443
+    server: 192.200.160.2
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=192.200.160.2:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫111
+    port: 443
+    server: 212.183.88.77
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=212.183.88.77:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫112
+    port: 443
+    server: 162.159.153.229
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫113
+    port: 443
+    server: 162.159.153.242
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫114
+    port: 443
+    server: 162.159.152.2
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫115
+    port: 443
+    server: 104.19.50.68
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫116
+    port: 443
+    server: 104.19.40.144
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫117
+    port: 443
+    server: 104.19.37.65
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫118
+    port: 443
+    server: "[2606:4700:3036:0:a36a:4af2:65e7:a0d6]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫119
+    port: 443
+    server: "[2606:4700:3036:0:a36a:4a94:8d40:c92c]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫120
+    port: 443
+    server: "[2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫121
+    port: 443
+    server: "[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]"
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫122
+    port: 443
+    server: 216.24.57.29
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=216.24.57.29:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫123
+    port: 443
+    server: 95.164.10.50
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=95.164.10.50:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫124
+    port: 443
+    server: 160.79.105.118
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=160.79.105.118:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫125
+    port: 443
+    server: 37.1.207.228
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=37.1.207.228:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫126
+    port: 443
+    server: 198.62.62.67
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=198.62.62.67:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫127
+    port: 443
+    server: 192.200.160.208
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=192.200.160.208:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫128
+    port: 443
+    server: 192.0.54.172
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=192.0.54.172:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫129
+    port: 443
+    server: 194.76.18.243
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=194.76.18.243:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫130
+    port: 443
+    server: 216.24.57.59
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=216.24.57.59:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫131
+    port: 443
+    server: 206.238.237.182
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=206.238.237.182:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫132
+    port: 443
+    server: 217.163.76.147
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=217.163.76.147:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫133
+    port: 443
+    server: 198.62.62.208
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=198.62.62.208:443
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫134
+    port: 443
+    server: 162.159.152.123
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫135
+    port: 443
+    server: 162.159.152.70
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫136
+    port: 443
+    server: 162.159.153.205
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫137
+    port: 443
+    server: 104.19.35.245
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫138
+    port: 443
+    server: 104.19.49.117
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+    alpn:
+      - h3
+  - name: 💫星月💫优选💫139
+    port: 443
+    server: "[2606:4700:3036:6ed4:260:e3e9:a48c:8437]"
     type: trojan
     network: ws
     udp: true
@@ -1470,645 +2062,867 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 💫日月💫优选💫1
-      - 💫日月💫优选💫2
-      - 💫日月💫优选💫3
-      - 💫日月💫优选💫4
-      - 💫日月💫优选💫5
-      - 💫日月💫优选💫6
-      - 💫日月💫优选💫7
-      - 💫日月💫优选💫8
-      - 💫日月💫优选💫9
-      - 💫日月💫优选💫10
-      - 💫日月💫优选💫11
-      - 💫日月💫优选💫12
-      - 💫日月💫优选💫13
-      - 💫日月💫优选💫14
-      - 💫日月💫优选💫15
-      - 💫日月💫优选💫16
-      - 💫日月💫优选💫17
-      - 💫日月💫优选💫18
-      - 💫日月💫优选💫19
-      - 💫日月💫优选💫20
-      - 💫日月💫优选💫21
-      - 💫日月💫优选💫22
-      - 💫日月💫优选💫23
-      - 💫日月💫优选💫24
-      - 💫日月💫优选💫25
-      - 💫日月💫优选💫26
-      - 💫日月💫优选💫27
-      - 💫日月💫优选💫28
-      - 💫日月💫优选💫29
-      - 💫日月💫优选💫30
-      - 💫日月💫优选💫31
-      - 💫日月💫优选💫32
-      - 💫日月💫优选💫33
-      - 💫日月💫优选💫34
-      - 💫日月💫优选💫35
-      - 💫日月💫优选💫36
-      - 💫日月💫优选💫37
-      - 💫日月💫优选💫38
-      - 💫日月💫优选💫39
-      - 💫日月💫优选💫40
-      - 💫日月💫优选💫41
-      - 💫日月💫优选💫42
-      - 💫日月💫优选💫43
-      - 💫日月💫优选💫44
-      - 💫日月💫优选💫45
-      - 💫日月💫优选💫46
-      - 💫日月💫优选💫47
-      - 💫日月💫优选💫48
-      - 💫日月💫优选💫49
-      - 💫日月💫优选💫50
-      - 💫日月💫优选💫51
-      - 💫日月💫优选💫52
-      - 💫日月💫优选💫53
-      - 💫日月💫优选💫54
-      - 💫日月💫优选💫55
-      - 💫日月💫优选💫56
-      - 💫日月💫优选💫57
-      - 💫日月💫优选💫58
-      - 💫日月💫优选💫59
-      - 💫日月💫优选💫60
-      - 💫日月💫优选💫61
-      - 💫日月💫优选💫62
-      - 💫日月💫优选💫63
-      - 💫日月💫优选💫64
-      - 💫日月💫优选💫65
-      - 💫日月💫优选💫66
-      - 💫日月💫优选💫67
-      - 💫日月💫优选💫68
-      - 💫日月💫优选💫69
-      - 💫日月💫优选💫70
-      - 💫日月💫优选💫71
-      - 💫日月💫优选💫72
-      - 💫日月💫优选💫73
-      - 💫日月💫优选💫74
-      - 💫日月💫优选💫75
-      - 💫日月💫优选💫76
-      - 💫日月💫优选💫77
-      - 💫日月💫优选💫78
-      - 💫日月💫优选💫79
-      - 💫日月💫优选💫80
-      - 💫日月💫优选💫81
-      - 💫日月💫优选💫82
-      - 💫日月💫优选💫83
-      - 💫日月💫优选💫84
-      - 💫日月💫优选💫85
-      - 💫日月💫优选💫86
-      - 💫日月💫优选💫87
-      - 💫日月💫优选💫88
-      - 💫日月💫优选💫89
-      - 💫日月💫优选💫90
-      - 💫日月💫优选💫91
-      - 💫日月💫优选💫92
-      - 💫日月💫优选💫93
-      - 💫日月💫优选💫94
-      - 💫日月💫优选💫95
-      - 💫日月💫优选💫96
-      - 💫日月💫优选💫97
-      - 💫日月💫优选💫98
-      - 💫日月💫优选💫99
-      - 💫日月💫优选💫100
-      - 💫日月💫优选💫101
-      - 💫日月💫优选💫102
+      - 💫星月💫优选💫1
+      - 💫星月💫优选💫2
+      - 💫星月💫优选💫3
+      - 💫星月💫优选💫4
+      - 💫星月💫优选💫5
+      - 💫星月💫优选💫6
+      - 💫星月💫优选💫7
+      - 💫星月💫优选💫8
+      - 💫星月💫优选💫9
+      - 💫星月💫优选💫10
+      - 💫星月💫优选💫11
+      - 💫星月💫优选💫12
+      - 💫星月💫优选💫13
+      - 💫星月💫优选💫14
+      - 💫星月💫优选💫15
+      - 💫星月💫优选💫16
+      - 💫星月💫优选💫17
+      - 💫星月💫优选💫18
+      - 💫星月💫优选💫19
+      - 💫星月💫优选💫20
+      - 💫星月💫优选💫21
+      - 💫星月💫优选💫22
+      - 💫星月💫优选💫23
+      - 💫星月💫优选💫24
+      - 💫星月💫优选💫25
+      - 💫星月💫优选💫26
+      - 💫星月💫优选💫27
+      - 💫星月💫优选💫28
+      - 💫星月💫优选💫29
+      - 💫星月💫优选💫30
+      - 💫星月💫优选💫31
+      - 💫星月💫优选💫32
+      - 💫星月💫优选💫33
+      - 💫星月💫优选💫34
+      - 💫星月💫优选💫35
+      - 💫星月💫优选💫36
+      - 💫星月💫优选💫37
+      - 💫星月💫优选💫38
+      - 💫星月💫优选💫39
+      - 💫星月💫优选💫40
+      - 💫星月💫优选💫41
+      - 💫星月💫优选💫42
+      - 💫星月💫优选💫43
+      - 💫星月💫优选💫44
+      - 💫星月💫优选💫45
+      - 💫星月💫优选💫46
+      - 💫星月💫优选💫47
+      - 💫星月💫优选💫48
+      - 💫星月💫优选💫49
+      - 💫星月💫优选💫50
+      - 💫星月💫优选💫51
+      - 💫星月💫优选💫52
+      - 💫星月💫优选💫53
+      - 💫星月💫优选💫54
+      - 💫星月💫优选💫55
+      - 💫星月💫优选💫56
+      - 💫星月💫优选💫57
+      - 💫星月💫优选💫58
+      - 💫星月💫优选💫59
+      - 💫星月💫优选💫60
+      - 💫星月💫优选💫61
+      - 💫星月💫优选💫62
+      - 💫星月💫优选💫63
+      - 💫星月💫优选💫64
+      - 💫星月💫优选💫65
+      - 💫星月💫优选💫66
+      - 💫星月💫优选💫67
+      - 💫星月💫优选💫68
+      - 💫星月💫优选💫69
+      - 💫星月💫优选💫70
+      - 💫星月💫优选💫71
+      - 💫星月💫优选💫72
+      - 💫星月💫优选💫73
+      - 💫星月💫优选💫74
+      - 💫星月💫优选💫75
+      - 💫星月💫优选💫76
+      - 💫星月💫优选💫77
+      - 💫星月💫优选💫78
+      - 💫星月💫优选💫79
+      - 💫星月💫优选💫80
+      - 💫星月💫优选💫81
+      - 💫星月💫优选💫82
+      - 💫星月💫优选💫83
+      - 💫星月💫优选💫84
+      - 💫星月💫优选💫85
+      - 💫星月💫优选💫86
+      - 💫星月💫优选💫87
+      - 💫星月💫优选💫88
+      - 💫星月💫优选💫89
+      - 💫星月💫优选💫90
+      - 💫星月💫优选💫91
+      - 💫星月💫优选💫92
+      - 💫星月💫优选💫93
+      - 💫星月💫优选💫94
+      - 💫星月💫优选💫95
+      - 💫星月💫优选💫96
+      - 💫星月💫优选💫97
+      - 💫星月💫优选💫98
+      - 💫星月💫优选💫99
+      - 💫星月💫优选💫100
+      - 💫星月💫优选💫101
+      - 💫星月💫优选💫102
+      - 💫星月💫优选💫103
+      - 💫星月💫优选💫104
+      - 💫星月💫优选💫105
+      - 💫星月💫优选💫106
+      - 💫星月💫优选💫107
+      - 💫星月💫优选💫108
+      - 💫星月💫优选💫109
+      - 💫星月💫优选💫110
+      - 💫星月💫优选💫111
+      - 💫星月💫优选💫112
+      - 💫星月💫优选💫113
+      - 💫星月💫优选💫114
+      - 💫星月💫优选💫115
+      - 💫星月💫优选💫116
+      - 💫星月💫优选💫117
+      - 💫星月💫优选💫118
+      - 💫星月💫优选💫119
+      - 💫星月💫优选💫120
+      - 💫星月💫优选💫121
+      - 💫星月💫优选💫122
+      - 💫星月💫优选💫123
+      - 💫星月💫优选💫124
+      - 💫星月💫优选💫125
+      - 💫星月💫优选💫126
+      - 💫星月💫优选💫127
+      - 💫星月💫优选💫128
+      - 💫星月💫优选💫129
+      - 💫星月💫优选💫130
+      - 💫星月💫优选💫131
+      - 💫星月💫优选💫132
+      - 💫星月💫优选💫133
+      - 💫星月💫优选💫134
+      - 💫星月💫优选💫135
+      - 💫星月💫优选💫136
+      - 💫星月💫优选💫137
+      - 💫星月💫优选💫138
+      - 💫星月💫优选💫139
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 💫日月💫优选💫1
-      - 💫日月💫优选💫2
-      - 💫日月💫优选💫3
-      - 💫日月💫优选💫4
-      - 💫日月💫优选💫5
-      - 💫日月💫优选💫6
-      - 💫日月💫优选💫7
-      - 💫日月💫优选💫8
-      - 💫日月💫优选💫9
-      - 💫日月💫优选💫10
-      - 💫日月💫优选💫11
-      - 💫日月💫优选💫12
-      - 💫日月💫优选💫13
-      - 💫日月💫优选💫14
-      - 💫日月💫优选💫15
-      - 💫日月💫优选💫16
-      - 💫日月💫优选💫17
-      - 💫日月💫优选💫18
-      - 💫日月💫优选💫19
-      - 💫日月💫优选💫20
-      - 💫日月💫优选💫21
-      - 💫日月💫优选💫22
-      - 💫日月💫优选💫23
-      - 💫日月💫优选💫24
-      - 💫日月💫优选💫25
-      - 💫日月💫优选💫26
-      - 💫日月💫优选💫27
-      - 💫日月💫优选💫28
-      - 💫日月💫优选💫29
-      - 💫日月💫优选💫30
-      - 💫日月💫优选💫31
-      - 💫日月💫优选💫32
-      - 💫日月💫优选💫33
-      - 💫日月💫优选💫34
-      - 💫日月💫优选💫35
-      - 💫日月💫优选💫36
-      - 💫日月💫优选💫37
-      - 💫日月💫优选💫38
-      - 💫日月💫优选💫39
-      - 💫日月💫优选💫40
-      - 💫日月💫优选💫41
-      - 💫日月💫优选💫42
-      - 💫日月💫优选💫43
-      - 💫日月💫优选💫44
-      - 💫日月💫优选💫45
-      - 💫日月💫优选💫46
-      - 💫日月💫优选💫47
-      - 💫日月💫优选💫48
-      - 💫日月💫优选💫49
-      - 💫日月💫优选💫50
-      - 💫日月💫优选💫51
-      - 💫日月💫优选💫52
-      - 💫日月💫优选💫53
-      - 💫日月💫优选💫54
-      - 💫日月💫优选💫55
-      - 💫日月💫优选💫56
-      - 💫日月💫优选💫57
-      - 💫日月💫优选💫58
-      - 💫日月💫优选💫59
-      - 💫日月💫优选💫60
-      - 💫日月💫优选💫61
-      - 💫日月💫优选💫62
-      - 💫日月💫优选💫63
-      - 💫日月💫优选💫64
-      - 💫日月💫优选💫65
-      - 💫日月💫优选💫66
-      - 💫日月💫优选💫67
-      - 💫日月💫优选💫68
-      - 💫日月💫优选💫69
-      - 💫日月💫优选💫70
-      - 💫日月💫优选💫71
-      - 💫日月💫优选💫72
-      - 💫日月💫优选💫73
-      - 💫日月💫优选💫74
-      - 💫日月💫优选💫75
-      - 💫日月💫优选💫76
-      - 💫日月💫优选💫77
-      - 💫日月💫优选💫78
-      - 💫日月💫优选💫79
-      - 💫日月💫优选💫80
-      - 💫日月💫优选💫81
-      - 💫日月💫优选💫82
-      - 💫日月💫优选💫83
-      - 💫日月💫优选💫84
-      - 💫日月💫优选💫85
-      - 💫日月💫优选💫86
-      - 💫日月💫优选💫87
-      - 💫日月💫优选💫88
-      - 💫日月💫优选💫89
-      - 💫日月💫优选💫90
-      - 💫日月💫优选💫91
-      - 💫日月💫优选💫92
-      - 💫日月💫优选💫93
-      - 💫日月💫优选💫94
-      - 💫日月💫优选💫95
-      - 💫日月💫优选💫96
-      - 💫日月💫优选💫97
-      - 💫日月💫优选💫98
-      - 💫日月💫优选💫99
-      - 💫日月💫优选💫100
-      - 💫日月💫优选💫101
-      - 💫日月💫优选💫102
+      - 💫星月💫优选💫1
+      - 💫星月💫优选💫2
+      - 💫星月💫优选💫3
+      - 💫星月💫优选💫4
+      - 💫星月💫优选💫5
+      - 💫星月💫优选💫6
+      - 💫星月💫优选💫7
+      - 💫星月💫优选💫8
+      - 💫星月💫优选💫9
+      - 💫星月💫优选💫10
+      - 💫星月💫优选💫11
+      - 💫星月💫优选💫12
+      - 💫星月💫优选💫13
+      - 💫星月💫优选💫14
+      - 💫星月💫优选💫15
+      - 💫星月💫优选💫16
+      - 💫星月💫优选💫17
+      - 💫星月💫优选💫18
+      - 💫星月💫优选💫19
+      - 💫星月💫优选💫20
+      - 💫星月💫优选💫21
+      - 💫星月💫优选💫22
+      - 💫星月💫优选💫23
+      - 💫星月💫优选💫24
+      - 💫星月💫优选💫25
+      - 💫星月💫优选💫26
+      - 💫星月💫优选💫27
+      - 💫星月💫优选💫28
+      - 💫星月💫优选💫29
+      - 💫星月💫优选💫30
+      - 💫星月💫优选💫31
+      - 💫星月💫优选💫32
+      - 💫星月💫优选💫33
+      - 💫星月💫优选💫34
+      - 💫星月💫优选💫35
+      - 💫星月💫优选💫36
+      - 💫星月💫优选💫37
+      - 💫星月💫优选💫38
+      - 💫星月💫优选💫39
+      - 💫星月💫优选💫40
+      - 💫星月💫优选💫41
+      - 💫星月💫优选💫42
+      - 💫星月💫优选💫43
+      - 💫星月💫优选💫44
+      - 💫星月💫优选💫45
+      - 💫星月💫优选💫46
+      - 💫星月💫优选💫47
+      - 💫星月💫优选💫48
+      - 💫星月💫优选💫49
+      - 💫星月💫优选💫50
+      - 💫星月💫优选💫51
+      - 💫星月💫优选💫52
+      - 💫星月💫优选💫53
+      - 💫星月💫优选💫54
+      - 💫星月💫优选💫55
+      - 💫星月💫优选💫56
+      - 💫星月💫优选💫57
+      - 💫星月💫优选💫58
+      - 💫星月💫优选💫59
+      - 💫星月💫优选💫60
+      - 💫星月💫优选💫61
+      - 💫星月💫优选💫62
+      - 💫星月💫优选💫63
+      - 💫星月💫优选💫64
+      - 💫星月💫优选💫65
+      - 💫星月💫优选💫66
+      - 💫星月💫优选💫67
+      - 💫星月💫优选💫68
+      - 💫星月💫优选💫69
+      - 💫星月💫优选💫70
+      - 💫星月💫优选💫71
+      - 💫星月💫优选💫72
+      - 💫星月💫优选💫73
+      - 💫星月💫优选💫74
+      - 💫星月💫优选💫75
+      - 💫星月💫优选💫76
+      - 💫星月💫优选💫77
+      - 💫星月💫优选💫78
+      - 💫星月💫优选💫79
+      - 💫星月💫优选💫80
+      - 💫星月💫优选💫81
+      - 💫星月💫优选💫82
+      - 💫星月💫优选💫83
+      - 💫星月💫优选💫84
+      - 💫星月💫优选💫85
+      - 💫星月💫优选💫86
+      - 💫星月💫优选💫87
+      - 💫星月💫优选💫88
+      - 💫星月💫优选💫89
+      - 💫星月💫优选💫90
+      - 💫星月💫优选💫91
+      - 💫星月💫优选💫92
+      - 💫星月💫优选💫93
+      - 💫星月💫优选💫94
+      - 💫星月💫优选💫95
+      - 💫星月💫优选💫96
+      - 💫星月💫优选💫97
+      - 💫星月💫优选💫98
+      - 💫星月💫优选💫99
+      - 💫星月💫优选💫100
+      - 💫星月💫优选💫101
+      - 💫星月💫优选💫102
+      - 💫星月💫优选💫103
+      - 💫星月💫优选💫104
+      - 💫星月💫优选💫105
+      - 💫星月💫优选💫106
+      - 💫星月💫优选💫107
+      - 💫星月💫优选💫108
+      - 💫星月💫优选💫109
+      - 💫星月💫优选💫110
+      - 💫星月💫优选💫111
+      - 💫星月💫优选💫112
+      - 💫星月💫优选💫113
+      - 💫星月💫优选💫114
+      - 💫星月💫优选💫115
+      - 💫星月💫优选💫116
+      - 💫星月💫优选💫117
+      - 💫星月💫优选💫118
+      - 💫星月💫优选💫119
+      - 💫星月💫优选💫120
+      - 💫星月💫优选💫121
+      - 💫星月💫优选💫122
+      - 💫星月💫优选💫123
+      - 💫星月💫优选💫124
+      - 💫星月💫优选💫125
+      - 💫星月💫优选💫126
+      - 💫星月💫优选💫127
+      - 💫星月💫优选💫128
+      - 💫星月💫优选💫129
+      - 💫星月💫优选💫130
+      - 💫星月💫优选💫131
+      - 💫星月💫优选💫132
+      - 💫星月💫优选💫133
+      - 💫星月💫优选💫134
+      - 💫星月💫优选💫135
+      - 💫星月💫优选💫136
+      - 💫星月💫优选💫137
+      - 💫星月💫优选💫138
+      - 💫星月💫优选💫139
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 💫日月💫优选💫1
-      - 💫日月💫优选💫2
-      - 💫日月💫优选💫3
-      - 💫日月💫优选💫4
-      - 💫日月💫优选💫5
-      - 💫日月💫优选💫6
-      - 💫日月💫优选💫7
-      - 💫日月💫优选💫8
-      - 💫日月💫优选💫9
-      - 💫日月💫优选💫10
-      - 💫日月💫优选💫11
-      - 💫日月💫优选💫12
-      - 💫日月💫优选💫13
-      - 💫日月💫优选💫14
-      - 💫日月💫优选💫15
-      - 💫日月💫优选💫16
-      - 💫日月💫优选💫17
-      - 💫日月💫优选💫18
-      - 💫日月💫优选💫19
-      - 💫日月💫优选💫20
-      - 💫日月💫优选💫21
-      - 💫日月💫优选💫22
-      - 💫日月💫优选💫23
-      - 💫日月💫优选💫24
-      - 💫日月💫优选💫25
-      - 💫日月💫优选💫26
-      - 💫日月💫优选💫27
-      - 💫日月💫优选💫28
-      - 💫日月💫优选💫29
-      - 💫日月💫优选💫30
-      - 💫日月💫优选💫31
-      - 💫日月💫优选💫32
-      - 💫日月💫优选💫33
-      - 💫日月💫优选💫34
-      - 💫日月💫优选💫35
-      - 💫日月💫优选💫36
-      - 💫日月💫优选💫37
-      - 💫日月💫优选💫38
-      - 💫日月💫优选💫39
-      - 💫日月💫优选💫40
-      - 💫日月💫优选💫41
-      - 💫日月💫优选💫42
-      - 💫日月💫优选💫43
-      - 💫日月💫优选💫44
-      - 💫日月💫优选💫45
-      - 💫日月💫优选💫46
-      - 💫日月💫优选💫47
-      - 💫日月💫优选💫48
-      - 💫日月💫优选💫49
-      - 💫日月💫优选💫50
-      - 💫日月💫优选💫51
-      - 💫日月💫优选💫52
-      - 💫日月💫优选💫53
-      - 💫日月💫优选💫54
-      - 💫日月💫优选💫55
-      - 💫日月💫优选💫56
-      - 💫日月💫优选💫57
-      - 💫日月💫优选💫58
-      - 💫日月💫优选💫59
-      - 💫日月💫优选💫60
-      - 💫日月💫优选💫61
-      - 💫日月💫优选💫62
-      - 💫日月💫优选💫63
-      - 💫日月💫优选💫64
-      - 💫日月💫优选💫65
-      - 💫日月💫优选💫66
-      - 💫日月💫优选💫67
-      - 💫日月💫优选💫68
-      - 💫日月💫优选💫69
-      - 💫日月💫优选💫70
-      - 💫日月💫优选💫71
-      - 💫日月💫优选💫72
-      - 💫日月💫优选💫73
-      - 💫日月💫优选💫74
-      - 💫日月💫优选💫75
-      - 💫日月💫优选💫76
-      - 💫日月💫优选💫77
-      - 💫日月💫优选💫78
-      - 💫日月💫优选💫79
-      - 💫日月💫优选💫80
-      - 💫日月💫优选💫81
-      - 💫日月💫优选💫82
-      - 💫日月💫优选💫83
-      - 💫日月💫优选💫84
-      - 💫日月💫优选💫85
-      - 💫日月💫优选💫86
-      - 💫日月💫优选💫87
-      - 💫日月💫优选💫88
-      - 💫日月💫优选💫89
-      - 💫日月💫优选💫90
-      - 💫日月💫优选💫91
-      - 💫日月💫优选💫92
-      - 💫日月💫优选💫93
-      - 💫日月💫优选💫94
-      - 💫日月💫优选💫95
-      - 💫日月💫优选💫96
-      - 💫日月💫优选💫97
-      - 💫日月💫优选💫98
-      - 💫日月💫优选💫99
-      - 💫日月💫优选💫100
-      - 💫日月💫优选💫101
-      - 💫日月💫优选💫102
+      - 💫星月💫优选💫1
+      - 💫星月💫优选💫2
+      - 💫星月💫优选💫3
+      - 💫星月💫优选💫4
+      - 💫星月💫优选💫5
+      - 💫星月💫优选💫6
+      - 💫星月💫优选💫7
+      - 💫星月💫优选💫8
+      - 💫星月💫优选💫9
+      - 💫星月💫优选💫10
+      - 💫星月💫优选💫11
+      - 💫星月💫优选💫12
+      - 💫星月💫优选💫13
+      - 💫星月💫优选💫14
+      - 💫星月💫优选💫15
+      - 💫星月💫优选💫16
+      - 💫星月💫优选💫17
+      - 💫星月💫优选💫18
+      - 💫星月💫优选💫19
+      - 💫星月💫优选💫20
+      - 💫星月💫优选💫21
+      - 💫星月💫优选💫22
+      - 💫星月💫优选💫23
+      - 💫星月💫优选💫24
+      - 💫星月💫优选💫25
+      - 💫星月💫优选💫26
+      - 💫星月💫优选💫27
+      - 💫星月💫优选💫28
+      - 💫星月💫优选💫29
+      - 💫星月💫优选💫30
+      - 💫星月💫优选💫31
+      - 💫星月💫优选💫32
+      - 💫星月💫优选💫33
+      - 💫星月💫优选💫34
+      - 💫星月💫优选💫35
+      - 💫星月💫优选💫36
+      - 💫星月💫优选💫37
+      - 💫星月💫优选💫38
+      - 💫星月💫优选💫39
+      - 💫星月💫优选💫40
+      - 💫星月💫优选💫41
+      - 💫星月💫优选💫42
+      - 💫星月💫优选💫43
+      - 💫星月💫优选💫44
+      - 💫星月💫优选💫45
+      - 💫星月💫优选💫46
+      - 💫星月💫优选💫47
+      - 💫星月💫优选💫48
+      - 💫星月💫优选💫49
+      - 💫星月💫优选💫50
+      - 💫星月💫优选💫51
+      - 💫星月💫优选💫52
+      - 💫星月💫优选💫53
+      - 💫星月💫优选💫54
+      - 💫星月💫优选💫55
+      - 💫星月💫优选💫56
+      - 💫星月💫优选💫57
+      - 💫星月💫优选💫58
+      - 💫星月💫优选💫59
+      - 💫星月💫优选💫60
+      - 💫星月💫优选💫61
+      - 💫星月💫优选💫62
+      - 💫星月💫优选💫63
+      - 💫星月💫优选💫64
+      - 💫星月💫优选💫65
+      - 💫星月💫优选💫66
+      - 💫星月💫优选💫67
+      - 💫星月💫优选💫68
+      - 💫星月💫优选💫69
+      - 💫星月💫优选💫70
+      - 💫星月💫优选💫71
+      - 💫星月💫优选💫72
+      - 💫星月💫优选💫73
+      - 💫星月💫优选💫74
+      - 💫星月💫优选💫75
+      - 💫星月💫优选💫76
+      - 💫星月💫优选💫77
+      - 💫星月💫优选💫78
+      - 💫星月💫优选💫79
+      - 💫星月💫优选💫80
+      - 💫星月💫优选💫81
+      - 💫星月💫优选💫82
+      - 💫星月💫优选💫83
+      - 💫星月💫优选💫84
+      - 💫星月💫优选💫85
+      - 💫星月💫优选💫86
+      - 💫星月💫优选💫87
+      - 💫星月💫优选💫88
+      - 💫星月💫优选💫89
+      - 💫星月💫优选💫90
+      - 💫星月💫优选💫91
+      - 💫星月💫优选💫92
+      - 💫星月💫优选💫93
+      - 💫星月💫优选💫94
+      - 💫星月💫优选💫95
+      - 💫星月💫优选💫96
+      - 💫星月💫优选💫97
+      - 💫星月💫优选💫98
+      - 💫星月💫优选💫99
+      - 💫星月💫优选💫100
+      - 💫星月💫优选💫101
+      - 💫星月💫优选💫102
+      - 💫星月💫优选💫103
+      - 💫星月💫优选💫104
+      - 💫星月💫优选💫105
+      - 💫星月💫优选💫106
+      - 💫星月💫优选💫107
+      - 💫星月💫优选💫108
+      - 💫星月💫优选💫109
+      - 💫星月💫优选💫110
+      - 💫星月💫优选💫111
+      - 💫星月💫优选💫112
+      - 💫星月💫优选💫113
+      - 💫星月💫优选💫114
+      - 💫星月💫优选💫115
+      - 💫星月💫优选💫116
+      - 💫星月💫优选💫117
+      - 💫星月💫优选💫118
+      - 💫星月💫优选💫119
+      - 💫星月💫优选💫120
+      - 💫星月💫优选💫121
+      - 💫星月💫优选💫122
+      - 💫星月💫优选💫123
+      - 💫星月💫优选💫124
+      - 💫星月💫优选💫125
+      - 💫星月💫优选💫126
+      - 💫星月💫优选💫127
+      - 💫星月💫优选💫128
+      - 💫星月💫优选💫129
+      - 💫星月💫优选💫130
+      - 💫星月💫优选💫131
+      - 💫星月💫优选💫132
+      - 💫星月💫优选💫133
+      - 💫星月💫优选💫134
+      - 💫星月💫优选💫135
+      - 💫星月💫优选💫136
+      - 💫星月💫优选💫137
+      - 💫星月💫优选💫138
+      - 💫星月💫优选💫139
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 💫日月💫优选💫1
-      - 💫日月💫优选💫2
-      - 💫日月💫优选💫3
-      - 💫日月💫优选💫4
-      - 💫日月💫优选💫5
-      - 💫日月💫优选💫6
-      - 💫日月💫优选💫7
-      - 💫日月💫优选💫8
-      - 💫日月💫优选💫9
-      - 💫日月💫优选💫10
-      - 💫日月💫优选💫11
-      - 💫日月💫优选💫12
-      - 💫日月💫优选💫13
-      - 💫日月💫优选💫14
-      - 💫日月💫优选💫15
-      - 💫日月💫优选💫16
-      - 💫日月💫优选💫17
-      - 💫日月💫优选💫18
-      - 💫日月💫优选💫19
-      - 💫日月💫优选💫20
-      - 💫日月💫优选💫21
-      - 💫日月💫优选💫22
-      - 💫日月💫优选💫23
-      - 💫日月💫优选💫24
-      - 💫日月💫优选💫25
-      - 💫日月💫优选💫26
-      - 💫日月💫优选💫27
-      - 💫日月💫优选💫28
-      - 💫日月💫优选💫29
-      - 💫日月💫优选💫30
-      - 💫日月💫优选💫31
-      - 💫日月💫优选💫32
-      - 💫日月💫优选💫33
-      - 💫日月💫优选💫34
-      - 💫日月💫优选💫35
-      - 💫日月💫优选💫36
-      - 💫日月💫优选💫37
-      - 💫日月💫优选💫38
-      - 💫日月💫优选💫39
-      - 💫日月💫优选💫40
-      - 💫日月💫优选💫41
-      - 💫日月💫优选💫42
-      - 💫日月💫优选💫43
-      - 💫日月💫优选💫44
-      - 💫日月💫优选💫45
-      - 💫日月💫优选💫46
-      - 💫日月💫优选💫47
-      - 💫日月💫优选💫48
-      - 💫日月💫优选💫49
-      - 💫日月💫优选💫50
-      - 💫日月💫优选💫51
-      - 💫日月💫优选💫52
-      - 💫日月💫优选💫53
-      - 💫日月💫优选💫54
-      - 💫日月💫优选💫55
-      - 💫日月💫优选💫56
-      - 💫日月💫优选💫57
-      - 💫日月💫优选💫58
-      - 💫日月💫优选💫59
-      - 💫日月💫优选💫60
-      - 💫日月💫优选💫61
-      - 💫日月💫优选💫62
-      - 💫日月💫优选💫63
-      - 💫日月💫优选💫64
-      - 💫日月💫优选💫65
-      - 💫日月💫优选💫66
-      - 💫日月💫优选💫67
-      - 💫日月💫优选💫68
-      - 💫日月💫优选💫69
-      - 💫日月💫优选💫70
-      - 💫日月💫优选💫71
-      - 💫日月💫优选💫72
-      - 💫日月💫优选💫73
-      - 💫日月💫优选💫74
-      - 💫日月💫优选💫75
-      - 💫日月💫优选💫76
-      - 💫日月💫优选💫77
-      - 💫日月💫优选💫78
-      - 💫日月💫优选💫79
-      - 💫日月💫优选💫80
-      - 💫日月💫优选💫81
-      - 💫日月💫优选💫82
-      - 💫日月💫优选💫83
-      - 💫日月💫优选💫84
-      - 💫日月💫优选💫85
-      - 💫日月💫优选💫86
-      - 💫日月💫优选💫87
-      - 💫日月💫优选💫88
-      - 💫日月💫优选💫89
-      - 💫日月💫优选💫90
-      - 💫日月💫优选💫91
-      - 💫日月💫优选💫92
-      - 💫日月💫优选💫93
-      - 💫日月💫优选💫94
-      - 💫日月💫优选💫95
-      - 💫日月💫优选💫96
-      - 💫日月💫优选💫97
-      - 💫日月💫优选💫98
-      - 💫日月💫优选💫99
-      - 💫日月💫优选💫100
-      - 💫日月💫优选💫101
-      - 💫日月💫优选💫102
+      - 💫星月💫优选💫1
+      - 💫星月💫优选💫2
+      - 💫星月💫优选💫3
+      - 💫星月💫优选💫4
+      - 💫星月💫优选💫5
+      - 💫星月💫优选💫6
+      - 💫星月💫优选💫7
+      - 💫星月💫优选💫8
+      - 💫星月💫优选💫9
+      - 💫星月💫优选💫10
+      - 💫星月💫优选💫11
+      - 💫星月💫优选💫12
+      - 💫星月💫优选💫13
+      - 💫星月💫优选💫14
+      - 💫星月💫优选💫15
+      - 💫星月💫优选💫16
+      - 💫星月💫优选💫17
+      - 💫星月💫优选💫18
+      - 💫星月💫优选💫19
+      - 💫星月💫优选💫20
+      - 💫星月💫优选💫21
+      - 💫星月💫优选💫22
+      - 💫星月💫优选💫23
+      - 💫星月💫优选💫24
+      - 💫星月💫优选💫25
+      - 💫星月💫优选💫26
+      - 💫星月💫优选💫27
+      - 💫星月💫优选💫28
+      - 💫星月💫优选💫29
+      - 💫星月💫优选💫30
+      - 💫星月💫优选💫31
+      - 💫星月💫优选💫32
+      - 💫星月💫优选💫33
+      - 💫星月💫优选💫34
+      - 💫星月💫优选💫35
+      - 💫星月💫优选💫36
+      - 💫星月💫优选💫37
+      - 💫星月💫优选💫38
+      - 💫星月💫优选💫39
+      - 💫星月💫优选💫40
+      - 💫星月💫优选💫41
+      - 💫星月💫优选💫42
+      - 💫星月💫优选💫43
+      - 💫星月💫优选💫44
+      - 💫星月💫优选💫45
+      - 💫星月💫优选💫46
+      - 💫星月💫优选💫47
+      - 💫星月💫优选💫48
+      - 💫星月💫优选💫49
+      - 💫星月💫优选💫50
+      - 💫星月💫优选💫51
+      - 💫星月💫优选💫52
+      - 💫星月💫优选💫53
+      - 💫星月💫优选💫54
+      - 💫星月💫优选💫55
+      - 💫星月💫优选💫56
+      - 💫星月💫优选💫57
+      - 💫星月💫优选💫58
+      - 💫星月💫优选💫59
+      - 💫星月💫优选💫60
+      - 💫星月💫优选💫61
+      - 💫星月💫优选💫62
+      - 💫星月💫优选💫63
+      - 💫星月💫优选💫64
+      - 💫星月💫优选💫65
+      - 💫星月💫优选💫66
+      - 💫星月💫优选💫67
+      - 💫星月💫优选💫68
+      - 💫星月💫优选💫69
+      - 💫星月💫优选💫70
+      - 💫星月💫优选💫71
+      - 💫星月💫优选💫72
+      - 💫星月💫优选💫73
+      - 💫星月💫优选💫74
+      - 💫星月💫优选💫75
+      - 💫星月💫优选💫76
+      - 💫星月💫优选💫77
+      - 💫星月💫优选💫78
+      - 💫星月💫优选💫79
+      - 💫星月💫优选💫80
+      - 💫星月💫优选💫81
+      - 💫星月💫优选💫82
+      - 💫星月💫优选💫83
+      - 💫星月💫优选💫84
+      - 💫星月💫优选💫85
+      - 💫星月💫优选💫86
+      - 💫星月💫优选💫87
+      - 💫星月💫优选💫88
+      - 💫星月💫优选💫89
+      - 💫星月💫优选💫90
+      - 💫星月💫优选💫91
+      - 💫星月💫优选💫92
+      - 💫星月💫优选💫93
+      - 💫星月💫优选💫94
+      - 💫星月💫优选💫95
+      - 💫星月💫优选💫96
+      - 💫星月💫优选💫97
+      - 💫星月💫优选💫98
+      - 💫星月💫优选💫99
+      - 💫星月💫优选💫100
+      - 💫星月💫优选💫101
+      - 💫星月💫优选💫102
+      - 💫星月💫优选💫103
+      - 💫星月💫优选💫104
+      - 💫星月💫优选💫105
+      - 💫星月💫优选💫106
+      - 💫星月💫优选💫107
+      - 💫星月💫优选💫108
+      - 💫星月💫优选💫109
+      - 💫星月💫优选💫110
+      - 💫星月💫优选💫111
+      - 💫星月💫优选💫112
+      - 💫星月💫优选💫113
+      - 💫星月💫优选💫114
+      - 💫星月💫优选💫115
+      - 💫星月💫优选💫116
+      - 💫星月💫优选💫117
+      - 💫星月💫优选💫118
+      - 💫星月💫优选💫119
+      - 💫星月💫优选💫120
+      - 💫星月💫优选💫121
+      - 💫星月💫优选💫122
+      - 💫星月💫优选💫123
+      - 💫星月💫优选💫124
+      - 💫星月💫优选💫125
+      - 💫星月💫优选💫126
+      - 💫星月💫优选💫127
+      - 💫星月💫优选💫128
+      - 💫星月💫优选💫129
+      - 💫星月💫优选💫130
+      - 💫星月💫优选💫131
+      - 💫星月💫优选💫132
+      - 💫星月💫优选💫133
+      - 💫星月💫优选💫134
+      - 💫星月💫优选💫135
+      - 💫星月💫优选💫136
+      - 💫星月💫优选💫137
+      - 💫星月💫优选💫138
+      - 💫星月💫优选💫139
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 💫日月💫优选💫1
-      - 💫日月💫优选💫2
-      - 💫日月💫优选💫3
-      - 💫日月💫优选💫4
-      - 💫日月💫优选💫5
-      - 💫日月💫优选💫6
-      - 💫日月💫优选💫7
-      - 💫日月💫优选💫8
-      - 💫日月💫优选💫9
-      - 💫日月💫优选💫10
-      - 💫日月💫优选💫11
-      - 💫日月💫优选💫12
-      - 💫日月💫优选💫13
-      - 💫日月💫优选💫14
-      - 💫日月💫优选💫15
-      - 💫日月💫优选💫16
-      - 💫日月💫优选💫17
-      - 💫日月💫优选💫18
-      - 💫日月💫优选💫19
-      - 💫日月💫优选💫20
-      - 💫日月💫优选💫21
-      - 💫日月💫优选💫22
-      - 💫日月💫优选💫23
-      - 💫日月💫优选💫24
-      - 💫日月💫优选💫25
-      - 💫日月💫优选💫26
-      - 💫日月💫优选💫27
-      - 💫日月💫优选💫28
-      - 💫日月💫优选💫29
-      - 💫日月💫优选💫30
-      - 💫日月💫优选💫31
-      - 💫日月💫优选💫32
-      - 💫日月💫优选💫33
-      - 💫日月💫优选💫34
-      - 💫日月💫优选💫35
-      - 💫日月💫优选💫36
-      - 💫日月💫优选💫37
-      - 💫日月💫优选💫38
-      - 💫日月💫优选💫39
-      - 💫日月💫优选💫40
-      - 💫日月💫优选💫41
-      - 💫日月💫优选💫42
-      - 💫日月💫优选💫43
-      - 💫日月💫优选💫44
-      - 💫日月💫优选💫45
-      - 💫日月💫优选💫46
-      - 💫日月💫优选💫47
-      - 💫日月💫优选💫48
-      - 💫日月💫优选💫49
-      - 💫日月💫优选💫50
-      - 💫日月💫优选💫51
-      - 💫日月💫优选💫52
-      - 💫日月💫优选💫53
-      - 💫日月💫优选💫54
-      - 💫日月💫优选💫55
-      - 💫日月💫优选💫56
-      - 💫日月💫优选💫57
-      - 💫日月💫优选💫58
-      - 💫日月💫优选💫59
-      - 💫日月💫优选💫60
-      - 💫日月💫优选💫61
-      - 💫日月💫优选💫62
-      - 💫日月💫优选💫63
-      - 💫日月💫优选💫64
-      - 💫日月💫优选💫65
-      - 💫日月💫优选💫66
-      - 💫日月💫优选💫67
-      - 💫日月💫优选💫68
-      - 💫日月💫优选💫69
-      - 💫日月💫优选💫70
-      - 💫日月💫优选💫71
-      - 💫日月💫优选💫72
-      - 💫日月💫优选💫73
-      - 💫日月💫优选💫74
-      - 💫日月💫优选💫75
-      - 💫日月💫优选💫76
-      - 💫日月💫优选💫77
-      - 💫日月💫优选💫78
-      - 💫日月💫优选💫79
-      - 💫日月💫优选💫80
-      - 💫日月💫优选💫81
-      - 💫日月💫优选💫82
-      - 💫日月💫优选💫83
-      - 💫日月💫优选💫84
-      - 💫日月💫优选💫85
-      - 💫日月💫优选💫86
-      - 💫日月💫优选💫87
-      - 💫日月💫优选💫88
-      - 💫日月💫优选💫89
-      - 💫日月💫优选💫90
-      - 💫日月💫优选💫91
-      - 💫日月💫优选💫92
-      - 💫日月💫优选💫93
-      - 💫日月💫优选💫94
-      - 💫日月💫优选💫95
-      - 💫日月💫优选💫96
-      - 💫日月💫优选💫97
-      - 💫日月💫优选💫98
-      - 💫日月💫优选💫99
-      - 💫日月💫优选💫100
-      - 💫日月💫优选💫101
-      - 💫日月💫优选💫102
+      - 💫星月💫优选💫1
+      - 💫星月💫优选💫2
+      - 💫星月💫优选💫3
+      - 💫星月💫优选💫4
+      - 💫星月💫优选💫5
+      - 💫星月💫优选💫6
+      - 💫星月💫优选💫7
+      - 💫星月💫优选💫8
+      - 💫星月💫优选💫9
+      - 💫星月💫优选💫10
+      - 💫星月💫优选💫11
+      - 💫星月💫优选💫12
+      - 💫星月💫优选💫13
+      - 💫星月💫优选💫14
+      - 💫星月💫优选💫15
+      - 💫星月💫优选💫16
+      - 💫星月💫优选💫17
+      - 💫星月💫优选💫18
+      - 💫星月💫优选💫19
+      - 💫星月💫优选💫20
+      - 💫星月💫优选💫21
+      - 💫星月💫优选💫22
+      - 💫星月💫优选💫23
+      - 💫星月💫优选💫24
+      - 💫星月💫优选💫25
+      - 💫星月💫优选💫26
+      - 💫星月💫优选💫27
+      - 💫星月💫优选💫28
+      - 💫星月💫优选💫29
+      - 💫星月💫优选💫30
+      - 💫星月💫优选💫31
+      - 💫星月💫优选💫32
+      - 💫星月💫优选💫33
+      - 💫星月💫优选💫34
+      - 💫星月💫优选💫35
+      - 💫星月💫优选💫36
+      - 💫星月💫优选💫37
+      - 💫星月💫优选💫38
+      - 💫星月💫优选💫39
+      - 💫星月💫优选💫40
+      - 💫星月💫优选💫41
+      - 💫星月💫优选💫42
+      - 💫星月💫优选💫43
+      - 💫星月💫优选💫44
+      - 💫星月💫优选💫45
+      - 💫星月💫优选💫46
+      - 💫星月💫优选💫47
+      - 💫星月💫优选💫48
+      - 💫星月💫优选💫49
+      - 💫星月💫优选💫50
+      - 💫星月💫优选💫51
+      - 💫星月💫优选💫52
+      - 💫星月💫优选💫53
+      - 💫星月💫优选💫54
+      - 💫星月💫优选💫55
+      - 💫星月💫优选💫56
+      - 💫星月💫优选💫57
+      - 💫星月💫优选💫58
+      - 💫星月💫优选💫59
+      - 💫星月💫优选💫60
+      - 💫星月💫优选💫61
+      - 💫星月💫优选💫62
+      - 💫星月💫优选💫63
+      - 💫星月💫优选💫64
+      - 💫星月💫优选💫65
+      - 💫星月💫优选💫66
+      - 💫星月💫优选💫67
+      - 💫星月💫优选💫68
+      - 💫星月💫优选💫69
+      - 💫星月💫优选💫70
+      - 💫星月💫优选💫71
+      - 💫星月💫优选💫72
+      - 💫星月💫优选💫73
+      - 💫星月💫优选💫74
+      - 💫星月💫优选💫75
+      - 💫星月💫优选💫76
+      - 💫星月💫优选💫77
+      - 💫星月💫优选💫78
+      - 💫星月💫优选💫79
+      - 💫星月💫优选💫80
+      - 💫星月💫优选💫81
+      - 💫星月💫优选💫82
+      - 💫星月💫优选💫83
+      - 💫星月💫优选💫84
+      - 💫星月💫优选💫85
+      - 💫星月💫优选💫86
+      - 💫星月💫优选💫87
+      - 💫星月💫优选💫88
+      - 💫星月💫优选💫89
+      - 💫星月💫优选💫90
+      - 💫星月💫优选💫91
+      - 💫星月💫优选💫92
+      - 💫星月💫优选💫93
+      - 💫星月💫优选💫94
+      - 💫星月💫优选💫95
+      - 💫星月💫优选💫96
+      - 💫星月💫优选💫97
+      - 💫星月💫优选💫98
+      - 💫星月💫优选💫99
+      - 💫星月💫优选💫100
+      - 💫星月💫优选💫101
+      - 💫星月💫优选💫102
+      - 💫星月💫优选💫103
+      - 💫星月💫优选💫104
+      - 💫星月💫优选💫105
+      - 💫星月💫优选💫106
+      - 💫星月💫优选💫107
+      - 💫星月💫优选💫108
+      - 💫星月💫优选💫109
+      - 💫星月💫优选💫110
+      - 💫星月💫优选💫111
+      - 💫星月💫优选💫112
+      - 💫星月💫优选💫113
+      - 💫星月💫优选💫114
+      - 💫星月💫优选💫115
+      - 💫星月💫优选💫116
+      - 💫星月💫优选💫117
+      - 💫星月💫优选💫118
+      - 💫星月💫优选💫119
+      - 💫星月💫优选💫120
+      - 💫星月💫优选💫121
+      - 💫星月💫优选💫122
+      - 💫星月💫优选💫123
+      - 💫星月💫优选💫124
+      - 💫星月💫优选💫125
+      - 💫星月💫优选💫126
+      - 💫星月💫优选💫127
+      - 💫星月💫优选💫128
+      - 💫星月💫优选💫129
+      - 💫星月💫优选💫130
+      - 💫星月💫优选💫131
+      - 💫星月💫优选💫132
+      - 💫星月💫优选💫133
+      - 💫星月💫优选💫134
+      - 💫星月💫优选💫135
+      - 💫星月💫优选💫136
+      - 💫星月💫优选💫137
+      - 💫星月💫优选💫138
+      - 💫星月💫优选💫139
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 💫日月💫优选💫1
-      - 💫日月💫优选💫2
-      - 💫日月💫优选💫3
-      - 💫日月💫优选💫4
-      - 💫日月💫优选💫5
-      - 💫日月💫优选💫6
-      - 💫日月💫优选💫7
-      - 💫日月💫优选💫8
-      - 💫日月💫优选💫9
-      - 💫日月💫优选💫10
-      - 💫日月💫优选💫11
-      - 💫日月💫优选💫12
-      - 💫日月💫优选💫13
-      - 💫日月💫优选💫14
-      - 💫日月💫优选💫15
-      - 💫日月💫优选💫16
-      - 💫日月💫优选💫17
-      - 💫日月💫优选💫18
-      - 💫日月💫优选💫19
-      - 💫日月💫优选💫20
-      - 💫日月💫优选💫21
-      - 💫日月💫优选💫22
-      - 💫日月💫优选💫23
-      - 💫日月💫优选💫24
-      - 💫日月💫优选💫25
-      - 💫日月💫优选💫26
-      - 💫日月💫优选💫27
-      - 💫日月💫优选💫28
-      - 💫日月💫优选💫29
-      - 💫日月💫优选💫30
-      - 💫日月💫优选💫31
-      - 💫日月💫优选💫32
-      - 💫日月💫优选💫33
-      - 💫日月💫优选💫34
-      - 💫日月💫优选💫35
-      - 💫日月💫优选💫36
-      - 💫日月💫优选💫37
-      - 💫日月💫优选💫38
-      - 💫日月💫优选💫39
-      - 💫日月💫优选💫40
-      - 💫日月💫优选💫41
-      - 💫日月💫优选💫42
-      - 💫日月💫优选💫43
-      - 💫日月💫优选💫44
-      - 💫日月💫优选💫45
-      - 💫日月💫优选💫46
-      - 💫日月💫优选💫47
-      - 💫日月💫优选💫48
-      - 💫日月💫优选💫49
-      - 💫日月💫优选💫50
-      - 💫日月💫优选💫51
-      - 💫日月💫优选💫52
-      - 💫日月💫优选💫53
-      - 💫日月💫优选💫54
-      - 💫日月💫优选💫55
-      - 💫日月💫优选💫56
-      - 💫日月💫优选💫57
-      - 💫日月💫优选💫58
-      - 💫日月💫优选💫59
-      - 💫日月💫优选💫60
-      - 💫日月💫优选💫61
-      - 💫日月💫优选💫62
-      - 💫日月💫优选💫63
-      - 💫日月💫优选💫64
-      - 💫日月💫优选💫65
-      - 💫日月💫优选💫66
-      - 💫日月💫优选💫67
-      - 💫日月💫优选💫68
-      - 💫日月💫优选💫69
-      - 💫日月💫优选💫70
-      - 💫日月💫优选💫71
-      - 💫日月💫优选💫72
-      - 💫日月💫优选💫73
-      - 💫日月💫优选💫74
-      - 💫日月💫优选💫75
-      - 💫日月💫优选💫76
-      - 💫日月💫优选💫77
-      - 💫日月💫优选💫78
-      - 💫日月💫优选💫79
-      - 💫日月💫优选💫80
-      - 💫日月💫优选💫81
-      - 💫日月💫优选💫82
-      - 💫日月💫优选💫83
-      - 💫日月💫优选💫84
-      - 💫日月💫优选💫85
-      - 💫日月💫优选💫86
-      - 💫日月💫优选💫87
-      - 💫日月💫优选💫88
-      - 💫日月💫优选💫89
-      - 💫日月💫优选💫90
-      - 💫日月💫优选💫91
-      - 💫日月💫优选💫92
-      - 💫日月💫优选💫93
-      - 💫日月💫优选💫94
-      - 💫日月💫优选💫95
-      - 💫日月💫优选💫96
-      - 💫日月💫优选💫97
-      - 💫日月💫优选💫98
-      - 💫日月💫优选💫99
-      - 💫日月💫优选💫100
-      - 💫日月💫优选💫101
-      - 💫日月💫优选💫102
+      - 💫星月💫优选💫1
+      - 💫星月💫优选💫2
+      - 💫星月💫优选💫3
+      - 💫星月💫优选💫4
+      - 💫星月💫优选💫5
+      - 💫星月💫优选💫6
+      - 💫星月💫优选💫7
+      - 💫星月💫优选💫8
+      - 💫星月💫优选💫9
+      - 💫星月💫优选💫10
+      - 💫星月💫优选💫11
+      - 💫星月💫优选💫12
+      - 💫星月💫优选💫13
+      - 💫星月💫优选💫14
+      - 💫星月💫优选💫15
+      - 💫星月💫优选💫16
+      - 💫星月💫优选💫17
+      - 💫星月💫优选💫18
+      - 💫星月💫优选💫19
+      - 💫星月💫优选💫20
+      - 💫星月💫优选💫21
+      - 💫星月💫优选💫22
+      - 💫星月💫优选💫23
+      - 💫星月💫优选💫24
+      - 💫星月💫优选💫25
+      - 💫星月💫优选💫26
+      - 💫星月💫优选💫27
+      - 💫星月💫优选💫28
+      - 💫星月💫优选💫29
+      - 💫星月💫优选💫30
+      - 💫星月💫优选💫31
+      - 💫星月💫优选💫32
+      - 💫星月💫优选💫33
+      - 💫星月💫优选💫34
+      - 💫星月💫优选💫35
+      - 💫星月💫优选💫36
+      - 💫星月💫优选💫37
+      - 💫星月💫优选💫38
+      - 💫星月💫优选💫39
+      - 💫星月💫优选💫40
+      - 💫星月💫优选💫41
+      - 💫星月💫优选💫42
+      - 💫星月💫优选💫43
+      - 💫星月💫优选💫44
+      - 💫星月💫优选💫45
+      - 💫星月💫优选💫46
+      - 💫星月💫优选💫47
+      - 💫星月💫优选💫48
+      - 💫星月💫优选💫49
+      - 💫星月💫优选💫50
+      - 💫星月💫优选💫51
+      - 💫星月💫优选💫52
+      - 💫星月💫优选💫53
+      - 💫星月💫优选💫54
+      - 💫星月💫优选💫55
+      - 💫星月💫优选💫56
+      - 💫星月💫优选💫57
+      - 💫星月💫优选💫58
+      - 💫星月💫优选💫59
+      - 💫星月💫优选💫60
+      - 💫星月💫优选💫61
+      - 💫星月💫优选💫62
+      - 💫星月💫优选💫63
+      - 💫星月💫优选💫64
+      - 💫星月💫优选💫65
+      - 💫星月💫优选💫66
+      - 💫星月💫优选💫67
+      - 💫星月💫优选💫68
+      - 💫星月💫优选💫69
+      - 💫星月💫优选💫70
+      - 💫星月💫优选💫71
+      - 💫星月💫优选💫72
+      - 💫星月💫优选💫73
+      - 💫星月💫优选💫74
+      - 💫星月💫优选💫75
+      - 💫星月💫优选💫76
+      - 💫星月💫优选💫77
+      - 💫星月💫优选💫78
+      - 💫星月💫优选💫79
+      - 💫星月💫优选💫80
+      - 💫星月💫优选💫81
+      - 💫星月💫优选💫82
+      - 💫星月💫优选💫83
+      - 💫星月💫优选💫84
+      - 💫星月💫优选💫85
+      - 💫星月💫优选💫86
+      - 💫星月💫优选💫87
+      - 💫星月💫优选💫88
+      - 💫星月💫优选💫89
+      - 💫星月💫优选💫90
+      - 💫星月💫优选💫91
+      - 💫星月💫优选💫92
+      - 💫星月💫优选💫93
+      - 💫星月💫优选💫94
+      - 💫星月💫优选💫95
+      - 💫星月💫优选💫96
+      - 💫星月💫优选💫97
+      - 💫星月💫优选💫98
+      - 💫星月💫优选💫99
+      - 💫星月💫优选💫100
+      - 💫星月💫优选💫101
+      - 💫星月💫优选💫102
+      - 💫星月💫优选💫103
+      - 💫星月💫优选💫104
+      - 💫星月💫优选💫105
+      - 💫星月💫优选💫106
+      - 💫星月💫优选💫107
+      - 💫星月💫优选💫108
+      - 💫星月💫优选💫109
+      - 💫星月💫优选💫110
+      - 💫星月💫优选💫111
+      - 💫星月💫优选💫112
+      - 💫星月💫优选💫113
+      - 💫星月💫优选💫114
+      - 💫星月💫优选💫115
+      - 💫星月💫优选💫116
+      - 💫星月💫优选💫117
+      - 💫星月💫优选💫118
+      - 💫星月💫优选💫119
+      - 💫星月💫优选💫120
+      - 💫星月💫优选💫121
+      - 💫星月💫优选💫122
+      - 💫星月💫优选💫123
+      - 💫星月💫优选💫124
+      - 💫星月💫优选💫125
+      - 💫星月💫优选💫126
+      - 💫星月💫优选💫127
+      - 💫星月💫优选💫128
+      - 💫星月💫优选💫129
+      - 💫星月💫优选💫130
+      - 💫星月💫优选💫131
+      - 💫星月💫优选💫132
+      - 💫星月💫优选💫133
+      - 💫星月💫优选💫134
+      - 💫星月💫优选💫135
+      - 💫星月💫优选💫136
+      - 💫星月💫优选💫137
+      - 💫星月💫优选💫138
+      - 💫星月💫优选💫139
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -2131,108 +2945,145 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 💫日月💫优选💫1
-      - 💫日月💫优选💫2
-      - 💫日月💫优选💫3
-      - 💫日月💫优选💫4
-      - 💫日月💫优选💫5
-      - 💫日月💫优选💫6
-      - 💫日月💫优选💫7
-      - 💫日月💫优选💫8
-      - 💫日月💫优选💫9
-      - 💫日月💫优选💫10
-      - 💫日月💫优选💫11
-      - 💫日月💫优选💫12
-      - 💫日月💫优选💫13
-      - 💫日月💫优选💫14
-      - 💫日月💫优选💫15
-      - 💫日月💫优选💫16
-      - 💫日月💫优选💫17
-      - 💫日月💫优选💫18
-      - 💫日月💫优选💫19
-      - 💫日月💫优选💫20
-      - 💫日月💫优选💫21
-      - 💫日月💫优选💫22
-      - 💫日月💫优选💫23
-      - 💫日月💫优选💫24
-      - 💫日月💫优选💫25
-      - 💫日月💫优选💫26
-      - 💫日月💫优选💫27
-      - 💫日月💫优选💫28
-      - 💫日月💫优选💫29
-      - 💫日月💫优选💫30
-      - 💫日月💫优选💫31
-      - 💫日月💫优选💫32
-      - 💫日月💫优选💫33
-      - 💫日月💫优选💫34
-      - 💫日月💫优选💫35
-      - 💫日月💫优选💫36
-      - 💫日月💫优选💫37
-      - 💫日月💫优选💫38
-      - 💫日月💫优选💫39
-      - 💫日月💫优选💫40
-      - 💫日月💫优选💫41
-      - 💫日月💫优选💫42
-      - 💫日月💫优选💫43
-      - 💫日月💫优选💫44
-      - 💫日月💫优选💫45
-      - 💫日月💫优选💫46
-      - 💫日月💫优选💫47
-      - 💫日月💫优选💫48
-      - 💫日月💫优选💫49
-      - 💫日月💫优选💫50
-      - 💫日月💫优选💫51
-      - 💫日月💫优选💫52
-      - 💫日月💫优选💫53
-      - 💫日月💫优选💫54
-      - 💫日月💫优选💫55
-      - 💫日月💫优选💫56
-      - 💫日月💫优选💫57
-      - 💫日月💫优选💫58
-      - 💫日月💫优选💫59
-      - 💫日月💫优选💫60
-      - 💫日月💫优选💫61
-      - 💫日月💫优选💫62
-      - 💫日月💫优选💫63
-      - 💫日月💫优选💫64
-      - 💫日月💫优选💫65
-      - 💫日月💫优选💫66
-      - 💫日月💫优选💫67
-      - 💫日月💫优选💫68
-      - 💫日月💫优选💫69
-      - 💫日月💫优选💫70
-      - 💫日月💫优选💫71
-      - 💫日月💫优选💫72
-      - 💫日月💫优选💫73
-      - 💫日月💫优选💫74
-      - 💫日月💫优选💫75
-      - 💫日月💫优选💫76
-      - 💫日月💫优选💫77
-      - 💫日月💫优选💫78
-      - 💫日月💫优选💫79
-      - 💫日月💫优选💫80
-      - 💫日月💫优选💫81
-      - 💫日月💫优选💫82
-      - 💫日月💫优选💫83
-      - 💫日月💫优选💫84
-      - 💫日月💫优选💫85
-      - 💫日月💫优选💫86
-      - 💫日月💫优选💫87
-      - 💫日月💫优选💫88
-      - 💫日月💫优选💫89
-      - 💫日月💫优选💫90
-      - 💫日月💫优选💫91
-      - 💫日月💫优选💫92
-      - 💫日月💫优选💫93
-      - 💫日月💫优选💫94
-      - 💫日月💫优选💫95
-      - 💫日月💫优选💫96
-      - 💫日月💫优选💫97
-      - 💫日月💫优选💫98
-      - 💫日月💫优选💫99
-      - 💫日月💫优选💫100
-      - 💫日月💫优选💫101
-      - 💫日月💫优选💫102
+      - 💫星月💫优选💫1
+      - 💫星月💫优选💫2
+      - 💫星月💫优选💫3
+      - 💫星月💫优选💫4
+      - 💫星月💫优选💫5
+      - 💫星月💫优选💫6
+      - 💫星月💫优选💫7
+      - 💫星月💫优选💫8
+      - 💫星月💫优选💫9
+      - 💫星月💫优选💫10
+      - 💫星月💫优选💫11
+      - 💫星月💫优选💫12
+      - 💫星月💫优选💫13
+      - 💫星月💫优选💫14
+      - 💫星月💫优选💫15
+      - 💫星月💫优选💫16
+      - 💫星月💫优选💫17
+      - 💫星月💫优选💫18
+      - 💫星月💫优选💫19
+      - 💫星月💫优选💫20
+      - 💫星月💫优选💫21
+      - 💫星月💫优选💫22
+      - 💫星月💫优选💫23
+      - 💫星月💫优选💫24
+      - 💫星月💫优选💫25
+      - 💫星月💫优选💫26
+      - 💫星月💫优选💫27
+      - 💫星月💫优选💫28
+      - 💫星月💫优选💫29
+      - 💫星月💫优选💫30
+      - 💫星月💫优选💫31
+      - 💫星月💫优选💫32
+      - 💫星月💫优选💫33
+      - 💫星月💫优选💫34
+      - 💫星月💫优选💫35
+      - 💫星月💫优选💫36
+      - 💫星月💫优选💫37
+      - 💫星月💫优选💫38
+      - 💫星月💫优选💫39
+      - 💫星月💫优选💫40
+      - 💫星月💫优选💫41
+      - 💫星月💫优选💫42
+      - 💫星月💫优选💫43
+      - 💫星月💫优选💫44
+      - 💫星月💫优选💫45
+      - 💫星月💫优选💫46
+      - 💫星月💫优选💫47
+      - 💫星月💫优选💫48
+      - 💫星月💫优选💫49
+      - 💫星月💫优选💫50
+      - 💫星月💫优选💫51
+      - 💫星月💫优选💫52
+      - 💫星月💫优选💫53
+      - 💫星月💫优选💫54
+      - 💫星月💫优选💫55
+      - 💫星月💫优选💫56
+      - 💫星月💫优选💫57
+      - 💫星月💫优选💫58
+      - 💫星月💫优选💫59
+      - 💫星月💫优选💫60
+      - 💫星月💫优选💫61
+      - 💫星月💫优选💫62
+      - 💫星月💫优选💫63
+      - 💫星月💫优选💫64
+      - 💫星月💫优选💫65
+      - 💫星月💫优选💫66
+      - 💫星月💫优选💫67
+      - 💫星月💫优选💫68
+      - 💫星月💫优选💫69
+      - 💫星月💫优选💫70
+      - 💫星月💫优选💫71
+      - 💫星月💫优选💫72
+      - 💫星月💫优选💫73
+      - 💫星月💫优选💫74
+      - 💫星月💫优选💫75
+      - 💫星月💫优选💫76
+      - 💫星月💫优选💫77
+      - 💫星月💫优选💫78
+      - 💫星月💫优选💫79
+      - 💫星月💫优选💫80
+      - 💫星月💫优选💫81
+      - 💫星月💫优选💫82
+      - 💫星月💫优选💫83
+      - 💫星月💫优选💫84
+      - 💫星月💫优选💫85
+      - 💫星月💫优选💫86
+      - 💫星月💫优选💫87
+      - 💫星月💫优选💫88
+      - 💫星月💫优选💫89
+      - 💫星月💫优选💫90
+      - 💫星月💫优选💫91
+      - 💫星月💫优选💫92
+      - 💫星月💫优选💫93
+      - 💫星月💫优选💫94
+      - 💫星月💫优选💫95
+      - 💫星月💫优选💫96
+      - 💫星月💫优选💫97
+      - 💫星月💫优选💫98
+      - 💫星月💫优选💫99
+      - 💫星月💫优选💫100
+      - 💫星月💫优选💫101
+      - 💫星月💫优选💫102
+      - 💫星月💫优选💫103
+      - 💫星月💫优选💫104
+      - 💫星月💫优选💫105
+      - 💫星月💫优选💫106
+      - 💫星月💫优选💫107
+      - 💫星月💫优选💫108
+      - 💫星月💫优选💫109
+      - 💫星月💫优选💫110
+      - 💫星月💫优选💫111
+      - 💫星月💫优选💫112
+      - 💫星月💫优选💫113
+      - 💫星月💫优选💫114
+      - 💫星月💫优选💫115
+      - 💫星月💫优选💫116
+      - 💫星月💫优选💫117
+      - 💫星月💫优选💫118
+      - 💫星月💫优选💫119
+      - 💫星月💫优选💫120
+      - 💫星月💫优选💫121
+      - 💫星月💫优选💫122
+      - 💫星月💫优选💫123
+      - 💫星月💫优选💫124
+      - 💫星月💫优选💫125
+      - 💫星月💫优选💫126
+      - 💫星月💫优选💫127
+      - 💫星月💫优选💫128
+      - 💫星月💫优选💫129
+      - 💫星月💫优选💫130
+      - 💫星月💫优选💫131
+      - 💫星月💫优选💫132
+      - 💫星月💫优选💫133
+      - 💫星月💫优选💫134
+      - 💫星月💫优选💫135
+      - 💫星月💫优选💫136
+      - 💫星月💫优选💫137
+      - 💫星月💫优选💫138
+      - 💫星月💫优选💫139
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
