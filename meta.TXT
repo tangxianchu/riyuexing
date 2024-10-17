@@ -1,5 +1,5 @@
 # 模版名称：ACL4SSR_Online_Full_Google.ini
-# 生成时间：2024-10-17 21:13:05
+# 生成时间：2024-10-17 23:48:46
 # 不要随意改变关键字，否则会导致出错
 # acl4SSR规则
 # 去广告：支持
@@ -57,133 +57,71 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: "[Vless] 日月💫优选💫🇺🇸💫1"
+  - name: 三网自适应分流官方优选
     port: 443
-    server: Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz
+    server: cf.090227.xyz
     type: vless
     network: ws
     tls: true
     udp: true
     servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
+    skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫2"
+    client-fingerprint: random
+    tfo: false
+  - name: 电信官方优选
     port: 443
-    server: visa.cn
+    server: ct.090227.xyz
     type: vless
     network: ws
     tls: true
     udp: true
     servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
+    skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫3"
-    port: 8443
-    server: www.visa.com
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫4"
-    port: 2053
-    server: cis.visa.com
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫5"
-    port: 2083
-    server: africa.visa.com
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫6"
-    port: 2087
-    server: www.visa.com.sg
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫7"
-    port: 2096
-    server: www.visaeurope.at
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫8"
-    port: 8443
-    server: www.visa.com.mt
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫9"
+    client-fingerprint: random
+    tfo: false
+  - name: 移动官方优选
     port: 443
-    server: qa.visamiddleeast.com
+    server: cmcc.090227.xyz
     type: vless
     network: ws
     tls: true
     udp: true
     servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
+    skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫10"
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫
+    port: 443
+    server: shopify.com
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 2
     port: 443
     server: time.is
     type: vless
@@ -191,41 +129,15 @@ proxies:
     tls: true
     udp: true
     servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
+    skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫11"
-    port: 8443
-    server: www.wto.org
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫12"
-    port: 2087
-    server: chatgpt.com
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🇺🇸💫13"
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 3
     port: 443
     server: icook.hk
     type: vless
@@ -233,143 +145,765 @@ proxies:
     tls: true
     udp: true
     servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
+    skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-  - name: "[Vless] 日月💫优选💫🏳️💫14"
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 4
     port: 443
-    server: "2606:4700::"
+    server: icook.tw
     type: vless
     network: ws
     tls: true
     udp: true
     servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: false
+    skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 5
+    port: 443
+    server: ip.sb
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 6
+    port: 443
+    server: japan.com
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 7
+    port: 443
+    server: malaysia.com
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 8
+    port: 443
+    server: russia.com
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 9
+    port: 443
+    server: singapore.com
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 10
+    port: 443
+    server: skk.moe
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 11
+    port: 443
+    server: www.visa.com.sg
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 12
+    port: 443
+    server: www.visa.com.hk
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 13
+    port: 443
+    server: www.visa.com.tw
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 14
+    port: 443
+    server: www.visa.co.jp
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 15
+    port: 443
+    server: www.visakorea.com
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 16
+    port: 443
+    server: www.gco.gov.qa
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 17
+    port: 443
+    server: www.gov.se
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月优选⭐️💫 18
+    port: 443
+    server: www.gov.ua
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月提供维护官方优选
+    port: 443
+    server: cfip.xxxxxxxx.tk
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月提供维护官方优选⭐️💫
+    port: 443
+    server: bestcf.onecf.eu.org
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月提供维护官方优选💫
+    port: 443
+    server: cf.zhetengsha.eu.org
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月维护官方优选💫
+    port: 443
+    server: acjp2.cloudflarest.link
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 星月维护官方优选⭐️💫
+    port: 443
+    server: achk.cloudflarest.link
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月优选⭐️💫
+    port: 443
+    server: xn--b6gac.eu.org
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月优选⭐️💫 2
+    port: 443
+    server: yx.887141.xyz
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月优选⭐️💫 3
+    port: 443
+    server: 8.889288.xyz
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月优选⭐️💫 4
+    port: 443
+    server: cfip.1323123.xyz
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月优选⭐️💫 5
+    port: 443
+    server: cf.515188.xyz
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月优选⭐️💫 6
+    port: 443
+    server: cf-st.annoy.eu.org
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月优选⭐️💫 7
+    port: 443
+    server: cf.0sm.com
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月优选⭐️💫 8
+    port: 443
+    server: cf.877771.xyz
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月优选⭐️💫 9
+    port: 443
+    server: cf.345673.xyz
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月提供维护反代优选⭐️💫
+    port: 443
+    server: bestproxy.onecf.eu.org
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
+  - name: 日月提供维护反代优选⭐️💫 2
+    port: 443
+    server: proxy.xxxxxxxx.tk
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        Host: tangxianchu.filegear-sg.me
+    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
+    client-fingerprint: random
+    tfo: false
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - 三网自适应分流官方优选
+      - 电信官方优选
+      - 移动官方优选
+      - 星月优选⭐️💫
+      - 星月优选⭐️💫 2
+      - 星月优选⭐️💫 3
+      - 星月优选⭐️💫 4
+      - 星月优选⭐️💫 5
+      - 星月优选⭐️💫 6
+      - 星月优选⭐️💫 7
+      - 星月优选⭐️💫 8
+      - 星月优选⭐️💫 9
+      - 星月优选⭐️💫 10
+      - 星月优选⭐️💫 11
+      - 星月优选⭐️💫 12
+      - 星月优选⭐️💫 13
+      - 星月优选⭐️💫 14
+      - 星月优选⭐️💫 15
+      - 星月优选⭐️💫 16
+      - 星月优选⭐️💫 17
+      - 星月优选⭐️💫 18
+      - 日月提供维护官方优选
+      - 星月提供维护官方优选⭐️💫
+      - 日月提供维护官方优选💫
+      - 日月维护官方优选💫
+      - 星月维护官方优选⭐️💫
+      - 日月优选⭐️💫
+      - 日月优选⭐️💫 2
+      - 日月优选⭐️💫 3
+      - 日月优选⭐️💫 4
+      - 日月优选⭐️💫 5
+      - 日月优选⭐️💫 6
+      - 日月优选⭐️💫 7
+      - 日月优选⭐️💫 8
+      - 日月优选⭐️💫 9
+      - 日月提供维护反代优选⭐️💫
+      - 日月提供维护反代优选⭐️💫 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - 三网自适应分流官方优选
+      - 电信官方优选
+      - 移动官方优选
+      - 星月优选⭐️💫
+      - 星月优选⭐️💫 2
+      - 星月优选⭐️💫 3
+      - 星月优选⭐️💫 4
+      - 星月优选⭐️💫 5
+      - 星月优选⭐️💫 6
+      - 星月优选⭐️💫 7
+      - 星月优选⭐️💫 8
+      - 星月优选⭐️💫 9
+      - 星月优选⭐️💫 10
+      - 星月优选⭐️💫 11
+      - 星月优选⭐️💫 12
+      - 星月优选⭐️💫 13
+      - 星月优选⭐️💫 14
+      - 星月优选⭐️💫 15
+      - 星月优选⭐️💫 16
+      - 星月优选⭐️💫 17
+      - 星月优选⭐️💫 18
+      - 日月提供维护官方优选
+      - 星月提供维护官方优选⭐️💫
+      - 日月提供维护官方优选💫
+      - 日月维护官方优选💫
+      - 星月维护官方优选⭐️💫
+      - 日月优选⭐️💫
+      - 日月优选⭐️💫 2
+      - 日月优选⭐️💫 3
+      - 日月优选⭐️💫 4
+      - 日月优选⭐️💫 5
+      - 日月优选⭐️💫 6
+      - 日月优选⭐️💫 7
+      - 日月优选⭐️💫 8
+      - 日月优选⭐️💫 9
+      - 日月提供维护反代优选⭐️💫
+      - 日月提供维护反代优选⭐️💫 2
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - 三网自适应分流官方优选
+      - 电信官方优选
+      - 移动官方优选
+      - 星月优选⭐️💫
+      - 星月优选⭐️💫 2
+      - 星月优选⭐️💫 3
+      - 星月优选⭐️💫 4
+      - 星月优选⭐️💫 5
+      - 星月优选⭐️💫 6
+      - 星月优选⭐️💫 7
+      - 星月优选⭐️💫 8
+      - 星月优选⭐️💫 9
+      - 星月优选⭐️💫 10
+      - 星月优选⭐️💫 11
+      - 星月优选⭐️💫 12
+      - 星月优选⭐️💫 13
+      - 星月优选⭐️💫 14
+      - 星月优选⭐️💫 15
+      - 星月优选⭐️💫 16
+      - 星月优选⭐️💫 17
+      - 星月优选⭐️💫 18
+      - 日月提供维护官方优选
+      - 星月提供维护官方优选⭐️💫
+      - 日月提供维护官方优选💫
+      - 日月维护官方优选💫
+      - 星月维护官方优选⭐️💫
+      - 日月优选⭐️💫
+      - 日月优选⭐️💫 2
+      - 日月优选⭐️💫 3
+      - 日月优选⭐️💫 4
+      - 日月优选⭐️💫 5
+      - 日月优选⭐️💫 6
+      - 日月优选⭐️💫 7
+      - 日月优选⭐️💫 8
+      - 日月优选⭐️💫 9
+      - 日月提供维护反代优选⭐️💫
+      - 日月提供维护反代优选⭐️💫 2
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - 三网自适应分流官方优选
+      - 电信官方优选
+      - 移动官方优选
+      - 星月优选⭐️💫
+      - 星月优选⭐️💫 2
+      - 星月优选⭐️💫 3
+      - 星月优选⭐️💫 4
+      - 星月优选⭐️💫 5
+      - 星月优选⭐️💫 6
+      - 星月优选⭐️💫 7
+      - 星月优选⭐️💫 8
+      - 星月优选⭐️💫 9
+      - 星月优选⭐️💫 10
+      - 星月优选⭐️💫 11
+      - 星月优选⭐️💫 12
+      - 星月优选⭐️💫 13
+      - 星月优选⭐️💫 14
+      - 星月优选⭐️💫 15
+      - 星月优选⭐️💫 16
+      - 星月优选⭐️💫 17
+      - 星月优选⭐️💫 18
+      - 日月提供维护官方优选
+      - 星月提供维护官方优选⭐️💫
+      - 日月提供维护官方优选💫
+      - 日月维护官方优选💫
+      - 星月维护官方优选⭐️💫
+      - 日月优选⭐️💫
+      - 日月优选⭐️💫 2
+      - 日月优选⭐️💫 3
+      - 日月优选⭐️💫 4
+      - 日月优选⭐️💫 5
+      - 日月优选⭐️💫 6
+      - 日月优选⭐️💫 7
+      - 日月优选⭐️💫 8
+      - 日月优选⭐️💫 9
+      - 日月提供维护反代优选⭐️💫
+      - 日月提供维护反代优选⭐️💫 2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - 三网自适应分流官方优选
+      - 电信官方优选
+      - 移动官方优选
+      - 星月优选⭐️💫
+      - 星月优选⭐️💫 2
+      - 星月优选⭐️💫 3
+      - 星月优选⭐️💫 4
+      - 星月优选⭐️💫 5
+      - 星月优选⭐️💫 6
+      - 星月优选⭐️💫 7
+      - 星月优选⭐️💫 8
+      - 星月优选⭐️💫 9
+      - 星月优选⭐️💫 10
+      - 星月优选⭐️💫 11
+      - 星月优选⭐️💫 12
+      - 星月优选⭐️💫 13
+      - 星月优选⭐️💫 14
+      - 星月优选⭐️💫 15
+      - 星月优选⭐️💫 16
+      - 星月优选⭐️💫 17
+      - 星月优选⭐️💫 18
+      - 日月提供维护官方优选
+      - 星月提供维护官方优选⭐️💫
+      - 日月提供维护官方优选💫
+      - 日月维护官方优选💫
+      - 星月维护官方优选⭐️💫
+      - 日月优选⭐️💫
+      - 日月优选⭐️💫 2
+      - 日月优选⭐️💫 3
+      - 日月优选⭐️💫 4
+      - 日月优选⭐️💫 5
+      - 日月优选⭐️💫 6
+      - 日月优选⭐️💫 7
+      - 日月优选⭐️💫 8
+      - 日月优选⭐️💫 9
+      - 日月提供维护反代优选⭐️💫
+      - 日月提供维护反代优选⭐️💫 2
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - 三网自适应分流官方优选
+      - 电信官方优选
+      - 移动官方优选
+      - 星月优选⭐️💫
+      - 星月优选⭐️💫 2
+      - 星月优选⭐️💫 3
+      - 星月优选⭐️💫 4
+      - 星月优选⭐️💫 5
+      - 星月优选⭐️💫 6
+      - 星月优选⭐️💫 7
+      - 星月优选⭐️💫 8
+      - 星月优选⭐️💫 9
+      - 星月优选⭐️💫 10
+      - 星月优选⭐️💫 11
+      - 星月优选⭐️💫 12
+      - 星月优选⭐️💫 13
+      - 星月优选⭐️💫 14
+      - 星月优选⭐️💫 15
+      - 星月优选⭐️💫 16
+      - 星月优选⭐️💫 17
+      - 星月优选⭐️💫 18
+      - 日月提供维护官方优选
+      - 星月提供维护官方优选⭐️💫
+      - 日月提供维护官方优选💫
+      - 日月维护官方优选💫
+      - 星月维护官方优选⭐️💫
+      - 日月优选⭐️💫
+      - 日月优选⭐️💫 2
+      - 日月优选⭐️💫 3
+      - 日月优选⭐️💫 4
+      - 日月优选⭐️💫 5
+      - 日月优选⭐️💫 6
+      - 日月优选⭐️💫 7
+      - 日月优选⭐️💫 8
+      - 日月优选⭐️💫 9
+      - 日月提供维护反代优选⭐️💫
+      - 日月提供维护反代优选⭐️💫 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -392,20 +926,43 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - 三网自适应分流官方优选
+      - 电信官方优选
+      - 移动官方优选
+      - 星月优选⭐️💫
+      - 星月优选⭐️💫 2
+      - 星月优选⭐️💫 3
+      - 星月优选⭐️💫 4
+      - 星月优选⭐️💫 5
+      - 星月优选⭐️💫 6
+      - 星月优选⭐️💫 7
+      - 星月优选⭐️💫 8
+      - 星月优选⭐️💫 9
+      - 星月优选⭐️💫 10
+      - 星月优选⭐️💫 11
+      - 星月优选⭐️💫 12
+      - 星月优选⭐️💫 13
+      - 星月优选⭐️💫 14
+      - 星月优选⭐️💫 15
+      - 星月优选⭐️💫 16
+      - 星月优选⭐️💫 17
+      - 星月优选⭐️💫 18
+      - 日月提供维护官方优选
+      - 星月提供维护官方优选⭐️💫
+      - 日月提供维护官方优选💫
+      - 日月维护官方优选💫
+      - 星月维护官方优选⭐️💫
+      - 日月优选⭐️💫
+      - 日月优选⭐️💫 2
+      - 日月优选⭐️💫 3
+      - 日月优选⭐️💫 4
+      - 日月优选⭐️💫 5
+      - 日月优选⭐️💫 6
+      - 日月优选⭐️💫 7
+      - 日月优选⭐️💫 8
+      - 日月优选⭐️💫 9
+      - 日月提供维护反代优选⭐️💫
+      - 日月提供维护反代优选⭐️💫 2
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
