@@ -5,79 +5,79 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫1", server: Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz, port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫2", server: visa.cn, port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫3", server: www.visa.com, port: 8443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫4", server: cis.visa.com, port: 2053, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫5", server: africa.visa.com, port: 2083, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫6", server: www.visa.com.sg, port: 2087, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫7", server: www.visaeurope.at, port: 2096, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫8", server: www.visa.com.mt, port: 8443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫9", server: qa.visamiddleeast.com, port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫10", server: time.is, port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫11", server: www.wto.org, port: 8443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫12", server: chatgpt.com, port: 2087, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🇺🇸💫13", server: icook.hk, port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
-  - {name: "[Vless] 日月💫优选💫🏳️💫14", server: "2606:4700::", port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_1", server: Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz, port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_2", server: visa.cn, port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_3", server: www.visa.com, port: 8443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_4", server: cis.visa.com, port: 2053, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_5", server: africa.visa.com, port: 2083, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_6", server: www.visa.com.sg, port: 2087, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_7", server: www.visaeurope.at, port: 2096, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_8", server: www.visa.com.mt, port: 8443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_9", server: qa.visamiddleeast.com, port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_10", server: time.is, port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_11", server: www.wto.org, port: 8443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_12", server: chatgpt.com, port: 2087, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🇺🇸_13", server: icook.hk, port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
+  - {name: "[Vless] 星月💫优选💫🏳️", server: "2606:4700::", port: 443, type: vless, uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a, tls: true, skip-cert-verify: false, servername: tangxianchu.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tangxianchu.filegear-sg.me}}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - "[Vless] 星月💫优选💫🇺🇸_1"
+      - "[Vless] 星月💫优选💫🇺🇸_2"
+      - "[Vless] 星月💫优选💫🇺🇸_3"
+      - "[Vless] 星月💫优选💫🇺🇸_4"
+      - "[Vless] 星月💫优选💫🇺🇸_5"
+      - "[Vless] 星月💫优选💫🇺🇸_6"
+      - "[Vless] 星月💫优选💫🇺🇸_7"
+      - "[Vless] 星月💫优选💫🇺🇸_8"
+      - "[Vless] 星月💫优选💫🇺🇸_9"
+      - "[Vless] 星月💫优选💫🇺🇸_10"
+      - "[Vless] 星月💫优选💫🇺🇸_11"
+      - "[Vless] 星月💫优选💫🇺🇸_12"
+      - "[Vless] 星月💫优选💫🇺🇸_13"
+      - "[Vless] 星月💫优选💫🏳️"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - "[Vless] 星月💫优选💫🇺🇸_1"
+      - "[Vless] 星月💫优选💫🇺🇸_2"
+      - "[Vless] 星月💫优选💫🇺🇸_3"
+      - "[Vless] 星月💫优选💫🇺🇸_4"
+      - "[Vless] 星月💫优选💫🇺🇸_5"
+      - "[Vless] 星月💫优选💫🇺🇸_6"
+      - "[Vless] 星月💫优选💫🇺🇸_7"
+      - "[Vless] 星月💫优选💫🇺🇸_8"
+      - "[Vless] 星月💫优选💫🇺🇸_9"
+      - "[Vless] 星月💫优选💫🇺🇸_10"
+      - "[Vless] 星月💫优选💫🇺🇸_11"
+      - "[Vless] 星月💫优选💫🇺🇸_12"
+      - "[Vless] 星月💫优选💫🇺🇸_13"
+      - "[Vless] 星月💫优选💫🏳️"
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - "[Vless] 星月💫优选💫🇺🇸_1"
+      - "[Vless] 星月💫优选💫🇺🇸_2"
+      - "[Vless] 星月💫优选💫🇺🇸_3"
+      - "[Vless] 星月💫优选💫🇺🇸_4"
+      - "[Vless] 星月💫优选💫🇺🇸_5"
+      - "[Vless] 星月💫优选💫🇺🇸_6"
+      - "[Vless] 星月💫优选💫🇺🇸_7"
+      - "[Vless] 星月💫优选💫🇺🇸_8"
+      - "[Vless] 星月💫优选💫🇺🇸_9"
+      - "[Vless] 星月💫优选💫🇺🇸_10"
+      - "[Vless] 星月💫优选💫🇺🇸_11"
+      - "[Vless] 星月💫优选💫🇺🇸_12"
+      - "[Vless] 星月💫优选💫🇺🇸_13"
+      - "[Vless] 星月💫优选💫🏳️"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -96,20 +96,20 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - "[Vless] 星月💫优选💫🇺🇸_1"
+      - "[Vless] 星月💫优选💫🇺🇸_2"
+      - "[Vless] 星月💫优选💫🇺🇸_3"
+      - "[Vless] 星月💫优选💫🇺🇸_4"
+      - "[Vless] 星月💫优选💫🇺🇸_5"
+      - "[Vless] 星月💫优选💫🇺🇸_6"
+      - "[Vless] 星月💫优选💫🇺🇸_7"
+      - "[Vless] 星月💫优选💫🇺🇸_8"
+      - "[Vless] 星月💫优选💫🇺🇸_9"
+      - "[Vless] 星月💫优选💫🇺🇸_10"
+      - "[Vless] 星月💫优选💫🇺🇸_11"
+      - "[Vless] 星月💫优选💫🇺🇸_12"
+      - "[Vless] 星月💫优选💫🇺🇸_13"
+      - "[Vless] 星月💫优选💫🏳️"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -120,59 +120,59 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - "[Vless] 星月💫优选💫🇺🇸_1"
+      - "[Vless] 星月💫优选💫🇺🇸_2"
+      - "[Vless] 星月💫优选💫🇺🇸_3"
+      - "[Vless] 星月💫优选💫🇺🇸_4"
+      - "[Vless] 星月💫优选💫🇺🇸_5"
+      - "[Vless] 星月💫优选💫🇺🇸_6"
+      - "[Vless] 星月💫优选💫🇺🇸_7"
+      - "[Vless] 星月💫优选💫🇺🇸_8"
+      - "[Vless] 星月💫优选💫🇺🇸_9"
+      - "[Vless] 星月💫优选💫🇺🇸_10"
+      - "[Vless] 星月💫优选💫🇺🇸_11"
+      - "[Vless] 星月💫优选💫🇺🇸_12"
+      - "[Vless] 星月💫优选💫🇺🇸_13"
+      - "[Vless] 星月💫优选💫🏳️"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - "[Vless] 星月💫优选💫🇺🇸_1"
+      - "[Vless] 星月💫优选💫🇺🇸_2"
+      - "[Vless] 星月💫优选💫🇺🇸_3"
+      - "[Vless] 星月💫优选💫🇺🇸_4"
+      - "[Vless] 星月💫优选💫🇺🇸_5"
+      - "[Vless] 星月💫优选💫🇺🇸_6"
+      - "[Vless] 星月💫优选💫🇺🇸_7"
+      - "[Vless] 星月💫优选💫🇺🇸_8"
+      - "[Vless] 星月💫优选💫🇺🇸_9"
+      - "[Vless] 星月💫优选💫🇺🇸_10"
+      - "[Vless] 星月💫优选💫🇺🇸_11"
+      - "[Vless] 星月💫优选💫🇺🇸_12"
+      - "[Vless] 星月💫优选💫🇺🇸_13"
+      - "[Vless] 星月💫优选💫🏳️"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - "[Vless] 星月💫优选💫🇺🇸_1"
+      - "[Vless] 星月💫优选💫🇺🇸_2"
+      - "[Vless] 星月💫优选💫🇺🇸_3"
+      - "[Vless] 星月💫优选💫🇺🇸_4"
+      - "[Vless] 星月💫优选💫🇺🇸_5"
+      - "[Vless] 星月💫优选💫🇺🇸_6"
+      - "[Vless] 星月💫优选💫🇺🇸_7"
+      - "[Vless] 星月💫优选💫🇺🇸_8"
+      - "[Vless] 星月💫优选💫🇺🇸_9"
+      - "[Vless] 星月💫优选💫🇺🇸_10"
+      - "[Vless] 星月💫优选💫🇺🇸_11"
+      - "[Vless] 星月💫优选💫🇺🇸_12"
+      - "[Vless] 星月💫优选💫🇺🇸_13"
+      - "[Vless] 星月💫优选💫🏳️"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -188,20 +188,20 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "[Vless] 日月💫优选💫🇺🇸💫1"
-      - "[Vless] 日月💫优选💫🇺🇸💫2"
-      - "[Vless] 日月💫优选💫🇺🇸💫3"
-      - "[Vless] 日月💫优选💫🇺🇸💫4"
-      - "[Vless] 日月💫优选💫🇺🇸💫5"
-      - "[Vless] 日月💫优选💫🇺🇸💫6"
-      - "[Vless] 日月💫优选💫🇺🇸💫7"
-      - "[Vless] 日月💫优选💫🇺🇸💫8"
-      - "[Vless] 日月💫优选💫🇺🇸💫9"
-      - "[Vless] 日月💫优选💫🇺🇸💫10"
-      - "[Vless] 日月💫优选💫🇺🇸💫11"
-      - "[Vless] 日月💫优选💫🇺🇸💫12"
-      - "[Vless] 日月💫优选💫🇺🇸💫13"
-      - "[Vless] 日月💫优选💫🏳️💫14"
+      - "[Vless] 星月💫优选💫🇺🇸_1"
+      - "[Vless] 星月💫优选💫🇺🇸_2"
+      - "[Vless] 星月💫优选💫🇺🇸_3"
+      - "[Vless] 星月💫优选💫🇺🇸_4"
+      - "[Vless] 星月💫优选💫🇺🇸_5"
+      - "[Vless] 星月💫优选💫🇺🇸_6"
+      - "[Vless] 星月💫优选💫🇺🇸_7"
+      - "[Vless] 星月💫优选💫🇺🇸_8"
+      - "[Vless] 星月💫优选💫🇺🇸_9"
+      - "[Vless] 星月💫优选💫🇺🇸_10"
+      - "[Vless] 星月💫优选💫🇺🇸_11"
+      - "[Vless] 星月💫优选💫🇺🇸_12"
+      - "[Vless] 星月💫优选💫🇺🇸_13"
+      - "[Vless] 星月💫优选💫🏳️"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
