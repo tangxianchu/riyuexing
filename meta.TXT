@@ -1,5 +1,5 @@
 # 模版名称：ACL4SSR_Online_Full_Google.ini
-# 生成时间：2024-10-17 23:48:46
+# 生成时间：2024-10-17 23:55:59
 # 不要随意改变关键字，否则会导致出错
 # acl4SSR规则
 # 去广告：支持
@@ -57,7 +57,105 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 三网自适应分流官方优选
+  - name: 💫日月💫优选💫🇺🇸💫1
+    port: 3306
+    server: 15.204.87.217
+    type: ss
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 💫日月💫优选💫🇨🇳💫2
+    port: 8191
+    server: 14.152.94.40
+    type: ssr
+    udp: true
+    obfs: plain
+    password: "123456"
+    protocol: auth_chain_a
+    cipher: dummy
+    group: SSRProvider
+    obfsparam: 59869:ES8PT7
+    protocol-param: 59869:ES8PT7
+  - name: 💫日月💫优选💫🇨🇳💫3
+    port: 43526
+    server: 120.232.153.71
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875
+    alterId: 64
+  - name: 💫日月💫优选💫🇺🇸💫4
+    port: 2095
+    server: 172.64.166.33
+    type: vmess
+    network: ws
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        host: ip2.6016725.xyz
+    cipher: auto
+    uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+    alterId: 0
+  - name: 💫日月💫优选💫🇺🇸💫5
+    port: 443
+    server: 3.112.45.212
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: 💫日月💫优选💫🇺🇸💫6
+    port: 2082
+    server: 104.19.38.11
+    type: vmess
+    network: ws
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        host: ip6.6929198.xyz
+    cipher: auto
+    uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+    alterId: 0
+  - name: 💫日月💫优选💫🇺🇸💫7
+    port: 443
+    server: 3.113.6.44
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: 💫日月💫优选💫🇺🇸💫8
+    port: 5500
+    server: 15.204.87.217
+    type: ss
+    udp: true
+    password: KixLvKzwjekG00rm
+    cipher: aes-256-gcm
+  - name: 💫日月💫优选💫🇺🇸💫9
+    port: 3389
+    server: 15.204.87.217
+    type: ss
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 💫日月💫优选💫🇺🇸💫10
+    port: 6379
+    server: 15.204.87.217
+    type: ss
+    udp: true
+    password: zDNVedRFPQexG9v
+    cipher: aes-256-gcm
+  - name: 💫日月💫优选💫🇺🇸💫11
     port: 443
     server: cf.090227.xyz
     type: vless
@@ -71,9 +169,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 电信官方优选
+  - name: 💫日月💫优选💫🇺🇸💫12
     port: 443
     server: ct.090227.xyz
     type: vless
@@ -87,9 +184,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 移动官方优选
+  - name: 💫日月💫优选💫🇺🇸💫13
     port: 443
     server: cmcc.090227.xyz
     type: vless
@@ -103,9 +199,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫
+  - name: 💫日月💫优选💫🇺🇸💫14
     port: 443
     server: shopify.com
     type: vless
@@ -119,9 +214,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 2
+  - name: 💫日月💫优选💫🇺🇸💫15
     port: 443
     server: time.is
     type: vless
@@ -135,9 +229,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 3
+  - name: 💫日月💫优选💫🇺🇸💫16
     port: 443
     server: icook.hk
     type: vless
@@ -151,9 +244,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 4
+  - name: 💫日月💫优选💫🇺🇸💫17
     port: 443
     server: icook.tw
     type: vless
@@ -167,9 +259,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 5
+  - name: 💫日月💫优选💫🇺🇸💫18
     port: 443
     server: ip.sb
     type: vless
@@ -183,9 +274,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 6
+  - name: 💫日月💫优选💫🇺🇸💫19
     port: 443
     server: japan.com
     type: vless
@@ -199,9 +289,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 7
+  - name: 💫日月💫优选💫🇺🇸💫20
     port: 443
     server: malaysia.com
     type: vless
@@ -215,9 +304,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 8
+  - name: 💫日月💫优选💫🇺🇸💫21
     port: 443
     server: russia.com
     type: vless
@@ -231,9 +319,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 9
+  - name: 💫日月💫优选💫🇺🇸💫22
     port: 443
     server: singapore.com
     type: vless
@@ -247,9 +334,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 10
+  - name: 💫日月💫优选💫🇺🇸💫23
     port: 443
     server: skk.moe
     type: vless
@@ -263,9 +349,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 11
+  - name: 💫日月💫优选💫🇺🇸💫24
     port: 443
     server: www.visa.com.sg
     type: vless
@@ -279,9 +364,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 12
+  - name: 💫日月💫优选💫🇺🇸💫25
     port: 443
     server: www.visa.com.hk
     type: vless
@@ -295,9 +379,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 13
+  - name: 💫日月💫优选💫🇺🇸💫26
     port: 443
     server: www.visa.com.tw
     type: vless
@@ -311,9 +394,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 14
+  - name: 💫日月💫优选💫🇺🇸💫27
     port: 443
     server: www.visa.co.jp
     type: vless
@@ -327,9 +409,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 15
+  - name: 💫日月💫优选💫🇺🇸💫28
     port: 443
     server: www.visakorea.com
     type: vless
@@ -343,9 +424,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 16
+  - name: 💫日月💫优选💫🇺🇸💫29
     port: 443
     server: www.gco.gov.qa
     type: vless
@@ -359,9 +439,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 17
+  - name: 💫日月💫优选💫🇺🇸💫30
     port: 443
     server: www.gov.se
     type: vless
@@ -375,9 +454,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月优选⭐️💫 18
+  - name: 💫日月💫优选💫🇺🇸💫31
     port: 443
     server: www.gov.ua
     type: vless
@@ -391,9 +469,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月提供维护官方优选
+  - name: 💫日月💫优选💫🇺🇸💫32
     port: 443
     server: cfip.xxxxxxxx.tk
     type: vless
@@ -407,9 +484,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月提供维护官方优选⭐️💫
+  - name: 💫日月💫优选💫🇺🇸💫33
     port: 443
     server: bestcf.onecf.eu.org
     type: vless
@@ -423,9 +499,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月提供维护官方优选💫
+  - name: 💫日月💫优选💫🇺🇸💫34
     port: 443
     server: cf.zhetengsha.eu.org
     type: vless
@@ -439,9 +514,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月维护官方优选💫
+  - name: 💫日月💫优选💫🇨🇦💫35
     port: 443
     server: acjp2.cloudflarest.link
     type: vless
@@ -455,9 +529,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 星月维护官方优选⭐️💫
+  - name: 💫日月💫优选💫🇨🇦💫36
     port: 443
     server: achk.cloudflarest.link
     type: vless
@@ -471,9 +544,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月优选⭐️💫
+  - name: 💫日月💫优选💫🇺🇸💫37
     port: 443
     server: xn--b6gac.eu.org
     type: vless
@@ -487,9 +559,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月优选⭐️💫 2
+  - name: 💫日月💫优选💫🏳️💫38
     port: 443
     server: yx.887141.xyz
     type: vless
@@ -503,9 +574,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月优选⭐️💫 3
+  - name: 💫日月💫优选💫🇺🇸💫39
     port: 443
     server: 8.889288.xyz
     type: vless
@@ -519,9 +589,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月优选⭐️💫 4
+  - name: 💫日月💫优选💫🇺🇸💫40
     port: 443
     server: cfip.1323123.xyz
     type: vless
@@ -535,9 +604,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月优选⭐️💫 5
+  - name: 💫日月💫优选💫🏳️💫41
     port: 443
     server: cf.515188.xyz
     type: vless
@@ -551,9 +619,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月优选⭐️💫 6
+  - name: 💫日月💫优选💫🇦🇺💫42
     port: 443
     server: cf-st.annoy.eu.org
     type: vless
@@ -567,9 +634,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月优选⭐️💫 7
+  - name: 💫日月💫优选💫🇺🇸💫43
     port: 443
     server: cf.0sm.com
     type: vless
@@ -583,9 +649,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月优选⭐️💫 8
+  - name: 💫日月💫优选💫🇺🇸💫44
     port: 443
     server: cf.877771.xyz
     type: vless
@@ -599,9 +664,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月优选⭐️💫 9
+  - name: 💫日月💫优选💫🏳️💫45
     port: 443
     server: cf.345673.xyz
     type: vless
@@ -615,9 +679,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月提供维护反代优选⭐️💫
+  - name: 💫日月💫优选💫🇳🇱💫46
     port: 443
     server: bestproxy.onecf.eu.org
     type: vless
@@ -631,9 +694,8 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月提供维护反代优选⭐️💫 2
+  - name: 💫日月💫优选💫🇺🇦💫47
     port: 443
     server: proxy.xxxxxxxx.tk
     type: vless
@@ -647,7 +709,6 @@ proxies:
       headers:
         Host: tangxianchu.filegear-sg.me
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
 proxy-groups:
   - name: 🚀 节点选择
@@ -655,255 +716,315 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
+      - 💫日月💫优选💫🇺🇸💫1
+      - 💫日月💫优选💫🇨🇳💫2
+      - 💫日月💫优选💫🇨🇳💫3
+      - 💫日月💫优选💫🇺🇸💫4
+      - 💫日月💫优选💫🇺🇸💫5
+      - 💫日月💫优选💫🇺🇸💫6
+      - 💫日月💫优选💫🇺🇸💫7
+      - 💫日月💫优选💫🇺🇸💫8
+      - 💫日月💫优选💫🇺🇸💫9
+      - 💫日月💫优选💫🇺🇸💫10
+      - 💫日月💫优选💫🇺🇸💫11
+      - 💫日月💫优选💫🇺🇸💫12
+      - 💫日月💫优选💫🇺🇸💫13
+      - 💫日月💫优选💫🇺🇸💫14
+      - 💫日月💫优选💫🇺🇸💫15
+      - 💫日月💫优选💫🇺🇸💫16
+      - 💫日月💫优选💫🇺🇸💫17
+      - 💫日月💫优选💫🇺🇸💫18
+      - 💫日月💫优选💫🇺🇸💫19
+      - 💫日月💫优选💫🇺🇸💫20
+      - 💫日月💫优选💫🇺🇸💫21
+      - 💫日月💫优选💫🇺🇸💫22
+      - 💫日月💫优选💫🇺🇸💫23
+      - 💫日月💫优选💫🇺🇸💫24
+      - 💫日月💫优选💫🇺🇸💫25
+      - 💫日月💫优选💫🇺🇸💫26
+      - 💫日月💫优选💫🇺🇸💫27
+      - 💫日月💫优选💫🇺🇸💫28
+      - 💫日月💫优选💫🇺🇸💫29
+      - 💫日月💫优选💫🇺🇸💫30
+      - 💫日月💫优选💫🇺🇸💫31
+      - 💫日月💫优选💫🇺🇸💫32
+      - 💫日月💫优选💫🇺🇸💫33
+      - 💫日月💫优选💫🇺🇸💫34
+      - 💫日月💫优选💫🇨🇦💫35
+      - 💫日月💫优选💫🇨🇦💫36
+      - 💫日月💫优选💫🇺🇸💫37
+      - 💫日月💫优选💫🏳️💫38
+      - 💫日月💫优选💫🇺🇸💫39
+      - 💫日月💫优选💫🇺🇸💫40
+      - 💫日月💫优选💫🏳️💫41
+      - 💫日月💫优选💫🇦🇺💫42
+      - 💫日月💫优选💫🇺🇸💫43
+      - 💫日月💫优选💫🇺🇸💫44
+      - 💫日月💫优选💫🏳️💫45
+      - 💫日月💫优选💫🇳🇱💫46
+      - 💫日月💫优选💫🇺🇦💫47
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
+      - 💫日月💫优选💫🇺🇸💫1
+      - 💫日月💫优选💫🇨🇳💫2
+      - 💫日月💫优选💫🇨🇳💫3
+      - 💫日月💫优选💫🇺🇸💫4
+      - 💫日月💫优选💫🇺🇸💫5
+      - 💫日月💫优选💫🇺🇸💫6
+      - 💫日月💫优选💫🇺🇸💫7
+      - 💫日月💫优选💫🇺🇸💫8
+      - 💫日月💫优选💫🇺🇸💫9
+      - 💫日月💫优选💫🇺🇸💫10
+      - 💫日月💫优选💫🇺🇸💫11
+      - 💫日月💫优选💫🇺🇸💫12
+      - 💫日月💫优选💫🇺🇸💫13
+      - 💫日月💫优选💫🇺🇸💫14
+      - 💫日月💫优选💫🇺🇸💫15
+      - 💫日月💫优选💫🇺🇸💫16
+      - 💫日月💫优选💫🇺🇸💫17
+      - 💫日月💫优选💫🇺🇸💫18
+      - 💫日月💫优选💫🇺🇸💫19
+      - 💫日月💫优选💫🇺🇸💫20
+      - 💫日月💫优选💫🇺🇸💫21
+      - 💫日月💫优选💫🇺🇸💫22
+      - 💫日月💫优选💫🇺🇸💫23
+      - 💫日月💫优选💫🇺🇸💫24
+      - 💫日月💫优选💫🇺🇸💫25
+      - 💫日月💫优选💫🇺🇸💫26
+      - 💫日月💫优选💫🇺🇸💫27
+      - 💫日月💫优选💫🇺🇸💫28
+      - 💫日月💫优选💫🇺🇸💫29
+      - 💫日月💫优选💫🇺🇸💫30
+      - 💫日月💫优选💫🇺🇸💫31
+      - 💫日月💫优选💫🇺🇸💫32
+      - 💫日月💫优选💫🇺🇸💫33
+      - 💫日月💫优选💫🇺🇸💫34
+      - 💫日月💫优选💫🇨🇦💫35
+      - 💫日月💫优选💫🇨🇦💫36
+      - 💫日月💫优选💫🇺🇸💫37
+      - 💫日月💫优选💫🏳️💫38
+      - 💫日月💫优选💫🇺🇸💫39
+      - 💫日月💫优选💫🇺🇸💫40
+      - 💫日月💫优选💫🏳️💫41
+      - 💫日月💫优选💫🇦🇺💫42
+      - 💫日月💫优选💫🇺🇸💫43
+      - 💫日月💫优选💫🇺🇸💫44
+      - 💫日月💫优选💫🏳️💫45
+      - 💫日月💫优选💫🇳🇱💫46
+      - 💫日月💫优选💫🇺🇦💫47
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
+      - 💫日月💫优选💫🇺🇸💫1
+      - 💫日月💫优选💫🇨🇳💫2
+      - 💫日月💫优选💫🇨🇳💫3
+      - 💫日月💫优选💫🇺🇸💫4
+      - 💫日月💫优选💫🇺🇸💫5
+      - 💫日月💫优选💫🇺🇸💫6
+      - 💫日月💫优选💫🇺🇸💫7
+      - 💫日月💫优选💫🇺🇸💫8
+      - 💫日月💫优选💫🇺🇸💫9
+      - 💫日月💫优选💫🇺🇸💫10
+      - 💫日月💫优选💫🇺🇸💫11
+      - 💫日月💫优选💫🇺🇸💫12
+      - 💫日月💫优选💫🇺🇸💫13
+      - 💫日月💫优选💫🇺🇸💫14
+      - 💫日月💫优选💫🇺🇸💫15
+      - 💫日月💫优选💫🇺🇸💫16
+      - 💫日月💫优选💫🇺🇸💫17
+      - 💫日月💫优选💫🇺🇸💫18
+      - 💫日月💫优选💫🇺🇸💫19
+      - 💫日月💫优选💫🇺🇸💫20
+      - 💫日月💫优选💫🇺🇸💫21
+      - 💫日月💫优选💫🇺🇸💫22
+      - 💫日月💫优选💫🇺🇸💫23
+      - 💫日月💫优选💫🇺🇸💫24
+      - 💫日月💫优选💫🇺🇸💫25
+      - 💫日月💫优选💫🇺🇸💫26
+      - 💫日月💫优选💫🇺🇸💫27
+      - 💫日月💫优选💫🇺🇸💫28
+      - 💫日月💫优选💫🇺🇸💫29
+      - 💫日月💫优选💫🇺🇸💫30
+      - 💫日月💫优选💫🇺🇸💫31
+      - 💫日月💫优选💫🇺🇸💫32
+      - 💫日月💫优选💫🇺🇸💫33
+      - 💫日月💫优选💫🇺🇸💫34
+      - 💫日月💫优选💫🇨🇦💫35
+      - 💫日月💫优选💫🇨🇦💫36
+      - 💫日月💫优选💫🇺🇸💫37
+      - 💫日月💫优选💫🏳️💫38
+      - 💫日月💫优选💫🇺🇸💫39
+      - 💫日月💫优选💫🇺🇸💫40
+      - 💫日月💫优选💫🏳️💫41
+      - 💫日月💫优选💫🇦🇺💫42
+      - 💫日月💫优选💫🇺🇸💫43
+      - 💫日月💫优选💫🇺🇸💫44
+      - 💫日月💫优选💫🏳️💫45
+      - 💫日月💫优选💫🇳🇱💫46
+      - 💫日月💫优选💫🇺🇦💫47
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
+      - 💫日月💫优选💫🇺🇸💫1
+      - 💫日月💫优选💫🇨🇳💫2
+      - 💫日月💫优选💫🇨🇳💫3
+      - 💫日月💫优选💫🇺🇸💫4
+      - 💫日月💫优选💫🇺🇸💫5
+      - 💫日月💫优选💫🇺🇸💫6
+      - 💫日月💫优选💫🇺🇸💫7
+      - 💫日月💫优选💫🇺🇸💫8
+      - 💫日月💫优选💫🇺🇸💫9
+      - 💫日月💫优选💫🇺🇸💫10
+      - 💫日月💫优选💫🇺🇸💫11
+      - 💫日月💫优选💫🇺🇸💫12
+      - 💫日月💫优选💫🇺🇸💫13
+      - 💫日月💫优选💫🇺🇸💫14
+      - 💫日月💫优选💫🇺🇸💫15
+      - 💫日月💫优选💫🇺🇸💫16
+      - 💫日月💫优选💫🇺🇸💫17
+      - 💫日月💫优选💫🇺🇸💫18
+      - 💫日月💫优选💫🇺🇸💫19
+      - 💫日月💫优选💫🇺🇸💫20
+      - 💫日月💫优选💫🇺🇸💫21
+      - 💫日月💫优选💫🇺🇸💫22
+      - 💫日月💫优选💫🇺🇸💫23
+      - 💫日月💫优选💫🇺🇸💫24
+      - 💫日月💫优选💫🇺🇸💫25
+      - 💫日月💫优选💫🇺🇸💫26
+      - 💫日月💫优选💫🇺🇸💫27
+      - 💫日月💫优选💫🇺🇸💫28
+      - 💫日月💫优选💫🇺🇸💫29
+      - 💫日月💫优选💫🇺🇸💫30
+      - 💫日月💫优选💫🇺🇸💫31
+      - 💫日月💫优选💫🇺🇸💫32
+      - 💫日月💫优选💫🇺🇸💫33
+      - 💫日月💫优选💫🇺🇸💫34
+      - 💫日月💫优选💫🇨🇦💫35
+      - 💫日月💫优选💫🇨🇦💫36
+      - 💫日月💫优选💫🇺🇸💫37
+      - 💫日月💫优选💫🏳️💫38
+      - 💫日月💫优选💫🇺🇸💫39
+      - 💫日月💫优选💫🇺🇸💫40
+      - 💫日月💫优选💫🏳️💫41
+      - 💫日月💫优选💫🇦🇺💫42
+      - 💫日月💫优选💫🇺🇸💫43
+      - 💫日月💫优选💫🇺🇸💫44
+      - 💫日月💫优选💫🏳️💫45
+      - 💫日月💫优选💫🇳🇱💫46
+      - 💫日月💫优选💫🇺🇦💫47
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
+      - 💫日月💫优选💫🇺🇸💫1
+      - 💫日月💫优选💫🇨🇳💫2
+      - 💫日月💫优选💫🇨🇳💫3
+      - 💫日月💫优选💫🇺🇸💫4
+      - 💫日月💫优选💫🇺🇸💫5
+      - 💫日月💫优选💫🇺🇸💫6
+      - 💫日月💫优选💫🇺🇸💫7
+      - 💫日月💫优选💫🇺🇸💫8
+      - 💫日月💫优选💫🇺🇸💫9
+      - 💫日月💫优选💫🇺🇸💫10
+      - 💫日月💫优选💫🇺🇸💫11
+      - 💫日月💫优选💫🇺🇸💫12
+      - 💫日月💫优选💫🇺🇸💫13
+      - 💫日月💫优选💫🇺🇸💫14
+      - 💫日月💫优选💫🇺🇸💫15
+      - 💫日月💫优选💫🇺🇸💫16
+      - 💫日月💫优选💫🇺🇸💫17
+      - 💫日月💫优选💫🇺🇸💫18
+      - 💫日月💫优选💫🇺🇸💫19
+      - 💫日月💫优选💫🇺🇸💫20
+      - 💫日月💫优选💫🇺🇸💫21
+      - 💫日月💫优选💫🇺🇸💫22
+      - 💫日月💫优选💫🇺🇸💫23
+      - 💫日月💫优选💫🇺🇸💫24
+      - 💫日月💫优选💫🇺🇸💫25
+      - 💫日月💫优选💫🇺🇸💫26
+      - 💫日月💫优选💫🇺🇸💫27
+      - 💫日月💫优选💫🇺🇸💫28
+      - 💫日月💫优选💫🇺🇸💫29
+      - 💫日月💫优选💫🇺🇸💫30
+      - 💫日月💫优选💫🇺🇸💫31
+      - 💫日月💫优选💫🇺🇸💫32
+      - 💫日月💫优选💫🇺🇸💫33
+      - 💫日月💫优选💫🇺🇸💫34
+      - 💫日月💫优选💫🇨🇦💫35
+      - 💫日月💫优选💫🇨🇦💫36
+      - 💫日月💫优选💫🇺🇸💫37
+      - 💫日月💫优选💫🏳️💫38
+      - 💫日月💫优选💫🇺🇸💫39
+      - 💫日月💫优选💫🇺🇸💫40
+      - 💫日月💫优选💫🏳️💫41
+      - 💫日月💫优选💫🇦🇺💫42
+      - 💫日月💫优选💫🇺🇸💫43
+      - 💫日月💫优选💫🇺🇸💫44
+      - 💫日月💫优选💫🏳️💫45
+      - 💫日月💫优选💫🇳🇱💫46
+      - 💫日月💫优选💫🇺🇦💫47
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
+      - 💫日月💫优选💫🇺🇸💫1
+      - 💫日月💫优选💫🇨🇳💫2
+      - 💫日月💫优选💫🇨🇳💫3
+      - 💫日月💫优选💫🇺🇸💫4
+      - 💫日月💫优选💫🇺🇸💫5
+      - 💫日月💫优选💫🇺🇸💫6
+      - 💫日月💫优选💫🇺🇸💫7
+      - 💫日月💫优选💫🇺🇸💫8
+      - 💫日月💫优选💫🇺🇸💫9
+      - 💫日月💫优选💫🇺🇸💫10
+      - 💫日月💫优选💫🇺🇸💫11
+      - 💫日月💫优选💫🇺🇸💫12
+      - 💫日月💫优选💫🇺🇸💫13
+      - 💫日月💫优选💫🇺🇸💫14
+      - 💫日月💫优选💫🇺🇸💫15
+      - 💫日月💫优选💫🇺🇸💫16
+      - 💫日月💫优选💫🇺🇸💫17
+      - 💫日月💫优选💫🇺🇸💫18
+      - 💫日月💫优选💫🇺🇸💫19
+      - 💫日月💫优选💫🇺🇸💫20
+      - 💫日月💫优选💫🇺🇸💫21
+      - 💫日月💫优选💫🇺🇸💫22
+      - 💫日月💫优选💫🇺🇸💫23
+      - 💫日月💫优选💫🇺🇸💫24
+      - 💫日月💫优选💫🇺🇸💫25
+      - 💫日月💫优选💫🇺🇸💫26
+      - 💫日月💫优选💫🇺🇸💫27
+      - 💫日月💫优选💫🇺🇸💫28
+      - 💫日月💫优选💫🇺🇸💫29
+      - 💫日月💫优选💫🇺🇸💫30
+      - 💫日月💫优选💫🇺🇸💫31
+      - 💫日月💫优选💫🇺🇸💫32
+      - 💫日月💫优选💫🇺🇸💫33
+      - 💫日月💫优选💫🇺🇸💫34
+      - 💫日月💫优选💫🇨🇦💫35
+      - 💫日月💫优选💫🇨🇦💫36
+      - 💫日月💫优选💫🇺🇸💫37
+      - 💫日月💫优选💫🏳️💫38
+      - 💫日月💫优选💫🇺🇸💫39
+      - 💫日月💫优选💫🇺🇸💫40
+      - 💫日月💫优选💫🏳️💫41
+      - 💫日月💫优选💫🇦🇺💫42
+      - 💫日月💫优选💫🇺🇸💫43
+      - 💫日月💫优选💫🇺🇸💫44
+      - 💫日月💫优选💫🏳️💫45
+      - 💫日月💫优选💫🇳🇱💫46
+      - 💫日月💫优选💫🇺🇦💫47
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -926,43 +1047,53 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
+      - 💫日月💫优选💫🇺🇸💫1
+      - 💫日月💫优选💫🇨🇳💫2
+      - 💫日月💫优选💫🇨🇳💫3
+      - 💫日月💫优选💫🇺🇸💫4
+      - 💫日月💫优选💫🇺🇸💫5
+      - 💫日月💫优选💫🇺🇸💫6
+      - 💫日月💫优选💫🇺🇸💫7
+      - 💫日月💫优选💫🇺🇸💫8
+      - 💫日月💫优选💫🇺🇸💫9
+      - 💫日月💫优选💫🇺🇸💫10
+      - 💫日月💫优选💫🇺🇸💫11
+      - 💫日月💫优选💫🇺🇸💫12
+      - 💫日月💫优选💫🇺🇸💫13
+      - 💫日月💫优选💫🇺🇸💫14
+      - 💫日月💫优选💫🇺🇸💫15
+      - 💫日月💫优选💫🇺🇸💫16
+      - 💫日月💫优选💫🇺🇸💫17
+      - 💫日月💫优选💫🇺🇸💫18
+      - 💫日月💫优选💫🇺🇸💫19
+      - 💫日月💫优选💫🇺🇸💫20
+      - 💫日月💫优选💫🇺🇸💫21
+      - 💫日月💫优选💫🇺🇸💫22
+      - 💫日月💫优选💫🇺🇸💫23
+      - 💫日月💫优选💫🇺🇸💫24
+      - 💫日月💫优选💫🇺🇸💫25
+      - 💫日月💫优选💫🇺🇸💫26
+      - 💫日月💫优选💫🇺🇸💫27
+      - 💫日月💫优选💫🇺🇸💫28
+      - 💫日月💫优选💫🇺🇸💫29
+      - 💫日月💫优选💫🇺🇸💫30
+      - 💫日月💫优选💫🇺🇸💫31
+      - 💫日月💫优选💫🇺🇸💫32
+      - 💫日月💫优选💫🇺🇸💫33
+      - 💫日月💫优选💫🇺🇸💫34
+      - 💫日月💫优选💫🇨🇦💫35
+      - 💫日月💫优选💫🇨🇦💫36
+      - 💫日月💫优选💫🇺🇸💫37
+      - 💫日月💫优选💫🏳️💫38
+      - 💫日月💫优选💫🇺🇸💫39
+      - 💫日月💫优选💫🇺🇸💫40
+      - 💫日月💫优选💫🏳️💫41
+      - 💫日月💫优选💫🇦🇺💫42
+      - 💫日月💫优选💫🇺🇸💫43
+      - 💫日月💫优选💫🇺🇸💫44
+      - 💫日月💫优选💫🏳️💫45
+      - 💫日月💫优选💫🇳🇱💫46
+      - 💫日月💫优选💫🇺🇦💫47
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
