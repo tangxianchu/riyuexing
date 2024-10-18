@@ -1,5 +1,5 @@
 # 模版名称：ACL4SSR_Online_Full_Google.ini
-# 生成时间：2024-10-18 07:21:36
+# 生成时间：2024-10-18 20:20:26
 # 不要随意改变关键字，否则会导致出错
 # acl4SSR规则
 # 去广告：支持
@@ -57,1139 +57,1204 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 三网自适应分流官方优选
+  - name: 💫星月💫优选💫🇨🇳💫1
+    port: 33288
+    server: 183.236.48.161
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+  - name: 💫星月💫优选💫🇸🇬💫2
     port: 443
-    server: cf.090227.xyz
-    type: vless
-    network: ws
-    tls: true
+    server: 13.250.59.97
+    type: ss
     udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 电信官方优选
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: 💫星月💫优选💫🇬🇧💫3
     port: 443
-    server: ct.090227.xyz
-    type: vless
-    network: ws
-    tls: true
+    server: 212.102.53.198
+    type: ss
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: 💫星月💫优选💫🇨🇳💫4
+    port: 43526
+    server: 120.232.153.71
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875
+    alterId: 64
+  - name: 💫星月💫优选💫🇺🇸💫5
+    port: 8882
+    server: 69.50.92.99
+    type: ss
+    udp: true
+    password: kDWvXYZoTBcGkC4
+    cipher: aes-256-gcm
+  - name: 💫星月💫优选💫🇺🇸💫6
+    port: 80
+    server: 3.gogolemon.top
+    type: vmess
+    network: ws
+    tls: false
+    udp: true
+    version: "2"
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 移动官方优选
+        host: shs.kejixiaoqi666.store
+    cipher: auto
+    uuid: 3fd7b958-2161-46e1-b6fc-bd6bb2165312
+    alterId: 0
+  - name: 💫星月💫优选💫🇨🇳💫7
+    port: 15084
+    server: 120.232.81.50
+    type: ss
+    udp: true
+    password: hGkQ6915tD
+    cipher: aes-256-cfb
+  - name: 💫星月💫优选💫🇺🇸💫8
+    port: 8119
+    server: 139.64.164.15
+    type: ss
+    udp: true
+    password: cdBIDV42DCwnfIN
+    cipher: aes-256-gcm
+  - name: 💫星月💫优选💫🇺🇸💫9
+    port: 8080
+    server: 104.16.67.38
+    type: vmess
+    network: ws
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    ws-opts:
+      path: /linde06.indiavideo.sbs/linkws
+      headers:
+        host: square-snowflake-486a.beshir-beisel.workers.dev
+    cipher: auto
+    uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf
+    alterId: 0
+  - name: 💫星月💫优选💫🇺🇸💫10
+    port: 3306
+    server: 23.150.248.29
+    type: ss
+    udp: true
+    password: Y6R9pAtvxxzmGC
+    cipher: aes-256-gcm
+  - name: 💫星月💫优选💫🇺🇸💫11
     port: 443
-    server: cmcc.090227.xyz
-    type: vless
+    server: Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.us.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🏳️💫12
+    port: 1234
+    server: 127.0.0.1
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇳🇱💫13
     port: 443
-    server: shopify.com
-    type: vless
+    server: 185.133.35.144
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=185.133.35.144:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 2
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇷🇺💫14
     port: 443
-    server: time.is
-    type: vless
+    server: 194.76.18.113
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=194.76.18.113:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 3
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇷🇴💫15
     port: 443
-    server: icook.hk
-    type: vless
+    server: 94.177.8.51
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=94.177.8.51:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 4
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇦🇹💫16
     port: 443
-    server: icook.tw
-    type: vless
+    server: 212.183.88.189
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=212.183.88.189:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 5
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫17
     port: 443
-    server: ip.sb
-    type: vless
+    server: 206.238.237.74
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=206.238.237.74:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 6
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫18
     port: 443
-    server: japan.com
-    type: vless
+    server: 192.200.160.2
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=192.200.160.214:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 7
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇦🇹💫19
     port: 443
-    server: malaysia.com
-    type: vless
+    server: 212.183.88.185
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=212.183.88.185:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 8
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫20
     port: 443
-    server: russia.com
-    type: vless
+    server: 69.84.182.234
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=69.84.182.234:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 9
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇷🇺💫21
     port: 443
-    server: singapore.com
-    type: vless
+    server: 194.76.18.243
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=194.76.18.243:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 10
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫22
     port: 443
-    server: skk.moe
-    type: vless
+    server: 192.200.160.33
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=192.200.160.33:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 11
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫23
     port: 443
-    server: www.visa.com.sg
-    type: vless
+    server: 69.84.182.247
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=69.84.182.247:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 12
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫24
     port: 443
-    server: www.visa.com.hk
-    type: vless
+    server: 216.24.57.98
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=216.24.57.98:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 13
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫25
     port: 443
-    server: www.visa.com.tw
-    type: vless
+    server: 192.236.249.102
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=192.236.249.102:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 14
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇬🇧💫26
     port: 443
-    server: www.visa.co.jp
-    type: vless
+    server: 194.35.119.193
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=194.35.119.193:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 15
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇬🇧💫27
     port: 443
-    server: www.visakorea.com
-    type: vless
+    server: 217.163.76.116
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=217.163.76.116:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 16
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇦💫28
     port: 443
-    server: www.gco.gov.qa
-    type: vless
+    server: 45.67.215.119
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=45.67.215.119:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 17
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇨🇳💫29
     port: 443
-    server: www.gov.se
-    type: vless
+    server: 219.76.13.164
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=219.76.13.164:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月优选⭐️💫 18
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇨🇳💫30
+    port: 1520
+    server: 203.184.132.238
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=203.184.132.238:1520
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇨🇳💫31
+    port: 17771
+    server: 42.98.73.202
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=42.98.73.202:17771
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇰🇷💫32
+    port: 10255
+    server: 175.206.2.186
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=175.206.2.186:10255
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇯🇵💫33
+    port: 32900
+    server: 146.56.151.254
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=146.56.151.254:32900
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇰🇷💫34
+    port: 21255
+    server: 121.159.89.92
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=121.159.89.92:21255
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇰🇷💫35
+    port: 37420
+    server: 175.125.207.253
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=175.125.207.253:37420
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇨🇦💫36
+    port: 15042
+    server: 142.171.91.132
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=142.171.91.132:15042
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫37
+    port: 22857
+    server: 65.75.192.35
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=65.75.192.35:22857
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇨🇦💫38
+    port: 49152
+    server: 142.171.233.231
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=142.171.233.231:49152
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫39
+    port: 80
+    server: 54.176.142.183
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=54.176.142.183:80
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇨🇳💫40
+    port: 16752
+    server: 103.103.245.179
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=103.103.245.179:16752
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🏳️💫41
     port: 443
-    server: www.gov.ua
-    type: vless
+    server: 103.159.89.26
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=103.159.89.26:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月提供维护官方优选
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇳🇱💫42
     port: 443
-    server: cfip.xxxxxxxx.tk
-    type: vless
+    server: 192.243.127.224
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=192.243.127.224:443
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月提供维护官方优选⭐️💫
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫43
+    port: 48489
+    server: 34.150.55.114
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=34.150.55.114:48489
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫44
+    port: 10064
+    server: 64.64.244.245
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=64.64.244.245:10064
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇨🇳💫45
+    port: 8080
+    server: 8.218.201.26
+    type: trojan
+    network: ws
+    udp: true
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560&proxyip=8.218.201.26:8080
+      headers:
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫46
     port: 443
-    server: bestcf.onecf.eu.org
-    type: vless
+    server: 162.159.152.53
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月提供维护官方优选💫
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫47
     port: 443
-    server: cf.zhetengsha.eu.org
-    type: vless
+    server: 162.159.153.93
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月维护官方优选💫
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫48
     port: 443
-    server: acjp2.cloudflarest.link
-    type: vless
+    server: 162.159.153.227
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 星月维护官方优选⭐️💫
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫49
     port: 443
-    server: achk.cloudflarest.link
-    type: vless
+    server: 162.159.153.90
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选⭐️💫
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫50
     port: 443
-    server: xn--b6gac.eu.org
-    type: vless
+    server: 162.159.152.206
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选⭐️💫 2
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫51
     port: 443
-    server: yx.887141.xyz
-    type: vless
+    server: 162.159.152.150
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选⭐️💫 3
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫52
     port: 443
-    server: 8.889288.xyz
-    type: vless
+    server: 104.19.40.134
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选⭐️💫 4
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫53
     port: 443
-    server: cfip.1323123.xyz
-    type: vless
+    server: 104.19.32.12
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选⭐️💫 5
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫54
     port: 443
-    server: cf.515188.xyz
-    type: vless
+    server: 104.19.35.171
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选⭐️💫 6
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫55
     port: 443
-    server: cf-st.annoy.eu.org
-    type: vless
+    server: 104.19.40.144
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选⭐️💫 7
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫56
     port: 443
-    server: cf.0sm.com
-    type: vless
+    server: 104.19.35.145
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选⭐️💫 8
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🇺🇸💫57
     port: 443
-    server: cf.877771.xyz
-    type: vless
+    server: 104.19.34.54
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选⭐️💫 9
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🏳️💫58
     port: 443
-    server: cf.345673.xyz
-    type: vless
+    server: "[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]"
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月提供维护反代优选⭐️💫
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🏳️💫59
     port: 443
-    server: bestproxy.onecf.eu.org
-    type: vless
+    server: "[2606:4700:3036:ef:92f:be51:8695:9fc5]"
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月提供维护反代优选⭐️💫 2
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🏳️💫60
     port: 443
-    server: proxy.xxxxxxxx.tk
-    type: vless
+    server: "[2606:4700:3036:6ed4:260:e367:c3d4:d3bb]"
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🏳️💫61
     port: 443
-    server: visa.cn
-    type: vless
+    server: "[2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]"
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫 2
-    port: 8443
-    server: www.visa.com
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫 3
-    port: 2053
-    server: cis.visa.com
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫 4
-    port: 2083
-    server: africa.visa.com
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫 5
-    port: 2087
-    server: www.visa.com.sg
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫 6
-    port: 2096
-    server: www.visaeurope.at
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫 7
-    port: 8443
-    server: www.visa.com.mt
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫 8
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🏳️💫62
     port: 443
-    server: qa.visamiddleeast.com
-    type: vless
+    server: "[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]"
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫 9
+        Host: riyue.ttxx4.dynv6.net
+  - name: 💫星月💫优选💫🏳️💫63
     port: 443
-    server: time.is
-    type: vless
+    server: "[2606:4700:3036:ef:3f32:9601:b705:e94b]"
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
-      path: /?ed=2560
+      path: /?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io
       headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫 10
-    port: 8443
-    server: www.wto.org
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫 11
-    port: 2087
-    server: chatgpt.com
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月优选💫 12
-    port: 443
-    server: icook.hk
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 🇯🇵 IPv6日月优选💫
-    port: 443
-    server: "2606:4700::"
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        Host: tangxianchu.filegear-sg.me
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
+        Host: riyue.ttxx4.dynv6.net
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
-      - 日月优选💫
-      - 日月优选💫 2
-      - 日月优选💫 3
-      - 日月优选💫 4
-      - 日月优选💫 5
-      - 日月优选💫 6
-      - 日月优选💫 7
-      - 日月优选💫 8
-      - 日月优选💫 9
-      - 日月优选💫 10
-      - 日月优选💫 11
-      - 日月优选💫 12
-      - 🇯🇵 IPv6日月优选💫
+      - 💫星月💫优选💫🇨🇳💫1
+      - 💫星月💫优选💫🇸🇬💫2
+      - 💫星月💫优选💫🇬🇧💫3
+      - 💫星月💫优选💫🇨🇳💫4
+      - 💫星月💫优选💫🇺🇸💫5
+      - 💫星月💫优选💫🇺🇸💫6
+      - 💫星月💫优选💫🇨🇳💫7
+      - 💫星月💫优选💫🇺🇸💫8
+      - 💫星月💫优选💫🇺🇸💫9
+      - 💫星月💫优选💫🇺🇸💫10
+      - 💫星月💫优选💫🇺🇸💫11
+      - 💫星月💫优选💫🏳️💫12
+      - 💫星月💫优选💫🇳🇱💫13
+      - 💫星月💫优选💫🇷🇺💫14
+      - 💫星月💫优选💫🇷🇴💫15
+      - 💫星月💫优选💫🇦🇹💫16
+      - 💫星月💫优选💫🇺🇸💫17
+      - 💫星月💫优选💫🇺🇸💫18
+      - 💫星月💫优选💫🇦🇹💫19
+      - 💫星月💫优选💫🇺🇸💫20
+      - 💫星月💫优选💫🇷🇺💫21
+      - 💫星月💫优选💫🇺🇸💫22
+      - 💫星月💫优选💫🇺🇸💫23
+      - 💫星月💫优选💫🇺🇸💫24
+      - 💫星月💫优选💫🇺🇸💫25
+      - 💫星月💫优选💫🇬🇧💫26
+      - 💫星月💫优选💫🇬🇧💫27
+      - 💫星月💫优选💫🇺🇦💫28
+      - 💫星月💫优选💫🇨🇳💫29
+      - 💫星月💫优选💫🇨🇳💫30
+      - 💫星月💫优选💫🇨🇳💫31
+      - 💫星月💫优选💫🇰🇷💫32
+      - 💫星月💫优选💫🇯🇵💫33
+      - 💫星月💫优选💫🇰🇷💫34
+      - 💫星月💫优选💫🇰🇷💫35
+      - 💫星月💫优选💫🇨🇦💫36
+      - 💫星月💫优选💫🇺🇸💫37
+      - 💫星月💫优选💫🇨🇦💫38
+      - 💫星月💫优选💫🇺🇸💫39
+      - 💫星月💫优选💫🇨🇳💫40
+      - 💫星月💫优选💫🏳️💫41
+      - 💫星月💫优选💫🇳🇱💫42
+      - 💫星月💫优选💫🇺🇸💫43
+      - 💫星月💫优选💫🇺🇸💫44
+      - 💫星月💫优选💫🇨🇳💫45
+      - 💫星月💫优选💫🇺🇸💫46
+      - 💫星月💫优选💫🇺🇸💫47
+      - 💫星月💫优选💫🇺🇸💫48
+      - 💫星月💫优选💫🇺🇸💫49
+      - 💫星月💫优选💫🇺🇸💫50
+      - 💫星月💫优选💫🇺🇸💫51
+      - 💫星月💫优选💫🇺🇸💫52
+      - 💫星月💫优选💫🇺🇸💫53
+      - 💫星月💫优选💫🇺🇸💫54
+      - 💫星月💫优选💫🇺🇸💫55
+      - 💫星月💫优选💫🇺🇸💫56
+      - 💫星月💫优选💫🇺🇸💫57
+      - 💫星月💫优选💫🏳️💫58
+      - 💫星月💫优选💫🏳️💫59
+      - 💫星月💫优选💫🏳️💫60
+      - 💫星月💫优选💫🏳️💫61
+      - 💫星月💫优选💫🏳️💫62
+      - 💫星月💫优选💫🏳️💫63
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
-      - 日月优选💫
-      - 日月优选💫 2
-      - 日月优选💫 3
-      - 日月优选💫 4
-      - 日月优选💫 5
-      - 日月优选💫 6
-      - 日月优选💫 7
-      - 日月优选💫 8
-      - 日月优选💫 9
-      - 日月优选💫 10
-      - 日月优选💫 11
-      - 日月优选💫 12
-      - 🇯🇵 IPv6日月优选💫
+      - 💫星月💫优选💫🇨🇳💫1
+      - 💫星月💫优选💫🇸🇬💫2
+      - 💫星月💫优选💫🇬🇧💫3
+      - 💫星月💫优选💫🇨🇳💫4
+      - 💫星月💫优选💫🇺🇸💫5
+      - 💫星月💫优选💫🇺🇸💫6
+      - 💫星月💫优选💫🇨🇳💫7
+      - 💫星月💫优选💫🇺🇸💫8
+      - 💫星月💫优选💫🇺🇸💫9
+      - 💫星月💫优选💫🇺🇸💫10
+      - 💫星月💫优选💫🇺🇸💫11
+      - 💫星月💫优选💫🏳️💫12
+      - 💫星月💫优选💫🇳🇱💫13
+      - 💫星月💫优选💫🇷🇺💫14
+      - 💫星月💫优选💫🇷🇴💫15
+      - 💫星月💫优选💫🇦🇹💫16
+      - 💫星月💫优选💫🇺🇸💫17
+      - 💫星月💫优选💫🇺🇸💫18
+      - 💫星月💫优选💫🇦🇹💫19
+      - 💫星月💫优选💫🇺🇸💫20
+      - 💫星月💫优选💫🇷🇺💫21
+      - 💫星月💫优选💫🇺🇸💫22
+      - 💫星月💫优选💫🇺🇸💫23
+      - 💫星月💫优选💫🇺🇸💫24
+      - 💫星月💫优选💫🇺🇸💫25
+      - 💫星月💫优选💫🇬🇧💫26
+      - 💫星月💫优选💫🇬🇧💫27
+      - 💫星月💫优选💫🇺🇦💫28
+      - 💫星月💫优选💫🇨🇳💫29
+      - 💫星月💫优选💫🇨🇳💫30
+      - 💫星月💫优选💫🇨🇳💫31
+      - 💫星月💫优选💫🇰🇷💫32
+      - 💫星月💫优选💫🇯🇵💫33
+      - 💫星月💫优选💫🇰🇷💫34
+      - 💫星月💫优选💫🇰🇷💫35
+      - 💫星月💫优选💫🇨🇦💫36
+      - 💫星月💫优选💫🇺🇸💫37
+      - 💫星月💫优选💫🇨🇦💫38
+      - 💫星月💫优选💫🇺🇸💫39
+      - 💫星月💫优选💫🇨🇳💫40
+      - 💫星月💫优选💫🏳️💫41
+      - 💫星月💫优选💫🇳🇱💫42
+      - 💫星月💫优选💫🇺🇸💫43
+      - 💫星月💫优选💫🇺🇸💫44
+      - 💫星月💫优选💫🇨🇳💫45
+      - 💫星月💫优选💫🇺🇸💫46
+      - 💫星月💫优选💫🇺🇸💫47
+      - 💫星月💫优选💫🇺🇸💫48
+      - 💫星月💫优选💫🇺🇸💫49
+      - 💫星月💫优选💫🇺🇸💫50
+      - 💫星月💫优选💫🇺🇸💫51
+      - 💫星月💫优选💫🇺🇸💫52
+      - 💫星月💫优选💫🇺🇸💫53
+      - 💫星月💫优选💫🇺🇸💫54
+      - 💫星月💫优选💫🇺🇸💫55
+      - 💫星月💫优选💫🇺🇸💫56
+      - 💫星月💫优选💫🇺🇸💫57
+      - 💫星月💫优选💫🏳️💫58
+      - 💫星月💫优选💫🏳️💫59
+      - 💫星月💫优选💫🏳️💫60
+      - 💫星月💫优选💫🏳️💫61
+      - 💫星月💫优选💫🏳️💫62
+      - 💫星月💫优选💫🏳️💫63
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
-      - 日月优选💫
-      - 日月优选💫 2
-      - 日月优选💫 3
-      - 日月优选💫 4
-      - 日月优选💫 5
-      - 日月优选💫 6
-      - 日月优选💫 7
-      - 日月优选💫 8
-      - 日月优选💫 9
-      - 日月优选💫 10
-      - 日月优选💫 11
-      - 日月优选💫 12
-      - 🇯🇵 IPv6日月优选💫
+      - 💫星月💫优选💫🇨🇳💫1
+      - 💫星月💫优选💫🇸🇬💫2
+      - 💫星月💫优选💫🇬🇧💫3
+      - 💫星月💫优选💫🇨🇳💫4
+      - 💫星月💫优选💫🇺🇸💫5
+      - 💫星月💫优选💫🇺🇸💫6
+      - 💫星月💫优选💫🇨🇳💫7
+      - 💫星月💫优选💫🇺🇸💫8
+      - 💫星月💫优选💫🇺🇸💫9
+      - 💫星月💫优选💫🇺🇸💫10
+      - 💫星月💫优选💫🇺🇸💫11
+      - 💫星月💫优选💫🏳️💫12
+      - 💫星月💫优选💫🇳🇱💫13
+      - 💫星月💫优选💫🇷🇺💫14
+      - 💫星月💫优选💫🇷🇴💫15
+      - 💫星月💫优选💫🇦🇹💫16
+      - 💫星月💫优选💫🇺🇸💫17
+      - 💫星月💫优选💫🇺🇸💫18
+      - 💫星月💫优选💫🇦🇹💫19
+      - 💫星月💫优选💫🇺🇸💫20
+      - 💫星月💫优选💫🇷🇺💫21
+      - 💫星月💫优选💫🇺🇸💫22
+      - 💫星月💫优选💫🇺🇸💫23
+      - 💫星月💫优选💫🇺🇸💫24
+      - 💫星月💫优选💫🇺🇸💫25
+      - 💫星月💫优选💫🇬🇧💫26
+      - 💫星月💫优选💫🇬🇧💫27
+      - 💫星月💫优选💫🇺🇦💫28
+      - 💫星月💫优选💫🇨🇳💫29
+      - 💫星月💫优选💫🇨🇳💫30
+      - 💫星月💫优选💫🇨🇳💫31
+      - 💫星月💫优选💫🇰🇷💫32
+      - 💫星月💫优选💫🇯🇵💫33
+      - 💫星月💫优选💫🇰🇷💫34
+      - 💫星月💫优选💫🇰🇷💫35
+      - 💫星月💫优选💫🇨🇦💫36
+      - 💫星月💫优选💫🇺🇸💫37
+      - 💫星月💫优选💫🇨🇦💫38
+      - 💫星月💫优选💫🇺🇸💫39
+      - 💫星月💫优选💫🇨🇳💫40
+      - 💫星月💫优选💫🏳️💫41
+      - 💫星月💫优选💫🇳🇱💫42
+      - 💫星月💫优选💫🇺🇸💫43
+      - 💫星月💫优选💫🇺🇸💫44
+      - 💫星月💫优选💫🇨🇳💫45
+      - 💫星月💫优选💫🇺🇸💫46
+      - 💫星月💫优选💫🇺🇸💫47
+      - 💫星月💫优选💫🇺🇸💫48
+      - 💫星月💫优选💫🇺🇸💫49
+      - 💫星月💫优选💫🇺🇸💫50
+      - 💫星月💫优选💫🇺🇸💫51
+      - 💫星月💫优选💫🇺🇸💫52
+      - 💫星月💫优选💫🇺🇸💫53
+      - 💫星月💫优选💫🇺🇸💫54
+      - 💫星月💫优选💫🇺🇸💫55
+      - 💫星月💫优选💫🇺🇸💫56
+      - 💫星月💫优选💫🇺🇸💫57
+      - 💫星月💫优选💫🏳️💫58
+      - 💫星月💫优选💫🏳️💫59
+      - 💫星月💫优选💫🏳️💫60
+      - 💫星月💫优选💫🏳️💫61
+      - 💫星月💫优选💫🏳️💫62
+      - 💫星月💫优选💫🏳️💫63
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
-      - 日月优选💫
-      - 日月优选💫 2
-      - 日月优选💫 3
-      - 日月优选💫 4
-      - 日月优选💫 5
-      - 日月优选💫 6
-      - 日月优选💫 7
-      - 日月优选💫 8
-      - 日月优选💫 9
-      - 日月优选💫 10
-      - 日月优选💫 11
-      - 日月优选💫 12
-      - 🇯🇵 IPv6日月优选💫
+      - 💫星月💫优选💫🇨🇳💫1
+      - 💫星月💫优选💫🇸🇬💫2
+      - 💫星月💫优选💫🇬🇧💫3
+      - 💫星月💫优选💫🇨🇳💫4
+      - 💫星月💫优选💫🇺🇸💫5
+      - 💫星月💫优选💫🇺🇸💫6
+      - 💫星月💫优选💫🇨🇳💫7
+      - 💫星月💫优选💫🇺🇸💫8
+      - 💫星月💫优选💫🇺🇸💫9
+      - 💫星月💫优选💫🇺🇸💫10
+      - 💫星月💫优选💫🇺🇸💫11
+      - 💫星月💫优选💫🏳️💫12
+      - 💫星月💫优选💫🇳🇱💫13
+      - 💫星月💫优选💫🇷🇺💫14
+      - 💫星月💫优选💫🇷🇴💫15
+      - 💫星月💫优选💫🇦🇹💫16
+      - 💫星月💫优选💫🇺🇸💫17
+      - 💫星月💫优选💫🇺🇸💫18
+      - 💫星月💫优选💫🇦🇹💫19
+      - 💫星月💫优选💫🇺🇸💫20
+      - 💫星月💫优选💫🇷🇺💫21
+      - 💫星月💫优选💫🇺🇸💫22
+      - 💫星月💫优选💫🇺🇸💫23
+      - 💫星月💫优选💫🇺🇸💫24
+      - 💫星月💫优选💫🇺🇸💫25
+      - 💫星月💫优选💫🇬🇧💫26
+      - 💫星月💫优选💫🇬🇧💫27
+      - 💫星月💫优选💫🇺🇦💫28
+      - 💫星月💫优选💫🇨🇳💫29
+      - 💫星月💫优选💫🇨🇳💫30
+      - 💫星月💫优选💫🇨🇳💫31
+      - 💫星月💫优选💫🇰🇷💫32
+      - 💫星月💫优选💫🇯🇵💫33
+      - 💫星月💫优选💫🇰🇷💫34
+      - 💫星月💫优选💫🇰🇷💫35
+      - 💫星月💫优选💫🇨🇦💫36
+      - 💫星月💫优选💫🇺🇸💫37
+      - 💫星月💫优选💫🇨🇦💫38
+      - 💫星月💫优选💫🇺🇸💫39
+      - 💫星月💫优选💫🇨🇳💫40
+      - 💫星月💫优选💫🏳️💫41
+      - 💫星月💫优选💫🇳🇱💫42
+      - 💫星月💫优选💫🇺🇸💫43
+      - 💫星月💫优选💫🇺🇸💫44
+      - 💫星月💫优选💫🇨🇳💫45
+      - 💫星月💫优选💫🇺🇸💫46
+      - 💫星月💫优选💫🇺🇸💫47
+      - 💫星月💫优选💫🇺🇸💫48
+      - 💫星月💫优选💫🇺🇸💫49
+      - 💫星月💫优选💫🇺🇸💫50
+      - 💫星月💫优选💫🇺🇸💫51
+      - 💫星月💫优选💫🇺🇸💫52
+      - 💫星月💫优选💫🇺🇸💫53
+      - 💫星月💫优选💫🇺🇸💫54
+      - 💫星月💫优选💫🇺🇸💫55
+      - 💫星月💫优选💫🇺🇸💫56
+      - 💫星月💫优选💫🇺🇸💫57
+      - 💫星月💫优选💫🏳️💫58
+      - 💫星月💫优选💫🏳️💫59
+      - 💫星月💫优选💫🏳️💫60
+      - 💫星月💫优选💫🏳️💫61
+      - 💫星月💫优选💫🏳️💫62
+      - 💫星月💫优选💫🏳️💫63
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
-      - 日月优选💫
-      - 日月优选💫 2
-      - 日月优选💫 3
-      - 日月优选💫 4
-      - 日月优选💫 5
-      - 日月优选💫 6
-      - 日月优选💫 7
-      - 日月优选💫 8
-      - 日月优选💫 9
-      - 日月优选💫 10
-      - 日月优选💫 11
-      - 日月优选💫 12
-      - 🇯🇵 IPv6日月优选💫
+      - 💫星月💫优选💫🇨🇳💫1
+      - 💫星月💫优选💫🇸🇬💫2
+      - 💫星月💫优选💫🇬🇧💫3
+      - 💫星月💫优选💫🇨🇳💫4
+      - 💫星月💫优选💫🇺🇸💫5
+      - 💫星月💫优选💫🇺🇸💫6
+      - 💫星月💫优选💫🇨🇳💫7
+      - 💫星月💫优选💫🇺🇸💫8
+      - 💫星月💫优选💫🇺🇸💫9
+      - 💫星月💫优选💫🇺🇸💫10
+      - 💫星月💫优选💫🇺🇸💫11
+      - 💫星月💫优选💫🏳️💫12
+      - 💫星月💫优选💫🇳🇱💫13
+      - 💫星月💫优选💫🇷🇺💫14
+      - 💫星月💫优选💫🇷🇴💫15
+      - 💫星月💫优选💫🇦🇹💫16
+      - 💫星月💫优选💫🇺🇸💫17
+      - 💫星月💫优选💫🇺🇸💫18
+      - 💫星月💫优选💫🇦🇹💫19
+      - 💫星月💫优选💫🇺🇸💫20
+      - 💫星月💫优选💫🇷🇺💫21
+      - 💫星月💫优选💫🇺🇸💫22
+      - 💫星月💫优选💫🇺🇸💫23
+      - 💫星月💫优选💫🇺🇸💫24
+      - 💫星月💫优选💫🇺🇸💫25
+      - 💫星月💫优选💫🇬🇧💫26
+      - 💫星月💫优选💫🇬🇧💫27
+      - 💫星月💫优选💫🇺🇦💫28
+      - 💫星月💫优选💫🇨🇳💫29
+      - 💫星月💫优选💫🇨🇳💫30
+      - 💫星月💫优选💫🇨🇳💫31
+      - 💫星月💫优选💫🇰🇷💫32
+      - 💫星月💫优选💫🇯🇵💫33
+      - 💫星月💫优选💫🇰🇷💫34
+      - 💫星月💫优选💫🇰🇷💫35
+      - 💫星月💫优选💫🇨🇦💫36
+      - 💫星月💫优选💫🇺🇸💫37
+      - 💫星月💫优选💫🇨🇦💫38
+      - 💫星月💫优选💫🇺🇸💫39
+      - 💫星月💫优选💫🇨🇳💫40
+      - 💫星月💫优选💫🏳️💫41
+      - 💫星月💫优选💫🇳🇱💫42
+      - 💫星月💫优选💫🇺🇸💫43
+      - 💫星月💫优选💫🇺🇸💫44
+      - 💫星月💫优选💫🇨🇳💫45
+      - 💫星月💫优选💫🇺🇸💫46
+      - 💫星月💫优选💫🇺🇸💫47
+      - 💫星月💫优选💫🇺🇸💫48
+      - 💫星月💫优选💫🇺🇸💫49
+      - 💫星月💫优选💫🇺🇸💫50
+      - 💫星月💫优选💫🇺🇸💫51
+      - 💫星月💫优选💫🇺🇸💫52
+      - 💫星月💫优选💫🇺🇸💫53
+      - 💫星月💫优选💫🇺🇸💫54
+      - 💫星月💫优选💫🇺🇸💫55
+      - 💫星月💫优选💫🇺🇸💫56
+      - 💫星月💫优选💫🇺🇸💫57
+      - 💫星月💫优选💫🏳️💫58
+      - 💫星月💫优选💫🏳️💫59
+      - 💫星月💫优选💫🏳️💫60
+      - 💫星月💫优选💫🏳️💫61
+      - 💫星月💫优选💫🏳️💫62
+      - 💫星月💫优选💫🏳️💫63
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
-      - 日月优选💫
-      - 日月优选💫 2
-      - 日月优选💫 3
-      - 日月优选💫 4
-      - 日月优选💫 5
-      - 日月优选💫 6
-      - 日月优选💫 7
-      - 日月优选💫 8
-      - 日月优选💫 9
-      - 日月优选💫 10
-      - 日月优选💫 11
-      - 日月优选💫 12
-      - 🇯🇵 IPv6日月优选💫
+      - 💫星月💫优选💫🇨🇳💫1
+      - 💫星月💫优选💫🇸🇬💫2
+      - 💫星月💫优选💫🇬🇧💫3
+      - 💫星月💫优选💫🇨🇳💫4
+      - 💫星月💫优选💫🇺🇸💫5
+      - 💫星月💫优选💫🇺🇸💫6
+      - 💫星月💫优选💫🇨🇳💫7
+      - 💫星月💫优选💫🇺🇸💫8
+      - 💫星月💫优选💫🇺🇸💫9
+      - 💫星月💫优选💫🇺🇸💫10
+      - 💫星月💫优选💫🇺🇸💫11
+      - 💫星月💫优选💫🏳️💫12
+      - 💫星月💫优选💫🇳🇱💫13
+      - 💫星月💫优选💫🇷🇺💫14
+      - 💫星月💫优选💫🇷🇴💫15
+      - 💫星月💫优选💫🇦🇹💫16
+      - 💫星月💫优选💫🇺🇸💫17
+      - 💫星月💫优选💫🇺🇸💫18
+      - 💫星月💫优选💫🇦🇹💫19
+      - 💫星月💫优选💫🇺🇸💫20
+      - 💫星月💫优选💫🇷🇺💫21
+      - 💫星月💫优选💫🇺🇸💫22
+      - 💫星月💫优选💫🇺🇸💫23
+      - 💫星月💫优选💫🇺🇸💫24
+      - 💫星月💫优选💫🇺🇸💫25
+      - 💫星月💫优选💫🇬🇧💫26
+      - 💫星月💫优选💫🇬🇧💫27
+      - 💫星月💫优选💫🇺🇦💫28
+      - 💫星月💫优选💫🇨🇳💫29
+      - 💫星月💫优选💫🇨🇳💫30
+      - 💫星月💫优选💫🇨🇳💫31
+      - 💫星月💫优选💫🇰🇷💫32
+      - 💫星月💫优选💫🇯🇵💫33
+      - 💫星月💫优选💫🇰🇷💫34
+      - 💫星月💫优选💫🇰🇷💫35
+      - 💫星月💫优选💫🇨🇦💫36
+      - 💫星月💫优选💫🇺🇸💫37
+      - 💫星月💫优选💫🇨🇦💫38
+      - 💫星月💫优选💫🇺🇸💫39
+      - 💫星月💫优选💫🇨🇳💫40
+      - 💫星月💫优选💫🏳️💫41
+      - 💫星月💫优选💫🇳🇱💫42
+      - 💫星月💫优选💫🇺🇸💫43
+      - 💫星月💫优选💫🇺🇸💫44
+      - 💫星月💫优选💫🇨🇳💫45
+      - 💫星月💫优选💫🇺🇸💫46
+      - 💫星月💫优选💫🇺🇸💫47
+      - 💫星月💫优选💫🇺🇸💫48
+      - 💫星月💫优选💫🇺🇸💫49
+      - 💫星月💫优选💫🇺🇸💫50
+      - 💫星月💫优选💫🇺🇸💫51
+      - 💫星月💫优选💫🇺🇸💫52
+      - 💫星月💫优选💫🇺🇸💫53
+      - 💫星月💫优选💫🇺🇸💫54
+      - 💫星月💫优选💫🇺🇸💫55
+      - 💫星月💫优选💫🇺🇸💫56
+      - 💫星月💫优选💫🇺🇸💫57
+      - 💫星月💫优选💫🏳️💫58
+      - 💫星月💫优选💫🏳️💫59
+      - 💫星月💫优选💫🏳️💫60
+      - 💫星月💫优选💫🏳️💫61
+      - 💫星月💫优选💫🏳️💫62
+      - 💫星月💫优选💫🏳️💫63
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1212,56 +1277,69 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 三网自适应分流官方优选
-      - 电信官方优选
-      - 移动官方优选
-      - 星月优选⭐️💫
-      - 星月优选⭐️💫 2
-      - 星月优选⭐️💫 3
-      - 星月优选⭐️💫 4
-      - 星月优选⭐️💫 5
-      - 星月优选⭐️💫 6
-      - 星月优选⭐️💫 7
-      - 星月优选⭐️💫 8
-      - 星月优选⭐️💫 9
-      - 星月优选⭐️💫 10
-      - 星月优选⭐️💫 11
-      - 星月优选⭐️💫 12
-      - 星月优选⭐️💫 13
-      - 星月优选⭐️💫 14
-      - 星月优选⭐️💫 15
-      - 星月优选⭐️💫 16
-      - 星月优选⭐️💫 17
-      - 星月优选⭐️💫 18
-      - 日月提供维护官方优选
-      - 星月提供维护官方优选⭐️💫
-      - 日月提供维护官方优选💫
-      - 日月维护官方优选💫
-      - 星月维护官方优选⭐️💫
-      - 日月优选⭐️💫
-      - 日月优选⭐️💫 2
-      - 日月优选⭐️💫 3
-      - 日月优选⭐️💫 4
-      - 日月优选⭐️💫 5
-      - 日月优选⭐️💫 6
-      - 日月优选⭐️💫 7
-      - 日月优选⭐️💫 8
-      - 日月优选⭐️💫 9
-      - 日月提供维护反代优选⭐️💫
-      - 日月提供维护反代优选⭐️💫 2
-      - 日月优选💫
-      - 日月优选💫 2
-      - 日月优选💫 3
-      - 日月优选💫 4
-      - 日月优选💫 5
-      - 日月优选💫 6
-      - 日月优选💫 7
-      - 日月优选💫 8
-      - 日月优选💫 9
-      - 日月优选💫 10
-      - 日月优选💫 11
-      - 日月优选💫 12
-      - 🇯🇵 IPv6日月优选💫
+      - 💫星月💫优选💫🇨🇳💫1
+      - 💫星月💫优选💫🇸🇬💫2
+      - 💫星月💫优选💫🇬🇧💫3
+      - 💫星月💫优选💫🇨🇳💫4
+      - 💫星月💫优选💫🇺🇸💫5
+      - 💫星月💫优选💫🇺🇸💫6
+      - 💫星月💫优选💫🇨🇳💫7
+      - 💫星月💫优选💫🇺🇸💫8
+      - 💫星月💫优选💫🇺🇸💫9
+      - 💫星月💫优选💫🇺🇸💫10
+      - 💫星月💫优选💫🇺🇸💫11
+      - 💫星月💫优选💫🏳️💫12
+      - 💫星月💫优选💫🇳🇱💫13
+      - 💫星月💫优选💫🇷🇺💫14
+      - 💫星月💫优选💫🇷🇴💫15
+      - 💫星月💫优选💫🇦🇹💫16
+      - 💫星月💫优选💫🇺🇸💫17
+      - 💫星月💫优选💫🇺🇸💫18
+      - 💫星月💫优选💫🇦🇹💫19
+      - 💫星月💫优选💫🇺🇸💫20
+      - 💫星月💫优选💫🇷🇺💫21
+      - 💫星月💫优选💫🇺🇸💫22
+      - 💫星月💫优选💫🇺🇸💫23
+      - 💫星月💫优选💫🇺🇸💫24
+      - 💫星月💫优选💫🇺🇸💫25
+      - 💫星月💫优选💫🇬🇧💫26
+      - 💫星月💫优选💫🇬🇧💫27
+      - 💫星月💫优选💫🇺🇦💫28
+      - 💫星月💫优选💫🇨🇳💫29
+      - 💫星月💫优选💫🇨🇳💫30
+      - 💫星月💫优选💫🇨🇳💫31
+      - 💫星月💫优选💫🇰🇷💫32
+      - 💫星月💫优选💫🇯🇵💫33
+      - 💫星月💫优选💫🇰🇷💫34
+      - 💫星月💫优选💫🇰🇷💫35
+      - 💫星月💫优选💫🇨🇦💫36
+      - 💫星月💫优选💫🇺🇸💫37
+      - 💫星月💫优选💫🇨🇦💫38
+      - 💫星月💫优选💫🇺🇸💫39
+      - 💫星月💫优选💫🇨🇳💫40
+      - 💫星月💫优选💫🏳️💫41
+      - 💫星月💫优选💫🇳🇱💫42
+      - 💫星月💫优选💫🇺🇸💫43
+      - 💫星月💫优选💫🇺🇸💫44
+      - 💫星月💫优选💫🇨🇳💫45
+      - 💫星月💫优选💫🇺🇸💫46
+      - 💫星月💫优选💫🇺🇸💫47
+      - 💫星月💫优选💫🇺🇸💫48
+      - 💫星月💫优选💫🇺🇸💫49
+      - 💫星月💫优选💫🇺🇸💫50
+      - 💫星月💫优选💫🇺🇸💫51
+      - 💫星月💫优选💫🇺🇸💫52
+      - 💫星月💫优选💫🇺🇸💫53
+      - 💫星月💫优选💫🇺🇸💫54
+      - 💫星月💫优选💫🇺🇸💫55
+      - 💫星月💫优选💫🇺🇸💫56
+      - 💫星月💫优选💫🇺🇸💫57
+      - 💫星月💫优选💫🏳️💫58
+      - 💫星月💫优选💫🏳️💫59
+      - 💫星月💫优选💫🏳️💫60
+      - 💫星月💫优选💫🏳️💫61
+      - 💫星月💫优选💫🏳️💫62
+      - 💫星月💫优选💫🏳️💫63
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
