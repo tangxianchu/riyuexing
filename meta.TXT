@@ -1,5 +1,5 @@
 # 模版名称：ACL4SSR_Online_Full_Google.ini
-# 生成时间：2024-10-22 07:17:17
+# 生成时间：2024-10-22 18:15:06
 # 不要随意改变关键字，否则会导致出错
 # acl4SSR规则
 # 去广告：支持
@@ -57,7 +57,7 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 日月☁️1☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️1⭐️🇺🇸⭐️US⭐️美国
     port: 2096
     server: 162.159.138.178
     type: vless
@@ -70,12 +70,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️2☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️2⭐️🇺🇸⭐️US⭐️美国
     port: 8443
     server: 162.159.138.178
     type: vless
@@ -88,12 +85,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️3☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️3⭐️🇺🇸⭐️US⭐️美国
     port: 2096
     server: 162.159.142.252
     type: vless
@@ -106,12 +100,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️4☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️4⭐️🇺🇸⭐️US⭐️美国
     port: 2053
     server: 162.159.141.161
     type: vless
@@ -124,12 +115,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️5☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️5⭐️🇺🇸⭐️US⭐️美国
     port: 8443
     server: 104.20.30.149
     type: vless
@@ -142,12 +130,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️6☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️6⭐️🇺🇸⭐️US⭐️美国
     port: 2087
     server: 172.67.74.9
     type: vless
@@ -160,12 +145,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️7☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️7⭐️🇺🇸⭐️US⭐️美国
     port: 2087
     server: 104.20.30.149
     type: vless
@@ -178,12 +160,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️8☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️8⭐️🇺🇸⭐️US⭐️美国
     port: 2096
     server: 104.19.57.183
     type: vless
@@ -196,12 +175,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️9☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️9⭐️🇺🇸⭐️US⭐️美国
     port: 2096
     server: 104.19.103.190
     type: vless
@@ -214,12 +190,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️10☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️10⭐️🇺🇸⭐️US⭐️美国
     port: 2096
     server: 104.19.107.190
     type: vless
@@ -232,12 +205,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️11☁️🏳️☁️unKnow☁️未知
+  - name: 星月⭐️11⭐️🏳️⭐️unKnow⭐️未知
     port: 2096
     server: 2606:4700:3036:ef:92f:be51:8695:9fc5
     type: vless
@@ -250,12 +220,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️12☁️🏳️☁️unKnow☁️未知
+  - name: 星月⭐️12⭐️🏳️⭐️unKnow⭐️未知
     port: 2053
     server: 2606:4700:3036:0:a36a:4aa4:75d9:9f75
     type: vless
@@ -268,12 +235,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️13☁️🏳️☁️unKnow☁️未知
+  - name: 星月⭐️13⭐️🏳️⭐️unKnow⭐️未知
     port: 2087
     server: 2606:4700:3036:ef:db9e:eecc:caef:9d4a
     type: vless
@@ -286,14 +250,11 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️14☁️🇷🇺☁️RU☁️俄罗斯
-    port: 8443
-    server: 195.54.171.57
+  - name: 星月⭐️14⭐️🇨🇳⭐️CN⭐️中国
+    port: 4445
+    server: 103.30.76.154
     type: vless
     network: ws
     tls: true
@@ -304,12 +265,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️15☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️15⭐️🇺🇸⭐️US⭐️美国
     port: 2087
     server: 154.12.179.220
     type: vless
@@ -322,12 +280,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️16☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️16⭐️🇺🇸⭐️US⭐️美国
     port: 8443
     server: 157.254.22.77
     type: vless
@@ -340,12 +295,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️17☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️17⭐️🇺🇸⭐️US⭐️美国
     port: 443
     server: 206.237.6.57
     type: vless
@@ -358,12 +310,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️18☁️🇬🇧☁️GB☁️英国
+  - name: 星月⭐️18⭐️🇬🇧⭐️GB⭐️英国
     port: 8080
     server: 89.213.219.196
     type: vless
@@ -376,12 +325,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️19☁️🇰🇷☁️KR☁️韩国
+  - name: 星月⭐️19⭐️🇰🇷⭐️KR⭐️韩国
     port: 443
     server: 132.145.94.80
     type: vless
@@ -394,12 +340,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️20☁️🇳🇱☁️NL☁️荷兰
+  - name: 星月⭐️20⭐️🇳🇱⭐️NL⭐️荷兰
     port: 587
     server: 132.226.20.13
     type: vless
@@ -412,12 +355,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️21☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️21⭐️🇺🇸⭐️US⭐️美国
     port: 50051
     server: 150.230.252.47
     type: vless
@@ -430,12 +370,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️22☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️22⭐️🇺🇸⭐️US⭐️美国
     port: 50051
     server: 150.230.252.47
     type: vless
@@ -448,12 +385,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️23☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️23⭐️🇺🇸⭐️US⭐️美国
     port: 12199
     server: 152.69.234.137
     type: vless
@@ -466,12 +400,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️24☁️🇨🇳☁️CN☁️中国
+  - name: 星月⭐️24⭐️🇨🇳⭐️CN⭐️中国
     port: 81
     server: 210.61.97.241
     type: vless
@@ -484,12 +415,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️25☁️🇫🇷☁️FR☁️法国
+  - name: 星月⭐️25⭐️🇫🇷⭐️FR⭐️法国
     port: 8080
     server: 141.11.87.111
     type: vless
@@ -502,12 +430,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️26☁️🇵🇰☁️PK☁️巴基斯坦
+  - name: 星月⭐️26⭐️🇵🇰⭐️PK⭐️巴基斯坦
     port: 31564
     server: 103.137.63.205
     type: vless
@@ -520,12 +445,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️27☁️🇨🇳☁️CN☁️中国
+  - name: 星月⭐️27⭐️🇨🇳⭐️CN⭐️中国
     port: 10443
     server: 122.116.105.15
     type: vless
@@ -538,12 +460,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️28☁️🇨🇳☁️CN☁️中国
+  - name: 星月⭐️28⭐️🇨🇳⭐️CN⭐️中国
     port: 81
     server: 122.116.86.104
     type: vless
@@ -556,12 +475,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️29☁️🇨🇳☁️CN☁️中国
+  - name: 星月⭐️29⭐️🇨🇳⭐️CN⭐️中国
     port: 81
     server: 220.135.202.250
     type: vless
@@ -574,12 +490,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️30☁️🇨🇳☁️CN☁️中国
+  - name: 星月⭐️30⭐️🇨🇳⭐️CN⭐️中国
     port: 24988
     server: 150.117.110.36
     type: vless
@@ -592,12 +505,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️31☁️🇨🇳☁️CN☁️中国
+  - name: 星月⭐️31⭐️🇨🇳⭐️CN⭐️中国
     port: 10244
     server: 60.249.114.181
     type: vless
@@ -610,12 +520,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️32☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️32⭐️🇺🇸⭐️US⭐️美国
     port: 16507
     server: 152.70.101.24
     type: vless
@@ -628,12 +535,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️33☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️33⭐️🇺🇸⭐️US⭐️美国
     port: 12345
     server: 138.2.21.240
     type: vless
@@ -646,12 +550,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️34☁️🇬🇧☁️GB☁️英国
+  - name: 星月⭐️34⭐️🇬🇧⭐️GB⭐️英国
     port: 2053
     server: 176.97.73.82
     type: vless
@@ -664,12 +565,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️35☁️🇬🇧☁️GB☁️英国
+  - name: 星月⭐️35⭐️🇬🇧⭐️GB⭐️英国
     port: 8443
     server: 176.97.70.65
     type: vless
@@ -682,12 +580,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️36☁️🇬🇧☁️GB☁️英国
+  - name: 星月⭐️36⭐️🇬🇧⭐️GB⭐️英国
     port: 8443
     server: 176.97.73.82
     type: vless
@@ -700,12 +595,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️37☁️🇸🇬☁️SG☁️新加坡
+  - name: 星月⭐️37⭐️🇸🇬⭐️SG⭐️新加坡
     port: 2053
     server: 51.79.250.33
     type: vless
@@ -718,12 +610,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️38☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️38⭐️🇺🇸⭐️US⭐️美国
     port: 443
     server: 15.235.162.49
     type: vless
@@ -736,12 +625,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️39☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️39⭐️🇺🇸⭐️US⭐️美国
     port: 443
     server: 143.42.66.91
     type: vless
@@ -754,14 +640,11 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️40☁️🇺🇸☁️US☁️美国
-    port: 587
-    server: 15.235.197.205
+  - name: 星月⭐️40⭐️🇸🇬⭐️SG⭐️新加坡
+    port: 8082
+    server: 3.0.115.176
     type: vless
     network: ws
     tls: true
@@ -772,12 +655,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️41☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️41⭐️🇺🇸⭐️US⭐️美国
     port: 443
     server: 15.235.162.49
     type: vless
@@ -790,12 +670,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️42☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️42⭐️🇺🇸⭐️US⭐️美国
     port: 10080
     server: 154.12.95.78
     type: vless
@@ -808,12 +685,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️43☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️43⭐️🇺🇸⭐️US⭐️美国
     port: 443
     server: 38.76.145.180
     type: vless
@@ -826,12 +700,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️44☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️44⭐️🇺🇸⭐️US⭐️美国
     port: 587
     server: 65.75.192.109
     type: vless
@@ -844,12 +715,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️45☁️🇰🇷☁️KR☁️韩国
+  - name: 星月⭐️45⭐️🇰🇷⭐️KR⭐️韩国
     port: 6688
     server: 132.145.89.35
     type: vless
@@ -862,12 +730,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️46☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️46⭐️🇺🇸⭐️US⭐️美国
     port: 993
     server: 45.59.126.122
     type: vless
@@ -880,12 +745,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️47☁️🇬🇧☁️GB☁️英国
+  - name: 星月⭐️47⭐️🇬🇧⭐️GB⭐️英国
     port: 8444
     server: 79.99.41.107
     type: vless
@@ -898,12 +760,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️48☁️🇩🇪☁️DE☁️德国
+  - name: 星月⭐️48⭐️🇩🇪⭐️DE⭐️德国
     port: 8443
     server: 82.165.220.6
     type: vless
@@ -916,12 +775,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️49☁️🇩🇪☁️DE☁️德国
+  - name: 星月⭐️49⭐️🇩🇪⭐️DE⭐️德国
     port: 443
     server: 213.165.84.57
     type: vless
@@ -934,12 +790,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️50☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️50⭐️🇺🇸⭐️US⭐️美国
     port: 8443
     server: 198.244.244.170
     type: vless
@@ -952,12 +805,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️51☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️51⭐️🇺🇸⭐️US⭐️美国
     port: 8443
     server: 51.195.169.100
     type: vless
@@ -970,12 +820,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️52☁️🇫🇷☁️FR☁️法国
+  - name: 星月⭐️52⭐️🇫🇷⭐️FR⭐️法国
     port: 8443
     server: 149.202.30.5
     type: vless
@@ -988,12 +835,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️53☁️🇫🇷☁️FR☁️法国
+  - name: 星月⭐️53⭐️🇫🇷⭐️FR⭐️法国
     port: 8443
     server: 37.59.66.215
     type: vless
@@ -1006,12 +850,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️54☁️🇫🇷☁️FR☁️法国
+  - name: 星月⭐️54⭐️🇫🇷⭐️FR⭐️法国
     port: 2053
     server: 176.31.83.160
     type: vless
@@ -1024,12 +865,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️55☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️55⭐️🇺🇸⭐️US⭐️美国
     port: 8443
     server: 13.37.224.156
     type: vless
@@ -1042,12 +880,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️56☁️🇫🇷☁️FR☁️法国
+  - name: 星月⭐️56⭐️🇫🇷⭐️FR⭐️法国
     port: 8443
     server: 15.237.137.128
     type: vless
@@ -1060,12 +895,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️57☁️🇳🇱☁️NL☁️荷兰
+  - name: 星月⭐️57⭐️🇳🇱⭐️NL⭐️荷兰
     port: 2053
     server: 45.87.2.60
     type: vless
@@ -1078,12 +910,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️58☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️58⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 8443
     server: 185.204.109.190
     type: vless
@@ -1096,12 +925,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️59☁️🇳🇱☁️NL☁️荷兰
+  - name: 星月⭐️59⭐️🇳🇱⭐️NL⭐️荷兰
     port: 2053
     server: 89.105.198.246
     type: vless
@@ -1114,12 +940,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️60☁️🇳🇱☁️NL☁️荷兰
+  - name: 星月⭐️60⭐️🇳🇱⭐️NL⭐️荷兰
     port: 2053
     server: 80.89.229.119
     type: vless
@@ -1132,12 +955,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️61☁️🇳🇱☁️NL☁️荷兰
+  - name: 星月⭐️61⭐️🇳🇱⭐️NL⭐️荷兰
     port: 2053
     server: 80.89.239.115
     type: vless
@@ -1150,12 +970,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️62☁️🇩🇪☁️DE☁️德国
+  - name: 星月⭐️62⭐️🇩🇪⭐️DE⭐️德国
     port: 2096
     server: 78.47.52.88
     type: vless
@@ -1168,12 +985,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️63☁️🇩🇪☁️DE☁️德国
+  - name: 星月⭐️63⭐️🇩🇪⭐️DE⭐️德国
     port: 443
     server: 188.166.162.201
     type: vless
@@ -1186,12 +1000,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️64☁️🇩🇪☁️DE☁️德国
+  - name: 星月⭐️64⭐️🇩🇪⭐️DE⭐️德国
     port: 8443
     server: 49.13.215.89
     type: vless
@@ -1204,12 +1015,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️65☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️65⭐️🇺🇸⭐️US⭐️美国
     port: 22567
     server: 38.59.228.168
     type: vless
@@ -1222,12 +1030,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️66☁️🇩🇪☁️DE☁️德国
+  - name: 星月⭐️66⭐️🇩🇪⭐️DE⭐️德国
     port: 8443
     server: 91.107.128.128
     type: vless
@@ -1240,12 +1045,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️67☁️🇪🇪☁️EE☁️爱沙尼亚
+  - name: 星月⭐️67⭐️🇪🇪⭐️EE⭐️爱沙尼亚
     port: 443
     server: 5.101.181.149
     type: vless
@@ -1258,12 +1060,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️68☁️🇦🇿☁️AZ☁️阿塞拜疆
+  - name: 星月⭐️68⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
     port: 443
     server: 46.32.184.247
     type: vless
@@ -1276,12 +1075,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️69☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️69⭐️🇺🇸⭐️US⭐️美国
     port: 443
     server: 198.105.125.194
     type: vless
@@ -1294,12 +1090,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️70☁️🇪🇪☁️EE☁️爱沙尼亚
+  - name: 星月⭐️70⭐️🇪🇪⭐️EE⭐️爱沙尼亚
     port: 443
     server: 46.36.223.141
     type: vless
@@ -1312,12 +1105,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️71☁️🇬🇧☁️GB☁️英国
+  - name: 星月⭐️71⭐️🇬🇧⭐️GB⭐️英国
     port: 8080
     server: 51.20.55.209
     type: vless
@@ -1330,12 +1120,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️72☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️72⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 2053
     server: 185.233.82.227
     type: vless
@@ -1348,12 +1135,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️73☁️🇫🇮☁️FI☁️芬兰
+  - name: 星月⭐️73⭐️🇫🇮⭐️FI⭐️芬兰
     port: 8443
     server: 95.216.174.145
     type: vless
@@ -1366,12 +1150,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️74☁️🇳🇱☁️NL☁️荷兰
+  - name: 星月⭐️74⭐️🇳🇱⭐️NL⭐️荷兰
     port: 2053
     server: 45.138.73.200
     type: vless
@@ -1384,12 +1165,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️75☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️75⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 8443
     server: 46.8.228.202
     type: vless
@@ -1402,12 +1180,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️76☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️76⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 2053
     server: 85.209.0.40
     type: vless
@@ -1420,12 +1195,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️77☁️🇬🇧☁️GB☁️英国
+  - name: 星月⭐️77⭐️🇬🇧⭐️GB⭐️英国
     port: 443
     server: 51.20.124.5
     type: vless
@@ -1438,12 +1210,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️78☁️🇸🇪☁️SE☁️瑞典
+  - name: 星月⭐️78⭐️🇸🇪⭐️SE⭐️瑞典
     port: 8080
     server: 13.53.54.176
     type: vless
@@ -1456,12 +1225,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️79☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️79⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 2053
     server: 185.233.83.225
     type: vless
@@ -1474,12 +1240,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️80☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️80⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 2053
     server: 185.105.90.45
     type: vless
@@ -1492,12 +1255,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️81☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️81⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 443
     server: 194.87.252.20
     type: vless
@@ -1510,12 +1270,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️82☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️82⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 443
     server: 77.73.71.103
     type: vless
@@ -1528,12 +1285,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️83☁️🇦🇿☁️AZ☁️阿塞拜疆
+  - name: 星月⭐️83⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
     port: 443
     server: 46.32.184.33
     type: vless
@@ -1546,12 +1300,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️84☁️🇱🇻☁️LV☁️拉脱维亚
+  - name: 星月⭐️84⭐️🇱🇻⭐️LV⭐️拉脱维亚
     port: 443
     server: 195.135.254.75
     type: vless
@@ -1564,12 +1315,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️85☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️85⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 8443
     server: 158.255.6.22
     type: vless
@@ -1582,12 +1330,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️86☁️🇦🇿☁️AZ☁️阿塞拜疆
+  - name: 星月⭐️86⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
     port: 8443
     server: 46.32.186.234
     type: vless
@@ -1600,12 +1345,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️87☁️🇺🇸☁️US☁️美国
+  - name: 星月⭐️87⭐️🇺🇸⭐️US⭐️美国
     port: 443
     server: 216.173.70.80
     type: vless
@@ -1618,12 +1360,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️88☁️🇦🇿☁️AZ☁️阿塞拜疆
+  - name: 星月⭐️88⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
     port: 8443
     server: 46.32.186.61
     type: vless
@@ -1636,12 +1375,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️89☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️89⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 8443
     server: 185.242.107.56
     type: vless
@@ -1654,12 +1390,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️90☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️90⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 8443
     server: 95.182.120.34
     type: vless
@@ -1672,12 +1405,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️91☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️91⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 2053
     server: 91.227.18.81
     type: vless
@@ -1690,12 +1420,9 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
-  - name: 日月☁️92☁️🇷🇺☁️RU☁️俄罗斯
+  - name: 星月⭐️92⭐️🇷🇺⭐️RU⭐️俄罗斯
     port: 2053
     server: 213.159.208.88
     type: vless
@@ -1708,10 +1435,7 @@ proxies:
       path: /?ed=2560
       headers:
         Host: tangxianchu.filegear-sg.me
-    alpn:
-      - h3
     uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
     tfo: false
 proxy-groups:
   - name: 🚀 节点选择
@@ -1719,585 +1443,585 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 日月☁️1☁️🇺🇸☁️US☁️美国
-      - 日月☁️2☁️🇺🇸☁️US☁️美国
-      - 日月☁️3☁️🇺🇸☁️US☁️美国
-      - 日月☁️4☁️🇺🇸☁️US☁️美国
-      - 日月☁️5☁️🇺🇸☁️US☁️美国
-      - 日月☁️6☁️🇺🇸☁️US☁️美国
-      - 日月☁️7☁️🇺🇸☁️US☁️美国
-      - 日月☁️8☁️🇺🇸☁️US☁️美国
-      - 日月☁️9☁️🇺🇸☁️US☁️美国
-      - 日月☁️10☁️🇺🇸☁️US☁️美国
-      - 日月☁️11☁️🏳️☁️unKnow☁️未知
-      - 日月☁️12☁️🏳️☁️unKnow☁️未知
-      - 日月☁️13☁️🏳️☁️unKnow☁️未知
-      - 日月☁️14☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️15☁️🇺🇸☁️US☁️美国
-      - 日月☁️16☁️🇺🇸☁️US☁️美国
-      - 日月☁️17☁️🇺🇸☁️US☁️美国
-      - 日月☁️18☁️🇬🇧☁️GB☁️英国
-      - 日月☁️19☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️20☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️21☁️🇺🇸☁️US☁️美国
-      - 日月☁️22☁️🇺🇸☁️US☁️美国
-      - 日月☁️23☁️🇺🇸☁️US☁️美国
-      - 日月☁️24☁️🇨🇳☁️CN☁️中国
-      - 日月☁️25☁️🇫🇷☁️FR☁️法国
-      - 日月☁️26☁️🇵🇰☁️PK☁️巴基斯坦
-      - 日月☁️27☁️🇨🇳☁️CN☁️中国
-      - 日月☁️28☁️🇨🇳☁️CN☁️中国
-      - 日月☁️29☁️🇨🇳☁️CN☁️中国
-      - 日月☁️30☁️🇨🇳☁️CN☁️中国
-      - 日月☁️31☁️🇨🇳☁️CN☁️中国
-      - 日月☁️32☁️🇺🇸☁️US☁️美国
-      - 日月☁️33☁️🇺🇸☁️US☁️美国
-      - 日月☁️34☁️🇬🇧☁️GB☁️英国
-      - 日月☁️35☁️🇬🇧☁️GB☁️英国
-      - 日月☁️36☁️🇬🇧☁️GB☁️英国
-      - 日月☁️37☁️🇸🇬☁️SG☁️新加坡
-      - 日月☁️38☁️🇺🇸☁️US☁️美国
-      - 日月☁️39☁️🇺🇸☁️US☁️美国
-      - 日月☁️40☁️🇺🇸☁️US☁️美国
-      - 日月☁️41☁️🇺🇸☁️US☁️美国
-      - 日月☁️42☁️🇺🇸☁️US☁️美国
-      - 日月☁️43☁️🇺🇸☁️US☁️美国
-      - 日月☁️44☁️🇺🇸☁️US☁️美国
-      - 日月☁️45☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️46☁️🇺🇸☁️US☁️美国
-      - 日月☁️47☁️🇬🇧☁️GB☁️英国
-      - 日月☁️48☁️🇩🇪☁️DE☁️德国
-      - 日月☁️49☁️🇩🇪☁️DE☁️德国
-      - 日月☁️50☁️🇺🇸☁️US☁️美国
-      - 日月☁️51☁️🇺🇸☁️US☁️美国
-      - 日月☁️52☁️🇫🇷☁️FR☁️法国
-      - 日月☁️53☁️🇫🇷☁️FR☁️法国
-      - 日月☁️54☁️🇫🇷☁️FR☁️法国
-      - 日月☁️55☁️🇺🇸☁️US☁️美国
-      - 日月☁️56☁️🇫🇷☁️FR☁️法国
-      - 日月☁️57☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️58☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️59☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️60☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️61☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️62☁️🇩🇪☁️DE☁️德国
-      - 日月☁️63☁️🇩🇪☁️DE☁️德国
-      - 日月☁️64☁️🇩🇪☁️DE☁️德国
-      - 日月☁️65☁️🇺🇸☁️US☁️美国
-      - 日月☁️66☁️🇩🇪☁️DE☁️德国
-      - 日月☁️67☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️68☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️69☁️🇺🇸☁️US☁️美国
-      - 日月☁️70☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️71☁️🇬🇧☁️GB☁️英国
-      - 日月☁️72☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️73☁️🇫🇮☁️FI☁️芬兰
-      - 日月☁️74☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️75☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️76☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️77☁️🇬🇧☁️GB☁️英国
-      - 日月☁️78☁️🇸🇪☁️SE☁️瑞典
-      - 日月☁️79☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️80☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️81☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️82☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️83☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️84☁️🇱🇻☁️LV☁️拉脱维亚
-      - 日月☁️85☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️86☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️87☁️🇺🇸☁️US☁️美国
-      - 日月☁️88☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️89☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️90☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️91☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️92☁️🇷🇺☁️RU☁️俄罗斯
+      - 星月⭐️1⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️2⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️3⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️4⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️5⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️6⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️7⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️8⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️9⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️10⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️11⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️12⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️13⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️14⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️15⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️16⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️17⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️18⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️19⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️20⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️21⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️22⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️23⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️24⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️25⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️26⭐️🇵🇰⭐️PK⭐️巴基斯坦
+      - 星月⭐️27⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️28⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️29⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️30⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️31⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️32⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️33⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️34⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️35⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️36⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️37⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️38⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️39⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️40⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️41⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️42⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️43⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️44⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️45⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️46⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️47⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️48⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️49⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️50⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️51⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️52⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️53⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️54⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️55⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️56⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️57⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️58⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️59⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️60⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️61⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️62⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️63⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️64⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️65⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️66⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️67⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️68⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️69⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️70⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️71⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️72⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️73⭐️🇫🇮⭐️FI⭐️芬兰
+      - 星月⭐️74⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️75⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️76⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️77⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️78⭐️🇸🇪⭐️SE⭐️瑞典
+      - 星月⭐️79⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️80⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️81⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️82⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️83⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️84⭐️🇱🇻⭐️LV⭐️拉脱维亚
+      - 星月⭐️85⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️86⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️87⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️88⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️89⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️90⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️91⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️92⭐️🇷🇺⭐️RU⭐️俄罗斯
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 日月☁️1☁️🇺🇸☁️US☁️美国
-      - 日月☁️2☁️🇺🇸☁️US☁️美国
-      - 日月☁️3☁️🇺🇸☁️US☁️美国
-      - 日月☁️4☁️🇺🇸☁️US☁️美国
-      - 日月☁️5☁️🇺🇸☁️US☁️美国
-      - 日月☁️6☁️🇺🇸☁️US☁️美国
-      - 日月☁️7☁️🇺🇸☁️US☁️美国
-      - 日月☁️8☁️🇺🇸☁️US☁️美国
-      - 日月☁️9☁️🇺🇸☁️US☁️美国
-      - 日月☁️10☁️🇺🇸☁️US☁️美国
-      - 日月☁️11☁️🏳️☁️unKnow☁️未知
-      - 日月☁️12☁️🏳️☁️unKnow☁️未知
-      - 日月☁️13☁️🏳️☁️unKnow☁️未知
-      - 日月☁️14☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️15☁️🇺🇸☁️US☁️美国
-      - 日月☁️16☁️🇺🇸☁️US☁️美国
-      - 日月☁️17☁️🇺🇸☁️US☁️美国
-      - 日月☁️18☁️🇬🇧☁️GB☁️英国
-      - 日月☁️19☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️20☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️21☁️🇺🇸☁️US☁️美国
-      - 日月☁️22☁️🇺🇸☁️US☁️美国
-      - 日月☁️23☁️🇺🇸☁️US☁️美国
-      - 日月☁️24☁️🇨🇳☁️CN☁️中国
-      - 日月☁️25☁️🇫🇷☁️FR☁️法国
-      - 日月☁️26☁️🇵🇰☁️PK☁️巴基斯坦
-      - 日月☁️27☁️🇨🇳☁️CN☁️中国
-      - 日月☁️28☁️🇨🇳☁️CN☁️中国
-      - 日月☁️29☁️🇨🇳☁️CN☁️中国
-      - 日月☁️30☁️🇨🇳☁️CN☁️中国
-      - 日月☁️31☁️🇨🇳☁️CN☁️中国
-      - 日月☁️32☁️🇺🇸☁️US☁️美国
-      - 日月☁️33☁️🇺🇸☁️US☁️美国
-      - 日月☁️34☁️🇬🇧☁️GB☁️英国
-      - 日月☁️35☁️🇬🇧☁️GB☁️英国
-      - 日月☁️36☁️🇬🇧☁️GB☁️英国
-      - 日月☁️37☁️🇸🇬☁️SG☁️新加坡
-      - 日月☁️38☁️🇺🇸☁️US☁️美国
-      - 日月☁️39☁️🇺🇸☁️US☁️美国
-      - 日月☁️40☁️🇺🇸☁️US☁️美国
-      - 日月☁️41☁️🇺🇸☁️US☁️美国
-      - 日月☁️42☁️🇺🇸☁️US☁️美国
-      - 日月☁️43☁️🇺🇸☁️US☁️美国
-      - 日月☁️44☁️🇺🇸☁️US☁️美国
-      - 日月☁️45☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️46☁️🇺🇸☁️US☁️美国
-      - 日月☁️47☁️🇬🇧☁️GB☁️英国
-      - 日月☁️48☁️🇩🇪☁️DE☁️德国
-      - 日月☁️49☁️🇩🇪☁️DE☁️德国
-      - 日月☁️50☁️🇺🇸☁️US☁️美国
-      - 日月☁️51☁️🇺🇸☁️US☁️美国
-      - 日月☁️52☁️🇫🇷☁️FR☁️法国
-      - 日月☁️53☁️🇫🇷☁️FR☁️法国
-      - 日月☁️54☁️🇫🇷☁️FR☁️法国
-      - 日月☁️55☁️🇺🇸☁️US☁️美国
-      - 日月☁️56☁️🇫🇷☁️FR☁️法国
-      - 日月☁️57☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️58☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️59☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️60☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️61☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️62☁️🇩🇪☁️DE☁️德国
-      - 日月☁️63☁️🇩🇪☁️DE☁️德国
-      - 日月☁️64☁️🇩🇪☁️DE☁️德国
-      - 日月☁️65☁️🇺🇸☁️US☁️美国
-      - 日月☁️66☁️🇩🇪☁️DE☁️德国
-      - 日月☁️67☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️68☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️69☁️🇺🇸☁️US☁️美国
-      - 日月☁️70☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️71☁️🇬🇧☁️GB☁️英国
-      - 日月☁️72☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️73☁️🇫🇮☁️FI☁️芬兰
-      - 日月☁️74☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️75☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️76☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️77☁️🇬🇧☁️GB☁️英国
-      - 日月☁️78☁️🇸🇪☁️SE☁️瑞典
-      - 日月☁️79☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️80☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️81☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️82☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️83☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️84☁️🇱🇻☁️LV☁️拉脱维亚
-      - 日月☁️85☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️86☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️87☁️🇺🇸☁️US☁️美国
-      - 日月☁️88☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️89☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️90☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️91☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️92☁️🇷🇺☁️RU☁️俄罗斯
+      - 星月⭐️1⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️2⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️3⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️4⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️5⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️6⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️7⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️8⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️9⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️10⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️11⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️12⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️13⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️14⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️15⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️16⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️17⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️18⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️19⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️20⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️21⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️22⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️23⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️24⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️25⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️26⭐️🇵🇰⭐️PK⭐️巴基斯坦
+      - 星月⭐️27⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️28⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️29⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️30⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️31⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️32⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️33⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️34⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️35⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️36⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️37⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️38⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️39⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️40⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️41⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️42⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️43⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️44⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️45⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️46⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️47⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️48⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️49⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️50⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️51⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️52⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️53⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️54⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️55⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️56⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️57⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️58⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️59⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️60⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️61⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️62⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️63⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️64⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️65⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️66⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️67⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️68⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️69⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️70⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️71⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️72⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️73⭐️🇫🇮⭐️FI⭐️芬兰
+      - 星月⭐️74⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️75⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️76⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️77⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️78⭐️🇸🇪⭐️SE⭐️瑞典
+      - 星月⭐️79⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️80⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️81⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️82⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️83⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️84⭐️🇱🇻⭐️LV⭐️拉脱维亚
+      - 星月⭐️85⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️86⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️87⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️88⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️89⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️90⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️91⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️92⭐️🇷🇺⭐️RU⭐️俄罗斯
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 日月☁️1☁️🇺🇸☁️US☁️美国
-      - 日月☁️2☁️🇺🇸☁️US☁️美国
-      - 日月☁️3☁️🇺🇸☁️US☁️美国
-      - 日月☁️4☁️🇺🇸☁️US☁️美国
-      - 日月☁️5☁️🇺🇸☁️US☁️美国
-      - 日月☁️6☁️🇺🇸☁️US☁️美国
-      - 日月☁️7☁️🇺🇸☁️US☁️美国
-      - 日月☁️8☁️🇺🇸☁️US☁️美国
-      - 日月☁️9☁️🇺🇸☁️US☁️美国
-      - 日月☁️10☁️🇺🇸☁️US☁️美国
-      - 日月☁️11☁️🏳️☁️unKnow☁️未知
-      - 日月☁️12☁️🏳️☁️unKnow☁️未知
-      - 日月☁️13☁️🏳️☁️unKnow☁️未知
-      - 日月☁️14☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️15☁️🇺🇸☁️US☁️美国
-      - 日月☁️16☁️🇺🇸☁️US☁️美国
-      - 日月☁️17☁️🇺🇸☁️US☁️美国
-      - 日月☁️18☁️🇬🇧☁️GB☁️英国
-      - 日月☁️19☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️20☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️21☁️🇺🇸☁️US☁️美国
-      - 日月☁️22☁️🇺🇸☁️US☁️美国
-      - 日月☁️23☁️🇺🇸☁️US☁️美国
-      - 日月☁️24☁️🇨🇳☁️CN☁️中国
-      - 日月☁️25☁️🇫🇷☁️FR☁️法国
-      - 日月☁️26☁️🇵🇰☁️PK☁️巴基斯坦
-      - 日月☁️27☁️🇨🇳☁️CN☁️中国
-      - 日月☁️28☁️🇨🇳☁️CN☁️中国
-      - 日月☁️29☁️🇨🇳☁️CN☁️中国
-      - 日月☁️30☁️🇨🇳☁️CN☁️中国
-      - 日月☁️31☁️🇨🇳☁️CN☁️中国
-      - 日月☁️32☁️🇺🇸☁️US☁️美国
-      - 日月☁️33☁️🇺🇸☁️US☁️美国
-      - 日月☁️34☁️🇬🇧☁️GB☁️英国
-      - 日月☁️35☁️🇬🇧☁️GB☁️英国
-      - 日月☁️36☁️🇬🇧☁️GB☁️英国
-      - 日月☁️37☁️🇸🇬☁️SG☁️新加坡
-      - 日月☁️38☁️🇺🇸☁️US☁️美国
-      - 日月☁️39☁️🇺🇸☁️US☁️美国
-      - 日月☁️40☁️🇺🇸☁️US☁️美国
-      - 日月☁️41☁️🇺🇸☁️US☁️美国
-      - 日月☁️42☁️🇺🇸☁️US☁️美国
-      - 日月☁️43☁️🇺🇸☁️US☁️美国
-      - 日月☁️44☁️🇺🇸☁️US☁️美国
-      - 日月☁️45☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️46☁️🇺🇸☁️US☁️美国
-      - 日月☁️47☁️🇬🇧☁️GB☁️英国
-      - 日月☁️48☁️🇩🇪☁️DE☁️德国
-      - 日月☁️49☁️🇩🇪☁️DE☁️德国
-      - 日月☁️50☁️🇺🇸☁️US☁️美国
-      - 日月☁️51☁️🇺🇸☁️US☁️美国
-      - 日月☁️52☁️🇫🇷☁️FR☁️法国
-      - 日月☁️53☁️🇫🇷☁️FR☁️法国
-      - 日月☁️54☁️🇫🇷☁️FR☁️法国
-      - 日月☁️55☁️🇺🇸☁️US☁️美国
-      - 日月☁️56☁️🇫🇷☁️FR☁️法国
-      - 日月☁️57☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️58☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️59☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️60☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️61☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️62☁️🇩🇪☁️DE☁️德国
-      - 日月☁️63☁️🇩🇪☁️DE☁️德国
-      - 日月☁️64☁️🇩🇪☁️DE☁️德国
-      - 日月☁️65☁️🇺🇸☁️US☁️美国
-      - 日月☁️66☁️🇩🇪☁️DE☁️德国
-      - 日月☁️67☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️68☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️69☁️🇺🇸☁️US☁️美国
-      - 日月☁️70☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️71☁️🇬🇧☁️GB☁️英国
-      - 日月☁️72☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️73☁️🇫🇮☁️FI☁️芬兰
-      - 日月☁️74☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️75☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️76☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️77☁️🇬🇧☁️GB☁️英国
-      - 日月☁️78☁️🇸🇪☁️SE☁️瑞典
-      - 日月☁️79☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️80☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️81☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️82☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️83☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️84☁️🇱🇻☁️LV☁️拉脱维亚
-      - 日月☁️85☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️86☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️87☁️🇺🇸☁️US☁️美国
-      - 日月☁️88☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️89☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️90☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️91☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️92☁️🇷🇺☁️RU☁️俄罗斯
+      - 星月⭐️1⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️2⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️3⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️4⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️5⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️6⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️7⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️8⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️9⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️10⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️11⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️12⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️13⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️14⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️15⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️16⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️17⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️18⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️19⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️20⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️21⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️22⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️23⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️24⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️25⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️26⭐️🇵🇰⭐️PK⭐️巴基斯坦
+      - 星月⭐️27⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️28⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️29⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️30⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️31⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️32⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️33⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️34⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️35⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️36⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️37⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️38⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️39⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️40⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️41⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️42⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️43⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️44⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️45⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️46⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️47⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️48⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️49⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️50⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️51⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️52⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️53⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️54⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️55⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️56⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️57⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️58⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️59⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️60⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️61⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️62⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️63⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️64⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️65⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️66⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️67⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️68⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️69⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️70⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️71⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️72⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️73⭐️🇫🇮⭐️FI⭐️芬兰
+      - 星月⭐️74⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️75⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️76⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️77⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️78⭐️🇸🇪⭐️SE⭐️瑞典
+      - 星月⭐️79⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️80⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️81⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️82⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️83⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️84⭐️🇱🇻⭐️LV⭐️拉脱维亚
+      - 星月⭐️85⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️86⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️87⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️88⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️89⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️90⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️91⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️92⭐️🇷🇺⭐️RU⭐️俄罗斯
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 日月☁️1☁️🇺🇸☁️US☁️美国
-      - 日月☁️2☁️🇺🇸☁️US☁️美国
-      - 日月☁️3☁️🇺🇸☁️US☁️美国
-      - 日月☁️4☁️🇺🇸☁️US☁️美国
-      - 日月☁️5☁️🇺🇸☁️US☁️美国
-      - 日月☁️6☁️🇺🇸☁️US☁️美国
-      - 日月☁️7☁️🇺🇸☁️US☁️美国
-      - 日月☁️8☁️🇺🇸☁️US☁️美国
-      - 日月☁️9☁️🇺🇸☁️US☁️美国
-      - 日月☁️10☁️🇺🇸☁️US☁️美国
-      - 日月☁️11☁️🏳️☁️unKnow☁️未知
-      - 日月☁️12☁️🏳️☁️unKnow☁️未知
-      - 日月☁️13☁️🏳️☁️unKnow☁️未知
-      - 日月☁️14☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️15☁️🇺🇸☁️US☁️美国
-      - 日月☁️16☁️🇺🇸☁️US☁️美国
-      - 日月☁️17☁️🇺🇸☁️US☁️美国
-      - 日月☁️18☁️🇬🇧☁️GB☁️英国
-      - 日月☁️19☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️20☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️21☁️🇺🇸☁️US☁️美国
-      - 日月☁️22☁️🇺🇸☁️US☁️美国
-      - 日月☁️23☁️🇺🇸☁️US☁️美国
-      - 日月☁️24☁️🇨🇳☁️CN☁️中国
-      - 日月☁️25☁️🇫🇷☁️FR☁️法国
-      - 日月☁️26☁️🇵🇰☁️PK☁️巴基斯坦
-      - 日月☁️27☁️🇨🇳☁️CN☁️中国
-      - 日月☁️28☁️🇨🇳☁️CN☁️中国
-      - 日月☁️29☁️🇨🇳☁️CN☁️中国
-      - 日月☁️30☁️🇨🇳☁️CN☁️中国
-      - 日月☁️31☁️🇨🇳☁️CN☁️中国
-      - 日月☁️32☁️🇺🇸☁️US☁️美国
-      - 日月☁️33☁️🇺🇸☁️US☁️美国
-      - 日月☁️34☁️🇬🇧☁️GB☁️英国
-      - 日月☁️35☁️🇬🇧☁️GB☁️英国
-      - 日月☁️36☁️🇬🇧☁️GB☁️英国
-      - 日月☁️37☁️🇸🇬☁️SG☁️新加坡
-      - 日月☁️38☁️🇺🇸☁️US☁️美国
-      - 日月☁️39☁️🇺🇸☁️US☁️美国
-      - 日月☁️40☁️🇺🇸☁️US☁️美国
-      - 日月☁️41☁️🇺🇸☁️US☁️美国
-      - 日月☁️42☁️🇺🇸☁️US☁️美国
-      - 日月☁️43☁️🇺🇸☁️US☁️美国
-      - 日月☁️44☁️🇺🇸☁️US☁️美国
-      - 日月☁️45☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️46☁️🇺🇸☁️US☁️美国
-      - 日月☁️47☁️🇬🇧☁️GB☁️英国
-      - 日月☁️48☁️🇩🇪☁️DE☁️德国
-      - 日月☁️49☁️🇩🇪☁️DE☁️德国
-      - 日月☁️50☁️🇺🇸☁️US☁️美国
-      - 日月☁️51☁️🇺🇸☁️US☁️美国
-      - 日月☁️52☁️🇫🇷☁️FR☁️法国
-      - 日月☁️53☁️🇫🇷☁️FR☁️法国
-      - 日月☁️54☁️🇫🇷☁️FR☁️法国
-      - 日月☁️55☁️🇺🇸☁️US☁️美国
-      - 日月☁️56☁️🇫🇷☁️FR☁️法国
-      - 日月☁️57☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️58☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️59☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️60☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️61☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️62☁️🇩🇪☁️DE☁️德国
-      - 日月☁️63☁️🇩🇪☁️DE☁️德国
-      - 日月☁️64☁️🇩🇪☁️DE☁️德国
-      - 日月☁️65☁️🇺🇸☁️US☁️美国
-      - 日月☁️66☁️🇩🇪☁️DE☁️德国
-      - 日月☁️67☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️68☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️69☁️🇺🇸☁️US☁️美国
-      - 日月☁️70☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️71☁️🇬🇧☁️GB☁️英国
-      - 日月☁️72☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️73☁️🇫🇮☁️FI☁️芬兰
-      - 日月☁️74☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️75☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️76☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️77☁️🇬🇧☁️GB☁️英国
-      - 日月☁️78☁️🇸🇪☁️SE☁️瑞典
-      - 日月☁️79☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️80☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️81☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️82☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️83☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️84☁️🇱🇻☁️LV☁️拉脱维亚
-      - 日月☁️85☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️86☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️87☁️🇺🇸☁️US☁️美国
-      - 日月☁️88☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️89☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️90☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️91☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️92☁️🇷🇺☁️RU☁️俄罗斯
+      - 星月⭐️1⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️2⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️3⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️4⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️5⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️6⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️7⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️8⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️9⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️10⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️11⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️12⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️13⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️14⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️15⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️16⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️17⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️18⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️19⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️20⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️21⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️22⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️23⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️24⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️25⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️26⭐️🇵🇰⭐️PK⭐️巴基斯坦
+      - 星月⭐️27⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️28⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️29⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️30⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️31⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️32⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️33⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️34⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️35⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️36⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️37⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️38⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️39⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️40⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️41⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️42⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️43⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️44⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️45⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️46⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️47⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️48⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️49⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️50⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️51⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️52⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️53⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️54⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️55⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️56⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️57⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️58⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️59⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️60⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️61⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️62⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️63⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️64⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️65⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️66⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️67⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️68⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️69⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️70⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️71⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️72⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️73⭐️🇫🇮⭐️FI⭐️芬兰
+      - 星月⭐️74⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️75⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️76⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️77⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️78⭐️🇸🇪⭐️SE⭐️瑞典
+      - 星月⭐️79⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️80⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️81⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️82⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️83⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️84⭐️🇱🇻⭐️LV⭐️拉脱维亚
+      - 星月⭐️85⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️86⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️87⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️88⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️89⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️90⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️91⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️92⭐️🇷🇺⭐️RU⭐️俄罗斯
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 日月☁️1☁️🇺🇸☁️US☁️美国
-      - 日月☁️2☁️🇺🇸☁️US☁️美国
-      - 日月☁️3☁️🇺🇸☁️US☁️美国
-      - 日月☁️4☁️🇺🇸☁️US☁️美国
-      - 日月☁️5☁️🇺🇸☁️US☁️美国
-      - 日月☁️6☁️🇺🇸☁️US☁️美国
-      - 日月☁️7☁️🇺🇸☁️US☁️美国
-      - 日月☁️8☁️🇺🇸☁️US☁️美国
-      - 日月☁️9☁️🇺🇸☁️US☁️美国
-      - 日月☁️10☁️🇺🇸☁️US☁️美国
-      - 日月☁️11☁️🏳️☁️unKnow☁️未知
-      - 日月☁️12☁️🏳️☁️unKnow☁️未知
-      - 日月☁️13☁️🏳️☁️unKnow☁️未知
-      - 日月☁️14☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️15☁️🇺🇸☁️US☁️美国
-      - 日月☁️16☁️🇺🇸☁️US☁️美国
-      - 日月☁️17☁️🇺🇸☁️US☁️美国
-      - 日月☁️18☁️🇬🇧☁️GB☁️英国
-      - 日月☁️19☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️20☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️21☁️🇺🇸☁️US☁️美国
-      - 日月☁️22☁️🇺🇸☁️US☁️美国
-      - 日月☁️23☁️🇺🇸☁️US☁️美国
-      - 日月☁️24☁️🇨🇳☁️CN☁️中国
-      - 日月☁️25☁️🇫🇷☁️FR☁️法国
-      - 日月☁️26☁️🇵🇰☁️PK☁️巴基斯坦
-      - 日月☁️27☁️🇨🇳☁️CN☁️中国
-      - 日月☁️28☁️🇨🇳☁️CN☁️中国
-      - 日月☁️29☁️🇨🇳☁️CN☁️中国
-      - 日月☁️30☁️🇨🇳☁️CN☁️中国
-      - 日月☁️31☁️🇨🇳☁️CN☁️中国
-      - 日月☁️32☁️🇺🇸☁️US☁️美国
-      - 日月☁️33☁️🇺🇸☁️US☁️美国
-      - 日月☁️34☁️🇬🇧☁️GB☁️英国
-      - 日月☁️35☁️🇬🇧☁️GB☁️英国
-      - 日月☁️36☁️🇬🇧☁️GB☁️英国
-      - 日月☁️37☁️🇸🇬☁️SG☁️新加坡
-      - 日月☁️38☁️🇺🇸☁️US☁️美国
-      - 日月☁️39☁️🇺🇸☁️US☁️美国
-      - 日月☁️40☁️🇺🇸☁️US☁️美国
-      - 日月☁️41☁️🇺🇸☁️US☁️美国
-      - 日月☁️42☁️🇺🇸☁️US☁️美国
-      - 日月☁️43☁️🇺🇸☁️US☁️美国
-      - 日月☁️44☁️🇺🇸☁️US☁️美国
-      - 日月☁️45☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️46☁️🇺🇸☁️US☁️美国
-      - 日月☁️47☁️🇬🇧☁️GB☁️英国
-      - 日月☁️48☁️🇩🇪☁️DE☁️德国
-      - 日月☁️49☁️🇩🇪☁️DE☁️德国
-      - 日月☁️50☁️🇺🇸☁️US☁️美国
-      - 日月☁️51☁️🇺🇸☁️US☁️美国
-      - 日月☁️52☁️🇫🇷☁️FR☁️法国
-      - 日月☁️53☁️🇫🇷☁️FR☁️法国
-      - 日月☁️54☁️🇫🇷☁️FR☁️法国
-      - 日月☁️55☁️🇺🇸☁️US☁️美国
-      - 日月☁️56☁️🇫🇷☁️FR☁️法国
-      - 日月☁️57☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️58☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️59☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️60☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️61☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️62☁️🇩🇪☁️DE☁️德国
-      - 日月☁️63☁️🇩🇪☁️DE☁️德国
-      - 日月☁️64☁️🇩🇪☁️DE☁️德国
-      - 日月☁️65☁️🇺🇸☁️US☁️美国
-      - 日月☁️66☁️🇩🇪☁️DE☁️德国
-      - 日月☁️67☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️68☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️69☁️🇺🇸☁️US☁️美国
-      - 日月☁️70☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️71☁️🇬🇧☁️GB☁️英国
-      - 日月☁️72☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️73☁️🇫🇮☁️FI☁️芬兰
-      - 日月☁️74☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️75☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️76☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️77☁️🇬🇧☁️GB☁️英国
-      - 日月☁️78☁️🇸🇪☁️SE☁️瑞典
-      - 日月☁️79☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️80☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️81☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️82☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️83☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️84☁️🇱🇻☁️LV☁️拉脱维亚
-      - 日月☁️85☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️86☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️87☁️🇺🇸☁️US☁️美国
-      - 日月☁️88☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️89☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️90☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️91☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️92☁️🇷🇺☁️RU☁️俄罗斯
+      - 星月⭐️1⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️2⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️3⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️4⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️5⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️6⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️7⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️8⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️9⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️10⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️11⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️12⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️13⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️14⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️15⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️16⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️17⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️18⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️19⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️20⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️21⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️22⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️23⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️24⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️25⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️26⭐️🇵🇰⭐️PK⭐️巴基斯坦
+      - 星月⭐️27⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️28⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️29⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️30⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️31⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️32⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️33⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️34⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️35⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️36⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️37⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️38⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️39⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️40⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️41⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️42⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️43⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️44⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️45⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️46⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️47⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️48⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️49⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️50⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️51⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️52⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️53⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️54⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️55⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️56⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️57⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️58⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️59⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️60⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️61⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️62⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️63⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️64⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️65⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️66⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️67⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️68⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️69⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️70⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️71⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️72⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️73⭐️🇫🇮⭐️FI⭐️芬兰
+      - 星月⭐️74⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️75⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️76⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️77⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️78⭐️🇸🇪⭐️SE⭐️瑞典
+      - 星月⭐️79⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️80⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️81⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️82⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️83⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️84⭐️🇱🇻⭐️LV⭐️拉脱维亚
+      - 星月⭐️85⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️86⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️87⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️88⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️89⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️90⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️91⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️92⭐️🇷🇺⭐️RU⭐️俄罗斯
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 日月☁️1☁️🇺🇸☁️US☁️美国
-      - 日月☁️2☁️🇺🇸☁️US☁️美国
-      - 日月☁️3☁️🇺🇸☁️US☁️美国
-      - 日月☁️4☁️🇺🇸☁️US☁️美国
-      - 日月☁️5☁️🇺🇸☁️US☁️美国
-      - 日月☁️6☁️🇺🇸☁️US☁️美国
-      - 日月☁️7☁️🇺🇸☁️US☁️美国
-      - 日月☁️8☁️🇺🇸☁️US☁️美国
-      - 日月☁️9☁️🇺🇸☁️US☁️美国
-      - 日月☁️10☁️🇺🇸☁️US☁️美国
-      - 日月☁️11☁️🏳️☁️unKnow☁️未知
-      - 日月☁️12☁️🏳️☁️unKnow☁️未知
-      - 日月☁️13☁️🏳️☁️unKnow☁️未知
-      - 日月☁️14☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️15☁️🇺🇸☁️US☁️美国
-      - 日月☁️16☁️🇺🇸☁️US☁️美国
-      - 日月☁️17☁️🇺🇸☁️US☁️美国
-      - 日月☁️18☁️🇬🇧☁️GB☁️英国
-      - 日月☁️19☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️20☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️21☁️🇺🇸☁️US☁️美国
-      - 日月☁️22☁️🇺🇸☁️US☁️美国
-      - 日月☁️23☁️🇺🇸☁️US☁️美国
-      - 日月☁️24☁️🇨🇳☁️CN☁️中国
-      - 日月☁️25☁️🇫🇷☁️FR☁️法国
-      - 日月☁️26☁️🇵🇰☁️PK☁️巴基斯坦
-      - 日月☁️27☁️🇨🇳☁️CN☁️中国
-      - 日月☁️28☁️🇨🇳☁️CN☁️中国
-      - 日月☁️29☁️🇨🇳☁️CN☁️中国
-      - 日月☁️30☁️🇨🇳☁️CN☁️中国
-      - 日月☁️31☁️🇨🇳☁️CN☁️中国
-      - 日月☁️32☁️🇺🇸☁️US☁️美国
-      - 日月☁️33☁️🇺🇸☁️US☁️美国
-      - 日月☁️34☁️🇬🇧☁️GB☁️英国
-      - 日月☁️35☁️🇬🇧☁️GB☁️英国
-      - 日月☁️36☁️🇬🇧☁️GB☁️英国
-      - 日月☁️37☁️🇸🇬☁️SG☁️新加坡
-      - 日月☁️38☁️🇺🇸☁️US☁️美国
-      - 日月☁️39☁️🇺🇸☁️US☁️美国
-      - 日月☁️40☁️🇺🇸☁️US☁️美国
-      - 日月☁️41☁️🇺🇸☁️US☁️美国
-      - 日月☁️42☁️🇺🇸☁️US☁️美国
-      - 日月☁️43☁️🇺🇸☁️US☁️美国
-      - 日月☁️44☁️🇺🇸☁️US☁️美国
-      - 日月☁️45☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️46☁️🇺🇸☁️US☁️美国
-      - 日月☁️47☁️🇬🇧☁️GB☁️英国
-      - 日月☁️48☁️🇩🇪☁️DE☁️德国
-      - 日月☁️49☁️🇩🇪☁️DE☁️德国
-      - 日月☁️50☁️🇺🇸☁️US☁️美国
-      - 日月☁️51☁️🇺🇸☁️US☁️美国
-      - 日月☁️52☁️🇫🇷☁️FR☁️法国
-      - 日月☁️53☁️🇫🇷☁️FR☁️法国
-      - 日月☁️54☁️🇫🇷☁️FR☁️法国
-      - 日月☁️55☁️🇺🇸☁️US☁️美国
-      - 日月☁️56☁️🇫🇷☁️FR☁️法国
-      - 日月☁️57☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️58☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️59☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️60☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️61☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️62☁️🇩🇪☁️DE☁️德国
-      - 日月☁️63☁️🇩🇪☁️DE☁️德国
-      - 日月☁️64☁️🇩🇪☁️DE☁️德国
-      - 日月☁️65☁️🇺🇸☁️US☁️美国
-      - 日月☁️66☁️🇩🇪☁️DE☁️德国
-      - 日月☁️67☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️68☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️69☁️🇺🇸☁️US☁️美国
-      - 日月☁️70☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️71☁️🇬🇧☁️GB☁️英国
-      - 日月☁️72☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️73☁️🇫🇮☁️FI☁️芬兰
-      - 日月☁️74☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️75☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️76☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️77☁️🇬🇧☁️GB☁️英国
-      - 日月☁️78☁️🇸🇪☁️SE☁️瑞典
-      - 日月☁️79☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️80☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️81☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️82☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️83☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️84☁️🇱🇻☁️LV☁️拉脱维亚
-      - 日月☁️85☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️86☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️87☁️🇺🇸☁️US☁️美国
-      - 日月☁️88☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️89☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️90☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️91☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️92☁️🇷🇺☁️RU☁️俄罗斯
+      - 星月⭐️1⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️2⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️3⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️4⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️5⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️6⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️7⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️8⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️9⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️10⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️11⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️12⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️13⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️14⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️15⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️16⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️17⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️18⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️19⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️20⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️21⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️22⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️23⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️24⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️25⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️26⭐️🇵🇰⭐️PK⭐️巴基斯坦
+      - 星月⭐️27⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️28⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️29⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️30⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️31⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️32⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️33⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️34⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️35⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️36⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️37⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️38⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️39⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️40⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️41⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️42⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️43⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️44⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️45⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️46⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️47⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️48⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️49⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️50⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️51⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️52⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️53⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️54⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️55⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️56⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️57⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️58⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️59⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️60⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️61⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️62⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️63⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️64⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️65⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️66⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️67⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️68⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️69⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️70⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️71⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️72⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️73⭐️🇫🇮⭐️FI⭐️芬兰
+      - 星月⭐️74⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️75⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️76⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️77⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️78⭐️🇸🇪⭐️SE⭐️瑞典
+      - 星月⭐️79⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️80⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️81⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️82⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️83⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️84⭐️🇱🇻⭐️LV⭐️拉脱维亚
+      - 星月⭐️85⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️86⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️87⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️88⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️89⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️90⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️91⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️92⭐️🇷🇺⭐️RU⭐️俄罗斯
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -2320,98 +2044,98 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 日月☁️1☁️🇺🇸☁️US☁️美国
-      - 日月☁️2☁️🇺🇸☁️US☁️美国
-      - 日月☁️3☁️🇺🇸☁️US☁️美国
-      - 日月☁️4☁️🇺🇸☁️US☁️美国
-      - 日月☁️5☁️🇺🇸☁️US☁️美国
-      - 日月☁️6☁️🇺🇸☁️US☁️美国
-      - 日月☁️7☁️🇺🇸☁️US☁️美国
-      - 日月☁️8☁️🇺🇸☁️US☁️美国
-      - 日月☁️9☁️🇺🇸☁️US☁️美国
-      - 日月☁️10☁️🇺🇸☁️US☁️美国
-      - 日月☁️11☁️🏳️☁️unKnow☁️未知
-      - 日月☁️12☁️🏳️☁️unKnow☁️未知
-      - 日月☁️13☁️🏳️☁️unKnow☁️未知
-      - 日月☁️14☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️15☁️🇺🇸☁️US☁️美国
-      - 日月☁️16☁️🇺🇸☁️US☁️美国
-      - 日月☁️17☁️🇺🇸☁️US☁️美国
-      - 日月☁️18☁️🇬🇧☁️GB☁️英国
-      - 日月☁️19☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️20☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️21☁️🇺🇸☁️US☁️美国
-      - 日月☁️22☁️🇺🇸☁️US☁️美国
-      - 日月☁️23☁️🇺🇸☁️US☁️美国
-      - 日月☁️24☁️🇨🇳☁️CN☁️中国
-      - 日月☁️25☁️🇫🇷☁️FR☁️法国
-      - 日月☁️26☁️🇵🇰☁️PK☁️巴基斯坦
-      - 日月☁️27☁️🇨🇳☁️CN☁️中国
-      - 日月☁️28☁️🇨🇳☁️CN☁️中国
-      - 日月☁️29☁️🇨🇳☁️CN☁️中国
-      - 日月☁️30☁️🇨🇳☁️CN☁️中国
-      - 日月☁️31☁️🇨🇳☁️CN☁️中国
-      - 日月☁️32☁️🇺🇸☁️US☁️美国
-      - 日月☁️33☁️🇺🇸☁️US☁️美国
-      - 日月☁️34☁️🇬🇧☁️GB☁️英国
-      - 日月☁️35☁️🇬🇧☁️GB☁️英国
-      - 日月☁️36☁️🇬🇧☁️GB☁️英国
-      - 日月☁️37☁️🇸🇬☁️SG☁️新加坡
-      - 日月☁️38☁️🇺🇸☁️US☁️美国
-      - 日月☁️39☁️🇺🇸☁️US☁️美国
-      - 日月☁️40☁️🇺🇸☁️US☁️美国
-      - 日月☁️41☁️🇺🇸☁️US☁️美国
-      - 日月☁️42☁️🇺🇸☁️US☁️美国
-      - 日月☁️43☁️🇺🇸☁️US☁️美国
-      - 日月☁️44☁️🇺🇸☁️US☁️美国
-      - 日月☁️45☁️🇰🇷☁️KR☁️韩国
-      - 日月☁️46☁️🇺🇸☁️US☁️美国
-      - 日月☁️47☁️🇬🇧☁️GB☁️英国
-      - 日月☁️48☁️🇩🇪☁️DE☁️德国
-      - 日月☁️49☁️🇩🇪☁️DE☁️德国
-      - 日月☁️50☁️🇺🇸☁️US☁️美国
-      - 日月☁️51☁️🇺🇸☁️US☁️美国
-      - 日月☁️52☁️🇫🇷☁️FR☁️法国
-      - 日月☁️53☁️🇫🇷☁️FR☁️法国
-      - 日月☁️54☁️🇫🇷☁️FR☁️法国
-      - 日月☁️55☁️🇺🇸☁️US☁️美国
-      - 日月☁️56☁️🇫🇷☁️FR☁️法国
-      - 日月☁️57☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️58☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️59☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️60☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️61☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️62☁️🇩🇪☁️DE☁️德国
-      - 日月☁️63☁️🇩🇪☁️DE☁️德国
-      - 日月☁️64☁️🇩🇪☁️DE☁️德国
-      - 日月☁️65☁️🇺🇸☁️US☁️美国
-      - 日月☁️66☁️🇩🇪☁️DE☁️德国
-      - 日月☁️67☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️68☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️69☁️🇺🇸☁️US☁️美国
-      - 日月☁️70☁️🇪🇪☁️EE☁️爱沙尼亚
-      - 日月☁️71☁️🇬🇧☁️GB☁️英国
-      - 日月☁️72☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️73☁️🇫🇮☁️FI☁️芬兰
-      - 日月☁️74☁️🇳🇱☁️NL☁️荷兰
-      - 日月☁️75☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️76☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️77☁️🇬🇧☁️GB☁️英国
-      - 日月☁️78☁️🇸🇪☁️SE☁️瑞典
-      - 日月☁️79☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️80☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️81☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️82☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️83☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️84☁️🇱🇻☁️LV☁️拉脱维亚
-      - 日月☁️85☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️86☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️87☁️🇺🇸☁️US☁️美国
-      - 日月☁️88☁️🇦🇿☁️AZ☁️阿塞拜疆
-      - 日月☁️89☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️90☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️91☁️🇷🇺☁️RU☁️俄罗斯
-      - 日月☁️92☁️🇷🇺☁️RU☁️俄罗斯
+      - 星月⭐️1⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️2⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️3⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️4⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️5⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️6⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️7⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️8⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️9⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️10⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️11⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️12⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️13⭐️🏳️⭐️unKnow⭐️未知
+      - 星月⭐️14⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️15⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️16⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️17⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️18⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️19⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️20⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️21⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️22⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️23⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️24⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️25⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️26⭐️🇵🇰⭐️PK⭐️巴基斯坦
+      - 星月⭐️27⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️28⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️29⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️30⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️31⭐️🇨🇳⭐️CN⭐️中国
+      - 星月⭐️32⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️33⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️34⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️35⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️36⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️37⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️38⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️39⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️40⭐️🇸🇬⭐️SG⭐️新加坡
+      - 星月⭐️41⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️42⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️43⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️44⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️45⭐️🇰🇷⭐️KR⭐️韩国
+      - 星月⭐️46⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️47⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️48⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️49⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️50⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️51⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️52⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️53⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️54⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️55⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️56⭐️🇫🇷⭐️FR⭐️法国
+      - 星月⭐️57⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️58⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️59⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️60⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️61⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️62⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️63⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️64⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️65⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️66⭐️🇩🇪⭐️DE⭐️德国
+      - 星月⭐️67⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️68⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️69⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️70⭐️🇪🇪⭐️EE⭐️爱沙尼亚
+      - 星月⭐️71⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️72⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️73⭐️🇫🇮⭐️FI⭐️芬兰
+      - 星月⭐️74⭐️🇳🇱⭐️NL⭐️荷兰
+      - 星月⭐️75⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️76⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️77⭐️🇬🇧⭐️GB⭐️英国
+      - 星月⭐️78⭐️🇸🇪⭐️SE⭐️瑞典
+      - 星月⭐️79⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️80⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️81⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️82⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️83⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️84⭐️🇱🇻⭐️LV⭐️拉脱维亚
+      - 星月⭐️85⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️86⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️87⭐️🇺🇸⭐️US⭐️美国
+      - 星月⭐️88⭐️🇦🇿⭐️AZ⭐️阿塞拜疆
+      - 星月⭐️89⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️90⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️91⭐️🇷🇺⭐️RU⭐️俄罗斯
+      - 星月⭐️92⭐️🇷🇺⭐️RU⭐️俄罗斯
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
