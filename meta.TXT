@@ -1,6 +1,5 @@
-# 生成地址：v2rayse.com
 # 模版名称：ACL4SSR_Online_Full_Google.ini
-# 生成时间：2024-10-24 02:45:41
+# 生成时间：2024-10-24 07:52:58
 # 不要随意改变关键字，否则会导致出错
 # acl4SSR规则
 # 去广告：支持
@@ -58,2247 +57,1971 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 日月🌅美国🌅1🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️1⭐️US
     port: 2096
     server: 162.159.138.178
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅2🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️2⭐️US
     port: 8443
     server: 162.159.138.178
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅3🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️3⭐️US
     port: 2096
     server: 162.159.142.252
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅4🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️4⭐️US
     port: 2053
     server: 162.159.141.161
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅5🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️5⭐️US
     port: 8443
     server: 104.20.30.149
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅6🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️6⭐️US
     port: 2087
     server: 172.67.74.9
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅7🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️7⭐️US
     port: 2087
     server: 104.20.30.149
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅8🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️8⭐️US
     port: 2096
     server: 104.19.57.183
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅9🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️9⭐️US
     port: 2096
     server: 104.19.103.190
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅10🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️10⭐️US
     port: 2096
     server: 104.19.107.190
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅未知🌅11🌅unKnow🌅🏳️
+  - name: 星月⭐️🏳️⭐️未知⭐️11⭐️unKnow
     port: 2096
-    server: 2606:4700:3036:ef:92f:be51:8695:9fc5
-    type: vless
+    server: "[2606:4700:3036:ef:92f:be51:8695:9fc5]"
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅未知🌅12🌅unKnow🌅🏳️
+  - name: 星月⭐️🏳️⭐️未知⭐️12⭐️unKnow
     port: 2053
-    server: 2606:4700:3036:0:a36a:4aa4:75d9:9f75
-    type: vless
+    server: "[2606:4700:3036:0:a36a:4aa4:75d9:9f75]"
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅未知🌅13🌅unKnow🌅🏳️
+  - name: 星月⭐️🏳️⭐️未知⭐️13⭐️unKnow
     port: 2087
-    server: 2606:4700:3036:ef:db9e:eecc:caef:9d4a
-    type: vless
+    server: "[2606:4700:3036:ef:db9e:eecc:caef:9d4a]"
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅中国🌅14🌅CN🌅🇨🇳
+  - name: 星月⭐️🇨🇳⭐️中国⭐️14⭐️CN
     port: 4445
     server: 103.30.76.154
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅15🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️15⭐️US
     port: 2087
     server: 154.12.179.220
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅韩国🌅16🌅KR🌅🇰🇷
+  - name: 星月⭐️🇰🇷⭐️韩国⭐️16⭐️KR
     port: 11682
     server: 1.234.197.178
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅17🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️17⭐️US
     port: 443
     server: 206.237.6.57
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅英国🌅18🌅GB🌅🇬🇧
+  - name: 星月⭐️🇬🇧⭐️英国⭐️18⭐️GB
     port: 8080
     server: 89.213.219.196
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅韩国🌅19🌅KR🌅🇰🇷
+  - name: 星月⭐️🇰🇷⭐️韩国⭐️19⭐️KR
     port: 443
     server: 132.145.94.80
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅荷兰🌅20🌅NL🌅🇳🇱
+  - name: 星月⭐️🇳🇱⭐️荷兰⭐️20⭐️NL
     port: 587
     server: 132.226.20.13
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅21🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️21⭐️US
     port: 50051
     server: 150.230.252.47
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅22🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️22⭐️US
     port: 50051
     server: 150.230.252.47
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅23🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️23⭐️US
     port: 12199
     server: 152.69.234.137
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅中国🌅24🌅CN🌅🇨🇳
+  - name: 星月⭐️🇨🇳⭐️中国⭐️24⭐️CN
     port: 81
     server: 210.61.97.241
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅法国🌅25🌅FR🌅🇫🇷
+  - name: 星月⭐️🇫🇷⭐️法国⭐️25⭐️FR
     port: 8080
     server: 141.11.87.111
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅巴基斯坦🌅26🌅PK🌅🇵🇰
+  - name: 星月⭐️🇵🇰⭐️巴基斯坦⭐️26⭐️PK
     port: 31564
     server: 103.137.63.205
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅中国🌅27🌅CN🌅🇨🇳
+  - name: 星月⭐️🇨🇳⭐️中国⭐️27⭐️CN
     port: 10443
     server: 122.116.105.15
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅中国🌅28🌅CN🌅🇨🇳
+  - name: 星月⭐️🇨🇳⭐️中国⭐️28⭐️CN
     port: 81
     server: 122.116.86.104
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅中国🌅29🌅CN🌅🇨🇳
+  - name: 星月⭐️🇨🇳⭐️中国⭐️29⭐️CN
     port: 81
     server: 220.135.202.250
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅中国🌅30🌅CN🌅🇨🇳
+  - name: 星月⭐️🇨🇳⭐️中国⭐️30⭐️CN
     port: 24988
     server: 150.117.110.36
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅中国🌅31🌅CN🌅🇨🇳
+  - name: 星月⭐️🇨🇳⭐️中国⭐️31⭐️CN
     port: 10244
     server: 60.249.114.181
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅32🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️32⭐️US
     port: 16507
     server: 152.70.101.24
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅33🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️33⭐️US
     port: 12345
     server: 138.2.21.240
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅英国🌅34🌅GB🌅🇬🇧
+  - name: 星月⭐️🇬🇧⭐️英国⭐️34⭐️GB
     port: 2053
     server: 176.97.73.82
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅英国🌅35🌅GB🌅🇬🇧
+  - name: 星月⭐️🇬🇧⭐️英国⭐️35⭐️GB
     port: 8443
     server: 176.97.70.65
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅英国🌅36🌅GB🌅🇬🇧
+  - name: 星月⭐️🇬🇧⭐️英国⭐️36⭐️GB
     port: 8443
     server: 176.97.73.82
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅新加坡🌅37🌅SG🌅🇸🇬
+  - name: 星月⭐️🇸🇬⭐️新加坡⭐️37⭐️SG
     port: 2053
     server: 51.79.250.33
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅38🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️38⭐️US
     port: 443
     server: 15.235.162.49
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅39🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️39⭐️US
     port: 443
     server: 143.42.66.91
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅40🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️40⭐️US
     port: 443
     server: 47.129.204.59
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅41🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️41⭐️US
     port: 443
     server: 15.235.162.49
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅42🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️42⭐️US
     port: 443
     server: 198.12.102.250
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅43🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️43⭐️US
     port: 443
     server: 38.76.145.180
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅44🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️44⭐️US
     port: 587
     server: 65.75.192.109
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅韩国🌅45🌅KR🌅🇰🇷
+  - name: 星月⭐️🇰🇷⭐️韩国⭐️45⭐️KR
     port: 6688
     server: 132.145.89.35
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅46🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️46⭐️US
     port: 993
     server: 45.59.126.122
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅英国🌅47🌅GB🌅🇬🇧
+  - name: 星月⭐️🇬🇧⭐️英国⭐️47⭐️GB
     port: 8444
     server: 79.99.41.107
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅德国🌅48🌅DE🌅🇩🇪
+  - name: 星月⭐️🇩🇪⭐️德国⭐️48⭐️DE
     port: 8443
     server: 82.165.220.6
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅德国🌅49🌅DE🌅🇩🇪
+  - name: 星月⭐️🇩🇪⭐️德国⭐️49⭐️DE
     port: 443
     server: 213.165.84.57
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅50🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️50⭐️US
     port: 8443
     server: 198.244.244.170
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅51🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️51⭐️US
     port: 8443
     server: 51.195.169.100
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅法国🌅52🌅FR🌅🇫🇷
+  - name: 星月⭐️🇫🇷⭐️法国⭐️52⭐️FR
     port: 8443
     server: 149.202.30.5
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅法国🌅53🌅FR🌅🇫🇷
+  - name: 星月⭐️🇫🇷⭐️法国⭐️53⭐️FR
     port: 8443
     server: 37.59.66.215
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅法国🌅54🌅FR🌅🇫🇷
+  - name: 星月⭐️🇫🇷⭐️法国⭐️54⭐️FR
     port: 2053
     server: 176.31.83.160
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅55🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️55⭐️US
     port: 8443
     server: 13.37.224.156
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅法国🌅56🌅FR🌅🇫🇷
+  - name: 星月⭐️🇫🇷⭐️法国⭐️56⭐️FR
     port: 8443
     server: 15.237.137.128
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅荷兰🌅57🌅NL🌅🇳🇱
+  - name: 星月⭐️🇳🇱⭐️荷兰⭐️57⭐️NL
     port: 2053
     server: 45.87.2.60
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅58🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️58⭐️RU
     port: 8443
     server: 185.204.109.190
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅荷兰🌅59🌅NL🌅🇳🇱
+  - name: 星月⭐️🇳🇱⭐️荷兰⭐️59⭐️NL
     port: 2053
     server: 89.105.198.246
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅荷兰🌅60🌅NL🌅🇳🇱
+  - name: 星月⭐️🇳🇱⭐️荷兰⭐️60⭐️NL
     port: 2053
     server: 80.89.229.119
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅荷兰🌅61🌅NL🌅🇳🇱
+  - name: 星月⭐️🇳🇱⭐️荷兰⭐️61⭐️NL
     port: 2053
     server: 80.89.239.115
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅德国🌅62🌅DE🌅🇩🇪
+  - name: 星月⭐️🇩🇪⭐️德国⭐️62⭐️DE
     port: 2096
     server: 78.47.52.88
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅德国🌅63🌅DE🌅🇩🇪
+  - name: 星月⭐️🇩🇪⭐️德国⭐️63⭐️DE
     port: 443
     server: 188.166.162.201
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅德国🌅64🌅DE🌅🇩🇪
+  - name: 星月⭐️🇩🇪⭐️德国⭐️64⭐️DE
     port: 8443
     server: 49.13.215.89
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅65🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️65⭐️US
     port: 22567
     server: 38.59.228.168
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅德国🌅66🌅DE🌅🇩🇪
+  - name: 星月⭐️🇩🇪⭐️德国⭐️66⭐️DE
     port: 8443
     server: 91.107.128.128
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅爱沙尼亚🌅67🌅EE🌅🇪🇪
+  - name: 星月⭐️🇪🇪⭐️爱沙尼亚⭐️67⭐️EE
     port: 443
     server: 5.101.181.149
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅阿塞拜疆🌅68🌅AZ🌅🇦🇿
+  - name: 星月⭐️🇦🇿⭐️阿塞拜疆⭐️68⭐️AZ
     port: 443
     server: 46.32.184.247
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅69🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️69⭐️US
     port: 443
     server: 198.105.125.194
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅爱沙尼亚🌅70🌅EE🌅🇪🇪
+  - name: 星月⭐️🇪🇪⭐️爱沙尼亚⭐️70⭐️EE
     port: 443
     server: 46.36.223.141
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅英国🌅71🌅GB🌅🇬🇧
+  - name: 星月⭐️🇬🇧⭐️英国⭐️71⭐️GB
     port: 8080
     server: 51.20.55.209
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅72🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️72⭐️RU
     port: 2053
     server: 185.233.82.227
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅芬兰🌅73🌅FI🌅🇫🇮
+  - name: 星月⭐️🇫🇮⭐️芬兰⭐️73⭐️FI
     port: 8443
     server: 95.216.174.145
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅荷兰🌅74🌅NL🌅🇳🇱
+  - name: 星月⭐️🇳🇱⭐️荷兰⭐️74⭐️NL
     port: 2053
     server: 45.138.73.200
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅75🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️75⭐️RU
     port: 8443
     server: 46.8.228.202
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅76🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️76⭐️RU
     port: 2053
     server: 85.209.0.40
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅英国🌅77🌅GB🌅🇬🇧
+  - name: 星月⭐️🇬🇧⭐️英国⭐️77⭐️GB
     port: 443
     server: 51.20.124.5
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅瑞典🌅78🌅SE🌅🇸🇪
+  - name: 星月⭐️🇸🇪⭐️瑞典⭐️78⭐️SE
     port: 8080
     server: 13.53.54.176
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅79🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️79⭐️RU
     port: 2053
     server: 185.233.83.225
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅80🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️80⭐️RU
     port: 2053
     server: 185.105.90.45
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅81🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️81⭐️RU
     port: 443
     server: 194.87.252.20
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅82🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️82⭐️RU
     port: 443
     server: 77.73.71.103
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅阿塞拜疆🌅83🌅AZ🌅🇦🇿
+  - name: 星月⭐️🇦🇿⭐️阿塞拜疆⭐️83⭐️AZ
     port: 443
     server: 46.32.184.33
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅拉脱维亚🌅84🌅LV🌅🇱🇻
+  - name: 星月⭐️🇱🇻⭐️拉脱维亚⭐️84⭐️LV
     port: 443
     server: 195.135.254.75
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅85🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️85⭐️RU
     port: 8443
     server: 158.255.6.22
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅阿塞拜疆🌅86🌅AZ🌅🇦🇿
+  - name: 星月⭐️🇦🇿⭐️阿塞拜疆⭐️86⭐️AZ
     port: 8443
     server: 46.32.186.234
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅美国🌅87🌅US🌅🇺🇸
+  - name: 星月⭐️🇺🇸⭐️美国⭐️87⭐️US
     port: 443
     server: 216.173.70.80
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅阿塞拜疆🌅88🌅AZ🌅🇦🇿
+  - name: 星月⭐️🇦🇿⭐️阿塞拜疆⭐️88⭐️AZ
     port: 8443
     server: 46.32.186.61
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅89🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️89⭐️RU
     port: 8443
     server: 185.242.107.56
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅90🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️90⭐️RU
     port: 8443
     server: 95.182.120.34
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅91🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️91⭐️RU
     port: 2053
     server: 91.227.18.81
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
-  - name: 日月🌅俄罗斯🌅92🌅RU🌅🇷🇺
+  - name: 星月⭐️🇷🇺⭐️俄罗斯⭐️92⭐️RU
     port: 2053
     server: 213.159.208.88
-    type: vless
+    type: trojan
     network: ws
-    tls: true
     udp: true
-    servername: tangxianchu.filegear-sg.me
+    sni: riyue.ttxx4.dynv6.net
+    password: riyue
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
       headers:
-        Host: tangxianchu.filegear-sg.me
+        Host: riyue.ttxx4.dynv6.net
     alpn:
       - h3
-    uuid: c7bbc713-1a25-48dc-9cfd-6e0c6939076a
-    client-fingerprint: random
-    tfo: false
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 日月🌅美国🌅1🌅US🌅🇺🇸
-      - 日月🌅美国🌅2🌅US🌅🇺🇸
-      - 日月🌅美国🌅3🌅US🌅🇺🇸
-      - 日月🌅美国🌅4🌅US🌅🇺🇸
-      - 日月🌅美国🌅5🌅US🌅🇺🇸
-      - 日月🌅美国🌅6🌅US🌅🇺🇸
-      - 日月🌅美国🌅7🌅US🌅🇺🇸
-      - 日月🌅美国🌅8🌅US🌅🇺🇸
-      - 日月🌅美国🌅9🌅US🌅🇺🇸
-      - 日月🌅美国🌅10🌅US🌅🇺🇸
-      - 日月🌅未知🌅11🌅unKnow🌅🏳️
-      - 日月🌅未知🌅12🌅unKnow🌅🏳️
-      - 日月🌅未知🌅13🌅unKnow🌅🏳️
-      - 日月🌅中国🌅14🌅CN🌅🇨🇳
-      - 日月🌅美国🌅15🌅US🌅🇺🇸
-      - 日月🌅韩国🌅16🌅KR🌅🇰🇷
-      - 日月🌅美国🌅17🌅US🌅🇺🇸
-      - 日月🌅英国🌅18🌅GB🌅🇬🇧
-      - 日月🌅韩国🌅19🌅KR🌅🇰🇷
-      - 日月🌅荷兰🌅20🌅NL🌅🇳🇱
-      - 日月🌅美国🌅21🌅US🌅🇺🇸
-      - 日月🌅美国🌅22🌅US🌅🇺🇸
-      - 日月🌅美国🌅23🌅US🌅🇺🇸
-      - 日月🌅中国🌅24🌅CN🌅🇨🇳
-      - 日月🌅法国🌅25🌅FR🌅🇫🇷
-      - 日月🌅巴基斯坦🌅26🌅PK🌅🇵🇰
-      - 日月🌅中国🌅27🌅CN🌅🇨🇳
-      - 日月🌅中国🌅28🌅CN🌅🇨🇳
-      - 日月🌅中国🌅29🌅CN🌅🇨🇳
-      - 日月🌅中国🌅30🌅CN🌅🇨🇳
-      - 日月🌅中国🌅31🌅CN🌅🇨🇳
-      - 日月🌅美国🌅32🌅US🌅🇺🇸
-      - 日月🌅美国🌅33🌅US🌅🇺🇸
-      - 日月🌅英国🌅34🌅GB🌅🇬🇧
-      - 日月🌅英国🌅35🌅GB🌅🇬🇧
-      - 日月🌅英国🌅36🌅GB🌅🇬🇧
-      - 日月🌅新加坡🌅37🌅SG🌅🇸🇬
-      - 日月🌅美国🌅38🌅US🌅🇺🇸
-      - 日月🌅美国🌅39🌅US🌅🇺🇸
-      - 日月🌅美国🌅40🌅US🌅🇺🇸
-      - 日月🌅美国🌅41🌅US🌅🇺🇸
-      - 日月🌅美国🌅42🌅US🌅🇺🇸
-      - 日月🌅美国🌅43🌅US🌅🇺🇸
-      - 日月🌅美国🌅44🌅US🌅🇺🇸
-      - 日月🌅韩国🌅45🌅KR🌅🇰🇷
-      - 日月🌅美国🌅46🌅US🌅🇺🇸
-      - 日月🌅英国🌅47🌅GB🌅🇬🇧
-      - 日月🌅德国🌅48🌅DE🌅🇩🇪
-      - 日月🌅德国🌅49🌅DE🌅🇩🇪
-      - 日月🌅美国🌅50🌅US🌅🇺🇸
-      - 日月🌅美国🌅51🌅US🌅🇺🇸
-      - 日月🌅法国🌅52🌅FR🌅🇫🇷
-      - 日月🌅法国🌅53🌅FR🌅🇫🇷
-      - 日月🌅法国🌅54🌅FR🌅🇫🇷
-      - 日月🌅美国🌅55🌅US🌅🇺🇸
-      - 日月🌅法国🌅56🌅FR🌅🇫🇷
-      - 日月🌅荷兰🌅57🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅58🌅RU🌅🇷🇺
-      - 日月🌅荷兰🌅59🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅60🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅61🌅NL🌅🇳🇱
-      - 日月🌅德国🌅62🌅DE🌅🇩🇪
-      - 日月🌅德国🌅63🌅DE🌅🇩🇪
-      - 日月🌅德国🌅64🌅DE🌅🇩🇪
-      - 日月🌅美国🌅65🌅US🌅🇺🇸
-      - 日月🌅德国🌅66🌅DE🌅🇩🇪
-      - 日月🌅爱沙尼亚🌅67🌅EE🌅🇪🇪
-      - 日月🌅阿塞拜疆🌅68🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅69🌅US🌅🇺🇸
-      - 日月🌅爱沙尼亚🌅70🌅EE🌅🇪🇪
-      - 日月🌅英国🌅71🌅GB🌅🇬🇧
-      - 日月🌅俄罗斯🌅72🌅RU🌅🇷🇺
-      - 日月🌅芬兰🌅73🌅FI🌅🇫🇮
-      - 日月🌅荷兰🌅74🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅75🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅76🌅RU🌅🇷🇺
-      - 日月🌅英国🌅77🌅GB🌅🇬🇧
-      - 日月🌅瑞典🌅78🌅SE🌅🇸🇪
-      - 日月🌅俄罗斯🌅79🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅80🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅81🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅82🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅83🌅AZ🌅🇦🇿
-      - 日月🌅拉脱维亚🌅84🌅LV🌅🇱🇻
-      - 日月🌅俄罗斯🌅85🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅86🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅87🌅US🌅🇺🇸
-      - 日月🌅阿塞拜疆🌅88🌅AZ🌅🇦🇿
-      - 日月🌅俄罗斯🌅89🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅90🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅91🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅92🌅RU🌅🇷🇺
+      - 星月⭐️🇺🇸⭐️美国⭐️1⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️2⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️3⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️4⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️5⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️6⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️7⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️8⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️9⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️10⭐️US
+      - 星月⭐️🏳️⭐️未知⭐️11⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️12⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️13⭐️unKnow
+      - 星月⭐️🇨🇳⭐️中国⭐️14⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️15⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️16⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️17⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️18⭐️GB
+      - 星月⭐️🇰🇷⭐️韩国⭐️19⭐️KR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️20⭐️NL
+      - 星月⭐️🇺🇸⭐️美国⭐️21⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️22⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️23⭐️US
+      - 星月⭐️🇨🇳⭐️中国⭐️24⭐️CN
+      - 星月⭐️🇫🇷⭐️法国⭐️25⭐️FR
+      - 星月⭐️🇵🇰⭐️巴基斯坦⭐️26⭐️PK
+      - 星月⭐️🇨🇳⭐️中国⭐️27⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️28⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️29⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️30⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️31⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️32⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️33⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️34⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️35⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️36⭐️GB
+      - 星月⭐️🇸🇬⭐️新加坡⭐️37⭐️SG
+      - 星月⭐️🇺🇸⭐️美国⭐️38⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️39⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️40⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️41⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️42⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️43⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️44⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️45⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️46⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️47⭐️GB
+      - 星月⭐️🇩🇪⭐️德国⭐️48⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️49⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️50⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️51⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️52⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️53⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️54⭐️FR
+      - 星月⭐️🇺🇸⭐️美国⭐️55⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️56⭐️FR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️57⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️58⭐️RU
+      - 星月⭐️🇳🇱⭐️荷兰⭐️59⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️60⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️61⭐️NL
+      - 星月⭐️🇩🇪⭐️德国⭐️62⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️63⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️64⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️65⭐️US
+      - 星月⭐️🇩🇪⭐️德国⭐️66⭐️DE
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️67⭐️EE
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️68⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️69⭐️US
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️70⭐️EE
+      - 星月⭐️🇬🇧⭐️英国⭐️71⭐️GB
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️72⭐️RU
+      - 星月⭐️🇫🇮⭐️芬兰⭐️73⭐️FI
+      - 星月⭐️🇳🇱⭐️荷兰⭐️74⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️75⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️76⭐️RU
+      - 星月⭐️🇬🇧⭐️英国⭐️77⭐️GB
+      - 星月⭐️🇸🇪⭐️瑞典⭐️78⭐️SE
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️79⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️80⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️81⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️82⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️83⭐️AZ
+      - 星月⭐️🇱🇻⭐️拉脱维亚⭐️84⭐️LV
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️85⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️86⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️87⭐️US
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️88⭐️AZ
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️89⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️90⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️91⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️92⭐️RU
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 日月🌅美国🌅1🌅US🌅🇺🇸
-      - 日月🌅美国🌅2🌅US🌅🇺🇸
-      - 日月🌅美国🌅3🌅US🌅🇺🇸
-      - 日月🌅美国🌅4🌅US🌅🇺🇸
-      - 日月🌅美国🌅5🌅US🌅🇺🇸
-      - 日月🌅美国🌅6🌅US🌅🇺🇸
-      - 日月🌅美国🌅7🌅US🌅🇺🇸
-      - 日月🌅美国🌅8🌅US🌅🇺🇸
-      - 日月🌅美国🌅9🌅US🌅🇺🇸
-      - 日月🌅美国🌅10🌅US🌅🇺🇸
-      - 日月🌅未知🌅11🌅unKnow🌅🏳️
-      - 日月🌅未知🌅12🌅unKnow🌅🏳️
-      - 日月🌅未知🌅13🌅unKnow🌅🏳️
-      - 日月🌅中国🌅14🌅CN🌅🇨🇳
-      - 日月🌅美国🌅15🌅US🌅🇺🇸
-      - 日月🌅韩国🌅16🌅KR🌅🇰🇷
-      - 日月🌅美国🌅17🌅US🌅🇺🇸
-      - 日月🌅英国🌅18🌅GB🌅🇬🇧
-      - 日月🌅韩国🌅19🌅KR🌅🇰🇷
-      - 日月🌅荷兰🌅20🌅NL🌅🇳🇱
-      - 日月🌅美国🌅21🌅US🌅🇺🇸
-      - 日月🌅美国🌅22🌅US🌅🇺🇸
-      - 日月🌅美国🌅23🌅US🌅🇺🇸
-      - 日月🌅中国🌅24🌅CN🌅🇨🇳
-      - 日月🌅法国🌅25🌅FR🌅🇫🇷
-      - 日月🌅巴基斯坦🌅26🌅PK🌅🇵🇰
-      - 日月🌅中国🌅27🌅CN🌅🇨🇳
-      - 日月🌅中国🌅28🌅CN🌅🇨🇳
-      - 日月🌅中国🌅29🌅CN🌅🇨🇳
-      - 日月🌅中国🌅30🌅CN🌅🇨🇳
-      - 日月🌅中国🌅31🌅CN🌅🇨🇳
-      - 日月🌅美国🌅32🌅US🌅🇺🇸
-      - 日月🌅美国🌅33🌅US🌅🇺🇸
-      - 日月🌅英国🌅34🌅GB🌅🇬🇧
-      - 日月🌅英国🌅35🌅GB🌅🇬🇧
-      - 日月🌅英国🌅36🌅GB🌅🇬🇧
-      - 日月🌅新加坡🌅37🌅SG🌅🇸🇬
-      - 日月🌅美国🌅38🌅US🌅🇺🇸
-      - 日月🌅美国🌅39🌅US🌅🇺🇸
-      - 日月🌅美国🌅40🌅US🌅🇺🇸
-      - 日月🌅美国🌅41🌅US🌅🇺🇸
-      - 日月🌅美国🌅42🌅US🌅🇺🇸
-      - 日月🌅美国🌅43🌅US🌅🇺🇸
-      - 日月🌅美国🌅44🌅US🌅🇺🇸
-      - 日月🌅韩国🌅45🌅KR🌅🇰🇷
-      - 日月🌅美国🌅46🌅US🌅🇺🇸
-      - 日月🌅英国🌅47🌅GB🌅🇬🇧
-      - 日月🌅德国🌅48🌅DE🌅🇩🇪
-      - 日月🌅德国🌅49🌅DE🌅🇩🇪
-      - 日月🌅美国🌅50🌅US🌅🇺🇸
-      - 日月🌅美国🌅51🌅US🌅🇺🇸
-      - 日月🌅法国🌅52🌅FR🌅🇫🇷
-      - 日月🌅法国🌅53🌅FR🌅🇫🇷
-      - 日月🌅法国🌅54🌅FR🌅🇫🇷
-      - 日月🌅美国🌅55🌅US🌅🇺🇸
-      - 日月🌅法国🌅56🌅FR🌅🇫🇷
-      - 日月🌅荷兰🌅57🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅58🌅RU🌅🇷🇺
-      - 日月🌅荷兰🌅59🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅60🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅61🌅NL🌅🇳🇱
-      - 日月🌅德国🌅62🌅DE🌅🇩🇪
-      - 日月🌅德国🌅63🌅DE🌅🇩🇪
-      - 日月🌅德国🌅64🌅DE🌅🇩🇪
-      - 日月🌅美国🌅65🌅US🌅🇺🇸
-      - 日月🌅德国🌅66🌅DE🌅🇩🇪
-      - 日月🌅爱沙尼亚🌅67🌅EE🌅🇪🇪
-      - 日月🌅阿塞拜疆🌅68🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅69🌅US🌅🇺🇸
-      - 日月🌅爱沙尼亚🌅70🌅EE🌅🇪🇪
-      - 日月🌅英国🌅71🌅GB🌅🇬🇧
-      - 日月🌅俄罗斯🌅72🌅RU🌅🇷🇺
-      - 日月🌅芬兰🌅73🌅FI🌅🇫🇮
-      - 日月🌅荷兰🌅74🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅75🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅76🌅RU🌅🇷🇺
-      - 日月🌅英国🌅77🌅GB🌅🇬🇧
-      - 日月🌅瑞典🌅78🌅SE🌅🇸🇪
-      - 日月🌅俄罗斯🌅79🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅80🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅81🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅82🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅83🌅AZ🌅🇦🇿
-      - 日月🌅拉脱维亚🌅84🌅LV🌅🇱🇻
-      - 日月🌅俄罗斯🌅85🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅86🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅87🌅US🌅🇺🇸
-      - 日月🌅阿塞拜疆🌅88🌅AZ🌅🇦🇿
-      - 日月🌅俄罗斯🌅89🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅90🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅91🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅92🌅RU🌅🇷🇺
+      - 星月⭐️🇺🇸⭐️美国⭐️1⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️2⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️3⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️4⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️5⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️6⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️7⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️8⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️9⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️10⭐️US
+      - 星月⭐️🏳️⭐️未知⭐️11⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️12⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️13⭐️unKnow
+      - 星月⭐️🇨🇳⭐️中国⭐️14⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️15⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️16⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️17⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️18⭐️GB
+      - 星月⭐️🇰🇷⭐️韩国⭐️19⭐️KR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️20⭐️NL
+      - 星月⭐️🇺🇸⭐️美国⭐️21⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️22⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️23⭐️US
+      - 星月⭐️🇨🇳⭐️中国⭐️24⭐️CN
+      - 星月⭐️🇫🇷⭐️法国⭐️25⭐️FR
+      - 星月⭐️🇵🇰⭐️巴基斯坦⭐️26⭐️PK
+      - 星月⭐️🇨🇳⭐️中国⭐️27⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️28⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️29⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️30⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️31⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️32⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️33⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️34⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️35⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️36⭐️GB
+      - 星月⭐️🇸🇬⭐️新加坡⭐️37⭐️SG
+      - 星月⭐️🇺🇸⭐️美国⭐️38⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️39⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️40⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️41⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️42⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️43⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️44⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️45⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️46⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️47⭐️GB
+      - 星月⭐️🇩🇪⭐️德国⭐️48⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️49⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️50⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️51⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️52⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️53⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️54⭐️FR
+      - 星月⭐️🇺🇸⭐️美国⭐️55⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️56⭐️FR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️57⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️58⭐️RU
+      - 星月⭐️🇳🇱⭐️荷兰⭐️59⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️60⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️61⭐️NL
+      - 星月⭐️🇩🇪⭐️德国⭐️62⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️63⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️64⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️65⭐️US
+      - 星月⭐️🇩🇪⭐️德国⭐️66⭐️DE
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️67⭐️EE
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️68⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️69⭐️US
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️70⭐️EE
+      - 星月⭐️🇬🇧⭐️英国⭐️71⭐️GB
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️72⭐️RU
+      - 星月⭐️🇫🇮⭐️芬兰⭐️73⭐️FI
+      - 星月⭐️🇳🇱⭐️荷兰⭐️74⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️75⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️76⭐️RU
+      - 星月⭐️🇬🇧⭐️英国⭐️77⭐️GB
+      - 星月⭐️🇸🇪⭐️瑞典⭐️78⭐️SE
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️79⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️80⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️81⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️82⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️83⭐️AZ
+      - 星月⭐️🇱🇻⭐️拉脱维亚⭐️84⭐️LV
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️85⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️86⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️87⭐️US
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️88⭐️AZ
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️89⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️90⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️91⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️92⭐️RU
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 日月🌅美国🌅1🌅US🌅🇺🇸
-      - 日月🌅美国🌅2🌅US🌅🇺🇸
-      - 日月🌅美国🌅3🌅US🌅🇺🇸
-      - 日月🌅美国🌅4🌅US🌅🇺🇸
-      - 日月🌅美国🌅5🌅US🌅🇺🇸
-      - 日月🌅美国🌅6🌅US🌅🇺🇸
-      - 日月🌅美国🌅7🌅US🌅🇺🇸
-      - 日月🌅美国🌅8🌅US🌅🇺🇸
-      - 日月🌅美国🌅9🌅US🌅🇺🇸
-      - 日月🌅美国🌅10🌅US🌅🇺🇸
-      - 日月🌅未知🌅11🌅unKnow🌅🏳️
-      - 日月🌅未知🌅12🌅unKnow🌅🏳️
-      - 日月🌅未知🌅13🌅unKnow🌅🏳️
-      - 日月🌅中国🌅14🌅CN🌅🇨🇳
-      - 日月🌅美国🌅15🌅US🌅🇺🇸
-      - 日月🌅韩国🌅16🌅KR🌅🇰🇷
-      - 日月🌅美国🌅17🌅US🌅🇺🇸
-      - 日月🌅英国🌅18🌅GB🌅🇬🇧
-      - 日月🌅韩国🌅19🌅KR🌅🇰🇷
-      - 日月🌅荷兰🌅20🌅NL🌅🇳🇱
-      - 日月🌅美国🌅21🌅US🌅🇺🇸
-      - 日月🌅美国🌅22🌅US🌅🇺🇸
-      - 日月🌅美国🌅23🌅US🌅🇺🇸
-      - 日月🌅中国🌅24🌅CN🌅🇨🇳
-      - 日月🌅法国🌅25🌅FR🌅🇫🇷
-      - 日月🌅巴基斯坦🌅26🌅PK🌅🇵🇰
-      - 日月🌅中国🌅27🌅CN🌅🇨🇳
-      - 日月🌅中国🌅28🌅CN🌅🇨🇳
-      - 日月🌅中国🌅29🌅CN🌅🇨🇳
-      - 日月🌅中国🌅30🌅CN🌅🇨🇳
-      - 日月🌅中国🌅31🌅CN🌅🇨🇳
-      - 日月🌅美国🌅32🌅US🌅🇺🇸
-      - 日月🌅美国🌅33🌅US🌅🇺🇸
-      - 日月🌅英国🌅34🌅GB🌅🇬🇧
-      - 日月🌅英国🌅35🌅GB🌅🇬🇧
-      - 日月🌅英国🌅36🌅GB🌅🇬🇧
-      - 日月🌅新加坡🌅37🌅SG🌅🇸🇬
-      - 日月🌅美国🌅38🌅US🌅🇺🇸
-      - 日月🌅美国🌅39🌅US🌅🇺🇸
-      - 日月🌅美国🌅40🌅US🌅🇺🇸
-      - 日月🌅美国🌅41🌅US🌅🇺🇸
-      - 日月🌅美国🌅42🌅US🌅🇺🇸
-      - 日月🌅美国🌅43🌅US🌅🇺🇸
-      - 日月🌅美国🌅44🌅US🌅🇺🇸
-      - 日月🌅韩国🌅45🌅KR🌅🇰🇷
-      - 日月🌅美国🌅46🌅US🌅🇺🇸
-      - 日月🌅英国🌅47🌅GB🌅🇬🇧
-      - 日月🌅德国🌅48🌅DE🌅🇩🇪
-      - 日月🌅德国🌅49🌅DE🌅🇩🇪
-      - 日月🌅美国🌅50🌅US🌅🇺🇸
-      - 日月🌅美国🌅51🌅US🌅🇺🇸
-      - 日月🌅法国🌅52🌅FR🌅🇫🇷
-      - 日月🌅法国🌅53🌅FR🌅🇫🇷
-      - 日月🌅法国🌅54🌅FR🌅🇫🇷
-      - 日月🌅美国🌅55🌅US🌅🇺🇸
-      - 日月🌅法国🌅56🌅FR🌅🇫🇷
-      - 日月🌅荷兰🌅57🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅58🌅RU🌅🇷🇺
-      - 日月🌅荷兰🌅59🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅60🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅61🌅NL🌅🇳🇱
-      - 日月🌅德国🌅62🌅DE🌅🇩🇪
-      - 日月🌅德国🌅63🌅DE🌅🇩🇪
-      - 日月🌅德国🌅64🌅DE🌅🇩🇪
-      - 日月🌅美国🌅65🌅US🌅🇺🇸
-      - 日月🌅德国🌅66🌅DE🌅🇩🇪
-      - 日月🌅爱沙尼亚🌅67🌅EE🌅🇪🇪
-      - 日月🌅阿塞拜疆🌅68🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅69🌅US🌅🇺🇸
-      - 日月🌅爱沙尼亚🌅70🌅EE🌅🇪🇪
-      - 日月🌅英国🌅71🌅GB🌅🇬🇧
-      - 日月🌅俄罗斯🌅72🌅RU🌅🇷🇺
-      - 日月🌅芬兰🌅73🌅FI🌅🇫🇮
-      - 日月🌅荷兰🌅74🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅75🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅76🌅RU🌅🇷🇺
-      - 日月🌅英国🌅77🌅GB🌅🇬🇧
-      - 日月🌅瑞典🌅78🌅SE🌅🇸🇪
-      - 日月🌅俄罗斯🌅79🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅80🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅81🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅82🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅83🌅AZ🌅🇦🇿
-      - 日月🌅拉脱维亚🌅84🌅LV🌅🇱🇻
-      - 日月🌅俄罗斯🌅85🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅86🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅87🌅US🌅🇺🇸
-      - 日月🌅阿塞拜疆🌅88🌅AZ🌅🇦🇿
-      - 日月🌅俄罗斯🌅89🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅90🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅91🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅92🌅RU🌅🇷🇺
+      - 星月⭐️🇺🇸⭐️美国⭐️1⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️2⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️3⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️4⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️5⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️6⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️7⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️8⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️9⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️10⭐️US
+      - 星月⭐️🏳️⭐️未知⭐️11⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️12⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️13⭐️unKnow
+      - 星月⭐️🇨🇳⭐️中国⭐️14⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️15⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️16⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️17⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️18⭐️GB
+      - 星月⭐️🇰🇷⭐️韩国⭐️19⭐️KR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️20⭐️NL
+      - 星月⭐️🇺🇸⭐️美国⭐️21⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️22⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️23⭐️US
+      - 星月⭐️🇨🇳⭐️中国⭐️24⭐️CN
+      - 星月⭐️🇫🇷⭐️法国⭐️25⭐️FR
+      - 星月⭐️🇵🇰⭐️巴基斯坦⭐️26⭐️PK
+      - 星月⭐️🇨🇳⭐️中国⭐️27⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️28⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️29⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️30⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️31⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️32⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️33⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️34⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️35⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️36⭐️GB
+      - 星月⭐️🇸🇬⭐️新加坡⭐️37⭐️SG
+      - 星月⭐️🇺🇸⭐️美国⭐️38⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️39⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️40⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️41⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️42⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️43⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️44⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️45⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️46⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️47⭐️GB
+      - 星月⭐️🇩🇪⭐️德国⭐️48⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️49⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️50⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️51⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️52⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️53⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️54⭐️FR
+      - 星月⭐️🇺🇸⭐️美国⭐️55⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️56⭐️FR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️57⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️58⭐️RU
+      - 星月⭐️🇳🇱⭐️荷兰⭐️59⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️60⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️61⭐️NL
+      - 星月⭐️🇩🇪⭐️德国⭐️62⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️63⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️64⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️65⭐️US
+      - 星月⭐️🇩🇪⭐️德国⭐️66⭐️DE
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️67⭐️EE
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️68⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️69⭐️US
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️70⭐️EE
+      - 星月⭐️🇬🇧⭐️英国⭐️71⭐️GB
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️72⭐️RU
+      - 星月⭐️🇫🇮⭐️芬兰⭐️73⭐️FI
+      - 星月⭐️🇳🇱⭐️荷兰⭐️74⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️75⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️76⭐️RU
+      - 星月⭐️🇬🇧⭐️英国⭐️77⭐️GB
+      - 星月⭐️🇸🇪⭐️瑞典⭐️78⭐️SE
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️79⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️80⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️81⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️82⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️83⭐️AZ
+      - 星月⭐️🇱🇻⭐️拉脱维亚⭐️84⭐️LV
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️85⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️86⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️87⭐️US
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️88⭐️AZ
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️89⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️90⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️91⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️92⭐️RU
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 日月🌅美国🌅1🌅US🌅🇺🇸
-      - 日月🌅美国🌅2🌅US🌅🇺🇸
-      - 日月🌅美国🌅3🌅US🌅🇺🇸
-      - 日月🌅美国🌅4🌅US🌅🇺🇸
-      - 日月🌅美国🌅5🌅US🌅🇺🇸
-      - 日月🌅美国🌅6🌅US🌅🇺🇸
-      - 日月🌅美国🌅7🌅US🌅🇺🇸
-      - 日月🌅美国🌅8🌅US🌅🇺🇸
-      - 日月🌅美国🌅9🌅US🌅🇺🇸
-      - 日月🌅美国🌅10🌅US🌅🇺🇸
-      - 日月🌅未知🌅11🌅unKnow🌅🏳️
-      - 日月🌅未知🌅12🌅unKnow🌅🏳️
-      - 日月🌅未知🌅13🌅unKnow🌅🏳️
-      - 日月🌅中国🌅14🌅CN🌅🇨🇳
-      - 日月🌅美国🌅15🌅US🌅🇺🇸
-      - 日月🌅韩国🌅16🌅KR🌅🇰🇷
-      - 日月🌅美国🌅17🌅US🌅🇺🇸
-      - 日月🌅英国🌅18🌅GB🌅🇬🇧
-      - 日月🌅韩国🌅19🌅KR🌅🇰🇷
-      - 日月🌅荷兰🌅20🌅NL🌅🇳🇱
-      - 日月🌅美国🌅21🌅US🌅🇺🇸
-      - 日月🌅美国🌅22🌅US🌅🇺🇸
-      - 日月🌅美国🌅23🌅US🌅🇺🇸
-      - 日月🌅中国🌅24🌅CN🌅🇨🇳
-      - 日月🌅法国🌅25🌅FR🌅🇫🇷
-      - 日月🌅巴基斯坦🌅26🌅PK🌅🇵🇰
-      - 日月🌅中国🌅27🌅CN🌅🇨🇳
-      - 日月🌅中国🌅28🌅CN🌅🇨🇳
-      - 日月🌅中国🌅29🌅CN🌅🇨🇳
-      - 日月🌅中国🌅30🌅CN🌅🇨🇳
-      - 日月🌅中国🌅31🌅CN🌅🇨🇳
-      - 日月🌅美国🌅32🌅US🌅🇺🇸
-      - 日月🌅美国🌅33🌅US🌅🇺🇸
-      - 日月🌅英国🌅34🌅GB🌅🇬🇧
-      - 日月🌅英国🌅35🌅GB🌅🇬🇧
-      - 日月🌅英国🌅36🌅GB🌅🇬🇧
-      - 日月🌅新加坡🌅37🌅SG🌅🇸🇬
-      - 日月🌅美国🌅38🌅US🌅🇺🇸
-      - 日月🌅美国🌅39🌅US🌅🇺🇸
-      - 日月🌅美国🌅40🌅US🌅🇺🇸
-      - 日月🌅美国🌅41🌅US🌅🇺🇸
-      - 日月🌅美国🌅42🌅US🌅🇺🇸
-      - 日月🌅美国🌅43🌅US🌅🇺🇸
-      - 日月🌅美国🌅44🌅US🌅🇺🇸
-      - 日月🌅韩国🌅45🌅KR🌅🇰🇷
-      - 日月🌅美国🌅46🌅US🌅🇺🇸
-      - 日月🌅英国🌅47🌅GB🌅🇬🇧
-      - 日月🌅德国🌅48🌅DE🌅🇩🇪
-      - 日月🌅德国🌅49🌅DE🌅🇩🇪
-      - 日月🌅美国🌅50🌅US🌅🇺🇸
-      - 日月🌅美国🌅51🌅US🌅🇺🇸
-      - 日月🌅法国🌅52🌅FR🌅🇫🇷
-      - 日月🌅法国🌅53🌅FR🌅🇫🇷
-      - 日月🌅法国🌅54🌅FR🌅🇫🇷
-      - 日月🌅美国🌅55🌅US🌅🇺🇸
-      - 日月🌅法国🌅56🌅FR🌅🇫🇷
-      - 日月🌅荷兰🌅57🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅58🌅RU🌅🇷🇺
-      - 日月🌅荷兰🌅59🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅60🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅61🌅NL🌅🇳🇱
-      - 日月🌅德国🌅62🌅DE🌅🇩🇪
-      - 日月🌅德国🌅63🌅DE🌅🇩🇪
-      - 日月🌅德国🌅64🌅DE🌅🇩🇪
-      - 日月🌅美国🌅65🌅US🌅🇺🇸
-      - 日月🌅德国🌅66🌅DE🌅🇩🇪
-      - 日月🌅爱沙尼亚🌅67🌅EE🌅🇪🇪
-      - 日月🌅阿塞拜疆🌅68🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅69🌅US🌅🇺🇸
-      - 日月🌅爱沙尼亚🌅70🌅EE🌅🇪🇪
-      - 日月🌅英国🌅71🌅GB🌅🇬🇧
-      - 日月🌅俄罗斯🌅72🌅RU🌅🇷🇺
-      - 日月🌅芬兰🌅73🌅FI🌅🇫🇮
-      - 日月🌅荷兰🌅74🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅75🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅76🌅RU🌅🇷🇺
-      - 日月🌅英国🌅77🌅GB🌅🇬🇧
-      - 日月🌅瑞典🌅78🌅SE🌅🇸🇪
-      - 日月🌅俄罗斯🌅79🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅80🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅81🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅82🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅83🌅AZ🌅🇦🇿
-      - 日月🌅拉脱维亚🌅84🌅LV🌅🇱🇻
-      - 日月🌅俄罗斯🌅85🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅86🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅87🌅US🌅🇺🇸
-      - 日月🌅阿塞拜疆🌅88🌅AZ🌅🇦🇿
-      - 日月🌅俄罗斯🌅89🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅90🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅91🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅92🌅RU🌅🇷🇺
+      - 星月⭐️🇺🇸⭐️美国⭐️1⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️2⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️3⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️4⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️5⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️6⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️7⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️8⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️9⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️10⭐️US
+      - 星月⭐️🏳️⭐️未知⭐️11⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️12⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️13⭐️unKnow
+      - 星月⭐️🇨🇳⭐️中国⭐️14⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️15⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️16⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️17⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️18⭐️GB
+      - 星月⭐️🇰🇷⭐️韩国⭐️19⭐️KR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️20⭐️NL
+      - 星月⭐️🇺🇸⭐️美国⭐️21⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️22⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️23⭐️US
+      - 星月⭐️🇨🇳⭐️中国⭐️24⭐️CN
+      - 星月⭐️🇫🇷⭐️法国⭐️25⭐️FR
+      - 星月⭐️🇵🇰⭐️巴基斯坦⭐️26⭐️PK
+      - 星月⭐️🇨🇳⭐️中国⭐️27⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️28⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️29⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️30⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️31⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️32⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️33⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️34⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️35⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️36⭐️GB
+      - 星月⭐️🇸🇬⭐️新加坡⭐️37⭐️SG
+      - 星月⭐️🇺🇸⭐️美国⭐️38⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️39⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️40⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️41⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️42⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️43⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️44⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️45⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️46⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️47⭐️GB
+      - 星月⭐️🇩🇪⭐️德国⭐️48⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️49⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️50⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️51⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️52⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️53⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️54⭐️FR
+      - 星月⭐️🇺🇸⭐️美国⭐️55⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️56⭐️FR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️57⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️58⭐️RU
+      - 星月⭐️🇳🇱⭐️荷兰⭐️59⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️60⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️61⭐️NL
+      - 星月⭐️🇩🇪⭐️德国⭐️62⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️63⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️64⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️65⭐️US
+      - 星月⭐️🇩🇪⭐️德国⭐️66⭐️DE
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️67⭐️EE
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️68⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️69⭐️US
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️70⭐️EE
+      - 星月⭐️🇬🇧⭐️英国⭐️71⭐️GB
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️72⭐️RU
+      - 星月⭐️🇫🇮⭐️芬兰⭐️73⭐️FI
+      - 星月⭐️🇳🇱⭐️荷兰⭐️74⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️75⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️76⭐️RU
+      - 星月⭐️🇬🇧⭐️英国⭐️77⭐️GB
+      - 星月⭐️🇸🇪⭐️瑞典⭐️78⭐️SE
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️79⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️80⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️81⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️82⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️83⭐️AZ
+      - 星月⭐️🇱🇻⭐️拉脱维亚⭐️84⭐️LV
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️85⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️86⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️87⭐️US
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️88⭐️AZ
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️89⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️90⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️91⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️92⭐️RU
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 日月🌅美国🌅1🌅US🌅🇺🇸
-      - 日月🌅美国🌅2🌅US🌅🇺🇸
-      - 日月🌅美国🌅3🌅US🌅🇺🇸
-      - 日月🌅美国🌅4🌅US🌅🇺🇸
-      - 日月🌅美国🌅5🌅US🌅🇺🇸
-      - 日月🌅美国🌅6🌅US🌅🇺🇸
-      - 日月🌅美国🌅7🌅US🌅🇺🇸
-      - 日月🌅美国🌅8🌅US🌅🇺🇸
-      - 日月🌅美国🌅9🌅US🌅🇺🇸
-      - 日月🌅美国🌅10🌅US🌅🇺🇸
-      - 日月🌅未知🌅11🌅unKnow🌅🏳️
-      - 日月🌅未知🌅12🌅unKnow🌅🏳️
-      - 日月🌅未知🌅13🌅unKnow🌅🏳️
-      - 日月🌅中国🌅14🌅CN🌅🇨🇳
-      - 日月🌅美国🌅15🌅US🌅🇺🇸
-      - 日月🌅韩国🌅16🌅KR🌅🇰🇷
-      - 日月🌅美国🌅17🌅US🌅🇺🇸
-      - 日月🌅英国🌅18🌅GB🌅🇬🇧
-      - 日月🌅韩国🌅19🌅KR🌅🇰🇷
-      - 日月🌅荷兰🌅20🌅NL🌅🇳🇱
-      - 日月🌅美国🌅21🌅US🌅🇺🇸
-      - 日月🌅美国🌅22🌅US🌅🇺🇸
-      - 日月🌅美国🌅23🌅US🌅🇺🇸
-      - 日月🌅中国🌅24🌅CN🌅🇨🇳
-      - 日月🌅法国🌅25🌅FR🌅🇫🇷
-      - 日月🌅巴基斯坦🌅26🌅PK🌅🇵🇰
-      - 日月🌅中国🌅27🌅CN🌅🇨🇳
-      - 日月🌅中国🌅28🌅CN🌅🇨🇳
-      - 日月🌅中国🌅29🌅CN🌅🇨🇳
-      - 日月🌅中国🌅30🌅CN🌅🇨🇳
-      - 日月🌅中国🌅31🌅CN🌅🇨🇳
-      - 日月🌅美国🌅32🌅US🌅🇺🇸
-      - 日月🌅美国🌅33🌅US🌅🇺🇸
-      - 日月🌅英国🌅34🌅GB🌅🇬🇧
-      - 日月🌅英国🌅35🌅GB🌅🇬🇧
-      - 日月🌅英国🌅36🌅GB🌅🇬🇧
-      - 日月🌅新加坡🌅37🌅SG🌅🇸🇬
-      - 日月🌅美国🌅38🌅US🌅🇺🇸
-      - 日月🌅美国🌅39🌅US🌅🇺🇸
-      - 日月🌅美国🌅40🌅US🌅🇺🇸
-      - 日月🌅美国🌅41🌅US🌅🇺🇸
-      - 日月🌅美国🌅42🌅US🌅🇺🇸
-      - 日月🌅美国🌅43🌅US🌅🇺🇸
-      - 日月🌅美国🌅44🌅US🌅🇺🇸
-      - 日月🌅韩国🌅45🌅KR🌅🇰🇷
-      - 日月🌅美国🌅46🌅US🌅🇺🇸
-      - 日月🌅英国🌅47🌅GB🌅🇬🇧
-      - 日月🌅德国🌅48🌅DE🌅🇩🇪
-      - 日月🌅德国🌅49🌅DE🌅🇩🇪
-      - 日月🌅美国🌅50🌅US🌅🇺🇸
-      - 日月🌅美国🌅51🌅US🌅🇺🇸
-      - 日月🌅法国🌅52🌅FR🌅🇫🇷
-      - 日月🌅法国🌅53🌅FR🌅🇫🇷
-      - 日月🌅法国🌅54🌅FR🌅🇫🇷
-      - 日月🌅美国🌅55🌅US🌅🇺🇸
-      - 日月🌅法国🌅56🌅FR🌅🇫🇷
-      - 日月🌅荷兰🌅57🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅58🌅RU🌅🇷🇺
-      - 日月🌅荷兰🌅59🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅60🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅61🌅NL🌅🇳🇱
-      - 日月🌅德国🌅62🌅DE🌅🇩🇪
-      - 日月🌅德国🌅63🌅DE🌅🇩🇪
-      - 日月🌅德国🌅64🌅DE🌅🇩🇪
-      - 日月🌅美国🌅65🌅US🌅🇺🇸
-      - 日月🌅德国🌅66🌅DE🌅🇩🇪
-      - 日月🌅爱沙尼亚🌅67🌅EE🌅🇪🇪
-      - 日月🌅阿塞拜疆🌅68🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅69🌅US🌅🇺🇸
-      - 日月🌅爱沙尼亚🌅70🌅EE🌅🇪🇪
-      - 日月🌅英国🌅71🌅GB🌅🇬🇧
-      - 日月🌅俄罗斯🌅72🌅RU🌅🇷🇺
-      - 日月🌅芬兰🌅73🌅FI🌅🇫🇮
-      - 日月🌅荷兰🌅74🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅75🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅76🌅RU🌅🇷🇺
-      - 日月🌅英国🌅77🌅GB🌅🇬🇧
-      - 日月🌅瑞典🌅78🌅SE🌅🇸🇪
-      - 日月🌅俄罗斯🌅79🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅80🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅81🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅82🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅83🌅AZ🌅🇦🇿
-      - 日月🌅拉脱维亚🌅84🌅LV🌅🇱🇻
-      - 日月🌅俄罗斯🌅85🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅86🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅87🌅US🌅🇺🇸
-      - 日月🌅阿塞拜疆🌅88🌅AZ🌅🇦🇿
-      - 日月🌅俄罗斯🌅89🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅90🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅91🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅92🌅RU🌅🇷🇺
+      - 星月⭐️🇺🇸⭐️美国⭐️1⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️2⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️3⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️4⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️5⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️6⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️7⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️8⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️9⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️10⭐️US
+      - 星月⭐️🏳️⭐️未知⭐️11⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️12⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️13⭐️unKnow
+      - 星月⭐️🇨🇳⭐️中国⭐️14⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️15⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️16⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️17⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️18⭐️GB
+      - 星月⭐️🇰🇷⭐️韩国⭐️19⭐️KR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️20⭐️NL
+      - 星月⭐️🇺🇸⭐️美国⭐️21⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️22⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️23⭐️US
+      - 星月⭐️🇨🇳⭐️中国⭐️24⭐️CN
+      - 星月⭐️🇫🇷⭐️法国⭐️25⭐️FR
+      - 星月⭐️🇵🇰⭐️巴基斯坦⭐️26⭐️PK
+      - 星月⭐️🇨🇳⭐️中国⭐️27⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️28⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️29⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️30⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️31⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️32⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️33⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️34⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️35⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️36⭐️GB
+      - 星月⭐️🇸🇬⭐️新加坡⭐️37⭐️SG
+      - 星月⭐️🇺🇸⭐️美国⭐️38⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️39⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️40⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️41⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️42⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️43⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️44⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️45⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️46⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️47⭐️GB
+      - 星月⭐️🇩🇪⭐️德国⭐️48⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️49⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️50⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️51⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️52⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️53⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️54⭐️FR
+      - 星月⭐️🇺🇸⭐️美国⭐️55⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️56⭐️FR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️57⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️58⭐️RU
+      - 星月⭐️🇳🇱⭐️荷兰⭐️59⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️60⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️61⭐️NL
+      - 星月⭐️🇩🇪⭐️德国⭐️62⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️63⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️64⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️65⭐️US
+      - 星月⭐️🇩🇪⭐️德国⭐️66⭐️DE
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️67⭐️EE
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️68⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️69⭐️US
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️70⭐️EE
+      - 星月⭐️🇬🇧⭐️英国⭐️71⭐️GB
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️72⭐️RU
+      - 星月⭐️🇫🇮⭐️芬兰⭐️73⭐️FI
+      - 星月⭐️🇳🇱⭐️荷兰⭐️74⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️75⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️76⭐️RU
+      - 星月⭐️🇬🇧⭐️英国⭐️77⭐️GB
+      - 星月⭐️🇸🇪⭐️瑞典⭐️78⭐️SE
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️79⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️80⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️81⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️82⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️83⭐️AZ
+      - 星月⭐️🇱🇻⭐️拉脱维亚⭐️84⭐️LV
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️85⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️86⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️87⭐️US
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️88⭐️AZ
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️89⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️90⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️91⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️92⭐️RU
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 日月🌅美国🌅1🌅US🌅🇺🇸
-      - 日月🌅美国🌅2🌅US🌅🇺🇸
-      - 日月🌅美国🌅3🌅US🌅🇺🇸
-      - 日月🌅美国🌅4🌅US🌅🇺🇸
-      - 日月🌅美国🌅5🌅US🌅🇺🇸
-      - 日月🌅美国🌅6🌅US🌅🇺🇸
-      - 日月🌅美国🌅7🌅US🌅🇺🇸
-      - 日月🌅美国🌅8🌅US🌅🇺🇸
-      - 日月🌅美国🌅9🌅US🌅🇺🇸
-      - 日月🌅美国🌅10🌅US🌅🇺🇸
-      - 日月🌅未知🌅11🌅unKnow🌅🏳️
-      - 日月🌅未知🌅12🌅unKnow🌅🏳️
-      - 日月🌅未知🌅13🌅unKnow🌅🏳️
-      - 日月🌅中国🌅14🌅CN🌅🇨🇳
-      - 日月🌅美国🌅15🌅US🌅🇺🇸
-      - 日月🌅韩国🌅16🌅KR🌅🇰🇷
-      - 日月🌅美国🌅17🌅US🌅🇺🇸
-      - 日月🌅英国🌅18🌅GB🌅🇬🇧
-      - 日月🌅韩国🌅19🌅KR🌅🇰🇷
-      - 日月🌅荷兰🌅20🌅NL🌅🇳🇱
-      - 日月🌅美国🌅21🌅US🌅🇺🇸
-      - 日月🌅美国🌅22🌅US🌅🇺🇸
-      - 日月🌅美国🌅23🌅US🌅🇺🇸
-      - 日月🌅中国🌅24🌅CN🌅🇨🇳
-      - 日月🌅法国🌅25🌅FR🌅🇫🇷
-      - 日月🌅巴基斯坦🌅26🌅PK🌅🇵🇰
-      - 日月🌅中国🌅27🌅CN🌅🇨🇳
-      - 日月🌅中国🌅28🌅CN🌅🇨🇳
-      - 日月🌅中国🌅29🌅CN🌅🇨🇳
-      - 日月🌅中国🌅30🌅CN🌅🇨🇳
-      - 日月🌅中国🌅31🌅CN🌅🇨🇳
-      - 日月🌅美国🌅32🌅US🌅🇺🇸
-      - 日月🌅美国🌅33🌅US🌅🇺🇸
-      - 日月🌅英国🌅34🌅GB🌅🇬🇧
-      - 日月🌅英国🌅35🌅GB🌅🇬🇧
-      - 日月🌅英国🌅36🌅GB🌅🇬🇧
-      - 日月🌅新加坡🌅37🌅SG🌅🇸🇬
-      - 日月🌅美国🌅38🌅US🌅🇺🇸
-      - 日月🌅美国🌅39🌅US🌅🇺🇸
-      - 日月🌅美国🌅40🌅US🌅🇺🇸
-      - 日月🌅美国🌅41🌅US🌅🇺🇸
-      - 日月🌅美国🌅42🌅US🌅🇺🇸
-      - 日月🌅美国🌅43🌅US🌅🇺🇸
-      - 日月🌅美国🌅44🌅US🌅🇺🇸
-      - 日月🌅韩国🌅45🌅KR🌅🇰🇷
-      - 日月🌅美国🌅46🌅US🌅🇺🇸
-      - 日月🌅英国🌅47🌅GB🌅🇬🇧
-      - 日月🌅德国🌅48🌅DE🌅🇩🇪
-      - 日月🌅德国🌅49🌅DE🌅🇩🇪
-      - 日月🌅美国🌅50🌅US🌅🇺🇸
-      - 日月🌅美国🌅51🌅US🌅🇺🇸
-      - 日月🌅法国🌅52🌅FR🌅🇫🇷
-      - 日月🌅法国🌅53🌅FR🌅🇫🇷
-      - 日月🌅法国🌅54🌅FR🌅🇫🇷
-      - 日月🌅美国🌅55🌅US🌅🇺🇸
-      - 日月🌅法国🌅56🌅FR🌅🇫🇷
-      - 日月🌅荷兰🌅57🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅58🌅RU🌅🇷🇺
-      - 日月🌅荷兰🌅59🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅60🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅61🌅NL🌅🇳🇱
-      - 日月🌅德国🌅62🌅DE🌅🇩🇪
-      - 日月🌅德国🌅63🌅DE🌅🇩🇪
-      - 日月🌅德国🌅64🌅DE🌅🇩🇪
-      - 日月🌅美国🌅65🌅US🌅🇺🇸
-      - 日月🌅德国🌅66🌅DE🌅🇩🇪
-      - 日月🌅爱沙尼亚🌅67🌅EE🌅🇪🇪
-      - 日月🌅阿塞拜疆🌅68🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅69🌅US🌅🇺🇸
-      - 日月🌅爱沙尼亚🌅70🌅EE🌅🇪🇪
-      - 日月🌅英国🌅71🌅GB🌅🇬🇧
-      - 日月🌅俄罗斯🌅72🌅RU🌅🇷🇺
-      - 日月🌅芬兰🌅73🌅FI🌅🇫🇮
-      - 日月🌅荷兰🌅74🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅75🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅76🌅RU🌅🇷🇺
-      - 日月🌅英国🌅77🌅GB🌅🇬🇧
-      - 日月🌅瑞典🌅78🌅SE🌅🇸🇪
-      - 日月🌅俄罗斯🌅79🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅80🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅81🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅82🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅83🌅AZ🌅🇦🇿
-      - 日月🌅拉脱维亚🌅84🌅LV🌅🇱🇻
-      - 日月🌅俄罗斯🌅85🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅86🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅87🌅US🌅🇺🇸
-      - 日月🌅阿塞拜疆🌅88🌅AZ🌅🇦🇿
-      - 日月🌅俄罗斯🌅89🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅90🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅91🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅92🌅RU🌅🇷🇺
+      - 星月⭐️🇺🇸⭐️美国⭐️1⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️2⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️3⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️4⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️5⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️6⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️7⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️8⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️9⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️10⭐️US
+      - 星月⭐️🏳️⭐️未知⭐️11⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️12⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️13⭐️unKnow
+      - 星月⭐️🇨🇳⭐️中国⭐️14⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️15⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️16⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️17⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️18⭐️GB
+      - 星月⭐️🇰🇷⭐️韩国⭐️19⭐️KR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️20⭐️NL
+      - 星月⭐️🇺🇸⭐️美国⭐️21⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️22⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️23⭐️US
+      - 星月⭐️🇨🇳⭐️中国⭐️24⭐️CN
+      - 星月⭐️🇫🇷⭐️法国⭐️25⭐️FR
+      - 星月⭐️🇵🇰⭐️巴基斯坦⭐️26⭐️PK
+      - 星月⭐️🇨🇳⭐️中国⭐️27⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️28⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️29⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️30⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️31⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️32⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️33⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️34⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️35⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️36⭐️GB
+      - 星月⭐️🇸🇬⭐️新加坡⭐️37⭐️SG
+      - 星月⭐️🇺🇸⭐️美国⭐️38⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️39⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️40⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️41⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️42⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️43⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️44⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️45⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️46⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️47⭐️GB
+      - 星月⭐️🇩🇪⭐️德国⭐️48⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️49⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️50⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️51⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️52⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️53⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️54⭐️FR
+      - 星月⭐️🇺🇸⭐️美国⭐️55⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️56⭐️FR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️57⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️58⭐️RU
+      - 星月⭐️🇳🇱⭐️荷兰⭐️59⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️60⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️61⭐️NL
+      - 星月⭐️🇩🇪⭐️德国⭐️62⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️63⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️64⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️65⭐️US
+      - 星月⭐️🇩🇪⭐️德国⭐️66⭐️DE
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️67⭐️EE
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️68⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️69⭐️US
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️70⭐️EE
+      - 星月⭐️🇬🇧⭐️英国⭐️71⭐️GB
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️72⭐️RU
+      - 星月⭐️🇫🇮⭐️芬兰⭐️73⭐️FI
+      - 星月⭐️🇳🇱⭐️荷兰⭐️74⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️75⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️76⭐️RU
+      - 星月⭐️🇬🇧⭐️英国⭐️77⭐️GB
+      - 星月⭐️🇸🇪⭐️瑞典⭐️78⭐️SE
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️79⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️80⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️81⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️82⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️83⭐️AZ
+      - 星月⭐️🇱🇻⭐️拉脱维亚⭐️84⭐️LV
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️85⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️86⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️87⭐️US
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️88⭐️AZ
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️89⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️90⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️91⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️92⭐️RU
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -2321,98 +2044,98 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 日月🌅美国🌅1🌅US🌅🇺🇸
-      - 日月🌅美国🌅2🌅US🌅🇺🇸
-      - 日月🌅美国🌅3🌅US🌅🇺🇸
-      - 日月🌅美国🌅4🌅US🌅🇺🇸
-      - 日月🌅美国🌅5🌅US🌅🇺🇸
-      - 日月🌅美国🌅6🌅US🌅🇺🇸
-      - 日月🌅美国🌅7🌅US🌅🇺🇸
-      - 日月🌅美国🌅8🌅US🌅🇺🇸
-      - 日月🌅美国🌅9🌅US🌅🇺🇸
-      - 日月🌅美国🌅10🌅US🌅🇺🇸
-      - 日月🌅未知🌅11🌅unKnow🌅🏳️
-      - 日月🌅未知🌅12🌅unKnow🌅🏳️
-      - 日月🌅未知🌅13🌅unKnow🌅🏳️
-      - 日月🌅中国🌅14🌅CN🌅🇨🇳
-      - 日月🌅美国🌅15🌅US🌅🇺🇸
-      - 日月🌅韩国🌅16🌅KR🌅🇰🇷
-      - 日月🌅美国🌅17🌅US🌅🇺🇸
-      - 日月🌅英国🌅18🌅GB🌅🇬🇧
-      - 日月🌅韩国🌅19🌅KR🌅🇰🇷
-      - 日月🌅荷兰🌅20🌅NL🌅🇳🇱
-      - 日月🌅美国🌅21🌅US🌅🇺🇸
-      - 日月🌅美国🌅22🌅US🌅🇺🇸
-      - 日月🌅美国🌅23🌅US🌅🇺🇸
-      - 日月🌅中国🌅24🌅CN🌅🇨🇳
-      - 日月🌅法国🌅25🌅FR🌅🇫🇷
-      - 日月🌅巴基斯坦🌅26🌅PK🌅🇵🇰
-      - 日月🌅中国🌅27🌅CN🌅🇨🇳
-      - 日月🌅中国🌅28🌅CN🌅🇨🇳
-      - 日月🌅中国🌅29🌅CN🌅🇨🇳
-      - 日月🌅中国🌅30🌅CN🌅🇨🇳
-      - 日月🌅中国🌅31🌅CN🌅🇨🇳
-      - 日月🌅美国🌅32🌅US🌅🇺🇸
-      - 日月🌅美国🌅33🌅US🌅🇺🇸
-      - 日月🌅英国🌅34🌅GB🌅🇬🇧
-      - 日月🌅英国🌅35🌅GB🌅🇬🇧
-      - 日月🌅英国🌅36🌅GB🌅🇬🇧
-      - 日月🌅新加坡🌅37🌅SG🌅🇸🇬
-      - 日月🌅美国🌅38🌅US🌅🇺🇸
-      - 日月🌅美国🌅39🌅US🌅🇺🇸
-      - 日月🌅美国🌅40🌅US🌅🇺🇸
-      - 日月🌅美国🌅41🌅US🌅🇺🇸
-      - 日月🌅美国🌅42🌅US🌅🇺🇸
-      - 日月🌅美国🌅43🌅US🌅🇺🇸
-      - 日月🌅美国🌅44🌅US🌅🇺🇸
-      - 日月🌅韩国🌅45🌅KR🌅🇰🇷
-      - 日月🌅美国🌅46🌅US🌅🇺🇸
-      - 日月🌅英国🌅47🌅GB🌅🇬🇧
-      - 日月🌅德国🌅48🌅DE🌅🇩🇪
-      - 日月🌅德国🌅49🌅DE🌅🇩🇪
-      - 日月🌅美国🌅50🌅US🌅🇺🇸
-      - 日月🌅美国🌅51🌅US🌅🇺🇸
-      - 日月🌅法国🌅52🌅FR🌅🇫🇷
-      - 日月🌅法国🌅53🌅FR🌅🇫🇷
-      - 日月🌅法国🌅54🌅FR🌅🇫🇷
-      - 日月🌅美国🌅55🌅US🌅🇺🇸
-      - 日月🌅法国🌅56🌅FR🌅🇫🇷
-      - 日月🌅荷兰🌅57🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅58🌅RU🌅🇷🇺
-      - 日月🌅荷兰🌅59🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅60🌅NL🌅🇳🇱
-      - 日月🌅荷兰🌅61🌅NL🌅🇳🇱
-      - 日月🌅德国🌅62🌅DE🌅🇩🇪
-      - 日月🌅德国🌅63🌅DE🌅🇩🇪
-      - 日月🌅德国🌅64🌅DE🌅🇩🇪
-      - 日月🌅美国🌅65🌅US🌅🇺🇸
-      - 日月🌅德国🌅66🌅DE🌅🇩🇪
-      - 日月🌅爱沙尼亚🌅67🌅EE🌅🇪🇪
-      - 日月🌅阿塞拜疆🌅68🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅69🌅US🌅🇺🇸
-      - 日月🌅爱沙尼亚🌅70🌅EE🌅🇪🇪
-      - 日月🌅英国🌅71🌅GB🌅🇬🇧
-      - 日月🌅俄罗斯🌅72🌅RU🌅🇷🇺
-      - 日月🌅芬兰🌅73🌅FI🌅🇫🇮
-      - 日月🌅荷兰🌅74🌅NL🌅🇳🇱
-      - 日月🌅俄罗斯🌅75🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅76🌅RU🌅🇷🇺
-      - 日月🌅英国🌅77🌅GB🌅🇬🇧
-      - 日月🌅瑞典🌅78🌅SE🌅🇸🇪
-      - 日月🌅俄罗斯🌅79🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅80🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅81🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅82🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅83🌅AZ🌅🇦🇿
-      - 日月🌅拉脱维亚🌅84🌅LV🌅🇱🇻
-      - 日月🌅俄罗斯🌅85🌅RU🌅🇷🇺
-      - 日月🌅阿塞拜疆🌅86🌅AZ🌅🇦🇿
-      - 日月🌅美国🌅87🌅US🌅🇺🇸
-      - 日月🌅阿塞拜疆🌅88🌅AZ🌅🇦🇿
-      - 日月🌅俄罗斯🌅89🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅90🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅91🌅RU🌅🇷🇺
-      - 日月🌅俄罗斯🌅92🌅RU🌅🇷🇺
+      - 星月⭐️🇺🇸⭐️美国⭐️1⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️2⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️3⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️4⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️5⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️6⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️7⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️8⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️9⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️10⭐️US
+      - 星月⭐️🏳️⭐️未知⭐️11⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️12⭐️unKnow
+      - 星月⭐️🏳️⭐️未知⭐️13⭐️unKnow
+      - 星月⭐️🇨🇳⭐️中国⭐️14⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️15⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️16⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️17⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️18⭐️GB
+      - 星月⭐️🇰🇷⭐️韩国⭐️19⭐️KR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️20⭐️NL
+      - 星月⭐️🇺🇸⭐️美国⭐️21⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️22⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️23⭐️US
+      - 星月⭐️🇨🇳⭐️中国⭐️24⭐️CN
+      - 星月⭐️🇫🇷⭐️法国⭐️25⭐️FR
+      - 星月⭐️🇵🇰⭐️巴基斯坦⭐️26⭐️PK
+      - 星月⭐️🇨🇳⭐️中国⭐️27⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️28⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️29⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️30⭐️CN
+      - 星月⭐️🇨🇳⭐️中国⭐️31⭐️CN
+      - 星月⭐️🇺🇸⭐️美国⭐️32⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️33⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️34⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️35⭐️GB
+      - 星月⭐️🇬🇧⭐️英国⭐️36⭐️GB
+      - 星月⭐️🇸🇬⭐️新加坡⭐️37⭐️SG
+      - 星月⭐️🇺🇸⭐️美国⭐️38⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️39⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️40⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️41⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️42⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️43⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️44⭐️US
+      - 星月⭐️🇰🇷⭐️韩国⭐️45⭐️KR
+      - 星月⭐️🇺🇸⭐️美国⭐️46⭐️US
+      - 星月⭐️🇬🇧⭐️英国⭐️47⭐️GB
+      - 星月⭐️🇩🇪⭐️德国⭐️48⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️49⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️50⭐️US
+      - 星月⭐️🇺🇸⭐️美国⭐️51⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️52⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️53⭐️FR
+      - 星月⭐️🇫🇷⭐️法国⭐️54⭐️FR
+      - 星月⭐️🇺🇸⭐️美国⭐️55⭐️US
+      - 星月⭐️🇫🇷⭐️法国⭐️56⭐️FR
+      - 星月⭐️🇳🇱⭐️荷兰⭐️57⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️58⭐️RU
+      - 星月⭐️🇳🇱⭐️荷兰⭐️59⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️60⭐️NL
+      - 星月⭐️🇳🇱⭐️荷兰⭐️61⭐️NL
+      - 星月⭐️🇩🇪⭐️德国⭐️62⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️63⭐️DE
+      - 星月⭐️🇩🇪⭐️德国⭐️64⭐️DE
+      - 星月⭐️🇺🇸⭐️美国⭐️65⭐️US
+      - 星月⭐️🇩🇪⭐️德国⭐️66⭐️DE
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️67⭐️EE
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️68⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️69⭐️US
+      - 星月⭐️🇪🇪⭐️爱沙尼亚⭐️70⭐️EE
+      - 星月⭐️🇬🇧⭐️英国⭐️71⭐️GB
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️72⭐️RU
+      - 星月⭐️🇫🇮⭐️芬兰⭐️73⭐️FI
+      - 星月⭐️🇳🇱⭐️荷兰⭐️74⭐️NL
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️75⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️76⭐️RU
+      - 星月⭐️🇬🇧⭐️英国⭐️77⭐️GB
+      - 星月⭐️🇸🇪⭐️瑞典⭐️78⭐️SE
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️79⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️80⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️81⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️82⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️83⭐️AZ
+      - 星月⭐️🇱🇻⭐️拉脱维亚⭐️84⭐️LV
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️85⭐️RU
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️86⭐️AZ
+      - 星月⭐️🇺🇸⭐️美国⭐️87⭐️US
+      - 星月⭐️🇦🇿⭐️阿塞拜疆⭐️88⭐️AZ
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️89⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️90⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️91⭐️RU
+      - 星月⭐️🇷🇺⭐️俄罗斯⭐️92⭐️RU
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
