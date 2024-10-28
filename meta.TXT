@@ -48,1085 +48,635 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅1
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙1
     port: 1170
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅2
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙2
     port: 1171
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅3
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙3
     port: 1174
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅4
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙4
     port: 1190
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅5
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙5
     port: 1191
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅6
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙6
     port: 1192
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅7
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙7
     port: 1193
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅8
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙8
     port: 1194
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅9
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙9
     port: 1150
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅10
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙10
     port: 1151
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅11
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙11
     port: 1152
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅12
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙12
     port: 1153
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅13
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙13
     port: 1154
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅14
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙14
     port: 1180
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅15
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙15
     port: 1181
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅16
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙16
     port: 1182
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅17
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙17
     port: 1183
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅18
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙18
     port: 1184
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅19
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙19
     port: 1175
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅20
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙20
     port: 1176
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅21
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙21
     port: 1177
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅22
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙22
     port: 1178
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅23
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙23
     port: 1195
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅24
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙24
     port: 1196
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅25
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙25
     port: 1197
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅26
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙26
     port: 1198
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅27
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙27
     port: 1155
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅28
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙28
     port: 1156
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅29
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙29
     port: 1157
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅30
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙30
     port: 1158
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅31
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙31
     port: 1185
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅32
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙32
     port: 1186
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅33
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙33
     port: 1187
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅34
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙34
     port: 1192
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅35
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙35
     port: 1193
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅36
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙36
     port: 1150
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅37
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙37
     port: 1152
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅38
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙38
     port: 1153
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅39
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙39
     port: 1154
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅40
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙40
     port: 1183
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅41
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙41
     port: 5980
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅42
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙42
     port: 5981
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅43
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙43
     port: 5982
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅44
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙44
     port: 5983
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅45
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙45
     port: 5984
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅46
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙46
     port: 5985
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅47
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙47
     port: 5986
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅48
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙48
     port: 5987
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅49
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙49
     port: 5988
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅50
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙50
     port: 5989
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅51
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙51
     port: 5980
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅52
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙52
     port: 5981
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅53
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙53
     port: 5982
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅54
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙54
     port: 5983
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅55
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙55
     port: 5984
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅56
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙56
     port: 5985
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅57
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙57
     port: 5986
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅58
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙58
     port: 5987
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅59
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙59
     port: 5988
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅60
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙60
     port: 5989
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅61
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙61
     port: 5980
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅62
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙62
     port: 5981
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅63
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙63
     port: 5982
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅64
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙64
     port: 5983
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅65
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙65
     port: 5984
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅66
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙66
     port: 5985
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅67
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙67
     port: 5986
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅68
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙68
     port: 5987
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅69
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙69
     port: 5988
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅70
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙70
     port: 5989
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅71
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙71
     port: 5980
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅72
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙72
     port: 5981
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅73
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙73
     port: 5982
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅74
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙74
     port: 5983
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅75
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙75
     port: 5984
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅76
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙76
     port: 5985
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅77
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙77
     port: 5986
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅78
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙78
     port: 5987
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅79
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙79
     port: 5988
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅80
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙80
     port: 5989
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅81
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙81
     port: 5980
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅82
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙82
     port: 5981
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅83
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙83
     port: 5982
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅84
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙84
     port: 5983
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅85
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙85
     port: 5984
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅86
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙86
     port: 5985
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅87
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙87
     port: 5986
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅88
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙88
     port: 5987
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅89
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙89
     port: 5988
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
-  - name: 日月🌅🇨🇳🌅CN🌅中国🌅90
+  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙90
     port: 5989
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
-    plugin: obfs-local
-    plugin-opts:
-      mode: null
-      host: null
-      path: null
     cipher: rc4-md5
 proxy-groups:
   - name: 🚀 节点选择
@@ -1144,192 +694,192 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
-      - 日月🌅🇨🇳🌅CN🌅中国🌅1
-      - 日月🌅🇨🇳🌅CN🌅中国🌅2
-      - 日月🌅🇨🇳🌅CN🌅中国🌅3
-      - 日月🌅🇨🇳🌅CN🌅中国🌅4
-      - 日月🌅🇨🇳🌅CN🌅中国🌅5
-      - 日月🌅🇨🇳🌅CN🌅中国🌅6
-      - 日月🌅🇨🇳🌅CN🌅中国🌅7
-      - 日月🌅🇨🇳🌅CN🌅中国🌅8
-      - 日月🌅🇨🇳🌅CN🌅中国🌅9
-      - 日月🌅🇨🇳🌅CN🌅中国🌅10
-      - 日月🌅🇨🇳🌅CN🌅中国🌅11
-      - 日月🌅🇨🇳🌅CN🌅中国🌅12
-      - 日月🌅🇨🇳🌅CN🌅中国🌅13
-      - 日月🌅🇨🇳🌅CN🌅中国🌅14
-      - 日月🌅🇨🇳🌅CN🌅中国🌅15
-      - 日月🌅🇨🇳🌅CN🌅中国🌅16
-      - 日月🌅🇨🇳🌅CN🌅中国🌅17
-      - 日月🌅🇨🇳🌅CN🌅中国🌅18
-      - 日月🌅🇨🇳🌅CN🌅中国🌅19
-      - 日月🌅🇨🇳🌅CN🌅中国🌅20
-      - 日月🌅🇨🇳🌅CN🌅中国🌅21
-      - 日月🌅🇨🇳🌅CN🌅中国🌅22
-      - 日月🌅🇨🇳🌅CN🌅中国🌅23
-      - 日月🌅🇨🇳🌅CN🌅中国🌅24
-      - 日月🌅🇨🇳🌅CN🌅中国🌅25
-      - 日月🌅🇨🇳🌅CN🌅中国🌅26
-      - 日月🌅🇨🇳🌅CN🌅中国🌅27
-      - 日月🌅🇨🇳🌅CN🌅中国🌅28
-      - 日月🌅🇨🇳🌅CN🌅中国🌅29
-      - 日月🌅🇨🇳🌅CN🌅中国🌅30
-      - 日月🌅🇨🇳🌅CN🌅中国🌅31
-      - 日月🌅🇨🇳🌅CN🌅中国🌅32
-      - 日月🌅🇨🇳🌅CN🌅中国🌅33
-      - 日月🌅🇨🇳🌅CN🌅中国🌅34
-      - 日月🌅🇨🇳🌅CN🌅中国🌅35
-      - 日月🌅🇨🇳🌅CN🌅中国🌅36
-      - 日月🌅🇨🇳🌅CN🌅中国🌅37
-      - 日月🌅🇨🇳🌅CN🌅中国🌅38
-      - 日月🌅🇨🇳🌅CN🌅中国🌅39
-      - 日月🌅🇨🇳🌅CN🌅中国🌅40
-      - 日月🌅🇨🇳🌅CN🌅中国🌅41
-      - 日月🌅🇨🇳🌅CN🌅中国🌅42
-      - 日月🌅🇨🇳🌅CN🌅中国🌅43
-      - 日月🌅🇨🇳🌅CN🌅中国🌅44
-      - 日月🌅🇨🇳🌅CN🌅中国🌅45
-      - 日月🌅🇨🇳🌅CN🌅中国🌅46
-      - 日月🌅🇨🇳🌅CN🌅中国🌅47
-      - 日月🌅🇨🇳🌅CN🌅中国🌅48
-      - 日月🌅🇨🇳🌅CN🌅中国🌅49
-      - 日月🌅🇨🇳🌅CN🌅中国🌅50
-      - 日月🌅🇨🇳🌅CN🌅中国🌅51
-      - 日月🌅🇨🇳🌅CN🌅中国🌅52
-      - 日月🌅🇨🇳🌅CN🌅中国🌅53
-      - 日月🌅🇨🇳🌅CN🌅中国🌅54
-      - 日月🌅🇨🇳🌅CN🌅中国🌅55
-      - 日月🌅🇨🇳🌅CN🌅中国🌅56
-      - 日月🌅🇨🇳🌅CN🌅中国🌅57
-      - 日月🌅🇨🇳🌅CN🌅中国🌅58
-      - 日月🌅🇨🇳🌅CN🌅中国🌅59
-      - 日月🌅🇨🇳🌅CN🌅中国🌅60
-      - 日月🌅🇨🇳🌅CN🌅中国🌅61
-      - 日月🌅🇨🇳🌅CN🌅中国🌅62
-      - 日月🌅🇨🇳🌅CN🌅中国🌅63
-      - 日月🌅🇨🇳🌅CN🌅中国🌅64
-      - 日月🌅🇨🇳🌅CN🌅中国🌅65
-      - 日月🌅🇨🇳🌅CN🌅中国🌅66
-      - 日月🌅🇨🇳🌅CN🌅中国🌅67
-      - 日月🌅🇨🇳🌅CN🌅中国🌅68
-      - 日月🌅🇨🇳🌅CN🌅中国🌅69
-      - 日月🌅🇨🇳🌅CN🌅中国🌅70
-      - 日月🌅🇨🇳🌅CN🌅中国🌅71
-      - 日月🌅🇨🇳🌅CN🌅中国🌅72
-      - 日月🌅🇨🇳🌅CN🌅中国🌅73
-      - 日月🌅🇨🇳🌅CN🌅中国🌅74
-      - 日月🌅🇨🇳🌅CN🌅中国🌅75
-      - 日月🌅🇨🇳🌅CN🌅中国🌅76
-      - 日月🌅🇨🇳🌅CN🌅中国🌅77
-      - 日月🌅🇨🇳🌅CN🌅中国🌅78
-      - 日月🌅🇨🇳🌅CN🌅中国🌅79
-      - 日月🌅🇨🇳🌅CN🌅中国🌅80
-      - 日月🌅🇨🇳🌅CN🌅中国🌅81
-      - 日月🌅🇨🇳🌅CN🌅中国🌅82
-      - 日月🌅🇨🇳🌅CN🌅中国🌅83
-      - 日月🌅🇨🇳🌅CN🌅中国🌅84
-      - 日月🌅🇨🇳🌅CN🌅中国🌅85
-      - 日月🌅🇨🇳🌅CN🌅中国🌅86
-      - 日月🌅🇨🇳🌅CN🌅中国🌅87
-      - 日月🌅🇨🇳🌅CN🌅中国🌅88
-      - 日月🌅🇨🇳🌅CN🌅中国🌅89
-      - 日月🌅🇨🇳🌅CN🌅中国🌅90
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙1
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙2
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙3
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙4
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙5
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙6
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙7
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙8
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙9
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙10
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙11
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙12
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙13
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙14
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙15
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙16
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙17
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙18
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙19
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙20
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙21
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙22
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙23
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙24
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙25
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙26
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙27
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙28
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙29
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙30
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙31
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙32
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙33
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙34
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙35
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙36
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙37
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙38
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙39
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙40
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙41
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙42
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙43
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙44
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙45
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙46
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙47
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙48
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙49
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙50
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙51
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙52
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙53
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙54
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙55
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙56
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙57
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙58
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙59
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙60
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙61
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙62
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙63
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙64
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙65
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙66
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙67
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙68
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙69
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙70
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙71
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙72
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙73
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙74
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙75
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙76
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙77
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙78
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙79
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙80
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙81
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙82
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙83
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙84
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙85
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙86
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙87
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙88
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙89
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙90
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 日月🌅🇨🇳🌅CN🌅中国🌅1
-      - 日月🌅🇨🇳🌅CN🌅中国🌅2
-      - 日月🌅🇨🇳🌅CN🌅中国🌅3
-      - 日月🌅🇨🇳🌅CN🌅中国🌅4
-      - 日月🌅🇨🇳🌅CN🌅中国🌅5
-      - 日月🌅🇨🇳🌅CN🌅中国🌅6
-      - 日月🌅🇨🇳🌅CN🌅中国🌅7
-      - 日月🌅🇨🇳🌅CN🌅中国🌅8
-      - 日月🌅🇨🇳🌅CN🌅中国🌅9
-      - 日月🌅🇨🇳🌅CN🌅中国🌅10
-      - 日月🌅🇨🇳🌅CN🌅中国🌅11
-      - 日月🌅🇨🇳🌅CN🌅中国🌅12
-      - 日月🌅🇨🇳🌅CN🌅中国🌅13
-      - 日月🌅🇨🇳🌅CN🌅中国🌅14
-      - 日月🌅🇨🇳🌅CN🌅中国🌅15
-      - 日月🌅🇨🇳🌅CN🌅中国🌅16
-      - 日月🌅🇨🇳🌅CN🌅中国🌅17
-      - 日月🌅🇨🇳🌅CN🌅中国🌅18
-      - 日月🌅🇨🇳🌅CN🌅中国🌅19
-      - 日月🌅🇨🇳🌅CN🌅中国🌅20
-      - 日月🌅🇨🇳🌅CN🌅中国🌅21
-      - 日月🌅🇨🇳🌅CN🌅中国🌅22
-      - 日月🌅🇨🇳🌅CN🌅中国🌅23
-      - 日月🌅🇨🇳🌅CN🌅中国🌅24
-      - 日月🌅🇨🇳🌅CN🌅中国🌅25
-      - 日月🌅🇨🇳🌅CN🌅中国🌅26
-      - 日月🌅🇨🇳🌅CN🌅中国🌅27
-      - 日月🌅🇨🇳🌅CN🌅中国🌅28
-      - 日月🌅🇨🇳🌅CN🌅中国🌅29
-      - 日月🌅🇨🇳🌅CN🌅中国🌅30
-      - 日月🌅🇨🇳🌅CN🌅中国🌅31
-      - 日月🌅🇨🇳🌅CN🌅中国🌅32
-      - 日月🌅🇨🇳🌅CN🌅中国🌅33
-      - 日月🌅🇨🇳🌅CN🌅中国🌅34
-      - 日月🌅🇨🇳🌅CN🌅中国🌅35
-      - 日月🌅🇨🇳🌅CN🌅中国🌅36
-      - 日月🌅🇨🇳🌅CN🌅中国🌅37
-      - 日月🌅🇨🇳🌅CN🌅中国🌅38
-      - 日月🌅🇨🇳🌅CN🌅中国🌅39
-      - 日月🌅🇨🇳🌅CN🌅中国🌅40
-      - 日月🌅🇨🇳🌅CN🌅中国🌅41
-      - 日月🌅🇨🇳🌅CN🌅中国🌅42
-      - 日月🌅🇨🇳🌅CN🌅中国🌅43
-      - 日月🌅🇨🇳🌅CN🌅中国🌅44
-      - 日月🌅🇨🇳🌅CN🌅中国🌅45
-      - 日月🌅🇨🇳🌅CN🌅中国🌅46
-      - 日月🌅🇨🇳🌅CN🌅中国🌅47
-      - 日月🌅🇨🇳🌅CN🌅中国🌅48
-      - 日月🌅🇨🇳🌅CN🌅中国🌅49
-      - 日月🌅🇨🇳🌅CN🌅中国🌅50
-      - 日月🌅🇨🇳🌅CN🌅中国🌅51
-      - 日月🌅🇨🇳🌅CN🌅中国🌅52
-      - 日月🌅🇨🇳🌅CN🌅中国🌅53
-      - 日月🌅🇨🇳🌅CN🌅中国🌅54
-      - 日月🌅🇨🇳🌅CN🌅中国🌅55
-      - 日月🌅🇨🇳🌅CN🌅中国🌅56
-      - 日月🌅🇨🇳🌅CN🌅中国🌅57
-      - 日月🌅🇨🇳🌅CN🌅中国🌅58
-      - 日月🌅🇨🇳🌅CN🌅中国🌅59
-      - 日月🌅🇨🇳🌅CN🌅中国🌅60
-      - 日月🌅🇨🇳🌅CN🌅中国🌅61
-      - 日月🌅🇨🇳🌅CN🌅中国🌅62
-      - 日月🌅🇨🇳🌅CN🌅中国🌅63
-      - 日月🌅🇨🇳🌅CN🌅中国🌅64
-      - 日月🌅🇨🇳🌅CN🌅中国🌅65
-      - 日月🌅🇨🇳🌅CN🌅中国🌅66
-      - 日月🌅🇨🇳🌅CN🌅中国🌅67
-      - 日月🌅🇨🇳🌅CN🌅中国🌅68
-      - 日月🌅🇨🇳🌅CN🌅中国🌅69
-      - 日月🌅🇨🇳🌅CN🌅中国🌅70
-      - 日月🌅🇨🇳🌅CN🌅中国🌅71
-      - 日月🌅🇨🇳🌅CN🌅中国🌅72
-      - 日月🌅🇨🇳🌅CN🌅中国🌅73
-      - 日月🌅🇨🇳🌅CN🌅中国🌅74
-      - 日月🌅🇨🇳🌅CN🌅中国🌅75
-      - 日月🌅🇨🇳🌅CN🌅中国🌅76
-      - 日月🌅🇨🇳🌅CN🌅中国🌅77
-      - 日月🌅🇨🇳🌅CN🌅中国🌅78
-      - 日月🌅🇨🇳🌅CN🌅中国🌅79
-      - 日月🌅🇨🇳🌅CN🌅中国🌅80
-      - 日月🌅🇨🇳🌅CN🌅中国🌅81
-      - 日月🌅🇨🇳🌅CN🌅中国🌅82
-      - 日月🌅🇨🇳🌅CN🌅中国🌅83
-      - 日月🌅🇨🇳🌅CN🌅中国🌅84
-      - 日月🌅🇨🇳🌅CN🌅中国🌅85
-      - 日月🌅🇨🇳🌅CN🌅中国🌅86
-      - 日月🌅🇨🇳🌅CN🌅中国🌅87
-      - 日月🌅🇨🇳🌅CN🌅中国🌅88
-      - 日月🌅🇨🇳🌅CN🌅中国🌅89
-      - 日月🌅🇨🇳🌅CN🌅中国🌅90
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙1
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙2
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙3
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙4
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙5
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙6
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙7
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙8
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙9
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙10
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙11
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙12
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙13
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙14
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙15
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙16
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙17
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙18
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙19
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙20
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙21
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙22
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙23
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙24
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙25
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙26
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙27
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙28
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙29
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙30
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙31
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙32
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙33
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙34
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙35
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙36
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙37
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙38
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙39
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙40
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙41
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙42
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙43
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙44
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙45
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙46
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙47
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙48
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙49
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙50
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙51
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙52
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙53
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙54
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙55
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙56
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙57
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙58
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙59
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙60
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙61
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙62
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙63
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙64
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙65
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙66
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙67
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙68
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙69
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙70
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙71
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙72
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙73
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙74
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙75
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙76
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙77
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙78
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙79
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙80
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙81
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙82
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙83
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙84
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙85
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙86
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙87
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙88
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙89
+      - 日月·🌙中国🌙CN🌙🇨🇳🌙90
   - name: 📲 电报消息
     type: select
     proxies:
