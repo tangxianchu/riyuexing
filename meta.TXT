@@ -48,636 +48,377 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️1
-    port: 1170
-    server: 163.177.58.179
+  - name: 星月·💫中国💫1💫🇨🇳💫CN
+    port: 45107
+    server: 183.232.159.51
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️2
-    port: 1171
-    server: 163.177.58.179
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫2💫🇨🇳💫CN
+    port: 39551
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️3
-    port: 1174
-    server: 163.177.58.179
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫3💫🇨🇳💫CN
+    port: 11308
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️4
-    port: 1190
-    server: 163.177.58.179
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫4💫🇨🇳💫CN
+    port: 47621
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️5
-    port: 1191
-    server: 163.177.58.179
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫5💫🇨🇳💫CN
+    port: 50653
+    server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️6
-    port: 1192
-    server: 163.177.58.179
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫6💫🇨🇳💫CN
+    port: 52890
+    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️7
-    port: 1193
-    server: 163.177.58.179
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫7💫🇨🇳💫CN
+    port: 21104
+    server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️8
-    port: 1194
-    server: 163.177.58.179
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫8💫🇨🇳💫CN
+    port: 31761
+    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️9
-    port: 1150
-    server: 163.177.58.179
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫9💫🇨🇳💫CN
+    port: 49392
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️10
-    port: 1151
-    server: 163.177.58.179
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫10💫🇨🇳💫CN
+    port: 53062
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️11
-    port: 1152
-    server: 163.177.58.179
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫11💫🇨🇳💫CN
+    port: 46575
+    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️12
-    port: 1153
-    server: 163.177.58.179
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫12💫🇨🇳💫CN
+    port: 13591
+    server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️13
-    port: 1154
-    server: 163.177.58.179
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫13💫🇨🇳💫CN
+    port: 50474
+    server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️14
-    port: 1180
-    server: 163.177.58.179
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫14💫🇨🇳💫CN
+    port: 34892
+    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️15
-    port: 1181
-    server: 163.177.58.179
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫15💫🇨🇳💫CN
+    port: 33238
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️16
-    port: 1182
-    server: 163.177.58.179
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫16💫🇨🇳💫CN
+    port: 26714
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️17
-    port: 1183
-    server: 163.177.58.179
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫17💫🇨🇳💫CN
+    port: 41886
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️18
-    port: 1184
-    server: 163.177.58.179
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫18💫🇨🇳💫CN
+    port: 22064
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️19
-    port: 1175
-    server: 163.177.58.180
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫19💫🇨🇳💫CN
+    port: 41575
+    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️20
-    port: 1176
-    server: 163.177.58.180
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫20💫🇨🇳💫CN
+    port: 3785
+    server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️21
-    port: 1177
-    server: 163.177.58.180
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫21💫🇨🇳💫CN
+    port: 11329
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️22
-    port: 1178
-    server: 163.177.58.180
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫22💫🇨🇳💫CN
+    port: 47046
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️23
-    port: 1195
-    server: 163.177.58.180
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫23💫🇨🇳💫CN
+    port: 37959
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️24
-    port: 1196
-    server: 163.177.58.180
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫24💫🇨🇳💫CN
+    port: 19505
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️25
-    port: 1197
-    server: 163.177.58.180
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫25💫🇨🇳💫CN
+    port: 50993
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️26
-    port: 1198
-    server: 163.177.58.180
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫26💫🇨🇳💫CN
+    port: 56697
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️27
-    port: 1155
-    server: 163.177.58.180
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫27💫🇨🇳💫CN
+    port: 53793
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️28
-    port: 1156
-    server: 163.177.58.180
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫28💫🇨🇳💫CN
+    port: 16683
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️29
-    port: 1157
-    server: 163.177.58.180
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫29💫🇨🇳💫CN
+    port: 50225
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️30
-    port: 1158
-    server: 163.177.58.180
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫30💫🇨🇳💫CN
+    port: 29473
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️31
-    port: 1185
-    server: 163.177.58.180
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫31💫🇨🇳💫CN
+    port: 55971
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️32
-    port: 1186
-    server: 163.177.58.180
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫32💫🇨🇳💫CN
+    port: 15132
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️33
-    port: 1187
-    server: 163.177.58.180
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫33💫🇨🇳💫CN
+    port: 34401
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️34
-    port: 1192
-    server: 163.177.58.181
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫34💫🇨🇳💫CN
+    port: 58246
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️35
-    port: 1193
-    server: 163.177.58.181
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫35💫🇨🇳💫CN
+    port: 30285
+    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️36
-    port: 1150
-    server: 163.177.58.181
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫36💫🇨🇳💫CN
+    port: 51957
+    server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️37
-    port: 1152
-    server: 163.177.58.181
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫37💫🇨🇳💫CN
+    port: 34406
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️38
-    port: 1153
-    server: 163.177.58.181
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫38💫🇨🇳💫CN
+    port: 10557
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️39
-    port: 1154
-    server: 163.177.58.181
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫39💫🇨🇳💫CN
+    port: 55518
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️40
-    port: 1183
-    server: 163.177.58.181
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫40💫🇨🇳💫CN
+    port: 23707
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️41
-    port: 5980
-    server: 163.177.58.186
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫41💫🇨🇳💫CN
+    port: 19473
+    server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️42
-    port: 5981
-    server: 163.177.58.186
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫42💫🇨🇳💫CN
+    port: 27984
+    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️43
-    port: 5982
-    server: 163.177.58.186
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫43💫🇨🇳💫CN
+    port: 42457
+    server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️44
-    port: 5983
-    server: 163.177.58.186
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫44💫🇨🇳💫CN
+    port: 55753
+    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️45
-    port: 5984
-    server: 163.177.58.186
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫45💫🇨🇳💫CN
+    port: 45107
+    server: 183.232.159.51
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️46
-    port: 5985
-    server: 163.177.58.186
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫46💫🇨🇳💫CN
+    port: 59193
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️47
-    port: 5986
-    server: 163.177.58.186
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫47💫🇨🇳💫CN
+    port: 55446
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️48
-    port: 5987
-    server: 163.177.58.186
+    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫48💫🇨🇳💫CN
+    port: 50098
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️49
-    port: 5988
-    server: 163.177.58.186
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫49💫🇨🇳💫CN
+    port: 40510
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️50
-    port: 5989
-    server: 163.177.58.186
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫50💫🇨🇳💫CN
+    port: 40852
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️51
-    port: 5980
-    server: 163.177.58.187
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫51💫🇨🇳💫CN
+    port: 38648
+    server: 110.40.59.61
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️52
-    port: 5981
-    server: 163.177.58.187
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫52💫🇨🇳💫CN
+    port: 46593
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️53
-    port: 5982
-    server: 163.177.58.187
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
+  - name: 星月·💫中国💫53💫🇨🇳💫CN
+    port: 34975
+    server: js.wcrcz.com
     type: ss
     udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️54
-    port: 5983
-    server: 163.177.58.187
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️55
-    port: 5984
-    server: 163.177.58.187
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️56
-    port: 5985
-    server: 163.177.58.187
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️57
-    port: 5986
-    server: 163.177.58.187
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️58
-    port: 5987
-    server: 163.177.58.187
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️59
-    port: 5988
-    server: 163.177.58.187
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️60
-    port: 5989
-    server: 163.177.58.187
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️61
-    port: 5980
-    server: 163.177.58.188
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️62
-    port: 5981
-    server: 163.177.58.188
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️63
-    port: 5982
-    server: 163.177.58.188
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️64
-    port: 5983
-    server: 163.177.58.188
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️65
-    port: 5984
-    server: 163.177.58.188
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️66
-    port: 5985
-    server: 163.177.58.188
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️67
-    port: 5986
-    server: 163.177.58.188
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️68
-    port: 5987
-    server: 163.177.58.188
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️69
-    port: 5988
-    server: 163.177.58.188
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️70
-    port: 5989
-    server: 163.177.58.188
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️71
-    port: 5980
-    server: 163.177.58.189
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️72
-    port: 5981
-    server: 163.177.58.189
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️73
-    port: 5982
-    server: 163.177.58.189
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️74
-    port: 5983
-    server: 163.177.58.189
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️75
-    port: 5984
-    server: 163.177.58.189
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️76
-    port: 5985
-    server: 163.177.58.189
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️77
-    port: 5986
-    server: 163.177.58.189
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️78
-    port: 5987
-    server: 163.177.58.189
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️79
-    port: 5988
-    server: 163.177.58.189
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️80
-    port: 5989
-    server: 163.177.58.189
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️81
-    port: 5980
-    server: 163.177.58.190
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️82
-    port: 5981
-    server: 163.177.58.190
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️83
-    port: 5982
-    server: 163.177.58.190
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️84
-    port: 5983
-    server: 163.177.58.190
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️85
-    port: 5984
-    server: 163.177.58.190
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️86
-    port: 5985
-    server: 163.177.58.190
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️87
-    port: 5986
-    server: 163.177.58.190
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️88
-    port: 5987
-    server: 163.177.58.190
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️89
-    port: 5988
-    server: 163.177.58.190
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
-  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️90
-    port: 5989
-    server: 163.177.58.190
-    type: ss
-    udp: true
-    password: Paofu
-    cipher: rc4-md5
+    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
+    cipher: chacha20-ietf-poly1305
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -694,192 +435,118 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️1
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️2
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️3
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️4
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️5
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️6
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️7
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️8
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️9
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️10
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️11
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️12
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️13
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️14
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️15
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️16
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️17
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️18
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️19
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️20
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️21
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️22
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️23
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️24
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️25
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️26
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️27
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️28
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️29
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️30
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️31
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️32
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️33
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️34
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️35
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️36
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️37
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️38
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️39
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️40
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️41
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️42
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️43
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️44
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️45
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️46
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️47
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️48
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️49
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️50
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️51
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️52
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️53
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️54
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️55
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️56
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️57
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️58
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️59
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️60
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️61
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️62
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️63
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️64
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️65
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️66
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️67
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️68
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️69
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️70
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️71
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️72
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️73
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️74
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️75
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️76
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️77
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️78
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️79
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️80
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️81
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️82
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️83
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️84
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️85
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️86
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️87
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️88
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️89
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️90
+      - 星月·💫中国💫1💫🇨🇳💫CN
+      - 星月·💫中国💫2💫🇨🇳💫CN
+      - 星月·💫中国💫3💫🇨🇳💫CN
+      - 星月·💫中国💫4💫🇨🇳💫CN
+      - 星月·💫中国💫5💫🇨🇳💫CN
+      - 星月·💫中国💫6💫🇨🇳💫CN
+      - 星月·💫中国💫7💫🇨🇳💫CN
+      - 星月·💫中国💫8💫🇨🇳💫CN
+      - 星月·💫中国💫9💫🇨🇳💫CN
+      - 星月·💫中国💫10💫🇨🇳💫CN
+      - 星月·💫中国💫11💫🇨🇳💫CN
+      - 星月·💫中国💫12💫🇨🇳💫CN
+      - 星月·💫中国💫13💫🇨🇳💫CN
+      - 星月·💫中国💫14💫🇨🇳💫CN
+      - 星月·💫中国💫15💫🇨🇳💫CN
+      - 星月·💫中国💫16💫🇨🇳💫CN
+      - 星月·💫中国💫17💫🇨🇳💫CN
+      - 星月·💫中国💫18💫🇨🇳💫CN
+      - 星月·💫中国💫19💫🇨🇳💫CN
+      - 星月·💫中国💫20💫🇨🇳💫CN
+      - 星月·💫中国💫21💫🇨🇳💫CN
+      - 星月·💫中国💫22💫🇨🇳💫CN
+      - 星月·💫中国💫23💫🇨🇳💫CN
+      - 星月·💫中国💫24💫🇨🇳💫CN
+      - 星月·💫中国💫25💫🇨🇳💫CN
+      - 星月·💫中国💫26💫🇨🇳💫CN
+      - 星月·💫中国💫27💫🇨🇳💫CN
+      - 星月·💫中国💫28💫🇨🇳💫CN
+      - 星月·💫中国💫29💫🇨🇳💫CN
+      - 星月·💫中国💫30💫🇨🇳💫CN
+      - 星月·💫中国💫31💫🇨🇳💫CN
+      - 星月·💫中国💫32💫🇨🇳💫CN
+      - 星月·💫中国💫33💫🇨🇳💫CN
+      - 星月·💫中国💫34💫🇨🇳💫CN
+      - 星月·💫中国💫35💫🇨🇳💫CN
+      - 星月·💫中国💫36💫🇨🇳💫CN
+      - 星月·💫中国💫37💫🇨🇳💫CN
+      - 星月·💫中国💫38💫🇨🇳💫CN
+      - 星月·💫中国💫39💫🇨🇳💫CN
+      - 星月·💫中国💫40💫🇨🇳💫CN
+      - 星月·💫中国💫41💫🇨🇳💫CN
+      - 星月·💫中国💫42💫🇨🇳💫CN
+      - 星月·💫中国💫43💫🇨🇳💫CN
+      - 星月·💫中国💫44💫🇨🇳💫CN
+      - 星月·💫中国💫45💫🇨🇳💫CN
+      - 星月·💫中国💫46💫🇨🇳💫CN
+      - 星月·💫中国💫47💫🇨🇳💫CN
+      - 星月·💫中国💫48💫🇨🇳💫CN
+      - 星月·💫中国💫49💫🇨🇳💫CN
+      - 星月·💫中国💫50💫🇨🇳💫CN
+      - 星月·💫中国💫51💫🇨🇳💫CN
+      - 星月·💫中国💫52💫🇨🇳💫CN
+      - 星月·💫中国💫53💫🇨🇳💫CN
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️1
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️2
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️3
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️4
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️5
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️6
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️7
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️8
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️9
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️10
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️11
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️12
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️13
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️14
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️15
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️16
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️17
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️18
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️19
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️20
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️21
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️22
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️23
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️24
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️25
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️26
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️27
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️28
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️29
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️30
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️31
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️32
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️33
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️34
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️35
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️36
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️37
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️38
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️39
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️40
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️41
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️42
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️43
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️44
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️45
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️46
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️47
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️48
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️49
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️50
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️51
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️52
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️53
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️54
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️55
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️56
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️57
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️58
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️59
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️60
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️61
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️62
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️63
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️64
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️65
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️66
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️67
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️68
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️69
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️70
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️71
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️72
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️73
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️74
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️75
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️76
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️77
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️78
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️79
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️80
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️81
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️82
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️83
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️84
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️85
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️86
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️87
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️88
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️89
-      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️90
+      - 星月·💫中国💫1💫🇨🇳💫CN
+      - 星月·💫中国💫2💫🇨🇳💫CN
+      - 星月·💫中国💫3💫🇨🇳💫CN
+      - 星月·💫中国💫4💫🇨🇳💫CN
+      - 星月·💫中国💫5💫🇨🇳💫CN
+      - 星月·💫中国💫6💫🇨🇳💫CN
+      - 星月·💫中国💫7💫🇨🇳💫CN
+      - 星月·💫中国💫8💫🇨🇳💫CN
+      - 星月·💫中国💫9💫🇨🇳💫CN
+      - 星月·💫中国💫10💫🇨🇳💫CN
+      - 星月·💫中国💫11💫🇨🇳💫CN
+      - 星月·💫中国💫12💫🇨🇳💫CN
+      - 星月·💫中国💫13💫🇨🇳💫CN
+      - 星月·💫中国💫14💫🇨🇳💫CN
+      - 星月·💫中国💫15💫🇨🇳💫CN
+      - 星月·💫中国💫16💫🇨🇳💫CN
+      - 星月·💫中国💫17💫🇨🇳💫CN
+      - 星月·💫中国💫18💫🇨🇳💫CN
+      - 星月·💫中国💫19💫🇨🇳💫CN
+      - 星月·💫中国💫20💫🇨🇳💫CN
+      - 星月·💫中国💫21💫🇨🇳💫CN
+      - 星月·💫中国💫22💫🇨🇳💫CN
+      - 星月·💫中国💫23💫🇨🇳💫CN
+      - 星月·💫中国💫24💫🇨🇳💫CN
+      - 星月·💫中国💫25💫🇨🇳💫CN
+      - 星月·💫中国💫26💫🇨🇳💫CN
+      - 星月·💫中国💫27💫🇨🇳💫CN
+      - 星月·💫中国💫28💫🇨🇳💫CN
+      - 星月·💫中国💫29💫🇨🇳💫CN
+      - 星月·💫中国💫30💫🇨🇳💫CN
+      - 星月·💫中国💫31💫🇨🇳💫CN
+      - 星月·💫中国💫32💫🇨🇳💫CN
+      - 星月·💫中国💫33💫🇨🇳💫CN
+      - 星月·💫中国💫34💫🇨🇳💫CN
+      - 星月·💫中国💫35💫🇨🇳💫CN
+      - 星月·💫中国💫36💫🇨🇳💫CN
+      - 星月·💫中国💫37💫🇨🇳💫CN
+      - 星月·💫中国💫38💫🇨🇳💫CN
+      - 星月·💫中国💫39💫🇨🇳💫CN
+      - 星月·💫中国💫40💫🇨🇳💫CN
+      - 星月·💫中国💫41💫🇨🇳💫CN
+      - 星月·💫中国💫42💫🇨🇳💫CN
+      - 星月·💫中国💫43💫🇨🇳💫CN
+      - 星月·💫中国💫44💫🇨🇳💫CN
+      - 星月·💫中国💫45💫🇨🇳💫CN
+      - 星月·💫中国💫46💫🇨🇳💫CN
+      - 星月·💫中国💫47💫🇨🇳💫CN
+      - 星月·💫中国💫48💫🇨🇳💫CN
+      - 星月·💫中国💫49💫🇨🇳💫CN
+      - 星月·💫中国💫50💫🇨🇳💫CN
+      - 星月·💫中国💫51💫🇨🇳💫CN
+      - 星月·💫中国💫52💫🇨🇳💫CN
+      - 星月·💫中国💫53💫🇨🇳💫CN
   - name: 📲 电报消息
     type: select
     proxies:
