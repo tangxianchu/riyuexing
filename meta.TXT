@@ -48,630 +48,630 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙1
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️1
     port: 1170
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙2
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️2
     port: 1171
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙3
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️3
     port: 1174
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙4
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️4
     port: 1190
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙5
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️5
     port: 1191
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙6
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️6
     port: 1192
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙7
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️7
     port: 1193
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙8
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️8
     port: 1194
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙9
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️9
     port: 1150
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙10
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️10
     port: 1151
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙11
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️11
     port: 1152
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙12
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️12
     port: 1153
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙13
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️13
     port: 1154
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙14
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️14
     port: 1180
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙15
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️15
     port: 1181
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙16
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️16
     port: 1182
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙17
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️17
     port: 1183
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙18
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️18
     port: 1184
     server: 163.177.58.179
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙19
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️19
     port: 1175
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙20
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️20
     port: 1176
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙21
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️21
     port: 1177
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙22
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️22
     port: 1178
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙23
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️23
     port: 1195
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙24
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️24
     port: 1196
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙25
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️25
     port: 1197
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙26
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️26
     port: 1198
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙27
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️27
     port: 1155
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙28
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️28
     port: 1156
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙29
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️29
     port: 1157
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙30
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️30
     port: 1158
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙31
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️31
     port: 1185
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙32
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️32
     port: 1186
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙33
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️33
     port: 1187
     server: 163.177.58.180
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙34
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️34
     port: 1192
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙35
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️35
     port: 1193
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙36
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️36
     port: 1150
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙37
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️37
     port: 1152
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙38
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️38
     port: 1153
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙39
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️39
     port: 1154
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙40
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️40
     port: 1183
     server: 163.177.58.181
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙41
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️41
     port: 5980
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙42
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️42
     port: 5981
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙43
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️43
     port: 5982
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙44
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️44
     port: 5983
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙45
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️45
     port: 5984
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙46
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️46
     port: 5985
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙47
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️47
     port: 5986
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙48
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️48
     port: 5987
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙49
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️49
     port: 5988
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙50
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️50
     port: 5989
     server: 163.177.58.186
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙51
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️51
     port: 5980
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙52
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️52
     port: 5981
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙53
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️53
     port: 5982
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙54
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️54
     port: 5983
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙55
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️55
     port: 5984
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙56
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️56
     port: 5985
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙57
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️57
     port: 5986
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙58
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️58
     port: 5987
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙59
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️59
     port: 5988
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙60
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️60
     port: 5989
     server: 163.177.58.187
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙61
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️61
     port: 5980
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙62
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️62
     port: 5981
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙63
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️63
     port: 5982
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙64
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️64
     port: 5983
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙65
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️65
     port: 5984
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙66
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️66
     port: 5985
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙67
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️67
     port: 5986
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙68
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️68
     port: 5987
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙69
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️69
     port: 5988
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙70
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️70
     port: 5989
     server: 163.177.58.188
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙71
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️71
     port: 5980
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙72
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️72
     port: 5981
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙73
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️73
     port: 5982
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙74
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️74
     port: 5983
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙75
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️75
     port: 5984
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙76
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️76
     port: 5985
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙77
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️77
     port: 5986
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙78
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️78
     port: 5987
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙79
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️79
     port: 5988
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙80
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️80
     port: 5989
     server: 163.177.58.189
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙81
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️81
     port: 5980
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙82
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️82
     port: 5981
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙83
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️83
     port: 5982
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙84
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️84
     port: 5983
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙85
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️85
     port: 5984
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙86
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️86
     port: 5985
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙87
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️87
     port: 5986
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙88
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️88
     port: 5987
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙89
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️89
     port: 5988
     server: 163.177.58.190
     type: ss
     udp: true
     password: Paofu
     cipher: rc4-md5
-  - name: 日月·🌙中国🌙CN🌙🇨🇳🌙90
+  - name: 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️90
     port: 5989
     server: 163.177.58.190
     type: ss
@@ -694,192 +694,192 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙1
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙2
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙3
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙4
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙5
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙6
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙7
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙8
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙9
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙10
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙11
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙12
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙13
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙14
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙15
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙16
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙17
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙18
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙19
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙20
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙21
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙22
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙23
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙24
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙25
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙26
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙27
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙28
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙29
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙30
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙31
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙32
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙33
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙34
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙35
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙36
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙37
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙38
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙39
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙40
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙41
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙42
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙43
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙44
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙45
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙46
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙47
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙48
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙49
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙50
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙51
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙52
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙53
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙54
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙55
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙56
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙57
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙58
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙59
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙60
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙61
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙62
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙63
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙64
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙65
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙66
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙67
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙68
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙69
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙70
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙71
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙72
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙73
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙74
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙75
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙76
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙77
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙78
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙79
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙80
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙81
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙82
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙83
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙84
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙85
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙86
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙87
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙88
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙89
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙90
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️1
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️2
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️3
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️4
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️5
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️6
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️7
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️8
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️9
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️10
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️11
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️12
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️13
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️14
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️15
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️16
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️17
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️18
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️19
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️20
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️21
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️22
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️23
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️24
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️25
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️26
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️27
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️28
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️29
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️30
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️31
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️32
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️33
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️34
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️35
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️36
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️37
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️38
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️39
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️40
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️41
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️42
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️43
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️44
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️45
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️46
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️47
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️48
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️49
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️50
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️51
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️52
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️53
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️54
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️55
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️56
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️57
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️58
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️59
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️60
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️61
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️62
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️63
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️64
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️65
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️66
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️67
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️68
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️69
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️70
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️71
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️72
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️73
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️74
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️75
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️76
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️77
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️78
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️79
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️80
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️81
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️82
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️83
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️84
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️85
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️86
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️87
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️88
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️89
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️90
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙1
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙2
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙3
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙4
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙5
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙6
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙7
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙8
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙9
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙10
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙11
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙12
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙13
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙14
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙15
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙16
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙17
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙18
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙19
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙20
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙21
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙22
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙23
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙24
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙25
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙26
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙27
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙28
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙29
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙30
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙31
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙32
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙33
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙34
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙35
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙36
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙37
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙38
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙39
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙40
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙41
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙42
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙43
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙44
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙45
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙46
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙47
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙48
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙49
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙50
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙51
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙52
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙53
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙54
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙55
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙56
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙57
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙58
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙59
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙60
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙61
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙62
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙63
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙64
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙65
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙66
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙67
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙68
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙69
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙70
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙71
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙72
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙73
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙74
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙75
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙76
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙77
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙78
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙79
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙80
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙81
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙82
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙83
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙84
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙85
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙86
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙87
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙88
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙89
-      - 日月·🌙中国🌙CN🌙🇨🇳🌙90
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️1
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️2
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️3
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️4
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️5
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️6
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️7
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️8
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️9
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️10
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️11
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️12
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️13
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️14
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️15
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️16
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️17
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️18
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️19
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️20
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️21
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️22
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️23
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️24
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️25
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️26
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️27
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️28
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️29
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️30
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️31
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️32
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️33
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️34
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️35
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️36
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️37
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️38
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️39
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️40
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️41
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️42
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️43
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️44
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️45
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️46
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️47
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️48
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️49
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️50
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️51
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️52
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️53
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️54
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️55
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️56
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️57
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️58
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️59
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️60
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️61
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️62
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️63
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️64
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️65
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️66
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️67
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️68
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️69
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️70
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️71
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️72
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️73
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️74
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️75
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️76
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️77
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️78
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️79
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️80
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️81
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️82
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️83
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️84
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️85
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️86
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️87
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️88
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️89
+      - 星月·⭐️中国⭐️🇨🇳⭐️CN⭐️90
   - name: 📲 电报消息
     type: select
     proxies:
