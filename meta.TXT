@@ -48,871 +48,1086 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️44
-    port: 443
-    server: 162.159.152.19
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/us1
-      headers:
-        Host: p2us1.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: safari
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️45
-    port: 443
-    server: 162.159.153.19
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/us2
-      headers:
-        Host: p2us2.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: chrome
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️46
-    port: 443
-    server: 104.19.56.220
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/us3
-      headers:
-        Host: p2us3.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: chrome
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️47
-    port: 443
-    server: 104.19.36.122
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/us1
-      headers:
-        Host: p1us1.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: chrome
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️48
-    port: 443
-    server: 104.19.36.176
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/us2
-      headers:
-        Host: p1us2.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: chrome
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️49
-    port: 443
-    server: 104.19.56.213
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/us3
-      headers:
-        Host: p1us3.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: chrome
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️50
-    port: 443
-    server: 104.19.59.213
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/us4
-      headers:
-        Host: p1us4.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: firefox
-  - name: 星月⭐️荷兰⭐️NL⭐️🇳🇱⭐️51
-    port: 443
-    server: 132.226.229.245
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqkrs.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: edge
-  - name: 星月⭐️韩国⭐️KR⭐️🇰🇷⭐️52
-    port: 443
-    server: 193.123.241.251
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqkr.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️53
-    port: 443
-    server: 131.186.22.238
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqkr.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月⭐️日本⭐️JP⭐️🇯🇵⭐️54
-    port: 443
-    server: 146.56.180.37
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqkrs.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: safari
-  - name: 星月⭐️巴西⭐️BR⭐️🇧🇷⭐️55
-    port: 443
-    server: 168.138.165.109
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqsg.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月⭐️英国⭐️GB⭐️🇬🇧⭐️56
-    port: 443
-    server: 213.35.119.223
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqsg.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月⭐️英国⭐️GB⭐️🇬🇧⭐️57
-    port: 443
-    server: 213.35.108.22
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqsg.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️58
-    port: 443
-    server: 138.2.26.196
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqjp.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️59
-    port: 443
-    server: 152.70.99.180
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqjp.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️60
-    port: 443
-    server: 141.193.68.91
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqus01.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️61
-    port: 443
-    server: 163.123.192.150
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqus02.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️62
-    port: 443
-    server: 148.59.74.63
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqus03.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️63
-    port: 443
-    server: 163.123.192.235
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqus04.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️64
-    port: 443
-    server: pq.hkt1.yydjc.top
-    type: vless
-    tls: true
-    udp: true
-    servername: download.globals-download.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️65
-    port: 443
-    server: 957e32be476a.78ab92.98f0fa.a458.h2.108f4143-d0af-4e42-85a0-b13448ab5917.138503301e7d.yydjc.top
-    type: vless
-    tls: true
-    udp: true
-    servername: download.globals-download.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️66
-    port: 443
-    server: 957e32be476a.78ab92.98f0fa.a458.h3.108f4143-d0af-4e42-85a0-b13448ab5917.138503301e7d.yydjc.top
-    type: vless
-    tls: true
-    udp: true
-    servername: download.globals-download.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️67
-    port: 443
-    server: 957e32be476a.78ab92.98f0fa.a458.t1.108f4143-d0af-4e42-85a0-b13448ab5917.138503301e7d.yydjc.top
-    type: vless
-    tls: true
-    udp: true
-    servername: download.yydjc.top
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️68
-    port: 443
-    server: 957e32be476a.78ab92.98f0fa.a458.t2.108f4143-d0af-4e42-85a0-b13448ab5917.138503301e7d.yydjc.top
-    type: vless
-    tls: true
-    udp: true
-    servername: download.yydjc.top
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️69
-    port: 443
-    server: 957e32be476a.78ab92.98f0fa.a458.t3.108f4143-d0af-4e42-85a0-b13448ab5917.138503301e7d.yydjc.top
-    type: vless
-    tls: true
-    udp: true
-    servername: download.yydjc.top
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️70
-    port: 443
-    server: 162.159.152.169
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/jp1
-      headers:
-        Host: pjp1.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: firefox
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️71
-    port: 443
-    server: 162.159.153.116
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/in1
-      headers:
-        Host: p1in1.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: ios
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️72
-    port: 443
-    server: 162.159.152.116
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/in2
-      headers:
-        Host: p1in2.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: firefox
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️73
-    port: 443
-    server: 104.19.56.218
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/in3
-      headers:
-        Host: p1in3.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: ios
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️74
-    port: 443
-    server: 104.19.57.218
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/in4
-      headers:
-        Host: p1in4.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: firefox
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️75
-    port: 443
-    server: 104.19.58.13
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/us1
-      headers:
-        Host: pus1.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: ios
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️76
-    port: 443
-    server: 104.19.57.13
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/us2
-      headers:
-        Host: pus2.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: safari
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️77
-    port: 443
-    server: 104.19.61.103
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/us3
-      headers:
-        Host: pus3.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: ios
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️78
-    port: 443
-    server: 104.19.62.103
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: false
-    ws-opts:
-      path: /pq/us4
-      headers:
-        Host: pus4.globals-download.com
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: ""
-    client-fingerprint: firefox
-  - name: 星月⭐️英国⭐️GB⭐️🇬🇧⭐️79
-    port: 443
-    server: 79.72.27.31
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqfrs.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️80
-    port: 443
-    server: 129.151.226.72
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqfrs.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️英国⭐️GB⭐️🇬🇧⭐️81
-    port: 443
-    server: 140.238.99.207
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqgbs.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️英国⭐️GB⭐️🇬🇧⭐️82
-    port: 443
-    server: 140.238.84.17
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqgbs.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️83
-    port: 443
-    server: 138.2.166.171
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqdes.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️英国⭐️GB⭐️🇬🇧⭐️84
-    port: 443
-    server: 144.24.168.26
-    type: vless
-    tls: true
-    udp: true
-    servername: dcpqdes.hnkkt.com
-    skip-cert-verify: false
-    uuid: 38c31b4c-117d-429a-9469-aa2a420ac04e
-    flow: xtls-rprx-vision
-    client-fingerprint: ios
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️85
-    port: 46575
-    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅1
+    port: 1170
+    server: 163.177.58.179
     type: ss
     udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️86
-    port: 13591
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️87
-    port: 50474
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️88
-    port: 34892
-    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️89
-    port: 19473
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️90
-    port: 27984
-    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️91
-    port: 42457
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️92
-    port: 55753
-    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️93
-    port: 54697
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️94
-    port: 12235
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️95
-    port: 46593
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️96
-    port: 34975
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️97
-    port: 30285
-    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️98
-    port: 51957
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️99
-    port: 50653
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️100
-    port: 52890
-    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️101
-    port: 21104
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️102
-    port: 31761
-    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️103
-    port: 32646
-    server: dg2-dhmkadj4ewendprw.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️104
-    port: 48903
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️105
-    port: 41575
-    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️106
-    port: 3785
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️107
-    port: 50993
-    server: 183.232.159.51
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️108
-    port: 56697
-    server: 183.232.159.51
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️109
-    port: 53793
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️110
-    port: 16683
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️111
-    port: 50225
-    server: 183.232.159.51
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️112
-    port: 29473
-    server: 122.188.71.122
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️113
-    port: 40852
-    server: 183.232.159.51
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️114
-    port: 38648
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️115
-    port: 50098
-    server: 122.188.71.122
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️116
-    port: 40510
-    server: 122.188.71.122
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️117
-    port: 37512
-    server: dg2-dhmkadj4ewendprw.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️118
-    port: 53951
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️119
-    port: 33594
-    server: ah3-picfgde5bmwtmart.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️120
-    port: 34635
-    server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️121
-    port: 25179
-    server: dg2-dhmkadj4ewendprw.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️122
-    port: 25091
-    server: dg2-dhmkadj4ewendprw.bestzumo.com
-    type: ss
-    udp: true
-    password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
-    cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️123
-    port: 36602
-    server: gd.bjnet2.com
-    type: ss
-    udp: true
-    password: d64078a0-227d-44b3-8453-564c4d3ebe1c
-    plugin: obfs
+    password: Paofu
+    plugin: obfs-local
     plugin-opts:
-      mode: http
-      host: 5442f7794d1faa5f3117996898045f5c.baidu.com
-    cipher: aes-128-gcm
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️124
-    port: 36104
-    server: gd.bjnet2.com
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅2
+    port: 1171
+    server: 163.177.58.179
     type: ss
     udp: true
-    password: d64078a0-227d-44b3-8453-564c4d3ebe1c
-    plugin: obfs
+    password: Paofu
+    plugin: obfs-local
     plugin-opts:
-      mode: http
-      host: 5442f7794d1faa5f3117996898045f5c.baidu.com
-    cipher: aes-128-gcm
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️125
-    port: 36604
-    server: gd.bjnet2.com
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅3
+    port: 1174
+    server: 163.177.58.179
     type: ss
     udp: true
-    password: d64078a0-227d-44b3-8453-564c4d3ebe1c
-    plugin: obfs
+    password: Paofu
+    plugin: obfs-local
     plugin-opts:
-      mode: http
-      host: 5442f7794d1faa5f3117996898045f5c.baidu.com
-    cipher: aes-128-gcm
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️126
-    port: 36609
-    server: gd.bjnet2.com
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅4
+    port: 1190
+    server: 163.177.58.179
     type: ss
     udp: true
-    password: d64078a0-227d-44b3-8453-564c4d3ebe1c
-    plugin: obfs
+    password: Paofu
+    plugin: obfs-local
     plugin-opts:
-      mode: http
-      host: 5442f7794d1faa5f3117996898045f5c.baidu.com
-    cipher: aes-128-gcm
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️127
-    port: 36608
-    server: gd.bjnet2.com
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅5
+    port: 1191
+    server: 163.177.58.179
     type: ss
     udp: true
-    password: d64078a0-227d-44b3-8453-564c4d3ebe1c
-    plugin: obfs
+    password: Paofu
+    plugin: obfs-local
     plugin-opts:
-      mode: http
-      host: 5442f7794d1faa5f3117996898045f5c.baidu.com
-    cipher: aes-128-gcm
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️128
-    port: 36612
-    server: sh.bjnet2.com
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅6
+    port: 1192
+    server: 163.177.58.179
     type: ss
     udp: true
-    password: d64078a0-227d-44b3-8453-564c4d3ebe1c
-    plugin: obfs
+    password: Paofu
+    plugin: obfs-local
     plugin-opts:
-      mode: http
-      host: 5442f7794d1faa5f3117996898045f5c.baidu.com
-    cipher: aes-128-gcm
-  - name: 星月⭐️中国⭐️CN⭐️🇨🇳⭐️129
-    port: 36608
-    server: sh.bjnet2.com
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅7
+    port: 1193
+    server: 163.177.58.179
     type: ss
     udp: true
-    password: d64078a0-227d-44b3-8453-564c4d3ebe1c
-    plugin: obfs
+    password: Paofu
+    plugin: obfs-local
     plugin-opts:
-      mode: http
-      host: 5442f7794d1faa5f3117996898045f5c.baidu.com
-    cipher: aes-128-gcm
-  - name: 星月⭐️美国⭐️US⭐️🇺🇸⭐️130
-    port: 36611
-    server: gd.bjnet2.com
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅8
+    port: 1194
+    server: 163.177.58.179
     type: ss
     udp: true
-    password: d64078a0-227d-44b3-8453-564c4d3ebe1c
-    cipher: chacha20-ietf-poly1305
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅9
+    port: 1150
+    server: 163.177.58.179
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅10
+    port: 1151
+    server: 163.177.58.179
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅11
+    port: 1152
+    server: 163.177.58.179
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅12
+    port: 1153
+    server: 163.177.58.179
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅13
+    port: 1154
+    server: 163.177.58.179
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅14
+    port: 1180
+    server: 163.177.58.179
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅15
+    port: 1181
+    server: 163.177.58.179
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅16
+    port: 1182
+    server: 163.177.58.179
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅17
+    port: 1183
+    server: 163.177.58.179
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅18
+    port: 1184
+    server: 163.177.58.179
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅19
+    port: 1175
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅20
+    port: 1176
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅21
+    port: 1177
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅22
+    port: 1178
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅23
+    port: 1195
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅24
+    port: 1196
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅25
+    port: 1197
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅26
+    port: 1198
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅27
+    port: 1155
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅28
+    port: 1156
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅29
+    port: 1157
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅30
+    port: 1158
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅31
+    port: 1185
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅32
+    port: 1186
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅33
+    port: 1187
+    server: 163.177.58.180
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅34
+    port: 1192
+    server: 163.177.58.181
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅35
+    port: 1193
+    server: 163.177.58.181
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅36
+    port: 1150
+    server: 163.177.58.181
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅37
+    port: 1152
+    server: 163.177.58.181
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅38
+    port: 1153
+    server: 163.177.58.181
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅39
+    port: 1154
+    server: 163.177.58.181
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅40
+    port: 1183
+    server: 163.177.58.181
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅41
+    port: 5980
+    server: 163.177.58.186
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅42
+    port: 5981
+    server: 163.177.58.186
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅43
+    port: 5982
+    server: 163.177.58.186
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅44
+    port: 5983
+    server: 163.177.58.186
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅45
+    port: 5984
+    server: 163.177.58.186
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅46
+    port: 5985
+    server: 163.177.58.186
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅47
+    port: 5986
+    server: 163.177.58.186
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅48
+    port: 5987
+    server: 163.177.58.186
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅49
+    port: 5988
+    server: 163.177.58.186
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅50
+    port: 5989
+    server: 163.177.58.186
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅51
+    port: 5980
+    server: 163.177.58.187
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅52
+    port: 5981
+    server: 163.177.58.187
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅53
+    port: 5982
+    server: 163.177.58.187
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅54
+    port: 5983
+    server: 163.177.58.187
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅55
+    port: 5984
+    server: 163.177.58.187
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅56
+    port: 5985
+    server: 163.177.58.187
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅57
+    port: 5986
+    server: 163.177.58.187
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅58
+    port: 5987
+    server: 163.177.58.187
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅59
+    port: 5988
+    server: 163.177.58.187
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅60
+    port: 5989
+    server: 163.177.58.187
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅61
+    port: 5980
+    server: 163.177.58.188
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅62
+    port: 5981
+    server: 163.177.58.188
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅63
+    port: 5982
+    server: 163.177.58.188
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅64
+    port: 5983
+    server: 163.177.58.188
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅65
+    port: 5984
+    server: 163.177.58.188
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅66
+    port: 5985
+    server: 163.177.58.188
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅67
+    port: 5986
+    server: 163.177.58.188
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅68
+    port: 5987
+    server: 163.177.58.188
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅69
+    port: 5988
+    server: 163.177.58.188
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅70
+    port: 5989
+    server: 163.177.58.188
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅71
+    port: 5980
+    server: 163.177.58.189
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅72
+    port: 5981
+    server: 163.177.58.189
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅73
+    port: 5982
+    server: 163.177.58.189
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅74
+    port: 5983
+    server: 163.177.58.189
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅75
+    port: 5984
+    server: 163.177.58.189
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅76
+    port: 5985
+    server: 163.177.58.189
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅77
+    port: 5986
+    server: 163.177.58.189
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅78
+    port: 5987
+    server: 163.177.58.189
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅79
+    port: 5988
+    server: 163.177.58.189
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅80
+    port: 5989
+    server: 163.177.58.189
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅81
+    port: 5980
+    server: 163.177.58.190
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅82
+    port: 5981
+    server: 163.177.58.190
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅83
+    port: 5982
+    server: 163.177.58.190
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅84
+    port: 5983
+    server: 163.177.58.190
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅85
+    port: 5984
+    server: 163.177.58.190
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅86
+    port: 5985
+    server: 163.177.58.190
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅87
+    port: 5986
+    server: 163.177.58.190
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅88
+    port: 5987
+    server: 163.177.58.190
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅89
+    port: 5988
+    server: 163.177.58.190
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
+  - name: 日月🌅🇨🇳🌅CN🌅中国🌅90
+    port: 5989
+    server: 163.177.58.190
+    type: ss
+    udp: true
+    password: Paofu
+    plugin: obfs-local
+    plugin-opts:
+      mode: null
+      host: null
+      path: null
+    cipher: rc4-md5
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -929,186 +1144,192 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️44
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️45
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️46
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️47
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️48
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️49
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️50
-      - 星月⭐️荷兰⭐️NL⭐️🇳🇱⭐️51
-      - 星月⭐️韩国⭐️KR⭐️🇰🇷⭐️52
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️53
-      - 星月⭐️日本⭐️JP⭐️🇯🇵⭐️54
-      - 星月⭐️巴西⭐️BR⭐️🇧🇷⭐️55
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️56
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️57
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️58
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️59
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️60
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️61
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️62
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️63
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️64
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️65
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️66
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️67
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️68
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️69
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️70
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️71
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️72
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️73
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️74
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️75
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️76
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️77
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️78
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️79
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️80
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️81
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️82
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️83
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️84
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️85
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️86
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️87
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️88
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️89
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️90
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️91
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️92
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️93
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️94
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️95
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️96
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️97
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️98
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️99
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️100
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️101
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️102
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️103
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️104
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️105
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️106
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️107
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️108
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️109
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️110
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️111
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️112
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️113
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️114
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️115
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️116
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️117
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️118
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️119
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️120
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️121
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️122
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️123
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️124
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️125
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️126
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️127
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️128
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️129
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️130
+      - 日月🌅🇨🇳🌅CN🌅中国🌅1
+      - 日月🌅🇨🇳🌅CN🌅中国🌅2
+      - 日月🌅🇨🇳🌅CN🌅中国🌅3
+      - 日月🌅🇨🇳🌅CN🌅中国🌅4
+      - 日月🌅🇨🇳🌅CN🌅中国🌅5
+      - 日月🌅🇨🇳🌅CN🌅中国🌅6
+      - 日月🌅🇨🇳🌅CN🌅中国🌅7
+      - 日月🌅🇨🇳🌅CN🌅中国🌅8
+      - 日月🌅🇨🇳🌅CN🌅中国🌅9
+      - 日月🌅🇨🇳🌅CN🌅中国🌅10
+      - 日月🌅🇨🇳🌅CN🌅中国🌅11
+      - 日月🌅🇨🇳🌅CN🌅中国🌅12
+      - 日月🌅🇨🇳🌅CN🌅中国🌅13
+      - 日月🌅🇨🇳🌅CN🌅中国🌅14
+      - 日月🌅🇨🇳🌅CN🌅中国🌅15
+      - 日月🌅🇨🇳🌅CN🌅中国🌅16
+      - 日月🌅🇨🇳🌅CN🌅中国🌅17
+      - 日月🌅🇨🇳🌅CN🌅中国🌅18
+      - 日月🌅🇨🇳🌅CN🌅中国🌅19
+      - 日月🌅🇨🇳🌅CN🌅中国🌅20
+      - 日月🌅🇨🇳🌅CN🌅中国🌅21
+      - 日月🌅🇨🇳🌅CN🌅中国🌅22
+      - 日月🌅🇨🇳🌅CN🌅中国🌅23
+      - 日月🌅🇨🇳🌅CN🌅中国🌅24
+      - 日月🌅🇨🇳🌅CN🌅中国🌅25
+      - 日月🌅🇨🇳🌅CN🌅中国🌅26
+      - 日月🌅🇨🇳🌅CN🌅中国🌅27
+      - 日月🌅🇨🇳🌅CN🌅中国🌅28
+      - 日月🌅🇨🇳🌅CN🌅中国🌅29
+      - 日月🌅🇨🇳🌅CN🌅中国🌅30
+      - 日月🌅🇨🇳🌅CN🌅中国🌅31
+      - 日月🌅🇨🇳🌅CN🌅中国🌅32
+      - 日月🌅🇨🇳🌅CN🌅中国🌅33
+      - 日月🌅🇨🇳🌅CN🌅中国🌅34
+      - 日月🌅🇨🇳🌅CN🌅中国🌅35
+      - 日月🌅🇨🇳🌅CN🌅中国🌅36
+      - 日月🌅🇨🇳🌅CN🌅中国🌅37
+      - 日月🌅🇨🇳🌅CN🌅中国🌅38
+      - 日月🌅🇨🇳🌅CN🌅中国🌅39
+      - 日月🌅🇨🇳🌅CN🌅中国🌅40
+      - 日月🌅🇨🇳🌅CN🌅中国🌅41
+      - 日月🌅🇨🇳🌅CN🌅中国🌅42
+      - 日月🌅🇨🇳🌅CN🌅中国🌅43
+      - 日月🌅🇨🇳🌅CN🌅中国🌅44
+      - 日月🌅🇨🇳🌅CN🌅中国🌅45
+      - 日月🌅🇨🇳🌅CN🌅中国🌅46
+      - 日月🌅🇨🇳🌅CN🌅中国🌅47
+      - 日月🌅🇨🇳🌅CN🌅中国🌅48
+      - 日月🌅🇨🇳🌅CN🌅中国🌅49
+      - 日月🌅🇨🇳🌅CN🌅中国🌅50
+      - 日月🌅🇨🇳🌅CN🌅中国🌅51
+      - 日月🌅🇨🇳🌅CN🌅中国🌅52
+      - 日月🌅🇨🇳🌅CN🌅中国🌅53
+      - 日月🌅🇨🇳🌅CN🌅中国🌅54
+      - 日月🌅🇨🇳🌅CN🌅中国🌅55
+      - 日月🌅🇨🇳🌅CN🌅中国🌅56
+      - 日月🌅🇨🇳🌅CN🌅中国🌅57
+      - 日月🌅🇨🇳🌅CN🌅中国🌅58
+      - 日月🌅🇨🇳🌅CN🌅中国🌅59
+      - 日月🌅🇨🇳🌅CN🌅中国🌅60
+      - 日月🌅🇨🇳🌅CN🌅中国🌅61
+      - 日月🌅🇨🇳🌅CN🌅中国🌅62
+      - 日月🌅🇨🇳🌅CN🌅中国🌅63
+      - 日月🌅🇨🇳🌅CN🌅中国🌅64
+      - 日月🌅🇨🇳🌅CN🌅中国🌅65
+      - 日月🌅🇨🇳🌅CN🌅中国🌅66
+      - 日月🌅🇨🇳🌅CN🌅中国🌅67
+      - 日月🌅🇨🇳🌅CN🌅中国🌅68
+      - 日月🌅🇨🇳🌅CN🌅中国🌅69
+      - 日月🌅🇨🇳🌅CN🌅中国🌅70
+      - 日月🌅🇨🇳🌅CN🌅中国🌅71
+      - 日月🌅🇨🇳🌅CN🌅中国🌅72
+      - 日月🌅🇨🇳🌅CN🌅中国🌅73
+      - 日月🌅🇨🇳🌅CN🌅中国🌅74
+      - 日月🌅🇨🇳🌅CN🌅中国🌅75
+      - 日月🌅🇨🇳🌅CN🌅中国🌅76
+      - 日月🌅🇨🇳🌅CN🌅中国🌅77
+      - 日月🌅🇨🇳🌅CN🌅中国🌅78
+      - 日月🌅🇨🇳🌅CN🌅中国🌅79
+      - 日月🌅🇨🇳🌅CN🌅中国🌅80
+      - 日月🌅🇨🇳🌅CN🌅中国🌅81
+      - 日月🌅🇨🇳🌅CN🌅中国🌅82
+      - 日月🌅🇨🇳🌅CN🌅中国🌅83
+      - 日月🌅🇨🇳🌅CN🌅中国🌅84
+      - 日月🌅🇨🇳🌅CN🌅中国🌅85
+      - 日月🌅🇨🇳🌅CN🌅中国🌅86
+      - 日月🌅🇨🇳🌅CN🌅中国🌅87
+      - 日月🌅🇨🇳🌅CN🌅中国🌅88
+      - 日月🌅🇨🇳🌅CN🌅中国🌅89
+      - 日月🌅🇨🇳🌅CN🌅中国🌅90
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️44
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️45
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️46
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️47
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️48
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️49
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️50
-      - 星月⭐️荷兰⭐️NL⭐️🇳🇱⭐️51
-      - 星月⭐️韩国⭐️KR⭐️🇰🇷⭐️52
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️53
-      - 星月⭐️日本⭐️JP⭐️🇯🇵⭐️54
-      - 星月⭐️巴西⭐️BR⭐️🇧🇷⭐️55
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️56
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️57
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️58
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️59
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️60
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️61
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️62
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️63
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️64
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️65
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️66
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️67
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️68
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️69
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️70
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️71
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️72
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️73
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️74
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️75
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️76
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️77
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️78
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️79
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️80
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️81
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️82
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️83
-      - 星月⭐️英国⭐️GB⭐️🇬🇧⭐️84
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️85
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️86
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️87
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️88
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️89
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️90
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️91
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️92
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️93
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️94
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️95
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️96
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️97
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️98
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️99
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️100
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️101
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️102
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️103
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️104
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️105
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️106
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️107
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️108
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️109
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️110
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️111
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️112
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️113
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️114
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️115
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️116
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️117
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️118
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️119
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️120
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️121
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️122
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️123
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️124
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️125
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️126
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️127
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️128
-      - 星月⭐️中国⭐️CN⭐️🇨🇳⭐️129
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️130
+      - 日月🌅🇨🇳🌅CN🌅中国🌅1
+      - 日月🌅🇨🇳🌅CN🌅中国🌅2
+      - 日月🌅🇨🇳🌅CN🌅中国🌅3
+      - 日月🌅🇨🇳🌅CN🌅中国🌅4
+      - 日月🌅🇨🇳🌅CN🌅中国🌅5
+      - 日月🌅🇨🇳🌅CN🌅中国🌅6
+      - 日月🌅🇨🇳🌅CN🌅中国🌅7
+      - 日月🌅🇨🇳🌅CN🌅中国🌅8
+      - 日月🌅🇨🇳🌅CN🌅中国🌅9
+      - 日月🌅🇨🇳🌅CN🌅中国🌅10
+      - 日月🌅🇨🇳🌅CN🌅中国🌅11
+      - 日月🌅🇨🇳🌅CN🌅中国🌅12
+      - 日月🌅🇨🇳🌅CN🌅中国🌅13
+      - 日月🌅🇨🇳🌅CN🌅中国🌅14
+      - 日月🌅🇨🇳🌅CN🌅中国🌅15
+      - 日月🌅🇨🇳🌅CN🌅中国🌅16
+      - 日月🌅🇨🇳🌅CN🌅中国🌅17
+      - 日月🌅🇨🇳🌅CN🌅中国🌅18
+      - 日月🌅🇨🇳🌅CN🌅中国🌅19
+      - 日月🌅🇨🇳🌅CN🌅中国🌅20
+      - 日月🌅🇨🇳🌅CN🌅中国🌅21
+      - 日月🌅🇨🇳🌅CN🌅中国🌅22
+      - 日月🌅🇨🇳🌅CN🌅中国🌅23
+      - 日月🌅🇨🇳🌅CN🌅中国🌅24
+      - 日月🌅🇨🇳🌅CN🌅中国🌅25
+      - 日月🌅🇨🇳🌅CN🌅中国🌅26
+      - 日月🌅🇨🇳🌅CN🌅中国🌅27
+      - 日月🌅🇨🇳🌅CN🌅中国🌅28
+      - 日月🌅🇨🇳🌅CN🌅中国🌅29
+      - 日月🌅🇨🇳🌅CN🌅中国🌅30
+      - 日月🌅🇨🇳🌅CN🌅中国🌅31
+      - 日月🌅🇨🇳🌅CN🌅中国🌅32
+      - 日月🌅🇨🇳🌅CN🌅中国🌅33
+      - 日月🌅🇨🇳🌅CN🌅中国🌅34
+      - 日月🌅🇨🇳🌅CN🌅中国🌅35
+      - 日月🌅🇨🇳🌅CN🌅中国🌅36
+      - 日月🌅🇨🇳🌅CN🌅中国🌅37
+      - 日月🌅🇨🇳🌅CN🌅中国🌅38
+      - 日月🌅🇨🇳🌅CN🌅中国🌅39
+      - 日月🌅🇨🇳🌅CN🌅中国🌅40
+      - 日月🌅🇨🇳🌅CN🌅中国🌅41
+      - 日月🌅🇨🇳🌅CN🌅中国🌅42
+      - 日月🌅🇨🇳🌅CN🌅中国🌅43
+      - 日月🌅🇨🇳🌅CN🌅中国🌅44
+      - 日月🌅🇨🇳🌅CN🌅中国🌅45
+      - 日月🌅🇨🇳🌅CN🌅中国🌅46
+      - 日月🌅🇨🇳🌅CN🌅中国🌅47
+      - 日月🌅🇨🇳🌅CN🌅中国🌅48
+      - 日月🌅🇨🇳🌅CN🌅中国🌅49
+      - 日月🌅🇨🇳🌅CN🌅中国🌅50
+      - 日月🌅🇨🇳🌅CN🌅中国🌅51
+      - 日月🌅🇨🇳🌅CN🌅中国🌅52
+      - 日月🌅🇨🇳🌅CN🌅中国🌅53
+      - 日月🌅🇨🇳🌅CN🌅中国🌅54
+      - 日月🌅🇨🇳🌅CN🌅中国🌅55
+      - 日月🌅🇨🇳🌅CN🌅中国🌅56
+      - 日月🌅🇨🇳🌅CN🌅中国🌅57
+      - 日月🌅🇨🇳🌅CN🌅中国🌅58
+      - 日月🌅🇨🇳🌅CN🌅中国🌅59
+      - 日月🌅🇨🇳🌅CN🌅中国🌅60
+      - 日月🌅🇨🇳🌅CN🌅中国🌅61
+      - 日月🌅🇨🇳🌅CN🌅中国🌅62
+      - 日月🌅🇨🇳🌅CN🌅中国🌅63
+      - 日月🌅🇨🇳🌅CN🌅中国🌅64
+      - 日月🌅🇨🇳🌅CN🌅中国🌅65
+      - 日月🌅🇨🇳🌅CN🌅中国🌅66
+      - 日月🌅🇨🇳🌅CN🌅中国🌅67
+      - 日月🌅🇨🇳🌅CN🌅中国🌅68
+      - 日月🌅🇨🇳🌅CN🌅中国🌅69
+      - 日月🌅🇨🇳🌅CN🌅中国🌅70
+      - 日月🌅🇨🇳🌅CN🌅中国🌅71
+      - 日月🌅🇨🇳🌅CN🌅中国🌅72
+      - 日月🌅🇨🇳🌅CN🌅中国🌅73
+      - 日月🌅🇨🇳🌅CN🌅中国🌅74
+      - 日月🌅🇨🇳🌅CN🌅中国🌅75
+      - 日月🌅🇨🇳🌅CN🌅中国🌅76
+      - 日月🌅🇨🇳🌅CN🌅中国🌅77
+      - 日月🌅🇨🇳🌅CN🌅中国🌅78
+      - 日月🌅🇨🇳🌅CN🌅中国🌅79
+      - 日月🌅🇨🇳🌅CN🌅中国🌅80
+      - 日月🌅🇨🇳🌅CN🌅中国🌅81
+      - 日月🌅🇨🇳🌅CN🌅中国🌅82
+      - 日月🌅🇨🇳🌅CN🌅中国🌅83
+      - 日月🌅🇨🇳🌅CN🌅中国🌅84
+      - 日月🌅🇨🇳🌅CN🌅中国🌅85
+      - 日月🌅🇨🇳🌅CN🌅中国🌅86
+      - 日月🌅🇨🇳🌅CN🌅中国🌅87
+      - 日月🌅🇨🇳🌅CN🌅中国🌅88
+      - 日月🌅🇨🇳🌅CN🌅中国🌅89
+      - 日月🌅🇨🇳🌅CN🌅中国🌅90
   - name: 📲 电报消息
     type: select
     proxies:
@@ -1368,44 +1589,14 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 星月⭐️日本⭐️JP⭐️🇯🇵⭐️54
+      - DIRECT
   - name: 🇺🇲 美国节点
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 150
     proxies:
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️44
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️45
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️46
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️47
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️48
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️49
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️50
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️53
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️58
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️59
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️60
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️61
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️62
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️63
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️70
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️71
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️72
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️73
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️74
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️75
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️76
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️77
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️78
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️80
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️83
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️123
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️124
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️125
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️126
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️127
-      - 星月⭐️美国⭐️US⭐️🇺🇸⭐️130
+      - DIRECT
   - name: 🇨🇳 台湾节点
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1426,7 +1617,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 星月⭐️韩国⭐️KR⭐️🇰🇷⭐️52
+      - DIRECT
   - name: 🎥 奈飞节点
     type: select
     proxies:
