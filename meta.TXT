@@ -48,371 +48,371 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 星月⭐️中国⭐️1⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️1☁️🇨🇳
     port: 45107
     server: 183.232.159.51
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️2⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️2☁️🇨🇳
     port: 39551
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️3⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️3☁️🇨🇳
     port: 11308
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️4⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️4☁️🇨🇳
     port: 47621
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️5⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️5☁️🇨🇳
     port: 50653
     server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️6⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️6☁️🇨🇳
     port: 52890
     server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️7⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️7☁️🇨🇳
     port: 21104
     server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️8⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️8☁️🇨🇳
     port: 31761
     server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️9⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️9☁️🇨🇳
     port: 49392
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️10⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️10☁️🇨🇳
     port: 53062
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️11⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️11☁️🇨🇳
     port: 46575
     server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️12⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️12☁️🇨🇳
     port: 13591
     server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️13⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️13☁️🇨🇳
     port: 50474
     server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️14⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️14☁️🇨🇳
     port: 34892
     server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️15⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️15☁️🇨🇳
     port: 33238
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️16⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️16☁️🇨🇳
     port: 26714
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️17⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️17☁️🇨🇳
     port: 41886
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️18⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️18☁️🇨🇳
     port: 22064
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️19⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️19☁️🇨🇳
     port: 41575
     server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️20⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️20☁️🇨🇳
     port: 3785
     server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️21⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️21☁️🇨🇳
     port: 11329
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️22⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️22☁️🇨🇳
     port: 47046
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️23⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️23☁️🇨🇳
     port: 37959
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️24⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️24☁️🇨🇳
     port: 19505
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️25⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️25☁️🇨🇳
     port: 50993
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️26⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️26☁️🇨🇳
     port: 56697
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️27⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️27☁️🇨🇳
     port: 53793
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️28⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️28☁️🇨🇳
     port: 16683
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️29⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️29☁️🇨🇳
     port: 50225
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️30⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️30☁️🇨🇳
     port: 29473
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️31⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️31☁️🇨🇳
     port: 55971
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️32⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️32☁️🇨🇳
     port: 15132
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️33⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️33☁️🇨🇳
     port: 34401
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️34⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️34☁️🇨🇳
     port: 58246
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️35⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️35☁️🇨🇳
     port: 30285
     server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️36⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️36☁️🇨🇳
     port: 51957
     server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️37⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️37☁️🇨🇳
     port: 34406
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️38⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️38☁️🇨🇳
     port: 10557
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️39⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️39☁️🇨🇳
     port: 55518
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️40⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️40☁️🇨🇳
     port: 23707
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️41⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️41☁️🇨🇳
     port: 19473
     server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️42⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️42☁️🇨🇳
     port: 27984
     server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️43⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️43☁️🇨🇳
     port: 42457
     server: ah3-picfgde5bmwtmart.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️44⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️44☁️🇨🇳
     port: 55753
     server: ah1-xj6fwjj5fymdrn8y.bestzumo.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️45⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️45☁️🇨🇳
     port: 45107
     server: 183.232.159.51
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️46⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️46☁️🇨🇳
     port: 59193
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️47⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️47☁️🇨🇳
     port: 55446
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️48⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️48☁️🇨🇳
     port: 50098
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️49⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️49☁️🇨🇳
     port: 40510
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️50⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️50☁️🇨🇳
     port: 40852
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️51⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️51☁️🇨🇳
     port: 38648
     server: 110.40.59.61
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️52⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️52☁️🇨🇳
     port: 46593
     server: js.wcrcz.com
     type: ss
     udp: true
     password: 7ac75754-fde2-407d-ac00-17cd5ddc53d1
     cipher: chacha20-ietf-poly1305
-  - name: 星月⭐️中国⭐️53⭐️🇨🇳⭐️CN
+  - name: 星月☁️CN☁️中国☁️53☁️🇨🇳
     port: 34975
     server: js.wcrcz.com
     type: ss
@@ -435,118 +435,118 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
-      - 星月⭐️中国⭐️1⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️2⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️3⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️4⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️5⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️6⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️7⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️8⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️9⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️10⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️11⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️12⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️13⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️14⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️15⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️16⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️17⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️18⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️19⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️20⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️21⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️22⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️23⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️24⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️25⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️26⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️27⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️28⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️29⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️30⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️31⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️32⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️33⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️34⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️35⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️36⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️37⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️38⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️39⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️40⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️41⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️42⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️43⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️44⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️45⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️46⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️47⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️48⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️49⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️50⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️51⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️52⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️53⭐️🇨🇳⭐️CN
+      - 星月☁️CN☁️中国☁️1☁️🇨🇳
+      - 星月☁️CN☁️中国☁️2☁️🇨🇳
+      - 星月☁️CN☁️中国☁️3☁️🇨🇳
+      - 星月☁️CN☁️中国☁️4☁️🇨🇳
+      - 星月☁️CN☁️中国☁️5☁️🇨🇳
+      - 星月☁️CN☁️中国☁️6☁️🇨🇳
+      - 星月☁️CN☁️中国☁️7☁️🇨🇳
+      - 星月☁️CN☁️中国☁️8☁️🇨🇳
+      - 星月☁️CN☁️中国☁️9☁️🇨🇳
+      - 星月☁️CN☁️中国☁️10☁️🇨🇳
+      - 星月☁️CN☁️中国☁️11☁️🇨🇳
+      - 星月☁️CN☁️中国☁️12☁️🇨🇳
+      - 星月☁️CN☁️中国☁️13☁️🇨🇳
+      - 星月☁️CN☁️中国☁️14☁️🇨🇳
+      - 星月☁️CN☁️中国☁️15☁️🇨🇳
+      - 星月☁️CN☁️中国☁️16☁️🇨🇳
+      - 星月☁️CN☁️中国☁️17☁️🇨🇳
+      - 星月☁️CN☁️中国☁️18☁️🇨🇳
+      - 星月☁️CN☁️中国☁️19☁️🇨🇳
+      - 星月☁️CN☁️中国☁️20☁️🇨🇳
+      - 星月☁️CN☁️中国☁️21☁️🇨🇳
+      - 星月☁️CN☁️中国☁️22☁️🇨🇳
+      - 星月☁️CN☁️中国☁️23☁️🇨🇳
+      - 星月☁️CN☁️中国☁️24☁️🇨🇳
+      - 星月☁️CN☁️中国☁️25☁️🇨🇳
+      - 星月☁️CN☁️中国☁️26☁️🇨🇳
+      - 星月☁️CN☁️中国☁️27☁️🇨🇳
+      - 星月☁️CN☁️中国☁️28☁️🇨🇳
+      - 星月☁️CN☁️中国☁️29☁️🇨🇳
+      - 星月☁️CN☁️中国☁️30☁️🇨🇳
+      - 星月☁️CN☁️中国☁️31☁️🇨🇳
+      - 星月☁️CN☁️中国☁️32☁️🇨🇳
+      - 星月☁️CN☁️中国☁️33☁️🇨🇳
+      - 星月☁️CN☁️中国☁️34☁️🇨🇳
+      - 星月☁️CN☁️中国☁️35☁️🇨🇳
+      - 星月☁️CN☁️中国☁️36☁️🇨🇳
+      - 星月☁️CN☁️中国☁️37☁️🇨🇳
+      - 星月☁️CN☁️中国☁️38☁️🇨🇳
+      - 星月☁️CN☁️中国☁️39☁️🇨🇳
+      - 星月☁️CN☁️中国☁️40☁️🇨🇳
+      - 星月☁️CN☁️中国☁️41☁️🇨🇳
+      - 星月☁️CN☁️中国☁️42☁️🇨🇳
+      - 星月☁️CN☁️中国☁️43☁️🇨🇳
+      - 星月☁️CN☁️中国☁️44☁️🇨🇳
+      - 星月☁️CN☁️中国☁️45☁️🇨🇳
+      - 星月☁️CN☁️中国☁️46☁️🇨🇳
+      - 星月☁️CN☁️中国☁️47☁️🇨🇳
+      - 星月☁️CN☁️中国☁️48☁️🇨🇳
+      - 星月☁️CN☁️中国☁️49☁️🇨🇳
+      - 星月☁️CN☁️中国☁️50☁️🇨🇳
+      - 星月☁️CN☁️中国☁️51☁️🇨🇳
+      - 星月☁️CN☁️中国☁️52☁️🇨🇳
+      - 星月☁️CN☁️中国☁️53☁️🇨🇳
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 星月⭐️中国⭐️1⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️2⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️3⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️4⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️5⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️6⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️7⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️8⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️9⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️10⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️11⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️12⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️13⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️14⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️15⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️16⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️17⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️18⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️19⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️20⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️21⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️22⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️23⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️24⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️25⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️26⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️27⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️28⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️29⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️30⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️31⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️32⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️33⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️34⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️35⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️36⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️37⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️38⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️39⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️40⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️41⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️42⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️43⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️44⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️45⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️46⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️47⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️48⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️49⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️50⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️51⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️52⭐️🇨🇳⭐️CN
-      - 星月⭐️中国⭐️53⭐️🇨🇳⭐️CN
+      - 星月☁️CN☁️中国☁️1☁️🇨🇳
+      - 星月☁️CN☁️中国☁️2☁️🇨🇳
+      - 星月☁️CN☁️中国☁️3☁️🇨🇳
+      - 星月☁️CN☁️中国☁️4☁️🇨🇳
+      - 星月☁️CN☁️中国☁️5☁️🇨🇳
+      - 星月☁️CN☁️中国☁️6☁️🇨🇳
+      - 星月☁️CN☁️中国☁️7☁️🇨🇳
+      - 星月☁️CN☁️中国☁️8☁️🇨🇳
+      - 星月☁️CN☁️中国☁️9☁️🇨🇳
+      - 星月☁️CN☁️中国☁️10☁️🇨🇳
+      - 星月☁️CN☁️中国☁️11☁️🇨🇳
+      - 星月☁️CN☁️中国☁️12☁️🇨🇳
+      - 星月☁️CN☁️中国☁️13☁️🇨🇳
+      - 星月☁️CN☁️中国☁️14☁️🇨🇳
+      - 星月☁️CN☁️中国☁️15☁️🇨🇳
+      - 星月☁️CN☁️中国☁️16☁️🇨🇳
+      - 星月☁️CN☁️中国☁️17☁️🇨🇳
+      - 星月☁️CN☁️中国☁️18☁️🇨🇳
+      - 星月☁️CN☁️中国☁️19☁️🇨🇳
+      - 星月☁️CN☁️中国☁️20☁️🇨🇳
+      - 星月☁️CN☁️中国☁️21☁️🇨🇳
+      - 星月☁️CN☁️中国☁️22☁️🇨🇳
+      - 星月☁️CN☁️中国☁️23☁️🇨🇳
+      - 星月☁️CN☁️中国☁️24☁️🇨🇳
+      - 星月☁️CN☁️中国☁️25☁️🇨🇳
+      - 星月☁️CN☁️中国☁️26☁️🇨🇳
+      - 星月☁️CN☁️中国☁️27☁️🇨🇳
+      - 星月☁️CN☁️中国☁️28☁️🇨🇳
+      - 星月☁️CN☁️中国☁️29☁️🇨🇳
+      - 星月☁️CN☁️中国☁️30☁️🇨🇳
+      - 星月☁️CN☁️中国☁️31☁️🇨🇳
+      - 星月☁️CN☁️中国☁️32☁️🇨🇳
+      - 星月☁️CN☁️中国☁️33☁️🇨🇳
+      - 星月☁️CN☁️中国☁️34☁️🇨🇳
+      - 星月☁️CN☁️中国☁️35☁️🇨🇳
+      - 星月☁️CN☁️中国☁️36☁️🇨🇳
+      - 星月☁️CN☁️中国☁️37☁️🇨🇳
+      - 星月☁️CN☁️中国☁️38☁️🇨🇳
+      - 星月☁️CN☁️中国☁️39☁️🇨🇳
+      - 星月☁️CN☁️中国☁️40☁️🇨🇳
+      - 星月☁️CN☁️中国☁️41☁️🇨🇳
+      - 星月☁️CN☁️中国☁️42☁️🇨🇳
+      - 星月☁️CN☁️中国☁️43☁️🇨🇳
+      - 星月☁️CN☁️中国☁️44☁️🇨🇳
+      - 星月☁️CN☁️中国☁️45☁️🇨🇳
+      - 星月☁️CN☁️中国☁️46☁️🇨🇳
+      - 星月☁️CN☁️中国☁️47☁️🇨🇳
+      - 星月☁️CN☁️中国☁️48☁️🇨🇳
+      - 星月☁️CN☁️中国☁️49☁️🇨🇳
+      - 星月☁️CN☁️中国☁️50☁️🇨🇳
+      - 星月☁️CN☁️中国☁️51☁️🇨🇳
+      - 星月☁️CN☁️中国☁️52☁️🇨🇳
+      - 星月☁️CN☁️中国☁️53☁️🇨🇳
   - name: 📲 电报消息
     type: select
     proxies:
