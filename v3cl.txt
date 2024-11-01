@@ -48,420 +48,420 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 日月·🌙1🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫1
     port: 53066
     server: gonggao01.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙2🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫2
     port: 53070
     server: gonggao03.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙3🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫3
     port: 53070
     server: gonggao03.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙4🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫4
     port: 53072
     server: gonggao04.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙5🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫5
     port: 54000
     server: h-k01.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙6🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫6
     port: 54002
     server: h-k02.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙7🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫7
     port: 54004
     server: h-k03.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙8🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫8
     port: 54006
     server: h-k04.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙9🌙日本🌙JP🌙🇯🇵
+  - name: 星月·💫日本💫JP💫🇯🇵💫9
     port: 60004
     server: adoredone.cc
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙10🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫10
     port: 45107
     server: 183.232.159.51
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙11🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫11
     port: 39551
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙12🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫12
     port: 11308
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙13🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫13
     port: 47621
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙14🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫14
     port: 54024
     server: s-g01.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙15🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫15
     port: 54026
     server: s-g02.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙16🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫16
     port: 54028
     server: s-g03.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙17🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫17
     port: 54030
     server: s-g04.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙18🌙日本🌙JP🌙🇯🇵
+  - name: 星月·💫日本💫JP💫🇯🇵💫18
     port: 60003
     server: adoredone.cc
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙19🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫19
     port: 49392
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙20🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫20
     port: 53062
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙21🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫21
     port: 54096
     server: j-p01.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙22🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫22
     port: 54098
     server: j-p02.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙23🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫23
     port: 54100
     server: j-p03.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙24🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫24
     port: 54102
     server: j-p04.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙25🌙日本🌙JP🌙🇯🇵
+  - name: 星月·💫日本💫JP💫🇯🇵💫25
     port: 60002
     server: adoredone.cc
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙26🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫26
     port: 33238
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙27🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫27
     port: 26714
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙28🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫28
     port: 41886
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙29🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫29
     port: 22064
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙30🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫30
     port: 54016
     server: u-s01.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙31🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫31
     port: 54018
     server: u-s02.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙32🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫32
     port: 54020
     server: u-s03.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙33🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫33
     port: 54022
     server: u-s04.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙34🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫34
     port: 11329
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙35🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫35
     port: 47046
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙36🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫36
     port: 37959
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙37🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫37
     port: 19505
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙38🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫38
     port: 54032
     server: t-wn01.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙39🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫39
     port: 54034
     server: t-wn02.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙40🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫40
     port: 54036
     server: t-wn03.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙41🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫41
     port: 54038
     server: t-wn04.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙42🌙日本🌙JP🌙🇯🇵
+  - name: 星月·💫日本💫JP💫🇯🇵💫42
     port: 60005
     server: adoredone.cc
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙43🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫43
     port: 55971
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙44🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫44
     port: 15132
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙45🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫45
     port: 34401
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙46🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫46
     port: 58246
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙47🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫47
     port: 54008
     server: k-r01.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙48🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫48
     port: 54010
     server: k-r02.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙49🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫49
     port: 54012
     server: k-r03.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙50🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫50
     port: 54014
     server: k-r04.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙51🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫51
     port: 55518
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙52🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫52
     port: 23707
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙53🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫53
     port: 53066
     server: gonggao01.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙54🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫54
     port: 54040
     server: u-k01.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙55🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫55
     port: 54042
     server: u-k02.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙56🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫56
     port: 54044
     server: u-k03.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙57🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫57
     port: 54046
     server: u-k04.loveroise.com
     type: ss
     udp: true
     password: 09833a6f-4d46-426e-87fe-7793a5489f84
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙58🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫58
     port: 59193
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙59🌙中国🌙CN🌙🇨🇳
+  - name: 星月·💫中国💫CN💫🇨🇳💫59
     port: 55446
     server: 110.40.59.61
     type: ss
     udp: true
     password: 173c0893-5ab2-4223-88ce-b6e8d512306b
     cipher: chacha20-ietf-poly1305
-  - name: 日月·🌙60🌙未知🌙unKnow🌙🏳️
+  - name: 星月·💫未知💫unKnow💫🏳️💫60
     port: 53068
     server: gonggao02.loveroise.com
     type: ss
@@ -474,393 +474,393 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 日月·🌙1🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙2🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙3🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙4🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙5🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙6🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙7🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙8🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙9🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙10🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙11🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙12🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙13🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙14🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙15🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙16🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙17🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙18🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙19🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙20🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙21🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙22🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙23🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙24🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙25🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙26🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙27🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙28🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙29🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙30🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙31🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙32🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙33🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙34🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙35🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙36🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙37🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙38🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙39🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙40🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙41🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙42🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙43🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙44🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙45🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙46🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙47🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙48🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙49🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙50🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙51🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙52🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙53🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙54🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙55🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙56🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙57🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙58🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙59🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙60🌙未知🌙unKnow🌙🏳️
+      - 星月·💫未知💫unKnow💫🏳️💫1
+      - 星月·💫未知💫unKnow💫🏳️💫2
+      - 星月·💫未知💫unKnow💫🏳️💫3
+      - 星月·💫未知💫unKnow💫🏳️💫4
+      - 星月·💫未知💫unKnow💫🏳️💫5
+      - 星月·💫未知💫unKnow💫🏳️💫6
+      - 星月·💫未知💫unKnow💫🏳️💫7
+      - 星月·💫未知💫unKnow💫🏳️💫8
+      - 星月·💫日本💫JP💫🇯🇵💫9
+      - 星月·💫中国💫CN💫🇨🇳💫10
+      - 星月·💫中国💫CN💫🇨🇳💫11
+      - 星月·💫中国💫CN💫🇨🇳💫12
+      - 星月·💫中国💫CN💫🇨🇳💫13
+      - 星月·💫未知💫unKnow💫🏳️💫14
+      - 星月·💫未知💫unKnow💫🏳️💫15
+      - 星月·💫未知💫unKnow💫🏳️💫16
+      - 星月·💫未知💫unKnow💫🏳️💫17
+      - 星月·💫日本💫JP💫🇯🇵💫18
+      - 星月·💫中国💫CN💫🇨🇳💫19
+      - 星月·💫中国💫CN💫🇨🇳💫20
+      - 星月·💫未知💫unKnow💫🏳️💫21
+      - 星月·💫未知💫unKnow💫🏳️💫22
+      - 星月·💫未知💫unKnow💫🏳️💫23
+      - 星月·💫未知💫unKnow💫🏳️💫24
+      - 星月·💫日本💫JP💫🇯🇵💫25
+      - 星月·💫中国💫CN💫🇨🇳💫26
+      - 星月·💫中国💫CN💫🇨🇳💫27
+      - 星月·💫中国💫CN💫🇨🇳💫28
+      - 星月·💫中国💫CN💫🇨🇳💫29
+      - 星月·💫未知💫unKnow💫🏳️💫30
+      - 星月·💫未知💫unKnow💫🏳️💫31
+      - 星月·💫未知💫unKnow💫🏳️💫32
+      - 星月·💫未知💫unKnow💫🏳️💫33
+      - 星月·💫中国💫CN💫🇨🇳💫34
+      - 星月·💫中国💫CN💫🇨🇳💫35
+      - 星月·💫中国💫CN💫🇨🇳💫36
+      - 星月·💫中国💫CN💫🇨🇳💫37
+      - 星月·💫未知💫unKnow💫🏳️💫38
+      - 星月·💫未知💫unKnow💫🏳️💫39
+      - 星月·💫未知💫unKnow💫🏳️💫40
+      - 星月·💫未知💫unKnow💫🏳️💫41
+      - 星月·💫日本💫JP💫🇯🇵💫42
+      - 星月·💫中国💫CN💫🇨🇳💫43
+      - 星月·💫中国💫CN💫🇨🇳💫44
+      - 星月·💫中国💫CN💫🇨🇳💫45
+      - 星月·💫中国💫CN💫🇨🇳💫46
+      - 星月·💫未知💫unKnow💫🏳️💫47
+      - 星月·💫未知💫unKnow💫🏳️💫48
+      - 星月·💫未知💫unKnow💫🏳️💫49
+      - 星月·💫未知💫unKnow💫🏳️💫50
+      - 星月·💫中国💫CN💫🇨🇳💫51
+      - 星月·💫中国💫CN💫🇨🇳💫52
+      - 星月·💫未知💫unKnow💫🏳️💫53
+      - 星月·💫未知💫unKnow💫🏳️💫54
+      - 星月·💫未知💫unKnow💫🏳️💫55
+      - 星月·💫未知💫unKnow💫🏳️💫56
+      - 星月·💫未知💫unKnow💫🏳️💫57
+      - 星月·💫中国💫CN💫🇨🇳💫58
+      - 星月·💫中国💫CN💫🇨🇳💫59
+      - 星月·💫未知💫unKnow💫🏳️💫60
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 日月·🌙1🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙2🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙3🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙4🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙5🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙6🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙7🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙8🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙9🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙10🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙11🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙12🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙13🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙14🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙15🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙16🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙17🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙18🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙19🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙20🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙21🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙22🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙23🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙24🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙25🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙26🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙27🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙28🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙29🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙30🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙31🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙32🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙33🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙34🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙35🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙36🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙37🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙38🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙39🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙40🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙41🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙42🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙43🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙44🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙45🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙46🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙47🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙48🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙49🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙50🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙51🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙52🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙53🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙54🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙55🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙56🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙57🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙58🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙59🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙60🌙未知🌙unKnow🌙🏳️
+      - 星月·💫未知💫unKnow💫🏳️💫1
+      - 星月·💫未知💫unKnow💫🏳️💫2
+      - 星月·💫未知💫unKnow💫🏳️💫3
+      - 星月·💫未知💫unKnow💫🏳️💫4
+      - 星月·💫未知💫unKnow💫🏳️💫5
+      - 星月·💫未知💫unKnow💫🏳️💫6
+      - 星月·💫未知💫unKnow💫🏳️💫7
+      - 星月·💫未知💫unKnow💫🏳️💫8
+      - 星月·💫日本💫JP💫🇯🇵💫9
+      - 星月·💫中国💫CN💫🇨🇳💫10
+      - 星月·💫中国💫CN💫🇨🇳💫11
+      - 星月·💫中国💫CN💫🇨🇳💫12
+      - 星月·💫中国💫CN💫🇨🇳💫13
+      - 星月·💫未知💫unKnow💫🏳️💫14
+      - 星月·💫未知💫unKnow💫🏳️💫15
+      - 星月·💫未知💫unKnow💫🏳️💫16
+      - 星月·💫未知💫unKnow💫🏳️💫17
+      - 星月·💫日本💫JP💫🇯🇵💫18
+      - 星月·💫中国💫CN💫🇨🇳💫19
+      - 星月·💫中国💫CN💫🇨🇳💫20
+      - 星月·💫未知💫unKnow💫🏳️💫21
+      - 星月·💫未知💫unKnow💫🏳️💫22
+      - 星月·💫未知💫unKnow💫🏳️💫23
+      - 星月·💫未知💫unKnow💫🏳️💫24
+      - 星月·💫日本💫JP💫🇯🇵💫25
+      - 星月·💫中国💫CN💫🇨🇳💫26
+      - 星月·💫中国💫CN💫🇨🇳💫27
+      - 星月·💫中国💫CN💫🇨🇳💫28
+      - 星月·💫中国💫CN💫🇨🇳💫29
+      - 星月·💫未知💫unKnow💫🏳️💫30
+      - 星月·💫未知💫unKnow💫🏳️💫31
+      - 星月·💫未知💫unKnow💫🏳️💫32
+      - 星月·💫未知💫unKnow💫🏳️💫33
+      - 星月·💫中国💫CN💫🇨🇳💫34
+      - 星月·💫中国💫CN💫🇨🇳💫35
+      - 星月·💫中国💫CN💫🇨🇳💫36
+      - 星月·💫中国💫CN💫🇨🇳💫37
+      - 星月·💫未知💫unKnow💫🏳️💫38
+      - 星月·💫未知💫unKnow💫🏳️💫39
+      - 星月·💫未知💫unKnow💫🏳️💫40
+      - 星月·💫未知💫unKnow💫🏳️💫41
+      - 星月·💫日本💫JP💫🇯🇵💫42
+      - 星月·💫中国💫CN💫🇨🇳💫43
+      - 星月·💫中国💫CN💫🇨🇳💫44
+      - 星月·💫中国💫CN💫🇨🇳💫45
+      - 星月·💫中国💫CN💫🇨🇳💫46
+      - 星月·💫未知💫unKnow💫🏳️💫47
+      - 星月·💫未知💫unKnow💫🏳️💫48
+      - 星月·💫未知💫unKnow💫🏳️💫49
+      - 星月·💫未知💫unKnow💫🏳️💫50
+      - 星月·💫中国💫CN💫🇨🇳💫51
+      - 星月·💫中国💫CN💫🇨🇳💫52
+      - 星月·💫未知💫unKnow💫🏳️💫53
+      - 星月·💫未知💫unKnow💫🏳️💫54
+      - 星月·💫未知💫unKnow💫🏳️💫55
+      - 星月·💫未知💫unKnow💫🏳️💫56
+      - 星月·💫未知💫unKnow💫🏳️💫57
+      - 星月·💫中国💫CN💫🇨🇳💫58
+      - 星月·💫中国💫CN💫🇨🇳💫59
+      - 星月·💫未知💫unKnow💫🏳️💫60
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 日月·🌙1🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙2🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙3🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙4🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙5🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙6🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙7🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙8🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙9🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙10🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙11🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙12🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙13🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙14🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙15🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙16🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙17🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙18🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙19🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙20🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙21🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙22🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙23🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙24🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙25🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙26🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙27🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙28🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙29🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙30🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙31🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙32🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙33🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙34🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙35🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙36🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙37🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙38🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙39🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙40🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙41🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙42🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙43🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙44🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙45🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙46🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙47🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙48🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙49🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙50🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙51🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙52🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙53🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙54🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙55🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙56🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙57🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙58🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙59🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙60🌙未知🌙unKnow🌙🏳️
+      - 星月·💫未知💫unKnow💫🏳️💫1
+      - 星月·💫未知💫unKnow💫🏳️💫2
+      - 星月·💫未知💫unKnow💫🏳️💫3
+      - 星月·💫未知💫unKnow💫🏳️💫4
+      - 星月·💫未知💫unKnow💫🏳️💫5
+      - 星月·💫未知💫unKnow💫🏳️💫6
+      - 星月·💫未知💫unKnow💫🏳️💫7
+      - 星月·💫未知💫unKnow💫🏳️💫8
+      - 星月·💫日本💫JP💫🇯🇵💫9
+      - 星月·💫中国💫CN💫🇨🇳💫10
+      - 星月·💫中国💫CN💫🇨🇳💫11
+      - 星月·💫中国💫CN💫🇨🇳💫12
+      - 星月·💫中国💫CN💫🇨🇳💫13
+      - 星月·💫未知💫unKnow💫🏳️💫14
+      - 星月·💫未知💫unKnow💫🏳️💫15
+      - 星月·💫未知💫unKnow💫🏳️💫16
+      - 星月·💫未知💫unKnow💫🏳️💫17
+      - 星月·💫日本💫JP💫🇯🇵💫18
+      - 星月·💫中国💫CN💫🇨🇳💫19
+      - 星月·💫中国💫CN💫🇨🇳💫20
+      - 星月·💫未知💫unKnow💫🏳️💫21
+      - 星月·💫未知💫unKnow💫🏳️💫22
+      - 星月·💫未知💫unKnow💫🏳️💫23
+      - 星月·💫未知💫unKnow💫🏳️💫24
+      - 星月·💫日本💫JP💫🇯🇵💫25
+      - 星月·💫中国💫CN💫🇨🇳💫26
+      - 星月·💫中国💫CN💫🇨🇳💫27
+      - 星月·💫中国💫CN💫🇨🇳💫28
+      - 星月·💫中国💫CN💫🇨🇳💫29
+      - 星月·💫未知💫unKnow💫🏳️💫30
+      - 星月·💫未知💫unKnow💫🏳️💫31
+      - 星月·💫未知💫unKnow💫🏳️💫32
+      - 星月·💫未知💫unKnow💫🏳️💫33
+      - 星月·💫中国💫CN💫🇨🇳💫34
+      - 星月·💫中国💫CN💫🇨🇳💫35
+      - 星月·💫中国💫CN💫🇨🇳💫36
+      - 星月·💫中国💫CN💫🇨🇳💫37
+      - 星月·💫未知💫unKnow💫🏳️💫38
+      - 星月·💫未知💫unKnow💫🏳️💫39
+      - 星月·💫未知💫unKnow💫🏳️💫40
+      - 星月·💫未知💫unKnow💫🏳️💫41
+      - 星月·💫日本💫JP💫🇯🇵💫42
+      - 星月·💫中国💫CN💫🇨🇳💫43
+      - 星月·💫中国💫CN💫🇨🇳💫44
+      - 星月·💫中国💫CN💫🇨🇳💫45
+      - 星月·💫中国💫CN💫🇨🇳💫46
+      - 星月·💫未知💫unKnow💫🏳️💫47
+      - 星月·💫未知💫unKnow💫🏳️💫48
+      - 星月·💫未知💫unKnow💫🏳️💫49
+      - 星月·💫未知💫unKnow💫🏳️💫50
+      - 星月·💫中国💫CN💫🇨🇳💫51
+      - 星月·💫中国💫CN💫🇨🇳💫52
+      - 星月·💫未知💫unKnow💫🏳️💫53
+      - 星月·💫未知💫unKnow💫🏳️💫54
+      - 星月·💫未知💫unKnow💫🏳️💫55
+      - 星月·💫未知💫unKnow💫🏳️💫56
+      - 星月·💫未知💫unKnow💫🏳️💫57
+      - 星月·💫中国💫CN💫🇨🇳💫58
+      - 星月·💫中国💫CN💫🇨🇳💫59
+      - 星月·💫未知💫unKnow💫🏳️💫60
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 日月·🌙1🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙2🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙3🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙4🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙5🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙6🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙7🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙8🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙9🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙10🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙11🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙12🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙13🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙14🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙15🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙16🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙17🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙18🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙19🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙20🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙21🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙22🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙23🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙24🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙25🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙26🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙27🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙28🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙29🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙30🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙31🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙32🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙33🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙34🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙35🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙36🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙37🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙38🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙39🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙40🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙41🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙42🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙43🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙44🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙45🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙46🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙47🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙48🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙49🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙50🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙51🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙52🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙53🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙54🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙55🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙56🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙57🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙58🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙59🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙60🌙未知🌙unKnow🌙🏳️
+      - 星月·💫未知💫unKnow💫🏳️💫1
+      - 星月·💫未知💫unKnow💫🏳️💫2
+      - 星月·💫未知💫unKnow💫🏳️💫3
+      - 星月·💫未知💫unKnow💫🏳️💫4
+      - 星月·💫未知💫unKnow💫🏳️💫5
+      - 星月·💫未知💫unKnow💫🏳️💫6
+      - 星月·💫未知💫unKnow💫🏳️💫7
+      - 星月·💫未知💫unKnow💫🏳️💫8
+      - 星月·💫日本💫JP💫🇯🇵💫9
+      - 星月·💫中国💫CN💫🇨🇳💫10
+      - 星月·💫中国💫CN💫🇨🇳💫11
+      - 星月·💫中国💫CN💫🇨🇳💫12
+      - 星月·💫中国💫CN💫🇨🇳💫13
+      - 星月·💫未知💫unKnow💫🏳️💫14
+      - 星月·💫未知💫unKnow💫🏳️💫15
+      - 星月·💫未知💫unKnow💫🏳️💫16
+      - 星月·💫未知💫unKnow💫🏳️💫17
+      - 星月·💫日本💫JP💫🇯🇵💫18
+      - 星月·💫中国💫CN💫🇨🇳💫19
+      - 星月·💫中国💫CN💫🇨🇳💫20
+      - 星月·💫未知💫unKnow💫🏳️💫21
+      - 星月·💫未知💫unKnow💫🏳️💫22
+      - 星月·💫未知💫unKnow💫🏳️💫23
+      - 星月·💫未知💫unKnow💫🏳️💫24
+      - 星月·💫日本💫JP💫🇯🇵💫25
+      - 星月·💫中国💫CN💫🇨🇳💫26
+      - 星月·💫中国💫CN💫🇨🇳💫27
+      - 星月·💫中国💫CN💫🇨🇳💫28
+      - 星月·💫中国💫CN💫🇨🇳💫29
+      - 星月·💫未知💫unKnow💫🏳️💫30
+      - 星月·💫未知💫unKnow💫🏳️💫31
+      - 星月·💫未知💫unKnow💫🏳️💫32
+      - 星月·💫未知💫unKnow💫🏳️💫33
+      - 星月·💫中国💫CN💫🇨🇳💫34
+      - 星月·💫中国💫CN💫🇨🇳💫35
+      - 星月·💫中国💫CN💫🇨🇳💫36
+      - 星月·💫中国💫CN💫🇨🇳💫37
+      - 星月·💫未知💫unKnow💫🏳️💫38
+      - 星月·💫未知💫unKnow💫🏳️💫39
+      - 星月·💫未知💫unKnow💫🏳️💫40
+      - 星月·💫未知💫unKnow💫🏳️💫41
+      - 星月·💫日本💫JP💫🇯🇵💫42
+      - 星月·💫中国💫CN💫🇨🇳💫43
+      - 星月·💫中国💫CN💫🇨🇳💫44
+      - 星月·💫中国💫CN💫🇨🇳💫45
+      - 星月·💫中国💫CN💫🇨🇳💫46
+      - 星月·💫未知💫unKnow💫🏳️💫47
+      - 星月·💫未知💫unKnow💫🏳️💫48
+      - 星月·💫未知💫unKnow💫🏳️💫49
+      - 星月·💫未知💫unKnow💫🏳️💫50
+      - 星月·💫中国💫CN💫🇨🇳💫51
+      - 星月·💫中国💫CN💫🇨🇳💫52
+      - 星月·💫未知💫unKnow💫🏳️💫53
+      - 星月·💫未知💫unKnow💫🏳️💫54
+      - 星月·💫未知💫unKnow💫🏳️💫55
+      - 星月·💫未知💫unKnow💫🏳️💫56
+      - 星月·💫未知💫unKnow💫🏳️💫57
+      - 星月·💫中国💫CN💫🇨🇳💫58
+      - 星月·💫中国💫CN💫🇨🇳💫59
+      - 星月·💫未知💫unKnow💫🏳️💫60
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 日月·🌙1🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙2🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙3🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙4🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙5🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙6🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙7🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙8🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙9🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙10🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙11🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙12🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙13🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙14🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙15🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙16🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙17🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙18🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙19🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙20🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙21🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙22🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙23🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙24🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙25🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙26🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙27🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙28🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙29🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙30🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙31🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙32🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙33🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙34🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙35🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙36🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙37🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙38🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙39🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙40🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙41🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙42🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙43🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙44🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙45🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙46🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙47🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙48🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙49🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙50🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙51🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙52🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙53🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙54🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙55🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙56🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙57🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙58🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙59🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙60🌙未知🌙unKnow🌙🏳️
+      - 星月·💫未知💫unKnow💫🏳️💫1
+      - 星月·💫未知💫unKnow💫🏳️💫2
+      - 星月·💫未知💫unKnow💫🏳️💫3
+      - 星月·💫未知💫unKnow💫🏳️💫4
+      - 星月·💫未知💫unKnow💫🏳️💫5
+      - 星月·💫未知💫unKnow💫🏳️💫6
+      - 星月·💫未知💫unKnow💫🏳️💫7
+      - 星月·💫未知💫unKnow💫🏳️💫8
+      - 星月·💫日本💫JP💫🇯🇵💫9
+      - 星月·💫中国💫CN💫🇨🇳💫10
+      - 星月·💫中国💫CN💫🇨🇳💫11
+      - 星月·💫中国💫CN💫🇨🇳💫12
+      - 星月·💫中国💫CN💫🇨🇳💫13
+      - 星月·💫未知💫unKnow💫🏳️💫14
+      - 星月·💫未知💫unKnow💫🏳️💫15
+      - 星月·💫未知💫unKnow💫🏳️💫16
+      - 星月·💫未知💫unKnow💫🏳️💫17
+      - 星月·💫日本💫JP💫🇯🇵💫18
+      - 星月·💫中国💫CN💫🇨🇳💫19
+      - 星月·💫中国💫CN💫🇨🇳💫20
+      - 星月·💫未知💫unKnow💫🏳️💫21
+      - 星月·💫未知💫unKnow💫🏳️💫22
+      - 星月·💫未知💫unKnow💫🏳️💫23
+      - 星月·💫未知💫unKnow💫🏳️💫24
+      - 星月·💫日本💫JP💫🇯🇵💫25
+      - 星月·💫中国💫CN💫🇨🇳💫26
+      - 星月·💫中国💫CN💫🇨🇳💫27
+      - 星月·💫中国💫CN💫🇨🇳💫28
+      - 星月·💫中国💫CN💫🇨🇳💫29
+      - 星月·💫未知💫unKnow💫🏳️💫30
+      - 星月·💫未知💫unKnow💫🏳️💫31
+      - 星月·💫未知💫unKnow💫🏳️💫32
+      - 星月·💫未知💫unKnow💫🏳️💫33
+      - 星月·💫中国💫CN💫🇨🇳💫34
+      - 星月·💫中国💫CN💫🇨🇳💫35
+      - 星月·💫中国💫CN💫🇨🇳💫36
+      - 星月·💫中国💫CN💫🇨🇳💫37
+      - 星月·💫未知💫unKnow💫🏳️💫38
+      - 星月·💫未知💫unKnow💫🏳️💫39
+      - 星月·💫未知💫unKnow💫🏳️💫40
+      - 星月·💫未知💫unKnow💫🏳️💫41
+      - 星月·💫日本💫JP💫🇯🇵💫42
+      - 星月·💫中国💫CN💫🇨🇳💫43
+      - 星月·💫中国💫CN💫🇨🇳💫44
+      - 星月·💫中国💫CN💫🇨🇳💫45
+      - 星月·💫中国💫CN💫🇨🇳💫46
+      - 星月·💫未知💫unKnow💫🏳️💫47
+      - 星月·💫未知💫unKnow💫🏳️💫48
+      - 星月·💫未知💫unKnow💫🏳️💫49
+      - 星月·💫未知💫unKnow💫🏳️💫50
+      - 星月·💫中国💫CN💫🇨🇳💫51
+      - 星月·💫中国💫CN💫🇨🇳💫52
+      - 星月·💫未知💫unKnow💫🏳️💫53
+      - 星月·💫未知💫unKnow💫🏳️💫54
+      - 星月·💫未知💫unKnow💫🏳️💫55
+      - 星月·💫未知💫unKnow💫🏳️💫56
+      - 星月·💫未知💫unKnow💫🏳️💫57
+      - 星月·💫中国💫CN💫🇨🇳💫58
+      - 星月·💫中国💫CN💫🇨🇳💫59
+      - 星月·💫未知💫unKnow💫🏳️💫60
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 日月·🌙1🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙2🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙3🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙4🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙5🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙6🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙7🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙8🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙9🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙10🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙11🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙12🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙13🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙14🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙15🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙16🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙17🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙18🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙19🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙20🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙21🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙22🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙23🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙24🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙25🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙26🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙27🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙28🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙29🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙30🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙31🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙32🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙33🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙34🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙35🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙36🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙37🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙38🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙39🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙40🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙41🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙42🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙43🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙44🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙45🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙46🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙47🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙48🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙49🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙50🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙51🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙52🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙53🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙54🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙55🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙56🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙57🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙58🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙59🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙60🌙未知🌙unKnow🌙🏳️
+      - 星月·💫未知💫unKnow💫🏳️💫1
+      - 星月·💫未知💫unKnow💫🏳️💫2
+      - 星月·💫未知💫unKnow💫🏳️💫3
+      - 星月·💫未知💫unKnow💫🏳️💫4
+      - 星月·💫未知💫unKnow💫🏳️💫5
+      - 星月·💫未知💫unKnow💫🏳️💫6
+      - 星月·💫未知💫unKnow💫🏳️💫7
+      - 星月·💫未知💫unKnow💫🏳️💫8
+      - 星月·💫日本💫JP💫🇯🇵💫9
+      - 星月·💫中国💫CN💫🇨🇳💫10
+      - 星月·💫中国💫CN💫🇨🇳💫11
+      - 星月·💫中国💫CN💫🇨🇳💫12
+      - 星月·💫中国💫CN💫🇨🇳💫13
+      - 星月·💫未知💫unKnow💫🏳️💫14
+      - 星月·💫未知💫unKnow💫🏳️💫15
+      - 星月·💫未知💫unKnow💫🏳️💫16
+      - 星月·💫未知💫unKnow💫🏳️💫17
+      - 星月·💫日本💫JP💫🇯🇵💫18
+      - 星月·💫中国💫CN💫🇨🇳💫19
+      - 星月·💫中国💫CN💫🇨🇳💫20
+      - 星月·💫未知💫unKnow💫🏳️💫21
+      - 星月·💫未知💫unKnow💫🏳️💫22
+      - 星月·💫未知💫unKnow💫🏳️💫23
+      - 星月·💫未知💫unKnow💫🏳️💫24
+      - 星月·💫日本💫JP💫🇯🇵💫25
+      - 星月·💫中国💫CN💫🇨🇳💫26
+      - 星月·💫中国💫CN💫🇨🇳💫27
+      - 星月·💫中国💫CN💫🇨🇳💫28
+      - 星月·💫中国💫CN💫🇨🇳💫29
+      - 星月·💫未知💫unKnow💫🏳️💫30
+      - 星月·💫未知💫unKnow💫🏳️💫31
+      - 星月·💫未知💫unKnow💫🏳️💫32
+      - 星月·💫未知💫unKnow💫🏳️💫33
+      - 星月·💫中国💫CN💫🇨🇳💫34
+      - 星月·💫中国💫CN💫🇨🇳💫35
+      - 星月·💫中国💫CN💫🇨🇳💫36
+      - 星月·💫中国💫CN💫🇨🇳💫37
+      - 星月·💫未知💫unKnow💫🏳️💫38
+      - 星月·💫未知💫unKnow💫🏳️💫39
+      - 星月·💫未知💫unKnow💫🏳️💫40
+      - 星月·💫未知💫unKnow💫🏳️💫41
+      - 星月·💫日本💫JP💫🇯🇵💫42
+      - 星月·💫中国💫CN💫🇨🇳💫43
+      - 星月·💫中国💫CN💫🇨🇳💫44
+      - 星月·💫中国💫CN💫🇨🇳💫45
+      - 星月·💫中国💫CN💫🇨🇳💫46
+      - 星月·💫未知💫unKnow💫🏳️💫47
+      - 星月·💫未知💫unKnow💫🏳️💫48
+      - 星月·💫未知💫unKnow💫🏳️💫49
+      - 星月·💫未知💫unKnow💫🏳️💫50
+      - 星月·💫中国💫CN💫🇨🇳💫51
+      - 星月·💫中国💫CN💫🇨🇳💫52
+      - 星月·💫未知💫unKnow💫🏳️💫53
+      - 星月·💫未知💫unKnow💫🏳️💫54
+      - 星月·💫未知💫unKnow💫🏳️💫55
+      - 星月·💫未知💫unKnow💫🏳️💫56
+      - 星月·💫未知💫unKnow💫🏳️💫57
+      - 星月·💫中国💫CN💫🇨🇳💫58
+      - 星月·💫中国💫CN💫🇨🇳💫59
+      - 星月·💫未知💫unKnow💫🏳️💫60
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -883,66 +883,66 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 日月·🌙1🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙2🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙3🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙4🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙5🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙6🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙7🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙8🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙9🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙10🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙11🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙12🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙13🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙14🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙15🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙16🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙17🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙18🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙19🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙20🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙21🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙22🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙23🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙24🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙25🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙26🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙27🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙28🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙29🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙30🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙31🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙32🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙33🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙34🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙35🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙36🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙37🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙38🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙39🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙40🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙41🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙42🌙日本🌙JP🌙🇯🇵
-      - 日月·🌙43🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙44🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙45🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙46🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙47🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙48🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙49🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙50🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙51🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙52🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙53🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙54🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙55🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙56🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙57🌙未知🌙unKnow🌙🏳️
-      - 日月·🌙58🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙59🌙中国🌙CN🌙🇨🇳
-      - 日月·🌙60🌙未知🌙unKnow🌙🏳️
+      - 星月·💫未知💫unKnow💫🏳️💫1
+      - 星月·💫未知💫unKnow💫🏳️💫2
+      - 星月·💫未知💫unKnow💫🏳️💫3
+      - 星月·💫未知💫unKnow💫🏳️💫4
+      - 星月·💫未知💫unKnow💫🏳️💫5
+      - 星月·💫未知💫unKnow💫🏳️💫6
+      - 星月·💫未知💫unKnow💫🏳️💫7
+      - 星月·💫未知💫unKnow💫🏳️💫8
+      - 星月·💫日本💫JP💫🇯🇵💫9
+      - 星月·💫中国💫CN💫🇨🇳💫10
+      - 星月·💫中国💫CN💫🇨🇳💫11
+      - 星月·💫中国💫CN💫🇨🇳💫12
+      - 星月·💫中国💫CN💫🇨🇳💫13
+      - 星月·💫未知💫unKnow💫🏳️💫14
+      - 星月·💫未知💫unKnow💫🏳️💫15
+      - 星月·💫未知💫unKnow💫🏳️💫16
+      - 星月·💫未知💫unKnow💫🏳️💫17
+      - 星月·💫日本💫JP💫🇯🇵💫18
+      - 星月·💫中国💫CN💫🇨🇳💫19
+      - 星月·💫中国💫CN💫🇨🇳💫20
+      - 星月·💫未知💫unKnow💫🏳️💫21
+      - 星月·💫未知💫unKnow💫🏳️💫22
+      - 星月·💫未知💫unKnow💫🏳️💫23
+      - 星月·💫未知💫unKnow💫🏳️💫24
+      - 星月·💫日本💫JP💫🇯🇵💫25
+      - 星月·💫中国💫CN💫🇨🇳💫26
+      - 星月·💫中国💫CN💫🇨🇳💫27
+      - 星月·💫中国💫CN💫🇨🇳💫28
+      - 星月·💫中国💫CN💫🇨🇳💫29
+      - 星月·💫未知💫unKnow💫🏳️💫30
+      - 星月·💫未知💫unKnow💫🏳️💫31
+      - 星月·💫未知💫unKnow💫🏳️💫32
+      - 星月·💫未知💫unKnow💫🏳️💫33
+      - 星月·💫中国💫CN💫🇨🇳💫34
+      - 星月·💫中国💫CN💫🇨🇳💫35
+      - 星月·💫中国💫CN💫🇨🇳💫36
+      - 星月·💫中国💫CN💫🇨🇳💫37
+      - 星月·💫未知💫unKnow💫🏳️💫38
+      - 星月·💫未知💫unKnow💫🏳️💫39
+      - 星月·💫未知💫unKnow💫🏳️💫40
+      - 星月·💫未知💫unKnow💫🏳️💫41
+      - 星月·💫日本💫JP💫🇯🇵💫42
+      - 星月·💫中国💫CN💫🇨🇳💫43
+      - 星月·💫中国💫CN💫🇨🇳💫44
+      - 星月·💫中国💫CN💫🇨🇳💫45
+      - 星月·💫中国💫CN💫🇨🇳💫46
+      - 星月·💫未知💫unKnow💫🏳️💫47
+      - 星月·💫未知💫unKnow💫🏳️💫48
+      - 星月·💫未知💫unKnow💫🏳️💫49
+      - 星月·💫未知💫unKnow💫🏳️💫50
+      - 星月·💫中国💫CN💫🇨🇳💫51
+      - 星月·💫中国💫CN💫🇨🇳💫52
+      - 星月·💫未知💫unKnow💫🏳️💫53
+      - 星月·💫未知💫unKnow💫🏳️💫54
+      - 星月·💫未知💫unKnow💫🏳️💫55
+      - 星月·💫未知💫unKnow💫🏳️💫56
+      - 星月·💫未知💫unKnow💫🏳️💫57
+      - 星月·💫中国💫CN💫🇨🇳💫58
+      - 星月·💫中国💫CN💫🇨🇳💫59
+      - 星月·💫未知💫unKnow💫🏳️💫60
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
