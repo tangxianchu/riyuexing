@@ -48,7 +48,177 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 星月备用💫中国💫CN💫🇨🇳💫1
+  - name: 日月专供·🌙US🌙🇺🇸🌙1🌙美国
+    port: 8443
+    server: 162.159.138.178
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: riyue.tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: riyue.tangxianchu.filegear-sg.me
+    alpn:
+      - h3
+    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
+    client-fingerprint: random
+  - name: 日月专供·🌙US🌙🇺🇸🌙2🌙美国
+    port: 2096
+    server: 162.159.142.252
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: riyue.tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: riyue.tangxianchu.filegear-sg.me
+    alpn:
+      - h3
+    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
+    client-fingerprint: random
+  - name: 日月专供·🌙US🌙🇺🇸🌙3🌙美国
+    port: 2053
+    server: 162.159.141.161
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: riyue.tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: riyue.tangxianchu.filegear-sg.me
+    alpn:
+      - h3
+    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
+    client-fingerprint: random
+  - name: 日月专供·🌙US🌙🇺🇸🌙4🌙美国
+    port: 8443
+    server: 104.20.30.149
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: riyue.tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: riyue.tangxianchu.filegear-sg.me
+    alpn:
+      - h3
+    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
+    client-fingerprint: random
+  - name: 日月专供·🌙US🌙🇺🇸🌙5🌙美国
+    port: 2087
+    server: 172.67.74.9
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: riyue.tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: riyue.tangxianchu.filegear-sg.me
+    alpn:
+      - h3
+    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
+    client-fingerprint: random
+  - name: 日月专供·🌙US🌙🇺🇸🌙6🌙美国
+    port: 2087
+    server: 104.20.30.149
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: riyue.tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: riyue.tangxianchu.filegear-sg.me
+    alpn:
+      - h3
+    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
+    client-fingerprint: random
+  - name: 日月专供·🌙US🌙🇺🇸🌙7🌙美国
+    port: 2096
+    server: 104.19.57.183
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: riyue.tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: riyue.tangxianchu.filegear-sg.me
+    alpn:
+      - h3
+    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
+    client-fingerprint: random
+  - name: 日月专供·🌙US🌙🇺🇸🌙8🌙美国
+    port: 2096
+    server: 104.19.103.190
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: riyue.tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: riyue.tangxianchu.filegear-sg.me
+    alpn:
+      - h3
+    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
+    client-fingerprint: random
+  - name: 日月专供·🌙US🌙🇺🇸🌙9🌙美国
+    port: 2096
+    server: 104.19.107.190
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: riyue.tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: riyue.tangxianchu.filegear-sg.me
+    alpn:
+      - h3
+    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
+    client-fingerprint: random
+  - name: 日月专供·🌙US🌙🇺🇸🌙10🌙美国
+    port: 2096
+    server: 162.159.138.178
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: riyue.tangxianchu.filegear-sg.me
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: riyue.tangxianchu.filegear-sg.me
+    alpn:
+      - h3
+    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
+    client-fingerprint: random
+  - name: 日月专供·🌙CN🌙🇨🇳🌙11🌙中国
     port: 5443
     server: 218.102.249.182
     type: vless
@@ -65,7 +235,7 @@ proxies:
       - h3
     uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
     client-fingerprint: random
-  - name: 星月备用💫中国💫CN💫🇨🇳💫2
+  - name: 日月专供·🌙CN🌙🇨🇳🌙12🌙中国
     port: 34237
     server: 103.235.18.61
     type: vless
@@ -82,7 +252,7 @@ proxies:
       - h3
     uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
     client-fingerprint: random
-  - name: 星月备用💫中国💫CN💫🇨🇳💫3
+  - name: 日月专供·🌙CN🌙🇨🇳🌙13🌙中国
     port: 12512
     server: 220.246.53.107
     type: vless
@@ -99,7 +269,7 @@ proxies:
       - h3
     uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
     client-fingerprint: random
-  - name: 星月备用💫中国💫CN💫🇨🇳💫4
+  - name: 日月专供·🌙CN🌙🇨🇳🌙14🌙中国
     port: 1000
     server: 43.247.134.181
     type: vless
@@ -116,7 +286,7 @@ proxies:
       - h3
     uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
     client-fingerprint: random
-  - name: 星月备用💫美国💫US💫🇺🇸💫5
+  - name: 日月专供·🌙US🌙🇺🇸🌙15🌙美国
     port: 18443
     server: 18.162.246.4
     type: vless
@@ -133,7 +303,7 @@ proxies:
       - h3
     uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
     client-fingerprint: random
-  - name: 星月备用💫澳大利亚💫AU💫🇦🇺💫6
+  - name: 日月专供·🌙AU🌙🇦🇺🌙16🌙澳大利亚
     port: 8099
     server: 43.198.148.59
     type: vless
@@ -150,7 +320,7 @@ proxies:
       - h3
     uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
     client-fingerprint: random
-  - name: 星月备用💫美国💫US💫🇺🇸💫7
+  - name: 日月专供·🌙US🌙🇺🇸🌙17🌙美国
     port: 2053
     server: 16.163.147.103
     type: vless
@@ -167,7 +337,7 @@ proxies:
       - h3
     uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
     client-fingerprint: random
-  - name: 星月备用💫美国💫US💫🇺🇸💫8
+  - name: 日月专供·🌙US🌙🇺🇸🌙18🌙美国
     port: 18443
     server: 18.166.149.73
     type: vless
@@ -184,7 +354,7 @@ proxies:
       - h3
     uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
     client-fingerprint: random
-  - name: 星月备用💫美国💫US💫🇺🇸💫9
+  - name: 日月专供·🌙US🌙🇺🇸🌙19🌙美国
     port: 443
     server: 18.167.194.154
     type: vless
@@ -201,7 +371,7 @@ proxies:
       - h3
     uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
     client-fingerprint: random
-  - name: 星月备用💫中国💫CN💫🇨🇳💫10
+  - name: 日月专供·🌙CN🌙🇨🇳🌙20🌙中国
     port: 81
     server: 210.61.97.241
     type: vless
@@ -218,7 +388,7 @@ proxies:
       - h3
     uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
     client-fingerprint: random
-  - name: 星月备用💫中国💫CN💫🇨🇳💫11
+  - name: 日月专供·🌙CN🌙🇨🇳🌙21🌙中国
     port: 26612
     server: 220.135.84.4
     type: vless
@@ -235,7 +405,7 @@ proxies:
       - h3
     uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
     client-fingerprint: random
-  - name: 星月备用💫中国💫CN💫🇨🇳💫12
+  - name: 日月专供·🌙CN🌙🇨🇳🌙22🌙中国
     port: 12308
     server: 60.248.63.88
     type: vless
@@ -258,105 +428,165 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 星月备用💫中国💫CN💫🇨🇳💫1
-      - 星月备用💫中国💫CN💫🇨🇳💫2
-      - 星月备用💫中国💫CN💫🇨🇳💫3
-      - 星月备用💫中国💫CN💫🇨🇳💫4
-      - 星月备用💫美国💫US💫🇺🇸💫5
-      - 星月备用💫澳大利亚💫AU💫🇦🇺💫6
-      - 星月备用💫美国💫US💫🇺🇸💫7
-      - 星月备用💫美国💫US💫🇺🇸💫8
-      - 星月备用💫美国💫US💫🇺🇸💫9
-      - 星月备用💫中国💫CN💫🇨🇳💫10
-      - 星月备用💫中国💫CN💫🇨🇳💫11
-      - 星月备用💫中国💫CN💫🇨🇳💫12
+      - 日月专供·🌙US🌙🇺🇸🌙1🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙2🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙3🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙4🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙5🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙6🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙7🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙8🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙9🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙10🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙11🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙12🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙13🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙14🌙中国
+      - 日月专供·🌙US🌙🇺🇸🌙15🌙美国
+      - 日月专供·🌙AU🌙🇦🇺🌙16🌙澳大利亚
+      - 日月专供·🌙US🌙🇺🇸🌙17🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙18🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙19🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙20🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙21🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙22🌙中国
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 星月备用💫中国💫CN💫🇨🇳💫1
-      - 星月备用💫中国💫CN💫🇨🇳💫2
-      - 星月备用💫中国💫CN💫🇨🇳💫3
-      - 星月备用💫中国💫CN💫🇨🇳💫4
-      - 星月备用💫美国💫US💫🇺🇸💫5
-      - 星月备用💫澳大利亚💫AU💫🇦🇺💫6
-      - 星月备用💫美国💫US💫🇺🇸💫7
-      - 星月备用💫美国💫US💫🇺🇸💫8
-      - 星月备用💫美国💫US💫🇺🇸💫9
-      - 星月备用💫中国💫CN💫🇨🇳💫10
-      - 星月备用💫中国💫CN💫🇨🇳💫11
-      - 星月备用💫中国💫CN💫🇨🇳💫12
+      - 日月专供·🌙US🌙🇺🇸🌙1🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙2🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙3🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙4🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙5🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙6🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙7🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙8🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙9🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙10🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙11🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙12🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙13🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙14🌙中国
+      - 日月专供·🌙US🌙🇺🇸🌙15🌙美国
+      - 日月专供·🌙AU🌙🇦🇺🌙16🌙澳大利亚
+      - 日月专供·🌙US🌙🇺🇸🌙17🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙18🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙19🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙20🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙21🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙22🌙中国
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 星月备用💫中国💫CN💫🇨🇳💫1
-      - 星月备用💫中国💫CN💫🇨🇳💫2
-      - 星月备用💫中国💫CN💫🇨🇳💫3
-      - 星月备用💫中国💫CN💫🇨🇳💫4
-      - 星月备用💫美国💫US💫🇺🇸💫5
-      - 星月备用💫澳大利亚💫AU💫🇦🇺💫6
-      - 星月备用💫美国💫US💫🇺🇸💫7
-      - 星月备用💫美国💫US💫🇺🇸💫8
-      - 星月备用💫美国💫US💫🇺🇸💫9
-      - 星月备用💫中国💫CN💫🇨🇳💫10
-      - 星月备用💫中国💫CN💫🇨🇳💫11
-      - 星月备用💫中国💫CN💫🇨🇳💫12
+      - 日月专供·🌙US🌙🇺🇸🌙1🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙2🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙3🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙4🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙5🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙6🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙7🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙8🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙9🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙10🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙11🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙12🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙13🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙14🌙中国
+      - 日月专供·🌙US🌙🇺🇸🌙15🌙美国
+      - 日月专供·🌙AU🌙🇦🇺🌙16🌙澳大利亚
+      - 日月专供·🌙US🌙🇺🇸🌙17🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙18🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙19🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙20🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙21🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙22🌙中国
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 星月备用💫中国💫CN💫🇨🇳💫1
-      - 星月备用💫中国💫CN💫🇨🇳💫2
-      - 星月备用💫中国💫CN💫🇨🇳💫3
-      - 星月备用💫中国💫CN💫🇨🇳💫4
-      - 星月备用💫美国💫US💫🇺🇸💫5
-      - 星月备用💫澳大利亚💫AU💫🇦🇺💫6
-      - 星月备用💫美国💫US💫🇺🇸💫7
-      - 星月备用💫美国💫US💫🇺🇸💫8
-      - 星月备用💫美国💫US💫🇺🇸💫9
-      - 星月备用💫中国💫CN💫🇨🇳💫10
-      - 星月备用💫中国💫CN💫🇨🇳💫11
-      - 星月备用💫中国💫CN💫🇨🇳💫12
+      - 日月专供·🌙US🌙🇺🇸🌙1🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙2🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙3🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙4🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙5🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙6🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙7🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙8🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙9🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙10🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙11🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙12🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙13🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙14🌙中国
+      - 日月专供·🌙US🌙🇺🇸🌙15🌙美国
+      - 日月专供·🌙AU🌙🇦🇺🌙16🌙澳大利亚
+      - 日月专供·🌙US🌙🇺🇸🌙17🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙18🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙19🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙20🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙21🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙22🌙中国
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 星月备用💫中国💫CN💫🇨🇳💫1
-      - 星月备用💫中国💫CN💫🇨🇳💫2
-      - 星月备用💫中国💫CN💫🇨🇳💫3
-      - 星月备用💫中国💫CN💫🇨🇳💫4
-      - 星月备用💫美国💫US💫🇺🇸💫5
-      - 星月备用💫澳大利亚💫AU💫🇦🇺💫6
-      - 星月备用💫美国💫US💫🇺🇸💫7
-      - 星月备用💫美国💫US💫🇺🇸💫8
-      - 星月备用💫美国💫US💫🇺🇸💫9
-      - 星月备用💫中国💫CN💫🇨🇳💫10
-      - 星月备用💫中国💫CN💫🇨🇳💫11
-      - 星月备用💫中国💫CN💫🇨🇳💫12
+      - 日月专供·🌙US🌙🇺🇸🌙1🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙2🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙3🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙4🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙5🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙6🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙7🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙8🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙9🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙10🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙11🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙12🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙13🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙14🌙中国
+      - 日月专供·🌙US🌙🇺🇸🌙15🌙美国
+      - 日月专供·🌙AU🌙🇦🇺🌙16🌙澳大利亚
+      - 日月专供·🌙US🌙🇺🇸🌙17🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙18🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙19🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙20🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙21🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙22🌙中国
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 星月备用💫中国💫CN💫🇨🇳💫1
-      - 星月备用💫中国💫CN💫🇨🇳💫2
-      - 星月备用💫中国💫CN💫🇨🇳💫3
-      - 星月备用💫中国💫CN💫🇨🇳💫4
-      - 星月备用💫美国💫US💫🇺🇸💫5
-      - 星月备用💫澳大利亚💫AU💫🇦🇺💫6
-      - 星月备用💫美国💫US💫🇺🇸💫7
-      - 星月备用💫美国💫US💫🇺🇸💫8
-      - 星月备用💫美国💫US💫🇺🇸💫9
-      - 星月备用💫中国💫CN💫🇨🇳💫10
-      - 星月备用💫中国💫CN💫🇨🇳💫11
-      - 星月备用💫中国💫CN💫🇨🇳💫12
+      - 日月专供·🌙US🌙🇺🇸🌙1🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙2🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙3🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙4🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙5🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙6🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙7🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙8🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙9🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙10🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙11🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙12🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙13🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙14🌙中国
+      - 日月专供·🌙US🌙🇺🇸🌙15🌙美国
+      - 日月专供·🌙AU🌙🇦🇺🌙16🌙澳大利亚
+      - 日月专供·🌙US🌙🇺🇸🌙17🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙18🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙19🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙20🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙21🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙22🌙中国
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -379,18 +609,28 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 星月备用💫中国💫CN💫🇨🇳💫1
-      - 星月备用💫中国💫CN💫🇨🇳💫2
-      - 星月备用💫中国💫CN💫🇨🇳💫3
-      - 星月备用💫中国💫CN💫🇨🇳💫4
-      - 星月备用💫美国💫US💫🇺🇸💫5
-      - 星月备用💫澳大利亚💫AU💫🇦🇺💫6
-      - 星月备用💫美国💫US💫🇺🇸💫7
-      - 星月备用💫美国💫US💫🇺🇸💫8
-      - 星月备用💫美国💫US💫🇺🇸💫9
-      - 星月备用💫中国💫CN💫🇨🇳💫10
-      - 星月备用💫中国💫CN💫🇨🇳💫11
-      - 星月备用💫中国💫CN💫🇨🇳💫12
+      - 日月专供·🌙US🌙🇺🇸🌙1🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙2🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙3🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙4🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙5🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙6🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙7🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙8🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙9🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙10🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙11🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙12🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙13🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙14🌙中国
+      - 日月专供·🌙US🌙🇺🇸🌙15🌙美国
+      - 日月专供·🌙AU🌙🇦🇺🌙16🌙澳大利亚
+      - 日月专供·🌙US🌙🇺🇸🌙17🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙18🌙美国
+      - 日月专供·🌙US🌙🇺🇸🌙19🌙美国
+      - 日月专供·🌙CN🌙🇨🇳🌙20🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙21🌙中国
+      - 日月专供·🌙CN🌙🇨🇳🌙22🌙中国
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
