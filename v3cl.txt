@@ -48,800 +48,1189 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥1
-    port: 53066
-    server: gonggao01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥2
-    port: 53070
-    server: gonggao03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥3
-    port: 53070
-    server: gonggao03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥4
-    port: 53072
-    server: gonggao04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥5
-    port: 54000
-    server: h-k01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥6
-    port: 54002
-    server: h-k02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥7
-    port: 54004
-    server: h-k03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥8
-    port: 54006
-    server: h-k04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥JP￥日本￥🇯🇵￥9
-    port: 60004
-    server: adoredone.cc
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥10
-    port: 45107
-    server: 183.232.159.51
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥11
-    port: 39551
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥12
-    port: 11308
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥13
-    port: 47621
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥14
-    port: 54024
-    server: s-g01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥15
-    port: 54026
-    server: s-g02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥16
-    port: 54028
-    server: s-g03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥17
-    port: 54030
-    server: s-g04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥JP￥日本￥🇯🇵￥18
-    port: 60003
-    server: adoredone.cc
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥19
-    port: 49392
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥20
-    port: 53062
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥21
-    port: 54096
-    server: j-p01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥22
-    port: 54098
-    server: j-p02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥23
-    port: 54100
-    server: j-p03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥24
-    port: 54102
-    server: j-p04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥JP￥日本￥🇯🇵￥25
-    port: 60002
-    server: adoredone.cc
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥26
-    port: 33238
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥27
-    port: 26714
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥28
-    port: 41886
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥29
-    port: 22064
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥30
-    port: 54016
-    server: u-s01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥31
-    port: 54018
-    server: u-s02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥32
-    port: 54020
-    server: u-s03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥33
-    port: 54022
-    server: u-s04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥34
-    port: 11329
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥35
-    port: 47046
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥36
-    port: 37959
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥37
-    port: 19505
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥38
-    port: 54032
-    server: t-wn01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥39
-    port: 54034
-    server: t-wn02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥40
-    port: 54036
-    server: t-wn03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥41
-    port: 54038
-    server: t-wn04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥JP￥日本￥🇯🇵￥42
-    port: 60005
-    server: adoredone.cc
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥43
-    port: 55971
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥44
-    port: 15132
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥45
-    port: 34401
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥46
-    port: 58246
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥47
-    port: 54008
-    server: k-r01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥48
-    port: 54010
-    server: k-r02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥49
-    port: 54012
-    server: k-r03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥50
-    port: 54014
-    server: k-r04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥51
-    port: 55518
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥52
-    port: 23707
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥53
-    port: 53066
-    server: gonggao01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥54
-    port: 54040
-    server: u-k01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥55
-    port: 54042
-    server: u-k02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥56
-    port: 54044
-    server: u-k03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥57
-    port: 54046
-    server: u-k04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥58
-    port: 59193
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥CN￥中国￥🇨🇳￥59
-    port: 55446
-    server: 110.40.59.61
-    type: ss
-    udp: true
-    password: 173c0893-5ab2-4223-88ce-b6e8d512306b
-    cipher: chacha20-ietf-poly1305
-  - name: 哦！看看你的网络￥unKnow￥未知￥🏳️￥60
-    port: 53068
-    server: gonggao02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 哦哦哦！看你的网络￥US￥1￥美国￥🇺🇸
-    port: 2096
-    server: 162.159.138.178
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥2￥美国￥🇺🇸
-    port: 8443
-    server: 162.159.138.178
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥3￥美国￥🇺🇸
-    port: 2096
-    server: 162.159.142.252
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥4￥美国￥🇺🇸
-    port: 2053
-    server: 162.159.141.161
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥5￥美国￥🇺🇸
-    port: 8443
-    server: 104.20.30.149
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥6￥美国￥🇺🇸
-    port: 2087
-    server: 172.67.74.9
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥7￥美国￥🇺🇸
-    port: 2087
-    server: 104.20.30.149
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥8￥美国￥🇺🇸
-    port: 2096
-    server: 104.19.57.183
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥9￥美国￥🇺🇸
-    port: 2096
-    server: 104.19.103.190
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥10￥美国￥🇺🇸
-    port: 2096
-    server: 104.19.107.190
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥unKnow￥11￥未知￥🏳️
-    port: 2096
-    server: 2606:4700:3036:ef:92f:be51:8695:9fc5
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥unKnow￥12￥未知￥🏳️
-    port: 2053
-    server: 2606:4700:3036:0:a36a:4aa4:75d9:9f75
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥unKnow￥13￥未知￥🏳️
-    port: 2087
-    server: 2606:4700:3036:ef:db9e:eecc:caef:9d4a
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥CN￥14￥中国￥🇨🇳
-    port: 5443
-    server: 218.102.249.182
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥CN￥15￥中国￥🇨🇳
-    port: 34237
-    server: 103.235.18.61
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥16￥美国￥🇺🇸
-    port: 587
-    server: 154.12.176.201
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥CN￥17￥中国￥🇨🇳
-    port: 1000
-    server: 43.247.134.181
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥18￥美国￥🇺🇸
-    port: 18443
-    server: 18.162.246.4
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥AU￥19￥澳大利亚￥🇦🇺
-    port: 8099
-    server: 43.198.148.59
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥20￥美国￥🇺🇸
-    port: 2053
-    server: 16.163.147.103
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥21￥美国￥🇺🇸
-    port: 18443
-    server: 18.166.149.73
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
-  - name: 哦哦哦！看你的网络￥US￥22￥美国￥🇺🇸
+  - name: cs日月c🇺🇸cUSc美国c1
     port: 443
-    server: 18.167.194.154
+    server: 3.112.128.236
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇯🇵cJPc日本c2
+    port: 443
+    server: 18.183.171.233
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇯🇵cJPc日本c3
+    port: 443
+    server: 52.196.65.55
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇺🇸cUSc美国c4
+    port: 443
+    server: 52.12.87.156
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇯🇵cJPc日本c5
+    port: 443
+    server: 13.230.104.31
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇦🇺cAUc澳大利亚c6
+    port: 443
+    server: 43.203.218.87
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇦🇺cAUc澳大利亚c7
+    port: 443
+    server: 43.201.254.74
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇺🇸cUSc美国c8
+    port: 443
+    server: 35.88.136.187
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇺🇸cUSc美国c9
+    port: 443
+    server: 54.187.244.22
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇺🇸cUSc美国c10
+    port: 443
+    server: 3.36.115.124
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇦🇺cAUc澳大利亚c11
+    port: 443
+    server: 43.201.72.28
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇺🇸cUSc美国c12
+    port: 443
+    server: 44.243.225.84
+    type: ss
+    udp: true
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: cs日月c🇺🇦cUAc乌克兰c13
+    port: 443
+    server: 31.43.179.22
     type: vless
     network: ws
     tls: true
     udp: true
-    servername: riyue.tangxianchu.filegear-sg.me
+    servername: cfed.tgzdyz2.top
+    skip-cert-verify: true
+    ws-opts:
+      path: tg@zdyz2
+    uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+    client-fingerprint: chrome
+  - name: cs日月c🇱🇹cLTc立陶宛c14
+    port: 443
+    server: 89.116.250.168
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: cfed.tgzdyz2.top
+    skip-cert-verify: true
+    ws-opts:
+      path: twitterfreecodestg@zdyz2
+    uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+    client-fingerprint: chrome
+  - name: cs日月c🇬🇧cGBc英国c15
+    port: 443
+    server: 51.20.124.5
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: happy.mianfeicf.lol
     skip-cert-verify: true
     ws-opts:
       path: /?ed=2560
-      headers:
-        host: riyue.tangxianchu.filegear-sg.me
-    alpn:
-      - h3
-    uuid: 161ccaf5-e3dd-43fb-87b1-faaa5532b334
-    client-fingerprint: random
+    uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd
+    client-fingerprint: chrome
+  - name: cs日月c🇷🇺cRUc俄罗斯c16
+    port: 33000
+    server: 77.221.143.183
+    type: vless
+    network: grpc
+    udp: true
+    servername: www.speedtest.net
+    skip-cert-verify: true
+    grpc-opts: {}
+    uuid: eae21a69-c4bf-4da6-9b7b-916a302ca32b
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c17
+    port: 2096
+    server: 172.67.192.145
+    type: vless
+    network: grpc
+    tls: true
+    udp: true
+    servername: v2rayfree1.v2rayfree1.space
+    skip-cert-verify: true
+    grpc-opts: {}
+    uuid: 696c96fa-5467-4d2e-bfe5-b529222064bd
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c18
+    port: 443
+    server: 70.34.207.153
+    type: hysteria2
+    udp: true
+    sni: 70.34.207.153
+    obfs: salamander
+    password: 18240b2dfdd76484
+    skip-cert-verify: true
+    obfs-password: d2648ec2
+  - name: cs日月c🇺🇸cUSc美国c19
+    port: 443
+    server: 45.76.0.86
+    type: hysteria2
+    udp: true
+    sni: 45.76.0.86
+    obfs: salamander
+    password: 1f17cdf0578a2860
+    skip-cert-verify: true
+    obfs-password: 4b817757
+  - name: cs日月c🇺🇸cUSc美国c20
+    port: 443
+    server: 66.135.11.68
+    type: hysteria2
+    udp: true
+    sni: 66.135.11.68
+    obfs: salamander
+    password: 4e9ee29b39a28277
+    skip-cert-verify: true
+    obfs-password: 13f7ba5f
+  - name: cs日月c🇨🇦cCAc加拿大c21
+    port: 60714
+    server: 108.181.24.39
+    type: hysteria2
+    udp: true
+    sni: www.bing.com
+    password: dongtaiwang.com
+    skip-cert-verify: true
+  - name: cs日月c🇺🇸cUSc美国c22
+    port: 443
+    server: 207.148.22.93
+    type: hysteria2
+    udp: true
+    sni: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    obfs: salamander
+    password: 9bb452b106ffc217
+    skip-cert-verify: true
+    obfs-password: cd29099d
+  - name: cs日月c🇦🇺cAUc澳大利亚c23
+    port: 443
+    server: 139.99.236.163
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: happy.mianfeicf.lol
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+    uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd
+    client-fingerprint: chrome
+  - name: cs日月c🇩🇪cDEc德国c24
+    port: 443
+    server: 89.187.169.72
+    type: vless
+    network: tcp
+    tls: true
+    udp: true
+    servername: www.cloudflare.com
+    skip-cert-verify: true
+    reality-opts:
+      public-key: B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g
+      short-id: 01b200e90e250221
+    uuid: 6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1
+    flow: xtls-rprx-vision
+    client-fingerprint: chrome
+  - name: cs日月c🇩🇪cDEc德国c25
+    port: 12000
+    server: baipiaojichangorgde.dbnnnnnnn.xyz
+    type: hysteria2
+    udp: true
+    sni: itunes.apple.com
+    password: dbce1593-c758-414f-9e7e-70a0ab09abb3
+    skip-cert-verify: true
+  - name: cs日月c🇫🇷cFRc法国c26
+    port: 443
+    server: 45.80.111.198
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: juzibaipiao.5112233.xyz
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2048
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    client-fingerprint: chrome
+  - name: cs日月c🇮🇷cIRc伊朗c27
+    port: 1001
+    server: 188.245.114.237
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: vless.ifx.us.kg
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    client-fingerprint: chrome
+  - name: cs日月c🇩🇪cDEc德国c28
+    port: 8080
+    server: 159.69.189.130
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: vless.ifx.us.kg
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560fp=chrome
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    client-fingerprint: chrome
+  - name: cs日月c🇪🇸cESc西班牙c29
+    port: 2053
+    server: 95.182.98.206
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: happy.mianfeicf.lol
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+    uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd
+    client-fingerprint: chrome
+  - name: cs日月c🇫🇷cFRc法国c30
+    port: 443
+    server: hdfy6d3.cpi1.eu.org
+    type: trojan
+    network: grpc
+    udp: true
+    sni: hdfy6d1.foriran.trade
+    password: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
+    skip-cert-verify: true
+    grpc-opts:
+      grpc-service-name: Mf0ozB1t4KFzoZoavn2kmJ
+  - name: cs日月c🇷🇺cRUc俄罗斯c31
+    port: 8443
+    server: 94.247.142.245
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: juzibaipiao.5112233.xyz
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2048
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    client-fingerprint: chrome
+  - name: cs日月c🇷🇺cRUc俄罗斯c32
+    port: 2096
+    server: 94.247.142.245
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: juzibaipiao.5112233.xyz
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2048
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    client-fingerprint: chrome
+  - name: cs日月c🇬🇧cGBc英国c33
+    port: 22222
+    server: 35.179.252.86
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: telegram-channel-vlessconfig.sohala.uk
+    skip-cert-verify: true
+    ws-opts:
+      path: /telegram-channel-vlessconfig-ws
+    uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+    client-fingerprint: chrome
+  - name: cs日月c🇷🇺cRUc俄罗斯c34
+    port: 47382
+    server: 185.22.152.93
+    type: hysteria2
+    udp: true
+    sni: www.bing.com
+    password: dongtaiwang.com
+    skip-cert-verify: true
+  - name: cs日月c🇱🇹cLTc立陶宛c35
+    port: 443
+    server: 185.176.24.120
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: cfed.tgzdyz2.top
+    skip-cert-verify: true
+    ws-opts:
+      path: tg@zdyz2security=tls
+    uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+    client-fingerprint: chrome
+  - name: cs日月c🇷🇺cRUc俄罗斯c36
+    port: 30000
+    server: singapore.fqjc.store
+    type: hysteria2
+    udp: true
+    sni: bing.com
+    password: 6df9c8a5-624b-47ef-9d09-92102f92f572
+    skip-cert-verify: true
+  - name: cs日月c🇸🇬cSGc新加坡c37
+    port: 26000
+    server: jiedianfsc.fsc.interld123456789.com
+    type: hysteria2
+    udp: true
+    sni: 234224.1234567890spcloud.com
+    password: b3b5f0b9-31a5-4868-8f86-8b4ea22ee781
+    skip-cert-verify: true
+  - name: cs日月c🇸🇬cSGc新加坡c38
+    port: 22000
+    server: jiedianfsc.fsc.interld123456789.com
+    type: hysteria2
+    udp: true
+    sni: cesuuu.1234567890spcloud.com
+    password: b3b5f0b9-31a5-4868-8f86-8b4ea22ee781
+    skip-cert-verify: true
+  - name: cs日月c🇸🇬cSGc新加坡c39
+    port: 24000
+    server: jiedianfsc.fsc.interld123456789.com
+    type: hysteria2
+    udp: true
+    sni: 234224.1234567890spcloud.com
+    password: b3b5f0b9-31a5-4868-8f86-8b4ea22ee781
+    skip-cert-verify: true
+  - name: cs日月c🇺🇸cUSc美国c40
+    port: 57812
+    server: 23.169.184.179
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: global2.ccdd.site
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+    uuid: e8899a8e-729a-43bc-aebf-95e12c6c6db6
+    client-fingerprint: chrome
+  - name: cs日月c🇳🇱cNLc荷兰c41
+    port: 443
+    server: 45.159.217.7
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: cfed.tgzdyz2.top
+    skip-cert-verify: true
+    ws-opts:
+      path: /tg@zdyz2
+    uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c42
+    port: 443
+    server: 167.68.11.247
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: cfed.tgzdyz2.top
+    skip-cert-verify: true
+    ws-opts:
+      path: tg@zdyz2security=tls
+    uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+    client-fingerprint: chrome
+  - name: cs日月c🇨🇦cCAc加拿大c43
+    port: 587
+    server: 154.12.45.61
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: vless.ifx.us.kg
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560fp=chrome
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c44
+    port: 587
+    server: 38.22.237.3
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: vless.ifx.us.kg
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c45
+    port: 587
+    server: 74.207.225.147
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: vless.ifx.us.kg
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560fp=chrome
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c46
+    port: 2053
+    server: 216.116.134.43
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: juzibaipiao.5112233.xyz
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2048
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c47
+    port: 2083
+    server: 199.34.228.65
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: SB-1U6.PAgeS.dEv
+    skip-cert-verify: true
+    ws-opts:
+      path: /urenftuu3z1kqryb/mtu4ljewms4ymdmumti3?ed=2560
+    uuid: fca01448-d84a-436e-9aec-3be1ebdfb350
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c48
+    port: 2096
+    server: 199.34.228.186
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: Sb-1U6.paGES.deV
+    skip-cert-verify: true
+    ws-opts:
+      path: /s6rb9yyj3qaak606/mtu4ljewms4ymdmumti3?ed=2560
+    uuid: fca01448-d84a-436e-9aec-3be1ebdfb350
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c49
+    port: 587
+    server: 38.105.26.231
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: vless.ifx.us.kg
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560fp=chrome
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c50
+    port: 443
+    server: 216.24.57.230
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lw.ylka.us.kg
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+    uuid: a13df940-020c-465f-bc89-ee5279b5cd6a
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c51
+    port: 443
+    server: 47.253.105.131
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: edgood.889876.xyz
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2048
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c52
+    port: 3128
+    server: 149.104.35.38
+    type: trojan
+    network: ws
+    udp: true
+    sni: trojan.tcorg.filegear-sg.me
+    password: FLorg
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2048
+  - name: cs日月c🇨🇳cCNc中国c53
+    port: 3128
+    server: 156.243.19.239
+    type: trojan
+    network: ws
+    udp: true
+    sni: trojan.tcorg.filegear-sg.me
+    password: FLorg
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2048
+  - name: cs日月c🇨🇳cCNc中国c54
+    port: 3128
+    server: 156.243.19.232
+    type: trojan
+    network: ws
+    udp: true
+    sni: trojan.tcorg.filegear-sg.me
+    password: FLorg
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2048
+  - name: cs日月c🇺🇸cUSc美国c55
+    port: 443
+    server: 92.118.228.154
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: abc.vpneee.top
+    skip-cert-verify: true
+    ws-opts:
+      path: /YnqGMcAt/
+    uuid: 8250d638-45df-41fa-b06f-160d1cb1de0c
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c56
+    port: 34607
+    server: bp.jisovpn.site
+    type: hysteria2
+    udp: true
+    password: 1bc872ea-c21d-477c-9d4b-8f4c52612e51
+    skip-cert-verify: true
+  - name: cs日月c🇺🇸cUSc美国c57
+    port: 443
+    server: 38.91.107.205
+    type: vmess
+    network: ws
+    tls: true
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    ws-opts:
+      path: linkvws
+    cipher: auto
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    alterId: 0
+  - name: cs日月c🇸🇬cSGc新加坡c58
+    port: 28002
+    server: jiedianfsc.fsc.interld123456789.com
+    type: hysteria2
+    udp: true
+    sni: cesuuu.1234567890spcloud.com
+    password: b3b5f0b9-31a5-4868-8f86-8b4ea22ee781
+    skip-cert-verify: true
+  - name: cs日月c🇺🇸cUSc美国c59
+    port: 12000
+    server: baipiaojichangus1.dbnnnnnnn.xyz
+    type: hysteria2
+    udp: true
+    sni: itunes.apple.com
+    password: dbce1593-c758-414f-9e7e-70a0ab09abb3
+    skip-cert-verify: true
+  - name: cs日月c🇸🇬cSGc新加坡c60
+    port: 28001
+    server: jiedianfsc.fsc.interld123456789.com
+    type: hysteria2
+    udp: true
+    sni: cesuuu.1234567890spcloud.com
+    password: b3b5f0b9-31a5-4868-8f86-8b4ea22ee781
+    skip-cert-verify: true
+  - name: cs日月c🇺🇸cUSc美国c61
+    port: 443
+    server: 170.114.46.140
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: cfed.tgzdyz2.top
+    skip-cert-verify: true
+    ws-opts:
+      path: tg@zdyz2
+    uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+    client-fingerprint: chrome
+  - name: cs日月c🇨🇦cCAc加拿大c62
+    port: 443
+    server: 205.233.181.211
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: cfed.tgzdyz2.top
+    skip-cert-verify: true
+    ws-opts:
+      path: /tg@zdyz2
+    uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c63
+    port: 443
+    server: an.anaviriti.info
+    type: vmess
+    network: ws
+    tls: true
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    ws-opts:
+      path: linkvws
+    cipher: auto
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    alterId: 0
+  - name: cs日月c🇺🇸cUSc美国c64
+    port: 443
+    server: 23spt.pages.dev
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: 23sPT.pAGEs.dEV
+    skip-cert-verify: true
+    ws-opts:
+      path: /Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/
+    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c65
+    port: 443
+    server: 104.21.30.22
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: freedom8.yeweroh309.workers.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+    uuid: 0ca3eb00-271b-49e0-b3c8-fe2e8ba634b8
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c66
+    port: 443
+    server: 162.159.192.141
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: BPb-workeR-PaNeL-aY6.Pages.Dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /hBzzWYeX8AXyuHZx?ed=2560
+    uuid: 09e09947-2a6f-4c87-85cd-6905a380ca8e
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c67
+    port: 443
+    server: 104.26.14.16
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: falcunargo.f0e7dc3bfe.workers.Dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2048
+    uuid: 1ca7e43f-a737-4667-948e-67c2059f82e9
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c68
+    port: 2053
+    server: 104.21.4.56
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+    uuid: 1ef91e6f-7522-4ded-84ea-4523dd2a15d6
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c69
+    port: 443
+    server: 104.21.24.57
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: freedom3.pacica4041.workers.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+    uuid: 1fb465ac-60fb-4b77-b4a6-cc590ee6124e
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c70
+    port: 443
+    server: 104.20.19.31
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: freedom-1rj.pages.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /freedom-1rj.pages.dev/?ed=2560
+    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c71
+    port: 443
+    server: 104.20.19.33
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: freedom-1rj.pages.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /freedom-1rj.pages.dev/?ed=2560
+    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c72
+    port: 2087
+    server: 104.21.7.193
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: freedom-1rj.pages.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /freedom-1rj.pages.dev/?ed=2560
+    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c73
+    port: 443
+    server: 108.162.195.148
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: freedom-1rj.pages.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /freedom-1rj.pages.dev/?ed=2560
+    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c74
+    port: 443
+    server: 104.26.12.31
+    type: trojan
+    network: ws
+    udp: true
+    sni: trojanfree-76s.pages.dev
+    password: auto
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+  - name: cs日月c🇺🇸cUSc美国c75
+    port: 443
+    server: 108.162.198.69
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: freedom-1rj.pages.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
+    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c76
+    port: 443
+    server: 172.67.180.15
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: paHlAvi.pAGEs.DeV
+    skip-cert-verify: true
+    ws-opts:
+      path: /@Free_V2rng/?ed=2560
+    uuid: 3c95c3eb-522a-46a0-a49a-14e10c03fbf8
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c77
+    port: 443
+    server: 172.66.44.90
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: pardazeshvpn-tg89.pages.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN?ed=2048
+    uuid: 2f758eb2-d936-4254-9227-71c38fc04609
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c78
+    port: 443
+    server: 104.18.35.86
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: BuGfrEEnet-sattAr.PAGes.DEV
+    skip-cert-verify: true
+    ws-opts:
+      path: /bmvpiqrOHtbFAnVM?ed=2560
+    uuid: 43f8f2c7-59fd-4ab4-b7dd-c52f0f0da18f
+    client-fingerprint: chrome
+  - name: cs日月c🇧🇷cBRc巴西c79
+    port: 443
+    server: 188.114.99.207
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: Noshteri.hooplnqpb.ir
+    skip-cert-verify: true
+    ws-opts:
+      path: /Telegram-------@mobilesignal/?ed=2048
+    uuid: 4f9219f6-ba56-4e5a-a676-0978d8b613e4
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c80
+    port: 443
+    server: 172.66.44.171
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: pardazeshvpn-tg104.pages.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN?ed=2048
+    uuid: 4785f3ca-8fa3-4717-8c81-9d19087c73a3
+    client-fingerprint: chrome
+  - name: cs日月c🇧🇷cBRc巴西c81
+    port: 8443
+    server: 188.114.97.3
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: GhacHVpN.HAFT1502.WORKErS.dEv
+    skip-cert-verify: true
+    ws-opts:
+      path: /Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048
+    uuid: 6a1aca29-e80f-47e1-981b-203ab9fd87de
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c82
+    port: 443
+    server: 104.21.96.7
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: PPAL03.beCowIt649.WOrkErs.dEV
+    skip-cert-verify: true
+    ws-opts:
+      path: /kvDEz4gJhCpFXOAi?ed=2560
+    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c83
+    port: 443
+    server: 172.67.129.73
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: ppaL03.oRalia-Salayah.WorKers.Dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /xBD2NhVkLbIofbqN?ed=2560
+    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c84
+    port: 443
+    server: 172.66.47.172
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: k5z3-1h6p-9t8R-2f4B-0W7G-3x2M-5U9d-8n1C-7E4j-6q0y-5s8v-2A9.pagES.dEv
+    skip-cert-verify: true
+    ws-opts:
+      path: /Telegram-@V2ray_Alpha/?ed=2560
+    uuid: f7b8c369-6ec0-4f8f-b0f2-96cbbb13e545
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c85
+    port: 443
+    server: 162.159.44.148
+    type: trojan
+    network: ws
+    udp: true
+    sni: trojanfree-76s.pages.dev
+    password: auto
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+  - name: cs日月c🇺🇸cUSc美国c86
+    port: 443
+    server: 104.21.89.84
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: configsenator.amirmohamad-na2006.workers.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+    uuid: d3484b27-0cdf-469b-953e-1066d4e488f8
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c87
+    port: 443
+    server: 172.67.171.65
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: fr2.vless.site
+    skip-cert-verify: true
+    ws-opts:
+      path: /vless
+    uuid: edeca314-5a2c-5936-a14e-f9b103103883
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c88
+    port: 443
+    server: www.udemy.com
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: purlitefastest.pages.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /purlitefastest.pages.dev/?ed=2560
+    uuid: 50b7fc84-85b4-4043-b1f7-6477c9017a44
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c89
+    port: 443
+    server: 104.20.19.172
+    type: trojan
+    network: ws
+    udp: true
+    sni: b96ef9ae.trojanfree-76s.pages.dev
+    password: auto
+    skip-cert-verify: true
+    ws-opts:
+      path: /b96ef9ae.trojanfree-76s.pages.dev/
+  - name: cs日月c🇺🇸cUSc美国c90
+    port: 8443
+    server: pardazeshvpn-tg60.pages.dev
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: pardazeshvpn-tg60.pages.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN
+    uuid: a94ccf98-19c8-4de4-bfb3-ac37a6696729
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c91
+    port: 443
+    server: pardazeshvpn-tg86.pages.dev
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: pardazeshvpn-tg86.pages.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: "/Telegram:"
+    uuid: bb27a0c6-aa5e-4105-a943-b87239507057
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c92
+    port: 443
+    server: 104.17.147.4
+    type: trojan
+    network: ws
+    udp: true
+    sni: jobscareertoday.com
+    password: 4732adfa16c6450bbef87264e41332db
+    skip-cert-verify: true
+    ws-opts:
+      path: /6b777a91
+  - name: cs日月c🇺🇸cUSc美国c93
+    port: 443
+    server: 104.17.61.7
+    type: trojan
+    network: ws
+    udp: true
+    sni: jobscareerfortoday.com
+    password: 4732adfa16c6450bbef87264e41332db
+    skip-cert-verify: true
+    ws-opts:
+      path: /6b777a91
+  - name: cs日月c🇺🇸cUSc美国c94
+    port: 443
+    server: ppal03.teheg18260.workers.dev
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: PpaL03.tehEG18260.wORkerS.Dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /GfO7dn5XDM9AzhmK?ed=2560
+    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c95
+    port: 443
+    server: mmdvpn442vpn442.cicgof.workers.dev
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: mmdvpn442vpn442.cicgof.workers.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c96
+    port: 443
+    server: 104.20.20.218
+    type: trojan
+    network: ws
+    udp: true
+    sni: b96ef9ae.trojanfree-76s.pages.dev
+    password: auto
+    skip-cert-verify: true
+    ws-opts:
+      path: /b96ef9ae.trojanfree-76s.pages.dev/
+  - name: cs日月c🇺🇸cUSc美国c97
+    port: 443
+    server: ppal03.magdalena-gaylord.workers.dev
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: Ppal03.mAgdalENa-gAyLorD.wORKERs.DEv
+    skip-cert-verify: true
+    ws-opts:
+      path: /iQm7_H2r35FnS6Uu?ed=2048
+    uuid: 40d3fdd7-e534-4762-a125-359484e522ef
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c98
+    port: 443
+    server: ppal03.mohammad-senger.workers.dev
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: PpaL03.mOHammAD-sEnGER.WoRKeRS.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /60DQVhzRgjIp-tWO?ed=2048
+    uuid: c4b6ad48-db4a-4348-8e4a-e6a64a863c7d
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c99
+    port: 443
+    server: st-fr-1.brocdn.com
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: st-fr-1.brocdn.com
+    skip-cert-verify: true
+    ws-opts:
+      path: /websocket
+    uuid: 25e42986-d60c-11ee-aaa8-00505603e70d
+    client-fingerprint: chrome
+  - name: cs日月c🇺🇸cUSc美国c100
+    port: 443
+    server: 104.20.19.45
+    type: trojan
+    network: ws
+    udp: true
+    sni: b96ef9ae.trojanfree-76s.pages.dev
+    password: auto
+    skip-cert-verify: true
+    ws-opts:
+      path: /b96ef9ae.trojanfree-76s.pages.dev/
+  - name: cs日月c🇺🇸cUSc美国c101
+    port: 443
+    server: 104.18.69.204
+    type: trojan
+    network: ws
+    udp: true
+    sni: 01jzus.zdzdzd.xyz
+    password: WOeXShhJpL
+    skip-cert-verify: true
+    ws-opts:
+      path: /juzigongyi
+  - name: cs日月c🇺🇸cUSc美国c102
+    port: 443
+    server: 162.159.44.176
+    type: trojan
+    network: ws
+    udp: true
+    sni: trojanmz.pages.dev
+    password: auto
+    skip-cert-verify: true
+    ws-opts:
+      path: /trojanmz.pages.dev?ed=2560
+  - name: cs日月c🇺🇸cUSc美国c103
+    port: 443
+    server: 172.67.72.18
+    type: trojan
+    network: ws
+    udp: true
+    sni: b96ef9ae.trojanfree-76s.pages.dev
+    password: auto
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+  - name: cs日月c🇺🇸cUSc美国c104
+    port: 443
+    server: 104.20.18.63
+    type: trojan
+    network: ws
+    udp: true
+    sni: b96ef9ae.trojanfree-76s.pages.dev
+    password: auto
+    skip-cert-verify: true
+    ws-opts:
+      path: /
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -850,348 +1239,436 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥1
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥2
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥3
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥4
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥5
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥6
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥7
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥8
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥9
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥10
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥11
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥12
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥13
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥14
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥15
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥16
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥17
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥18
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥19
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥20
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥21
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥22
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥23
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥24
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥25
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥26
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥27
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥28
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥29
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥30
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥31
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥32
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥33
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥34
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥35
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥36
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥37
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥38
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥39
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥40
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥41
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥42
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥43
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥44
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥45
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥46
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥47
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥48
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥49
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥50
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥51
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥52
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥53
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥54
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥55
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥56
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥57
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥58
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥59
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥60
-      - 哦哦哦！看你的网络￥US￥1￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥2￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥3￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥4￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥5￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥6￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥7￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥8￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥9￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥10￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥unKnow￥11￥未知￥🏳️
-      - 哦哦哦！看你的网络￥unKnow￥12￥未知￥🏳️
-      - 哦哦哦！看你的网络￥unKnow￥13￥未知￥🏳️
-      - 哦哦哦！看你的网络￥CN￥14￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥CN￥15￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥US￥16￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥CN￥17￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥US￥18￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥AU￥19￥澳大利亚￥🇦🇺
-      - 哦哦哦！看你的网络￥US￥20￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥21￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥22￥美国￥🇺🇸
+      - cs日月c🇺🇸cUSc美国c1
+      - cs日月c🇯🇵cJPc日本c2
+      - cs日月c🇯🇵cJPc日本c3
+      - cs日月c🇺🇸cUSc美国c4
+      - cs日月c🇯🇵cJPc日本c5
+      - cs日月c🇦🇺cAUc澳大利亚c6
+      - cs日月c🇦🇺cAUc澳大利亚c7
+      - cs日月c🇺🇸cUSc美国c8
+      - cs日月c🇺🇸cUSc美国c9
+      - cs日月c🇺🇸cUSc美国c10
+      - cs日月c🇦🇺cAUc澳大利亚c11
+      - cs日月c🇺🇸cUSc美国c12
+      - cs日月c🇺🇦cUAc乌克兰c13
+      - cs日月c🇱🇹cLTc立陶宛c14
+      - cs日月c🇬🇧cGBc英国c15
+      - cs日月c🇷🇺cRUc俄罗斯c16
+      - cs日月c🇺🇸cUSc美国c17
+      - cs日月c🇺🇸cUSc美国c18
+      - cs日月c🇺🇸cUSc美国c19
+      - cs日月c🇺🇸cUSc美国c20
+      - cs日月c🇨🇦cCAc加拿大c21
+      - cs日月c🇺🇸cUSc美国c22
+      - cs日月c🇦🇺cAUc澳大利亚c23
+      - cs日月c🇩🇪cDEc德国c24
+      - cs日月c🇩🇪cDEc德国c25
+      - cs日月c🇫🇷cFRc法国c26
+      - cs日月c🇮🇷cIRc伊朗c27
+      - cs日月c🇩🇪cDEc德国c28
+      - cs日月c🇪🇸cESc西班牙c29
+      - cs日月c🇫🇷cFRc法国c30
+      - cs日月c🇷🇺cRUc俄罗斯c31
+      - cs日月c🇷🇺cRUc俄罗斯c32
+      - cs日月c🇬🇧cGBc英国c33
+      - cs日月c🇷🇺cRUc俄罗斯c34
+      - cs日月c🇱🇹cLTc立陶宛c35
+      - cs日月c🇷🇺cRUc俄罗斯c36
+      - cs日月c🇸🇬cSGc新加坡c37
+      - cs日月c🇸🇬cSGc新加坡c38
+      - cs日月c🇸🇬cSGc新加坡c39
+      - cs日月c🇺🇸cUSc美国c40
+      - cs日月c🇳🇱cNLc荷兰c41
+      - cs日月c🇺🇸cUSc美国c42
+      - cs日月c🇨🇦cCAc加拿大c43
+      - cs日月c🇺🇸cUSc美国c44
+      - cs日月c🇺🇸cUSc美国c45
+      - cs日月c🇺🇸cUSc美国c46
+      - cs日月c🇺🇸cUSc美国c47
+      - cs日月c🇺🇸cUSc美国c48
+      - cs日月c🇺🇸cUSc美国c49
+      - cs日月c🇺🇸cUSc美国c50
+      - cs日月c🇺🇸cUSc美国c51
+      - cs日月c🇺🇸cUSc美国c52
+      - cs日月c🇨🇳cCNc中国c53
+      - cs日月c🇨🇳cCNc中国c54
+      - cs日月c🇺🇸cUSc美国c55
+      - cs日月c🇺🇸cUSc美国c56
+      - cs日月c🇺🇸cUSc美国c57
+      - cs日月c🇸🇬cSGc新加坡c58
+      - cs日月c🇺🇸cUSc美国c59
+      - cs日月c🇸🇬cSGc新加坡c60
+      - cs日月c🇺🇸cUSc美国c61
+      - cs日月c🇨🇦cCAc加拿大c62
+      - cs日月c🇺🇸cUSc美国c63
+      - cs日月c🇺🇸cUSc美国c64
+      - cs日月c🇺🇸cUSc美国c65
+      - cs日月c🇺🇸cUSc美国c66
+      - cs日月c🇺🇸cUSc美国c67
+      - cs日月c🇺🇸cUSc美国c68
+      - cs日月c🇺🇸cUSc美国c69
+      - cs日月c🇺🇸cUSc美国c70
+      - cs日月c🇺🇸cUSc美国c71
+      - cs日月c🇺🇸cUSc美国c72
+      - cs日月c🇺🇸cUSc美国c73
+      - cs日月c🇺🇸cUSc美国c74
+      - cs日月c🇺🇸cUSc美国c75
+      - cs日月c🇺🇸cUSc美国c76
+      - cs日月c🇺🇸cUSc美国c77
+      - cs日月c🇺🇸cUSc美国c78
+      - cs日月c🇧🇷cBRc巴西c79
+      - cs日月c🇺🇸cUSc美国c80
+      - cs日月c🇧🇷cBRc巴西c81
+      - cs日月c🇺🇸cUSc美国c82
+      - cs日月c🇺🇸cUSc美国c83
+      - cs日月c🇺🇸cUSc美国c84
+      - cs日月c🇺🇸cUSc美国c85
+      - cs日月c🇺🇸cUSc美国c86
+      - cs日月c🇺🇸cUSc美国c87
+      - cs日月c🇺🇸cUSc美国c88
+      - cs日月c🇺🇸cUSc美国c89
+      - cs日月c🇺🇸cUSc美国c90
+      - cs日月c🇺🇸cUSc美国c91
+      - cs日月c🇺🇸cUSc美国c92
+      - cs日月c🇺🇸cUSc美国c93
+      - cs日月c🇺🇸cUSc美国c94
+      - cs日月c🇺🇸cUSc美国c95
+      - cs日月c🇺🇸cUSc美国c96
+      - cs日月c🇺🇸cUSc美国c97
+      - cs日月c🇺🇸cUSc美国c98
+      - cs日月c🇺🇸cUSc美国c99
+      - cs日月c🇺🇸cUSc美国c100
+      - cs日月c🇺🇸cUSc美国c101
+      - cs日月c🇺🇸cUSc美国c102
+      - cs日月c🇺🇸cUSc美国c103
+      - cs日月c🇺🇸cUSc美国c104
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥1
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥2
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥3
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥4
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥5
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥6
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥7
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥8
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥9
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥10
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥11
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥12
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥13
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥14
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥15
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥16
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥17
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥18
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥19
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥20
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥21
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥22
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥23
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥24
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥25
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥26
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥27
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥28
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥29
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥30
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥31
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥32
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥33
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥34
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥35
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥36
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥37
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥38
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥39
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥40
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥41
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥42
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥43
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥44
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥45
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥46
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥47
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥48
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥49
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥50
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥51
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥52
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥53
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥54
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥55
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥56
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥57
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥58
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥59
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥60
-      - 哦哦哦！看你的网络￥US￥1￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥2￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥3￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥4￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥5￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥6￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥7￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥8￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥9￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥10￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥unKnow￥11￥未知￥🏳️
-      - 哦哦哦！看你的网络￥unKnow￥12￥未知￥🏳️
-      - 哦哦哦！看你的网络￥unKnow￥13￥未知￥🏳️
-      - 哦哦哦！看你的网络￥CN￥14￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥CN￥15￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥US￥16￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥CN￥17￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥US￥18￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥AU￥19￥澳大利亚￥🇦🇺
-      - 哦哦哦！看你的网络￥US￥20￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥21￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥22￥美国￥🇺🇸
+      - cs日月c🇺🇸cUSc美国c1
+      - cs日月c🇯🇵cJPc日本c2
+      - cs日月c🇯🇵cJPc日本c3
+      - cs日月c🇺🇸cUSc美国c4
+      - cs日月c🇯🇵cJPc日本c5
+      - cs日月c🇦🇺cAUc澳大利亚c6
+      - cs日月c🇦🇺cAUc澳大利亚c7
+      - cs日月c🇺🇸cUSc美国c8
+      - cs日月c🇺🇸cUSc美国c9
+      - cs日月c🇺🇸cUSc美国c10
+      - cs日月c🇦🇺cAUc澳大利亚c11
+      - cs日月c🇺🇸cUSc美国c12
+      - cs日月c🇺🇦cUAc乌克兰c13
+      - cs日月c🇱🇹cLTc立陶宛c14
+      - cs日月c🇬🇧cGBc英国c15
+      - cs日月c🇷🇺cRUc俄罗斯c16
+      - cs日月c🇺🇸cUSc美国c17
+      - cs日月c🇺🇸cUSc美国c18
+      - cs日月c🇺🇸cUSc美国c19
+      - cs日月c🇺🇸cUSc美国c20
+      - cs日月c🇨🇦cCAc加拿大c21
+      - cs日月c🇺🇸cUSc美国c22
+      - cs日月c🇦🇺cAUc澳大利亚c23
+      - cs日月c🇩🇪cDEc德国c24
+      - cs日月c🇩🇪cDEc德国c25
+      - cs日月c🇫🇷cFRc法国c26
+      - cs日月c🇮🇷cIRc伊朗c27
+      - cs日月c🇩🇪cDEc德国c28
+      - cs日月c🇪🇸cESc西班牙c29
+      - cs日月c🇫🇷cFRc法国c30
+      - cs日月c🇷🇺cRUc俄罗斯c31
+      - cs日月c🇷🇺cRUc俄罗斯c32
+      - cs日月c🇬🇧cGBc英国c33
+      - cs日月c🇷🇺cRUc俄罗斯c34
+      - cs日月c🇱🇹cLTc立陶宛c35
+      - cs日月c🇷🇺cRUc俄罗斯c36
+      - cs日月c🇸🇬cSGc新加坡c37
+      - cs日月c🇸🇬cSGc新加坡c38
+      - cs日月c🇸🇬cSGc新加坡c39
+      - cs日月c🇺🇸cUSc美国c40
+      - cs日月c🇳🇱cNLc荷兰c41
+      - cs日月c🇺🇸cUSc美国c42
+      - cs日月c🇨🇦cCAc加拿大c43
+      - cs日月c🇺🇸cUSc美国c44
+      - cs日月c🇺🇸cUSc美国c45
+      - cs日月c🇺🇸cUSc美国c46
+      - cs日月c🇺🇸cUSc美国c47
+      - cs日月c🇺🇸cUSc美国c48
+      - cs日月c🇺🇸cUSc美国c49
+      - cs日月c🇺🇸cUSc美国c50
+      - cs日月c🇺🇸cUSc美国c51
+      - cs日月c🇺🇸cUSc美国c52
+      - cs日月c🇨🇳cCNc中国c53
+      - cs日月c🇨🇳cCNc中国c54
+      - cs日月c🇺🇸cUSc美国c55
+      - cs日月c🇺🇸cUSc美国c56
+      - cs日月c🇺🇸cUSc美国c57
+      - cs日月c🇸🇬cSGc新加坡c58
+      - cs日月c🇺🇸cUSc美国c59
+      - cs日月c🇸🇬cSGc新加坡c60
+      - cs日月c🇺🇸cUSc美国c61
+      - cs日月c🇨🇦cCAc加拿大c62
+      - cs日月c🇺🇸cUSc美国c63
+      - cs日月c🇺🇸cUSc美国c64
+      - cs日月c🇺🇸cUSc美国c65
+      - cs日月c🇺🇸cUSc美国c66
+      - cs日月c🇺🇸cUSc美国c67
+      - cs日月c🇺🇸cUSc美国c68
+      - cs日月c🇺🇸cUSc美国c69
+      - cs日月c🇺🇸cUSc美国c70
+      - cs日月c🇺🇸cUSc美国c71
+      - cs日月c🇺🇸cUSc美国c72
+      - cs日月c🇺🇸cUSc美国c73
+      - cs日月c🇺🇸cUSc美国c74
+      - cs日月c🇺🇸cUSc美国c75
+      - cs日月c🇺🇸cUSc美国c76
+      - cs日月c🇺🇸cUSc美国c77
+      - cs日月c🇺🇸cUSc美国c78
+      - cs日月c🇧🇷cBRc巴西c79
+      - cs日月c🇺🇸cUSc美国c80
+      - cs日月c🇧🇷cBRc巴西c81
+      - cs日月c🇺🇸cUSc美国c82
+      - cs日月c🇺🇸cUSc美国c83
+      - cs日月c🇺🇸cUSc美国c84
+      - cs日月c🇺🇸cUSc美国c85
+      - cs日月c🇺🇸cUSc美国c86
+      - cs日月c🇺🇸cUSc美国c87
+      - cs日月c🇺🇸cUSc美国c88
+      - cs日月c🇺🇸cUSc美国c89
+      - cs日月c🇺🇸cUSc美国c90
+      - cs日月c🇺🇸cUSc美国c91
+      - cs日月c🇺🇸cUSc美国c92
+      - cs日月c🇺🇸cUSc美国c93
+      - cs日月c🇺🇸cUSc美国c94
+      - cs日月c🇺🇸cUSc美国c95
+      - cs日月c🇺🇸cUSc美国c96
+      - cs日月c🇺🇸cUSc美国c97
+      - cs日月c🇺🇸cUSc美国c98
+      - cs日月c🇺🇸cUSc美国c99
+      - cs日月c🇺🇸cUSc美国c100
+      - cs日月c🇺🇸cUSc美国c101
+      - cs日月c🇺🇸cUSc美国c102
+      - cs日月c🇺🇸cUSc美国c103
+      - cs日月c🇺🇸cUSc美国c104
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     proxies:
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥1
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥2
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥3
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥4
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥5
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥6
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥7
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥8
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥9
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥10
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥11
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥12
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥13
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥14
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥15
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥16
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥17
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥18
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥19
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥20
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥21
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥22
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥23
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥24
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥25
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥26
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥27
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥28
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥29
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥30
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥31
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥32
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥33
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥34
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥35
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥36
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥37
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥38
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥39
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥40
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥41
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥42
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥43
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥44
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥45
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥46
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥47
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥48
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥49
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥50
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥51
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥52
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥53
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥54
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥55
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥56
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥57
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥58
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥59
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥60
-      - 哦哦哦！看你的网络￥US￥1￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥2￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥3￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥4￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥5￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥6￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥7￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥8￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥9￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥10￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥unKnow￥11￥未知￥🏳️
-      - 哦哦哦！看你的网络￥unKnow￥12￥未知￥🏳️
-      - 哦哦哦！看你的网络￥unKnow￥13￥未知￥🏳️
-      - 哦哦哦！看你的网络￥CN￥14￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥CN￥15￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥US￥16￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥CN￥17￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥US￥18￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥AU￥19￥澳大利亚￥🇦🇺
-      - 哦哦哦！看你的网络￥US￥20￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥21￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥22￥美国￥🇺🇸
+      - cs日月c🇺🇸cUSc美国c1
+      - cs日月c🇯🇵cJPc日本c2
+      - cs日月c🇯🇵cJPc日本c3
+      - cs日月c🇺🇸cUSc美国c4
+      - cs日月c🇯🇵cJPc日本c5
+      - cs日月c🇦🇺cAUc澳大利亚c6
+      - cs日月c🇦🇺cAUc澳大利亚c7
+      - cs日月c🇺🇸cUSc美国c8
+      - cs日月c🇺🇸cUSc美国c9
+      - cs日月c🇺🇸cUSc美国c10
+      - cs日月c🇦🇺cAUc澳大利亚c11
+      - cs日月c🇺🇸cUSc美国c12
+      - cs日月c🇺🇦cUAc乌克兰c13
+      - cs日月c🇱🇹cLTc立陶宛c14
+      - cs日月c🇬🇧cGBc英国c15
+      - cs日月c🇷🇺cRUc俄罗斯c16
+      - cs日月c🇺🇸cUSc美国c17
+      - cs日月c🇺🇸cUSc美国c18
+      - cs日月c🇺🇸cUSc美国c19
+      - cs日月c🇺🇸cUSc美国c20
+      - cs日月c🇨🇦cCAc加拿大c21
+      - cs日月c🇺🇸cUSc美国c22
+      - cs日月c🇦🇺cAUc澳大利亚c23
+      - cs日月c🇩🇪cDEc德国c24
+      - cs日月c🇩🇪cDEc德国c25
+      - cs日月c🇫🇷cFRc法国c26
+      - cs日月c🇮🇷cIRc伊朗c27
+      - cs日月c🇩🇪cDEc德国c28
+      - cs日月c🇪🇸cESc西班牙c29
+      - cs日月c🇫🇷cFRc法国c30
+      - cs日月c🇷🇺cRUc俄罗斯c31
+      - cs日月c🇷🇺cRUc俄罗斯c32
+      - cs日月c🇬🇧cGBc英国c33
+      - cs日月c🇷🇺cRUc俄罗斯c34
+      - cs日月c🇱🇹cLTc立陶宛c35
+      - cs日月c🇷🇺cRUc俄罗斯c36
+      - cs日月c🇸🇬cSGc新加坡c37
+      - cs日月c🇸🇬cSGc新加坡c38
+      - cs日月c🇸🇬cSGc新加坡c39
+      - cs日月c🇺🇸cUSc美国c40
+      - cs日月c🇳🇱cNLc荷兰c41
+      - cs日月c🇺🇸cUSc美国c42
+      - cs日月c🇨🇦cCAc加拿大c43
+      - cs日月c🇺🇸cUSc美国c44
+      - cs日月c🇺🇸cUSc美国c45
+      - cs日月c🇺🇸cUSc美国c46
+      - cs日月c🇺🇸cUSc美国c47
+      - cs日月c🇺🇸cUSc美国c48
+      - cs日月c🇺🇸cUSc美国c49
+      - cs日月c🇺🇸cUSc美国c50
+      - cs日月c🇺🇸cUSc美国c51
+      - cs日月c🇺🇸cUSc美国c52
+      - cs日月c🇨🇳cCNc中国c53
+      - cs日月c🇨🇳cCNc中国c54
+      - cs日月c🇺🇸cUSc美国c55
+      - cs日月c🇺🇸cUSc美国c56
+      - cs日月c🇺🇸cUSc美国c57
+      - cs日月c🇸🇬cSGc新加坡c58
+      - cs日月c🇺🇸cUSc美国c59
+      - cs日月c🇸🇬cSGc新加坡c60
+      - cs日月c🇺🇸cUSc美国c61
+      - cs日月c🇨🇦cCAc加拿大c62
+      - cs日月c🇺🇸cUSc美国c63
+      - cs日月c🇺🇸cUSc美国c64
+      - cs日月c🇺🇸cUSc美国c65
+      - cs日月c🇺🇸cUSc美国c66
+      - cs日月c🇺🇸cUSc美国c67
+      - cs日月c🇺🇸cUSc美国c68
+      - cs日月c🇺🇸cUSc美国c69
+      - cs日月c🇺🇸cUSc美国c70
+      - cs日月c🇺🇸cUSc美国c71
+      - cs日月c🇺🇸cUSc美国c72
+      - cs日月c🇺🇸cUSc美国c73
+      - cs日月c🇺🇸cUSc美国c74
+      - cs日月c🇺🇸cUSc美国c75
+      - cs日月c🇺🇸cUSc美国c76
+      - cs日月c🇺🇸cUSc美国c77
+      - cs日月c🇺🇸cUSc美国c78
+      - cs日月c🇧🇷cBRc巴西c79
+      - cs日月c🇺🇸cUSc美国c80
+      - cs日月c🇧🇷cBRc巴西c81
+      - cs日月c🇺🇸cUSc美国c82
+      - cs日月c🇺🇸cUSc美国c83
+      - cs日月c🇺🇸cUSc美国c84
+      - cs日月c🇺🇸cUSc美国c85
+      - cs日月c🇺🇸cUSc美国c86
+      - cs日月c🇺🇸cUSc美国c87
+      - cs日月c🇺🇸cUSc美国c88
+      - cs日月c🇺🇸cUSc美国c89
+      - cs日月c🇺🇸cUSc美国c90
+      - cs日月c🇺🇸cUSc美国c91
+      - cs日月c🇺🇸cUSc美国c92
+      - cs日月c🇺🇸cUSc美国c93
+      - cs日月c🇺🇸cUSc美国c94
+      - cs日月c🇺🇸cUSc美国c95
+      - cs日月c🇺🇸cUSc美国c96
+      - cs日月c🇺🇸cUSc美国c97
+      - cs日月c🇺🇸cUSc美国c98
+      - cs日月c🇺🇸cUSc美国c99
+      - cs日月c🇺🇸cUSc美国c100
+      - cs日月c🇺🇸cUSc美国c101
+      - cs日月c🇺🇸cUSc美国c102
+      - cs日月c🇺🇸cUSc美国c103
+      - cs日月c🇺🇸cUSc美国c104
   - name: 🔮 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
     proxies:
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥1
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥2
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥3
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥4
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥5
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥6
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥7
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥8
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥9
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥10
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥11
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥12
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥13
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥14
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥15
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥16
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥17
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥18
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥19
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥20
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥21
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥22
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥23
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥24
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥25
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥26
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥27
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥28
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥29
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥30
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥31
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥32
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥33
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥34
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥35
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥36
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥37
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥38
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥39
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥40
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥41
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥42
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥43
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥44
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥45
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥46
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥47
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥48
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥49
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥50
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥51
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥52
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥53
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥54
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥55
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥56
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥57
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥58
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥59
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥60
-      - 哦哦哦！看你的网络￥US￥1￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥2￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥3￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥4￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥5￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥6￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥7￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥8￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥9￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥10￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥unKnow￥11￥未知￥🏳️
-      - 哦哦哦！看你的网络￥unKnow￥12￥未知￥🏳️
-      - 哦哦哦！看你的网络￥unKnow￥13￥未知￥🏳️
-      - 哦哦哦！看你的网络￥CN￥14￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥CN￥15￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥US￥16￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥CN￥17￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥US￥18￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥AU￥19￥澳大利亚￥🇦🇺
-      - 哦哦哦！看你的网络￥US￥20￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥21￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥22￥美国￥🇺🇸
+      - cs日月c🇺🇸cUSc美国c1
+      - cs日月c🇯🇵cJPc日本c2
+      - cs日月c🇯🇵cJPc日本c3
+      - cs日月c🇺🇸cUSc美国c4
+      - cs日月c🇯🇵cJPc日本c5
+      - cs日月c🇦🇺cAUc澳大利亚c6
+      - cs日月c🇦🇺cAUc澳大利亚c7
+      - cs日月c🇺🇸cUSc美国c8
+      - cs日月c🇺🇸cUSc美国c9
+      - cs日月c🇺🇸cUSc美国c10
+      - cs日月c🇦🇺cAUc澳大利亚c11
+      - cs日月c🇺🇸cUSc美国c12
+      - cs日月c🇺🇦cUAc乌克兰c13
+      - cs日月c🇱🇹cLTc立陶宛c14
+      - cs日月c🇬🇧cGBc英国c15
+      - cs日月c🇷🇺cRUc俄罗斯c16
+      - cs日月c🇺🇸cUSc美国c17
+      - cs日月c🇺🇸cUSc美国c18
+      - cs日月c🇺🇸cUSc美国c19
+      - cs日月c🇺🇸cUSc美国c20
+      - cs日月c🇨🇦cCAc加拿大c21
+      - cs日月c🇺🇸cUSc美国c22
+      - cs日月c🇦🇺cAUc澳大利亚c23
+      - cs日月c🇩🇪cDEc德国c24
+      - cs日月c🇩🇪cDEc德国c25
+      - cs日月c🇫🇷cFRc法国c26
+      - cs日月c🇮🇷cIRc伊朗c27
+      - cs日月c🇩🇪cDEc德国c28
+      - cs日月c🇪🇸cESc西班牙c29
+      - cs日月c🇫🇷cFRc法国c30
+      - cs日月c🇷🇺cRUc俄罗斯c31
+      - cs日月c🇷🇺cRUc俄罗斯c32
+      - cs日月c🇬🇧cGBc英国c33
+      - cs日月c🇷🇺cRUc俄罗斯c34
+      - cs日月c🇱🇹cLTc立陶宛c35
+      - cs日月c🇷🇺cRUc俄罗斯c36
+      - cs日月c🇸🇬cSGc新加坡c37
+      - cs日月c🇸🇬cSGc新加坡c38
+      - cs日月c🇸🇬cSGc新加坡c39
+      - cs日月c🇺🇸cUSc美国c40
+      - cs日月c🇳🇱cNLc荷兰c41
+      - cs日月c🇺🇸cUSc美国c42
+      - cs日月c🇨🇦cCAc加拿大c43
+      - cs日月c🇺🇸cUSc美国c44
+      - cs日月c🇺🇸cUSc美国c45
+      - cs日月c🇺🇸cUSc美国c46
+      - cs日月c🇺🇸cUSc美国c47
+      - cs日月c🇺🇸cUSc美国c48
+      - cs日月c🇺🇸cUSc美国c49
+      - cs日月c🇺🇸cUSc美国c50
+      - cs日月c🇺🇸cUSc美国c51
+      - cs日月c🇺🇸cUSc美国c52
+      - cs日月c🇨🇳cCNc中国c53
+      - cs日月c🇨🇳cCNc中国c54
+      - cs日月c🇺🇸cUSc美国c55
+      - cs日月c🇺🇸cUSc美国c56
+      - cs日月c🇺🇸cUSc美国c57
+      - cs日月c🇸🇬cSGc新加坡c58
+      - cs日月c🇺🇸cUSc美国c59
+      - cs日月c🇸🇬cSGc新加坡c60
+      - cs日月c🇺🇸cUSc美国c61
+      - cs日月c🇨🇦cCAc加拿大c62
+      - cs日月c🇺🇸cUSc美国c63
+      - cs日月c🇺🇸cUSc美国c64
+      - cs日月c🇺🇸cUSc美国c65
+      - cs日月c🇺🇸cUSc美国c66
+      - cs日月c🇺🇸cUSc美国c67
+      - cs日月c🇺🇸cUSc美国c68
+      - cs日月c🇺🇸cUSc美国c69
+      - cs日月c🇺🇸cUSc美国c70
+      - cs日月c🇺🇸cUSc美国c71
+      - cs日月c🇺🇸cUSc美国c72
+      - cs日月c🇺🇸cUSc美国c73
+      - cs日月c🇺🇸cUSc美国c74
+      - cs日月c🇺🇸cUSc美国c75
+      - cs日月c🇺🇸cUSc美国c76
+      - cs日月c🇺🇸cUSc美国c77
+      - cs日月c🇺🇸cUSc美国c78
+      - cs日月c🇧🇷cBRc巴西c79
+      - cs日月c🇺🇸cUSc美国c80
+      - cs日月c🇧🇷cBRc巴西c81
+      - cs日月c🇺🇸cUSc美国c82
+      - cs日月c🇺🇸cUSc美国c83
+      - cs日月c🇺🇸cUSc美国c84
+      - cs日月c🇺🇸cUSc美国c85
+      - cs日月c🇺🇸cUSc美国c86
+      - cs日月c🇺🇸cUSc美国c87
+      - cs日月c🇺🇸cUSc美国c88
+      - cs日月c🇺🇸cUSc美国c89
+      - cs日月c🇺🇸cUSc美国c90
+      - cs日月c🇺🇸cUSc美国c91
+      - cs日月c🇺🇸cUSc美国c92
+      - cs日月c🇺🇸cUSc美国c93
+      - cs日月c🇺🇸cUSc美国c94
+      - cs日月c🇺🇸cUSc美国c95
+      - cs日月c🇺🇸cUSc美国c96
+      - cs日月c🇺🇸cUSc美国c97
+      - cs日月c🇺🇸cUSc美国c98
+      - cs日月c🇺🇸cUSc美国c99
+      - cs日月c🇺🇸cUSc美国c100
+      - cs日月c🇺🇸cUSc美国c101
+      - cs日月c🇺🇸cUSc美国c102
+      - cs日月c🇺🇸cUSc美国c103
+      - cs日月c🇺🇸cUSc美国c104
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1211,88 +1688,110 @@ proxy-groups:
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥1
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥2
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥3
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥4
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥5
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥6
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥7
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥8
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥9
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥10
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥11
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥12
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥13
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥14
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥15
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥16
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥17
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥18
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥19
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥20
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥21
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥22
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥23
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥24
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥25
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥26
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥27
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥28
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥29
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥30
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥31
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥32
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥33
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥34
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥35
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥36
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥37
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥38
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥39
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥40
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥41
-      - 哦！看看你的网络￥JP￥日本￥🇯🇵￥42
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥43
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥44
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥45
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥46
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥47
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥48
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥49
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥50
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥51
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥52
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥53
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥54
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥55
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥56
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥57
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥58
-      - 哦！看看你的网络￥CN￥中国￥🇨🇳￥59
-      - 哦！看看你的网络￥unKnow￥未知￥🏳️￥60
-      - 哦哦哦！看你的网络￥US￥1￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥2￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥3￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥4￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥5￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥6￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥7￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥8￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥9￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥10￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥unKnow￥11￥未知￥🏳️
-      - 哦哦哦！看你的网络￥unKnow￥12￥未知￥🏳️
-      - 哦哦哦！看你的网络￥unKnow￥13￥未知￥🏳️
-      - 哦哦哦！看你的网络￥CN￥14￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥CN￥15￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥US￥16￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥CN￥17￥中国￥🇨🇳
-      - 哦哦哦！看你的网络￥US￥18￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥AU￥19￥澳大利亚￥🇦🇺
-      - 哦哦哦！看你的网络￥US￥20￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥21￥美国￥🇺🇸
-      - 哦哦哦！看你的网络￥US￥22￥美国￥🇺🇸
+      - cs日月c🇺🇸cUSc美国c1
+      - cs日月c🇯🇵cJPc日本c2
+      - cs日月c🇯🇵cJPc日本c3
+      - cs日月c🇺🇸cUSc美国c4
+      - cs日月c🇯🇵cJPc日本c5
+      - cs日月c🇦🇺cAUc澳大利亚c6
+      - cs日月c🇦🇺cAUc澳大利亚c7
+      - cs日月c🇺🇸cUSc美国c8
+      - cs日月c🇺🇸cUSc美国c9
+      - cs日月c🇺🇸cUSc美国c10
+      - cs日月c🇦🇺cAUc澳大利亚c11
+      - cs日月c🇺🇸cUSc美国c12
+      - cs日月c🇺🇦cUAc乌克兰c13
+      - cs日月c🇱🇹cLTc立陶宛c14
+      - cs日月c🇬🇧cGBc英国c15
+      - cs日月c🇷🇺cRUc俄罗斯c16
+      - cs日月c🇺🇸cUSc美国c17
+      - cs日月c🇺🇸cUSc美国c18
+      - cs日月c🇺🇸cUSc美国c19
+      - cs日月c🇺🇸cUSc美国c20
+      - cs日月c🇨🇦cCAc加拿大c21
+      - cs日月c🇺🇸cUSc美国c22
+      - cs日月c🇦🇺cAUc澳大利亚c23
+      - cs日月c🇩🇪cDEc德国c24
+      - cs日月c🇩🇪cDEc德国c25
+      - cs日月c🇫🇷cFRc法国c26
+      - cs日月c🇮🇷cIRc伊朗c27
+      - cs日月c🇩🇪cDEc德国c28
+      - cs日月c🇪🇸cESc西班牙c29
+      - cs日月c🇫🇷cFRc法国c30
+      - cs日月c🇷🇺cRUc俄罗斯c31
+      - cs日月c🇷🇺cRUc俄罗斯c32
+      - cs日月c🇬🇧cGBc英国c33
+      - cs日月c🇷🇺cRUc俄罗斯c34
+      - cs日月c🇱🇹cLTc立陶宛c35
+      - cs日月c🇷🇺cRUc俄罗斯c36
+      - cs日月c🇸🇬cSGc新加坡c37
+      - cs日月c🇸🇬cSGc新加坡c38
+      - cs日月c🇸🇬cSGc新加坡c39
+      - cs日月c🇺🇸cUSc美国c40
+      - cs日月c🇳🇱cNLc荷兰c41
+      - cs日月c🇺🇸cUSc美国c42
+      - cs日月c🇨🇦cCAc加拿大c43
+      - cs日月c🇺🇸cUSc美国c44
+      - cs日月c🇺🇸cUSc美国c45
+      - cs日月c🇺🇸cUSc美国c46
+      - cs日月c🇺🇸cUSc美国c47
+      - cs日月c🇺🇸cUSc美国c48
+      - cs日月c🇺🇸cUSc美国c49
+      - cs日月c🇺🇸cUSc美国c50
+      - cs日月c🇺🇸cUSc美国c51
+      - cs日月c🇺🇸cUSc美国c52
+      - cs日月c🇨🇳cCNc中国c53
+      - cs日月c🇨🇳cCNc中国c54
+      - cs日月c🇺🇸cUSc美国c55
+      - cs日月c🇺🇸cUSc美国c56
+      - cs日月c🇺🇸cUSc美国c57
+      - cs日月c🇸🇬cSGc新加坡c58
+      - cs日月c🇺🇸cUSc美国c59
+      - cs日月c🇸🇬cSGc新加坡c60
+      - cs日月c🇺🇸cUSc美国c61
+      - cs日月c🇨🇦cCAc加拿大c62
+      - cs日月c🇺🇸cUSc美国c63
+      - cs日月c🇺🇸cUSc美国c64
+      - cs日月c🇺🇸cUSc美国c65
+      - cs日月c🇺🇸cUSc美国c66
+      - cs日月c🇺🇸cUSc美国c67
+      - cs日月c🇺🇸cUSc美国c68
+      - cs日月c🇺🇸cUSc美国c69
+      - cs日月c🇺🇸cUSc美国c70
+      - cs日月c🇺🇸cUSc美国c71
+      - cs日月c🇺🇸cUSc美国c72
+      - cs日月c🇺🇸cUSc美国c73
+      - cs日月c🇺🇸cUSc美国c74
+      - cs日月c🇺🇸cUSc美国c75
+      - cs日月c🇺🇸cUSc美国c76
+      - cs日月c🇺🇸cUSc美国c77
+      - cs日月c🇺🇸cUSc美国c78
+      - cs日月c🇧🇷cBRc巴西c79
+      - cs日月c🇺🇸cUSc美国c80
+      - cs日月c🇧🇷cBRc巴西c81
+      - cs日月c🇺🇸cUSc美国c82
+      - cs日月c🇺🇸cUSc美国c83
+      - cs日月c🇺🇸cUSc美国c84
+      - cs日月c🇺🇸cUSc美国c85
+      - cs日月c🇺🇸cUSc美国c86
+      - cs日月c🇺🇸cUSc美国c87
+      - cs日月c🇺🇸cUSc美国c88
+      - cs日月c🇺🇸cUSc美国c89
+      - cs日月c🇺🇸cUSc美国c90
+      - cs日月c🇺🇸cUSc美国c91
+      - cs日月c🇺🇸cUSc美国c92
+      - cs日月c🇺🇸cUSc美国c93
+      - cs日月c🇺🇸cUSc美国c94
+      - cs日月c🇺🇸cUSc美国c95
+      - cs日月c🇺🇸cUSc美国c96
+      - cs日月c🇺🇸cUSc美国c97
+      - cs日月c🇺🇸cUSc美国c98
+      - cs日月c🇺🇸cUSc美国c99
+      - cs日月c🇺🇸cUSc美国c100
+      - cs日月c🇺🇸cUSc美国c101
+      - cs日月c🇺🇸cUSc美国c102
+      - cs日月c🇺🇸cUSc美国c103
+      - cs日月c🇺🇸cUSc美国c104
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
