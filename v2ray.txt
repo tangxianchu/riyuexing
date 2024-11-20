@@ -48,453 +48,382 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 节点测试·🇯🇵·JP·日本·1
-    port: 44330
-    server: 210.230.206.18
+  - name: xy星月中国CN🇨🇳1
+    port: 34014
+    server: gongxiang.netcar.live
     type: vmess
     network: tcp
     tls: false
     udp: true
     version: "2"
+    servername: ""
     skip-cert-verify: true
     cipher: auto
-    uuid: f96a5e28-d8da-888a-1ff2-edaaceb82b68
+    uuid: 6a3ceb5b-9e4e-4d57-83c0-53da1efe0f17
     alterId: 0
-  - name: 节点测试·🇨🇳·CN·中国·2
-    port: 6843
-    server: 156.251.172.34
-    type: vless
-    network: tcp
-    udp: true
-    servername: itunes.apple.com
-    skip-cert-verify: true
-    reality-opts:
-      public-key: oyo0rn_ktK1yaWFLxGEuCswniMCrX2iiE3UU15riyH8
-      short-id: 53f0a685
-    uuid: 0a3cd062-241a-43fc-9c50-eccacbbd5aae
-    flow: xtls-rprx-vision
-    client-fingerprint: firefox
-  - name: 节点测试·🇨🇳·CN·中国·3
-    port: 20038
-    server: c2veyhxymurpbfocdiuduuhd05fggpi8.08.01.jp.k7h.lol
-    type: ss
-    udp: true
-    password: 75386e4c-09a3-4306-994f-0a526c3202b3
-    cipher: chacha20-ietf-poly1305
-  - name: 节点测试·🇨🇳·CN·中国·4
-    port: 10954
-    server: tq1j9kndywgu7ro6e34iezxed17cvcds.08.02.jp.k7h.lol
-    type: ss
-    udp: true
-    password: 75386e4c-09a3-4306-994f-0a526c3202b3
-    cipher: chacha20-ietf-poly1305
-  - name: 节点测试·🇺🇸·US·美国·5
-    port: 443
-    server: 212.102.47.131
-    type: ss
-    udp: true
-    password: shadowsocks
-    cipher: aes-128-gcm
-  - name: 节点测试·🇺🇸·US·美国·6
-    port: 443
-    server: 156.146.38.168
-    type: ss
-    udp: true
-    password: shadowsocks
-    cipher: aes-128-gcm
-  - name: 节点测试·🇺🇦·UA·乌克兰·7
-    port: 443
-    server: 37.19.198.160
-    type: ss
-    udp: true
-    password: shadowsocks
-    cipher: aes-128-gcm
-  - name: 节点测试·🇨🇳·CN·中国·8
-    port: 40002
-    server: 183.236.48.163
+  - name: xy星月中国CN🇨🇳2
+    port: 34014
+    server: gongxiang.netcar.live
     type: vmess
     network: tcp
     tls: false
     udp: true
     version: "2"
+    servername: ""
     skip-cert-verify: true
     cipher: auto
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-    alterId: 64
-  - name: 节点测试·🇨🇳·CN·中国·9
-    port: 52112
-    server: 183.236.51.23
-    type: vmess
-    network: tcp
-    tls: false
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    cipher: auto
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-    alterId: 64
-  - name: 节点测试·🏳️·unKnow·未知·10
-    port: 587
-    server: 103.180.161.69
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: vless.ifx.us.kg
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560fp=chrome
-    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  - name: 节点测试·🇺🇸·US·美国·11
-    port: 80
-    server: 167.82.30.71
-    type: vless
-    network: ws
-    udp: true
-    skip-cert-verify: true
-    ws-opts: {}
-    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
-  - name: 节点测试·🇺🇸·US·美国·12
-    port: 587
-    server: 206.223.84.99
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: vless.ifx.us.kg
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560fp=chromefp=chrome
-    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  - name: 节点测试·🇺🇸·US·美国·13
-    port: 22222
-    server: 52.29.172.211
-    type: trojan
-    network: tcp
-    udp: true
-    sni: trojan.burgerip.co.uk
-    password: telegram-id-privatevpns
-    skip-cert-verify: true
-  - name: 节点测试·🇩🇪·DE·德国·14
-    port: 8080
-    server: 45.87.175.178
-    type: ss
-    udp: true
-    password: 1RWwXhwfAB5gAEozU4G2Pg
-    cipher: chacha20-ietf-poly1305
-  - name: 节点测试·🇮🇪·IE·爱尔兰·15
-    port: 22222
-    server: 34.255.43.168
-    type: trojan
-    network: tcp
-    udp: true
-    sni: trojan.burgerip.co.uk
-    password: telegram-id-directvpn
-    skip-cert-verify: true
-  - name: 节点测试·🇬🇧·GB·英国·16
-    port: 443
-    server: 141.98.101.179
-    type: ss
-    udp: true
-    password: shadowsocks
-    cipher: aes-128-gcm
-  - name: 节点测试·🇨🇦·CA·加拿大·17
-    port: 22222
-    server: 15.222.199.200
-    type: trojan
-    network: tcp
-    udp: true
-    sni: trojan.burgerip.co.uk
-    password: telegram-id-directvpn
-    skip-cert-verify: true
-  - name: 节点测试·🇺🇸·US·美国·18
-    port: 1080
-    server: 209.38.188.162
-    type: ss
-    udp: true
-    password: h8Og8v6zkX9ldVFYYajb0g
-    cipher: chacha20-ietf-poly1305
-  - name: 节点测试·🇪🇸·ES·西班牙·19
-    port: 21771
-    server: 150.241.102.95
-    type: ss
-    udp: true
-    password: 5mgZJzPv7hrLX4KMdPIeAW
-    cipher: chacha20-ietf-poly1305
-  - name: 节点测试·🇳🇱·NL·荷兰·20
-    port: 55330
-    server: 107.181.155.244
-    type: ss
-    udp: true
-    password: rtR4YX74vwqRJu9MGH3e1N3CQdGMWCUFkyLisijiFuvhkU9McV5TpygfkernJ4UQe63JtcDQkrQ9HfchzqQz1kLCnTRor8jg
-    cipher: chacha20-ietf-poly1305
-  - name: 节点测试·🇺🇸·US·美国·21
-    port: 7002
-    server: 38.114.114.143
-    type: ss
-    udp: true
-    password: RexnBgU7EV5ADxG
-    cipher: aes-256-gcm
-  - name: 节点测试·🏳️·unKnow·未知·22
-    port: 27061
-    server: 103.170.72.120
-    type: trojan
-    network: ws
-    udp: true
-    sni: trojanfree-76s.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-      headers:
-        host: trojanfree-76s.pages.dev:27061?type=ws
-  - name: 节点测试·🇧🇷·BR·巴西·23
-    port: 443
-    server: 188.114.97.186
-    type: trojan
-    network: ws
-    udp: true
-    sni: il.ylks.xyz
-    password: NISHIKUITAN222
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-      headers:
-        host: il.ylks.xyz
-  - name: 节点测试·🇨🇳·CN·中国·24
-    port: 13018
-    server: 183.236.51.4
-    type: trojan
-    network: tcp
-    udp: true
-    sni: cloudflare.node-ssl.cdn-alibaba.com
-    password: b264982e-e333-4085-ac04-406afef23455
-    skip-cert-verify: true
-  - name: 节点测试·🇺🇸·US·美国·25
-    port: 443
-    server: 44.243.225.84
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 节点测试·🇺🇸·US·美国·26
-    port: 443
-    server: 54.191.9.106
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 节点测试·🇺🇸·US·美国·27
-    port: 443
-    server: 54.244.81.162
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 节点测试·🇺🇸·US·美国·28
-    port: 443
-    server: 35.88.136.187
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 节点测试·🇺🇸·US·美国·29
-    port: 443
-    server: 34.209.103.254
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 节点测试·🇺🇸·US·美国·30
-    port: 443
-    server: 34.217.179.211
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 节点测试·🇺🇸·US·美国·31
-    port: 443
-    server: 54.213.228.61
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 节点测试·🇺🇸·US·美国·32
-    port: 443
-    server: 54.213.164.80
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 节点测试·🇩🇪·DE·德国·33
-    port: 8080
-    server: 45.87.175.157
-    type: ss
-    udp: true
-    password: cvII85TrW6n0OGyfpHVS1u
-    cipher: chacha20-ietf-poly1305
-  - name: 节点测试·🇺🇸·US·美国·34
-    port: 1001
-    server: 45.94.31.75
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: vless.ifx.us.kg
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560fp=chromefp=chrome
-    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  - name: 节点测试·🇺🇸·US·美国·35
-    port: 80
-    server: 104.17.147.22
-    type: vless
-    network: ws
-    udp: true
-    skip-cert-verify: true
-    ws-opts: {}
-    uuid: 7d2dfb7a-2ecc-4448-bcbe-245a2092fe85
-  - name: 节点测试·🇨🇦·CA·加拿大·36
-    port: 587
-    server: 165.154.163.236
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: vless.ifx.us.kg
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560fp=chrome
-    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  - name: 节点测试·🇨🇳·CN·中国·37
-    port: 40580
-    server: s4.db-link.in
-    type: vmess
-    network: ws
-    tls: true
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-      headers:
-        host: fysg.fyy.asia
-    cipher: auto
-    uuid: 3f9939c2-b3ce-4179-9180-d9eccc01b3d5
+    uuid: 0d9f16e7-5e70-47e7-8135-eea0e7fcbbcc
     alterId: 0
-  - name: 节点测试·🇨🇳·CN·中国·38
-    port: 56601
-    server: 183.236.51.23
+  - name: xy星月中国CN🇨🇳3
+    port: 34014
+    server: gongxiang.netcar.live
     type: vmess
     network: tcp
     tls: false
     udp: true
     version: "2"
+    servername: ""
     skip-cert-verify: true
     cipher: auto
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-    alterId: 64
-  - name: 节点测试·🇩🇪·DE·德国·39
-    port: 8080
-    server: 45.87.175.181
-    type: ss
-    udp: true
-    password: cvII85TrW6n0OGyfpHVS1u
-    cipher: chacha20-ietf-poly1305
-  - name: 节点测试·🇩🇪·DE·德国·40
-    port: 22222
-    server: 3.127.44.37
-    type: trojan
-    network: tcp
-    udp: true
-    sni: trojan.burgerip.co.ukhttp/1.1
-    password: telegram-id-directvpn
-    skip-cert-verify: true
-  - name: 节点测试·🇳🇱·NL·荷兰·41
-    port: 443
-    server: 109.201.152.181
-    type: ss
-    udp: true
-    password: shadowsocks
-    cipher: aes-128-cfb
-  - name: 节点测试·🇰🇷·KR·韩国·42
-    port: 443
-    server: 13.125.158.71
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 节点测试·🇺🇸·US·美国·43
-    port: 80
-    server: 104.17.148.22
-    type: vless
-    network: ws
-    udp: true
-    skip-cert-verify: true
-    ws-opts: {}
-    uuid: 7d2dfb7a-2ecc-4448-bcbe-245a2092fe85
-  - name: 节点测试·🇨🇳·CN·中国·44
-    port: 17636
-    server: rfja9t35dqlrz9h8dnvhf48ij3nea0aj.08.01.ar.k7h.lol
-    type: ss
-    udp: true
-    password: 75386e4c-09a3-4306-994f-0a526c3202b3
-    cipher: chacha20-ietf-poly1305
-  - name: 节点测试·🇺🇸·US·美国·45
-    port: 30102
-    server: 40.233.76.38
-    type: hysteria2
-    udp: true
-    sni: du.wish.ml
-    password: 7d417084-d308-4b35-96c8-99dfb2547ec2
-    skip-cert-verify: true
-  - name: 节点测试·🇯🇵·JP·日本·46
-    port: 10002
-    server: 146.56.151.232
-    type: trojan
-    network: tcp
-    udp: true
-    sni: sale.alibaba.com
-    password: 424ff74f-a5ee-4343-aa68-23e7ca75c66c
-    skip-cert-verify: true
-  - name: 节点测试·🇨🇳·CN·中国·47
-    port: 39306
-    server: 120.233.171.79
-    type: trojan
-    network: tcp
-    udp: true
-    sni: S03.HUY.OVH
-    password: a4f543ca-466c-4a16-adde-457ed9b2946c
-    skip-cert-verify: true
-  - name: 节点测试·🇨🇳·CN·中国·48
-    port: 13038
-    server: 36.156.184.14
-    type: ss
-    udp: true
-    password: f16163ec-3c35-4719-a19b-68c864cdc626
-    cipher: aes-128-gcm
-  - name: 节点测试·🇨🇳·CN·中国·49
-    port: 23464
-    server: 7ds1uygxq9jd77dlg9xee7dhmmptyho2.08.02.kr.k7h.lol
-    type: ss
-    udp: true
-    password: 75386e4c-09a3-4306-994f-0a526c3202b3
-    cipher: chacha20-ietf-poly1305
-  - name: 节点测试·🇨🇳·CN·中国·50
-    port: 16648
-    server: yes.mojcn.com
+    uuid: 15024c2f-cc10-47b2-b590-14f615295673
+    alterId: 0
+  - name: xy星月中国CN🇨🇳4
+    port: 34014
+    server: gongxiang.netcar.live
     type: vmess
-    network: ws
+    network: tcp
     tls: false
     udp: true
     version: "2"
+    servername: ""
     skip-cert-verify: true
-    ws-opts:
-      path: /
-      headers:
-        host: 3fe454755ea98eaa00f870f7fa2990c7.mobgslb.tbcache.com
     cipher: auto
-    uuid: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c
+    uuid: 6368853c-1bc7-40c0-b9bb-c326c18fa9d5
+    alterId: 0
+  - name: xy星月中国CN🇨🇳5
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 572baf97-5454-4a85-a8ca-14484c690d56
+    alterId: 0
+  - name: xy星月中国CN🇨🇳6
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 0c399b15-1771-4b3f-ad95-f673911d3143
+    alterId: 0
+  - name: xy星月中国CN🇨🇳7
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 7d41f6ca-ca5d-4d54-b668-95f26e6cf977
+    alterId: 0
+  - name: xy星月中国CN🇨🇳8
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: d676914d-3de4-4079-85ac-296a9335089b
+    alterId: 0
+  - name: xy星月中国CN🇨🇳9
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 74a639b5-e1f5-4450-a387-ee9429f8c600
+    alterId: 0
+  - name: xy星月中国CN🇨🇳10
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: c4e6a347-f9ad-436b-90ea-1b8bd04f412c
+    alterId: 0
+  - name: xy星月中国CN🇨🇳11
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 9e0fc791-33eb-4987-b810-ce60093b0322
+    alterId: 0
+  - name: xy星月中国CN🇨🇳12
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: f0c57014-f3fa-4c59-802e-a54b4d66f416
+    alterId: 0
+  - name: xy星月中国CN🇨🇳13
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: e81cef26-3f1d-4bcf-9836-826e98a7b69b
+    alterId: 0
+  - name: xy星月中国CN🇨🇳14
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 774fd72d-1ab3-4e64-83be-5163f7079491
+    alterId: 0
+  - name: xy星月中国CN🇨🇳15
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 3d3bc800-64a1-4248-8601-2b5e3fafe40f
+    alterId: 0
+  - name: xy星月中国CN🇨🇳16
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 10f5c6ae-bf05-4f94-a968-1f61d1d526a0
+    alterId: 0
+  - name: xy星月中国CN🇨🇳17
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: c204b8fe-1160-4e62-aa09-d790868e3e56
+    alterId: 0
+  - name: xy星月中国CN🇨🇳18
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: eb42f619-d888-435c-94af-bc4d3934cf94
+    alterId: 0
+  - name: xy星月中国CN🇨🇳19
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 394b55b4-264e-4ff5-aec6-af1fec113113
+    alterId: 0
+  - name: xy星月中国CN🇨🇳20
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 8f8b244d-d667-40f9-a083-399249acef16
+    alterId: 0
+  - name: xy星月中国CN🇨🇳21
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 456470c2-57ab-4859-941a-391f8f021dca
+    alterId: 0
+  - name: xy星月中国CN🇨🇳22
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: a36fe0e8-b8a1-4d55-93b4-011fd78a0f92
+    alterId: 0
+  - name: xy星月中国CN🇨🇳23
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 45a15132-5641-4f8b-99e9-2c5659dbe18a
+    alterId: 0
+  - name: xy星月中国CN🇨🇳24
+    port: 34014
+    server: gangxiang2.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: bbe07a54-4107-411c-8e03-d8888c5ca369
+    alterId: 0
+  - name: xy星月中国CN🇨🇳25
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 97fef371-deaf-402a-a87b-077c283e574c
+    alterId: 0
+  - name: xy星月中国CN🇨🇳26
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 5b9d3590-a11e-4ad1-a7c6-453256b02e7b
+    alterId: 0
+  - name: xy星月中国CN🇨🇳27
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 45c69eba-f0ce-4c06-b9c1-9b321004eb32
+    alterId: 0
+  - name: xy星月中国CN🇨🇳28
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 5d73ba3f-3767-4405-ba2d-c4ffc332affc
+    alterId: 0
+  - name: xy星月中国CN🇨🇳29
+    port: 34014
+    server: gongxiang.netcar.live
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
+    cipher: auto
+    uuid: c2856aa3-b0e1-4418-bfc3-0d9896fe90b0
     alterId: 0
 proxy-groups:
   - name: 🚀 节点选择
@@ -502,333 +431,207 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 节点测试·🇯🇵·JP·日本·1
-      - 节点测试·🇨🇳·CN·中国·2
-      - 节点测试·🇨🇳·CN·中国·3
-      - 节点测试·🇨🇳·CN·中国·4
-      - 节点测试·🇺🇸·US·美国·5
-      - 节点测试·🇺🇸·US·美国·6
-      - 节点测试·🇺🇦·UA·乌克兰·7
-      - 节点测试·🇨🇳·CN·中国·8
-      - 节点测试·🇨🇳·CN·中国·9
-      - 节点测试·🏳️·unKnow·未知·10
-      - 节点测试·🇺🇸·US·美国·11
-      - 节点测试·🇺🇸·US·美国·12
-      - 节点测试·🇺🇸·US·美国·13
-      - 节点测试·🇩🇪·DE·德国·14
-      - 节点测试·🇮🇪·IE·爱尔兰·15
-      - 节点测试·🇬🇧·GB·英国·16
-      - 节点测试·🇨🇦·CA·加拿大·17
-      - 节点测试·🇺🇸·US·美国·18
-      - 节点测试·🇪🇸·ES·西班牙·19
-      - 节点测试·🇳🇱·NL·荷兰·20
-      - 节点测试·🇺🇸·US·美国·21
-      - 节点测试·🏳️·unKnow·未知·22
-      - 节点测试·🇧🇷·BR·巴西·23
-      - 节点测试·🇨🇳·CN·中国·24
-      - 节点测试·🇺🇸·US·美国·25
-      - 节点测试·🇺🇸·US·美国·26
-      - 节点测试·🇺🇸·US·美国·27
-      - 节点测试·🇺🇸·US·美国·28
-      - 节点测试·🇺🇸·US·美国·29
-      - 节点测试·🇺🇸·US·美国·30
-      - 节点测试·🇺🇸·US·美国·31
-      - 节点测试·🇺🇸·US·美国·32
-      - 节点测试·🇩🇪·DE·德国·33
-      - 节点测试·🇺🇸·US·美国·34
-      - 节点测试·🇺🇸·US·美国·35
-      - 节点测试·🇨🇦·CA·加拿大·36
-      - 节点测试·🇨🇳·CN·中国·37
-      - 节点测试·🇨🇳·CN·中国·38
-      - 节点测试·🇩🇪·DE·德国·39
-      - 节点测试·🇩🇪·DE·德国·40
-      - 节点测试·🇳🇱·NL·荷兰·41
-      - 节点测试·🇰🇷·KR·韩国·42
-      - 节点测试·🇺🇸·US·美国·43
-      - 节点测试·🇨🇳·CN·中国·44
-      - 节点测试·🇺🇸·US·美国·45
-      - 节点测试·🇯🇵·JP·日本·46
-      - 节点测试·🇨🇳·CN·中国·47
-      - 节点测试·🇨🇳·CN·中国·48
-      - 节点测试·🇨🇳·CN·中国·49
-      - 节点测试·🇨🇳·CN·中国·50
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月中国CN🇨🇳9
+      - xy星月中国CN🇨🇳10
+      - xy星月中国CN🇨🇳11
+      - xy星月中国CN🇨🇳12
+      - xy星月中国CN🇨🇳13
+      - xy星月中国CN🇨🇳14
+      - xy星月中国CN🇨🇳15
+      - xy星月中国CN🇨🇳16
+      - xy星月中国CN🇨🇳17
+      - xy星月中国CN🇨🇳18
+      - xy星月中国CN🇨🇳19
+      - xy星月中国CN🇨🇳20
+      - xy星月中国CN🇨🇳21
+      - xy星月中国CN🇨🇳22
+      - xy星月中国CN🇨🇳23
+      - xy星月中国CN🇨🇳24
+      - xy星月中国CN🇨🇳25
+      - xy星月中国CN🇨🇳26
+      - xy星月中国CN🇨🇳27
+      - xy星月中国CN🇨🇳28
+      - xy星月中国CN🇨🇳29
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 节点测试·🇯🇵·JP·日本·1
-      - 节点测试·🇨🇳·CN·中国·2
-      - 节点测试·🇨🇳·CN·中国·3
-      - 节点测试·🇨🇳·CN·中国·4
-      - 节点测试·🇺🇸·US·美国·5
-      - 节点测试·🇺🇸·US·美国·6
-      - 节点测试·🇺🇦·UA·乌克兰·7
-      - 节点测试·🇨🇳·CN·中国·8
-      - 节点测试·🇨🇳·CN·中国·9
-      - 节点测试·🏳️·unKnow·未知·10
-      - 节点测试·🇺🇸·US·美国·11
-      - 节点测试·🇺🇸·US·美国·12
-      - 节点测试·🇺🇸·US·美国·13
-      - 节点测试·🇩🇪·DE·德国·14
-      - 节点测试·🇮🇪·IE·爱尔兰·15
-      - 节点测试·🇬🇧·GB·英国·16
-      - 节点测试·🇨🇦·CA·加拿大·17
-      - 节点测试·🇺🇸·US·美国·18
-      - 节点测试·🇪🇸·ES·西班牙·19
-      - 节点测试·🇳🇱·NL·荷兰·20
-      - 节点测试·🇺🇸·US·美国·21
-      - 节点测试·🏳️·unKnow·未知·22
-      - 节点测试·🇧🇷·BR·巴西·23
-      - 节点测试·🇨🇳·CN·中国·24
-      - 节点测试·🇺🇸·US·美国·25
-      - 节点测试·🇺🇸·US·美国·26
-      - 节点测试·🇺🇸·US·美国·27
-      - 节点测试·🇺🇸·US·美国·28
-      - 节点测试·🇺🇸·US·美国·29
-      - 节点测试·🇺🇸·US·美国·30
-      - 节点测试·🇺🇸·US·美国·31
-      - 节点测试·🇺🇸·US·美国·32
-      - 节点测试·🇩🇪·DE·德国·33
-      - 节点测试·🇺🇸·US·美国·34
-      - 节点测试·🇺🇸·US·美国·35
-      - 节点测试·🇨🇦·CA·加拿大·36
-      - 节点测试·🇨🇳·CN·中国·37
-      - 节点测试·🇨🇳·CN·中国·38
-      - 节点测试·🇩🇪·DE·德国·39
-      - 节点测试·🇩🇪·DE·德国·40
-      - 节点测试·🇳🇱·NL·荷兰·41
-      - 节点测试·🇰🇷·KR·韩国·42
-      - 节点测试·🇺🇸·US·美国·43
-      - 节点测试·🇨🇳·CN·中国·44
-      - 节点测试·🇺🇸·US·美国·45
-      - 节点测试·🇯🇵·JP·日本·46
-      - 节点测试·🇨🇳·CN·中国·47
-      - 节点测试·🇨🇳·CN·中国·48
-      - 节点测试·🇨🇳·CN·中国·49
-      - 节点测试·🇨🇳·CN·中国·50
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月中国CN🇨🇳9
+      - xy星月中国CN🇨🇳10
+      - xy星月中国CN🇨🇳11
+      - xy星月中国CN🇨🇳12
+      - xy星月中国CN🇨🇳13
+      - xy星月中国CN🇨🇳14
+      - xy星月中国CN🇨🇳15
+      - xy星月中国CN🇨🇳16
+      - xy星月中国CN🇨🇳17
+      - xy星月中国CN🇨🇳18
+      - xy星月中国CN🇨🇳19
+      - xy星月中国CN🇨🇳20
+      - xy星月中国CN🇨🇳21
+      - xy星月中国CN🇨🇳22
+      - xy星月中国CN🇨🇳23
+      - xy星月中国CN🇨🇳24
+      - xy星月中国CN🇨🇳25
+      - xy星月中国CN🇨🇳26
+      - xy星月中国CN🇨🇳27
+      - xy星月中国CN🇨🇳28
+      - xy星月中国CN🇨🇳29
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 节点测试·🇯🇵·JP·日本·1
-      - 节点测试·🇨🇳·CN·中国·2
-      - 节点测试·🇨🇳·CN·中国·3
-      - 节点测试·🇨🇳·CN·中国·4
-      - 节点测试·🇺🇸·US·美国·5
-      - 节点测试·🇺🇸·US·美国·6
-      - 节点测试·🇺🇦·UA·乌克兰·7
-      - 节点测试·🇨🇳·CN·中国·8
-      - 节点测试·🇨🇳·CN·中国·9
-      - 节点测试·🏳️·unKnow·未知·10
-      - 节点测试·🇺🇸·US·美国·11
-      - 节点测试·🇺🇸·US·美国·12
-      - 节点测试·🇺🇸·US·美国·13
-      - 节点测试·🇩🇪·DE·德国·14
-      - 节点测试·🇮🇪·IE·爱尔兰·15
-      - 节点测试·🇬🇧·GB·英国·16
-      - 节点测试·🇨🇦·CA·加拿大·17
-      - 节点测试·🇺🇸·US·美国·18
-      - 节点测试·🇪🇸·ES·西班牙·19
-      - 节点测试·🇳🇱·NL·荷兰·20
-      - 节点测试·🇺🇸·US·美国·21
-      - 节点测试·🏳️·unKnow·未知·22
-      - 节点测试·🇧🇷·BR·巴西·23
-      - 节点测试·🇨🇳·CN·中国·24
-      - 节点测试·🇺🇸·US·美国·25
-      - 节点测试·🇺🇸·US·美国·26
-      - 节点测试·🇺🇸·US·美国·27
-      - 节点测试·🇺🇸·US·美国·28
-      - 节点测试·🇺🇸·US·美国·29
-      - 节点测试·🇺🇸·US·美国·30
-      - 节点测试·🇺🇸·US·美国·31
-      - 节点测试·🇺🇸·US·美国·32
-      - 节点测试·🇩🇪·DE·德国·33
-      - 节点测试·🇺🇸·US·美国·34
-      - 节点测试·🇺🇸·US·美国·35
-      - 节点测试·🇨🇦·CA·加拿大·36
-      - 节点测试·🇨🇳·CN·中国·37
-      - 节点测试·🇨🇳·CN·中国·38
-      - 节点测试·🇩🇪·DE·德国·39
-      - 节点测试·🇩🇪·DE·德国·40
-      - 节点测试·🇳🇱·NL·荷兰·41
-      - 节点测试·🇰🇷·KR·韩国·42
-      - 节点测试·🇺🇸·US·美国·43
-      - 节点测试·🇨🇳·CN·中国·44
-      - 节点测试·🇺🇸·US·美国·45
-      - 节点测试·🇯🇵·JP·日本·46
-      - 节点测试·🇨🇳·CN·中国·47
-      - 节点测试·🇨🇳·CN·中国·48
-      - 节点测试·🇨🇳·CN·中国·49
-      - 节点测试·🇨🇳·CN·中国·50
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月中国CN🇨🇳9
+      - xy星月中国CN🇨🇳10
+      - xy星月中国CN🇨🇳11
+      - xy星月中国CN🇨🇳12
+      - xy星月中国CN🇨🇳13
+      - xy星月中国CN🇨🇳14
+      - xy星月中国CN🇨🇳15
+      - xy星月中国CN🇨🇳16
+      - xy星月中国CN🇨🇳17
+      - xy星月中国CN🇨🇳18
+      - xy星月中国CN🇨🇳19
+      - xy星月中国CN🇨🇳20
+      - xy星月中国CN🇨🇳21
+      - xy星月中国CN🇨🇳22
+      - xy星月中国CN🇨🇳23
+      - xy星月中国CN🇨🇳24
+      - xy星月中国CN🇨🇳25
+      - xy星月中国CN🇨🇳26
+      - xy星月中国CN🇨🇳27
+      - xy星月中国CN🇨🇳28
+      - xy星月中国CN🇨🇳29
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 节点测试·🇯🇵·JP·日本·1
-      - 节点测试·🇨🇳·CN·中国·2
-      - 节点测试·🇨🇳·CN·中国·3
-      - 节点测试·🇨🇳·CN·中国·4
-      - 节点测试·🇺🇸·US·美国·5
-      - 节点测试·🇺🇸·US·美国·6
-      - 节点测试·🇺🇦·UA·乌克兰·7
-      - 节点测试·🇨🇳·CN·中国·8
-      - 节点测试·🇨🇳·CN·中国·9
-      - 节点测试·🏳️·unKnow·未知·10
-      - 节点测试·🇺🇸·US·美国·11
-      - 节点测试·🇺🇸·US·美国·12
-      - 节点测试·🇺🇸·US·美国·13
-      - 节点测试·🇩🇪·DE·德国·14
-      - 节点测试·🇮🇪·IE·爱尔兰·15
-      - 节点测试·🇬🇧·GB·英国·16
-      - 节点测试·🇨🇦·CA·加拿大·17
-      - 节点测试·🇺🇸·US·美国·18
-      - 节点测试·🇪🇸·ES·西班牙·19
-      - 节点测试·🇳🇱·NL·荷兰·20
-      - 节点测试·🇺🇸·US·美国·21
-      - 节点测试·🏳️·unKnow·未知·22
-      - 节点测试·🇧🇷·BR·巴西·23
-      - 节点测试·🇨🇳·CN·中国·24
-      - 节点测试·🇺🇸·US·美国·25
-      - 节点测试·🇺🇸·US·美国·26
-      - 节点测试·🇺🇸·US·美国·27
-      - 节点测试·🇺🇸·US·美国·28
-      - 节点测试·🇺🇸·US·美国·29
-      - 节点测试·🇺🇸·US·美国·30
-      - 节点测试·🇺🇸·US·美国·31
-      - 节点测试·🇺🇸·US·美国·32
-      - 节点测试·🇩🇪·DE·德国·33
-      - 节点测试·🇺🇸·US·美国·34
-      - 节点测试·🇺🇸·US·美国·35
-      - 节点测试·🇨🇦·CA·加拿大·36
-      - 节点测试·🇨🇳·CN·中国·37
-      - 节点测试·🇨🇳·CN·中国·38
-      - 节点测试·🇩🇪·DE·德国·39
-      - 节点测试·🇩🇪·DE·德国·40
-      - 节点测试·🇳🇱·NL·荷兰·41
-      - 节点测试·🇰🇷·KR·韩国·42
-      - 节点测试·🇺🇸·US·美国·43
-      - 节点测试·🇨🇳·CN·中国·44
-      - 节点测试·🇺🇸·US·美国·45
-      - 节点测试·🇯🇵·JP·日本·46
-      - 节点测试·🇨🇳·CN·中国·47
-      - 节点测试·🇨🇳·CN·中国·48
-      - 节点测试·🇨🇳·CN·中国·49
-      - 节点测试·🇨🇳·CN·中国·50
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月中国CN🇨🇳9
+      - xy星月中国CN🇨🇳10
+      - xy星月中国CN🇨🇳11
+      - xy星月中国CN🇨🇳12
+      - xy星月中国CN🇨🇳13
+      - xy星月中国CN🇨🇳14
+      - xy星月中国CN🇨🇳15
+      - xy星月中国CN🇨🇳16
+      - xy星月中国CN🇨🇳17
+      - xy星月中国CN🇨🇳18
+      - xy星月中国CN🇨🇳19
+      - xy星月中国CN🇨🇳20
+      - xy星月中国CN🇨🇳21
+      - xy星月中国CN🇨🇳22
+      - xy星月中国CN🇨🇳23
+      - xy星月中国CN🇨🇳24
+      - xy星月中国CN🇨🇳25
+      - xy星月中国CN🇨🇳26
+      - xy星月中国CN🇨🇳27
+      - xy星月中国CN🇨🇳28
+      - xy星月中国CN🇨🇳29
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 节点测试·🇯🇵·JP·日本·1
-      - 节点测试·🇨🇳·CN·中国·2
-      - 节点测试·🇨🇳·CN·中国·3
-      - 节点测试·🇨🇳·CN·中国·4
-      - 节点测试·🇺🇸·US·美国·5
-      - 节点测试·🇺🇸·US·美国·6
-      - 节点测试·🇺🇦·UA·乌克兰·7
-      - 节点测试·🇨🇳·CN·中国·8
-      - 节点测试·🇨🇳·CN·中国·9
-      - 节点测试·🏳️·unKnow·未知·10
-      - 节点测试·🇺🇸·US·美国·11
-      - 节点测试·🇺🇸·US·美国·12
-      - 节点测试·🇺🇸·US·美国·13
-      - 节点测试·🇩🇪·DE·德国·14
-      - 节点测试·🇮🇪·IE·爱尔兰·15
-      - 节点测试·🇬🇧·GB·英国·16
-      - 节点测试·🇨🇦·CA·加拿大·17
-      - 节点测试·🇺🇸·US·美国·18
-      - 节点测试·🇪🇸·ES·西班牙·19
-      - 节点测试·🇳🇱·NL·荷兰·20
-      - 节点测试·🇺🇸·US·美国·21
-      - 节点测试·🏳️·unKnow·未知·22
-      - 节点测试·🇧🇷·BR·巴西·23
-      - 节点测试·🇨🇳·CN·中国·24
-      - 节点测试·🇺🇸·US·美国·25
-      - 节点测试·🇺🇸·US·美国·26
-      - 节点测试·🇺🇸·US·美国·27
-      - 节点测试·🇺🇸·US·美国·28
-      - 节点测试·🇺🇸·US·美国·29
-      - 节点测试·🇺🇸·US·美国·30
-      - 节点测试·🇺🇸·US·美国·31
-      - 节点测试·🇺🇸·US·美国·32
-      - 节点测试·🇩🇪·DE·德国·33
-      - 节点测试·🇺🇸·US·美国·34
-      - 节点测试·🇺🇸·US·美国·35
-      - 节点测试·🇨🇦·CA·加拿大·36
-      - 节点测试·🇨🇳·CN·中国·37
-      - 节点测试·🇨🇳·CN·中国·38
-      - 节点测试·🇩🇪·DE·德国·39
-      - 节点测试·🇩🇪·DE·德国·40
-      - 节点测试·🇳🇱·NL·荷兰·41
-      - 节点测试·🇰🇷·KR·韩国·42
-      - 节点测试·🇺🇸·US·美国·43
-      - 节点测试·🇨🇳·CN·中国·44
-      - 节点测试·🇺🇸·US·美国·45
-      - 节点测试·🇯🇵·JP·日本·46
-      - 节点测试·🇨🇳·CN·中国·47
-      - 节点测试·🇨🇳·CN·中国·48
-      - 节点测试·🇨🇳·CN·中国·49
-      - 节点测试·🇨🇳·CN·中国·50
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月中国CN🇨🇳9
+      - xy星月中国CN🇨🇳10
+      - xy星月中国CN🇨🇳11
+      - xy星月中国CN🇨🇳12
+      - xy星月中国CN🇨🇳13
+      - xy星月中国CN🇨🇳14
+      - xy星月中国CN🇨🇳15
+      - xy星月中国CN🇨🇳16
+      - xy星月中国CN🇨🇳17
+      - xy星月中国CN🇨🇳18
+      - xy星月中国CN🇨🇳19
+      - xy星月中国CN🇨🇳20
+      - xy星月中国CN🇨🇳21
+      - xy星月中国CN🇨🇳22
+      - xy星月中国CN🇨🇳23
+      - xy星月中国CN🇨🇳24
+      - xy星月中国CN🇨🇳25
+      - xy星月中国CN🇨🇳26
+      - xy星月中国CN🇨🇳27
+      - xy星月中国CN🇨🇳28
+      - xy星月中国CN🇨🇳29
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 节点测试·🇯🇵·JP·日本·1
-      - 节点测试·🇨🇳·CN·中国·2
-      - 节点测试·🇨🇳·CN·中国·3
-      - 节点测试·🇨🇳·CN·中国·4
-      - 节点测试·🇺🇸·US·美国·5
-      - 节点测试·🇺🇸·US·美国·6
-      - 节点测试·🇺🇦·UA·乌克兰·7
-      - 节点测试·🇨🇳·CN·中国·8
-      - 节点测试·🇨🇳·CN·中国·9
-      - 节点测试·🏳️·unKnow·未知·10
-      - 节点测试·🇺🇸·US·美国·11
-      - 节点测试·🇺🇸·US·美国·12
-      - 节点测试·🇺🇸·US·美国·13
-      - 节点测试·🇩🇪·DE·德国·14
-      - 节点测试·🇮🇪·IE·爱尔兰·15
-      - 节点测试·🇬🇧·GB·英国·16
-      - 节点测试·🇨🇦·CA·加拿大·17
-      - 节点测试·🇺🇸·US·美国·18
-      - 节点测试·🇪🇸·ES·西班牙·19
-      - 节点测试·🇳🇱·NL·荷兰·20
-      - 节点测试·🇺🇸·US·美国·21
-      - 节点测试·🏳️·unKnow·未知·22
-      - 节点测试·🇧🇷·BR·巴西·23
-      - 节点测试·🇨🇳·CN·中国·24
-      - 节点测试·🇺🇸·US·美国·25
-      - 节点测试·🇺🇸·US·美国·26
-      - 节点测试·🇺🇸·US·美国·27
-      - 节点测试·🇺🇸·US·美国·28
-      - 节点测试·🇺🇸·US·美国·29
-      - 节点测试·🇺🇸·US·美国·30
-      - 节点测试·🇺🇸·US·美国·31
-      - 节点测试·🇺🇸·US·美国·32
-      - 节点测试·🇩🇪·DE·德国·33
-      - 节点测试·🇺🇸·US·美国·34
-      - 节点测试·🇺🇸·US·美国·35
-      - 节点测试·🇨🇦·CA·加拿大·36
-      - 节点测试·🇨🇳·CN·中国·37
-      - 节点测试·🇨🇳·CN·中国·38
-      - 节点测试·🇩🇪·DE·德国·39
-      - 节点测试·🇩🇪·DE·德国·40
-      - 节点测试·🇳🇱·NL·荷兰·41
-      - 节点测试·🇰🇷·KR·韩国·42
-      - 节点测试·🇺🇸·US·美国·43
-      - 节点测试·🇨🇳·CN·中国·44
-      - 节点测试·🇺🇸·US·美国·45
-      - 节点测试·🇯🇵·JP·日本·46
-      - 节点测试·🇨🇳·CN·中国·47
-      - 节点测试·🇨🇳·CN·中国·48
-      - 节点测试·🇨🇳·CN·中国·49
-      - 节点测试·🇨🇳·CN·中国·50
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月中国CN🇨🇳9
+      - xy星月中国CN🇨🇳10
+      - xy星月中国CN🇨🇳11
+      - xy星月中国CN🇨🇳12
+      - xy星月中国CN🇨🇳13
+      - xy星月中国CN🇨🇳14
+      - xy星月中国CN🇨🇳15
+      - xy星月中国CN🇨🇳16
+      - xy星月中国CN🇨🇳17
+      - xy星月中国CN🇨🇳18
+      - xy星月中国CN🇨🇳19
+      - xy星月中国CN🇨🇳20
+      - xy星月中国CN🇨🇳21
+      - xy星月中国CN🇨🇳22
+      - xy星月中国CN🇨🇳23
+      - xy星月中国CN🇨🇳24
+      - xy星月中国CN🇨🇳25
+      - xy星月中国CN🇨🇳26
+      - xy星月中国CN🇨🇳27
+      - xy星月中国CN🇨🇳28
+      - xy星月中国CN🇨🇳29
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -851,56 +654,35 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 节点测试·🇯🇵·JP·日本·1
-      - 节点测试·🇨🇳·CN·中国·2
-      - 节点测试·🇨🇳·CN·中国·3
-      - 节点测试·🇨🇳·CN·中国·4
-      - 节点测试·🇺🇸·US·美国·5
-      - 节点测试·🇺🇸·US·美国·6
-      - 节点测试·🇺🇦·UA·乌克兰·7
-      - 节点测试·🇨🇳·CN·中国·8
-      - 节点测试·🇨🇳·CN·中国·9
-      - 节点测试·🏳️·unKnow·未知·10
-      - 节点测试·🇺🇸·US·美国·11
-      - 节点测试·🇺🇸·US·美国·12
-      - 节点测试·🇺🇸·US·美国·13
-      - 节点测试·🇩🇪·DE·德国·14
-      - 节点测试·🇮🇪·IE·爱尔兰·15
-      - 节点测试·🇬🇧·GB·英国·16
-      - 节点测试·🇨🇦·CA·加拿大·17
-      - 节点测试·🇺🇸·US·美国·18
-      - 节点测试·🇪🇸·ES·西班牙·19
-      - 节点测试·🇳🇱·NL·荷兰·20
-      - 节点测试·🇺🇸·US·美国·21
-      - 节点测试·🏳️·unKnow·未知·22
-      - 节点测试·🇧🇷·BR·巴西·23
-      - 节点测试·🇨🇳·CN·中国·24
-      - 节点测试·🇺🇸·US·美国·25
-      - 节点测试·🇺🇸·US·美国·26
-      - 节点测试·🇺🇸·US·美国·27
-      - 节点测试·🇺🇸·US·美国·28
-      - 节点测试·🇺🇸·US·美国·29
-      - 节点测试·🇺🇸·US·美国·30
-      - 节点测试·🇺🇸·US·美国·31
-      - 节点测试·🇺🇸·US·美国·32
-      - 节点测试·🇩🇪·DE·德国·33
-      - 节点测试·🇺🇸·US·美国·34
-      - 节点测试·🇺🇸·US·美国·35
-      - 节点测试·🇨🇦·CA·加拿大·36
-      - 节点测试·🇨🇳·CN·中国·37
-      - 节点测试·🇨🇳·CN·中国·38
-      - 节点测试·🇩🇪·DE·德国·39
-      - 节点测试·🇩🇪·DE·德国·40
-      - 节点测试·🇳🇱·NL·荷兰·41
-      - 节点测试·🇰🇷·KR·韩国·42
-      - 节点测试·🇺🇸·US·美国·43
-      - 节点测试·🇨🇳·CN·中国·44
-      - 节点测试·🇺🇸·US·美国·45
-      - 节点测试·🇯🇵·JP·日本·46
-      - 节点测试·🇨🇳·CN·中国·47
-      - 节点测试·🇨🇳·CN·中国·48
-      - 节点测试·🇨🇳·CN·中国·49
-      - 节点测试·🇨🇳·CN·中国·50
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月中国CN🇨🇳9
+      - xy星月中国CN🇨🇳10
+      - xy星月中国CN🇨🇳11
+      - xy星月中国CN🇨🇳12
+      - xy星月中国CN🇨🇳13
+      - xy星月中国CN🇨🇳14
+      - xy星月中国CN🇨🇳15
+      - xy星月中国CN🇨🇳16
+      - xy星月中国CN🇨🇳17
+      - xy星月中国CN🇨🇳18
+      - xy星月中国CN🇨🇳19
+      - xy星月中国CN🇨🇳20
+      - xy星月中国CN🇨🇳21
+      - xy星月中国CN🇨🇳22
+      - xy星月中国CN🇨🇳23
+      - xy星月中国CN🇨🇳24
+      - xy星月中国CN🇨🇳25
+      - xy星月中国CN🇨🇳26
+      - xy星月中国CN🇨🇳27
+      - xy星月中国CN🇨🇳28
+      - xy星月中国CN🇨🇳29
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
