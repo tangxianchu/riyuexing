@@ -48,455 +48,358 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: ry日月未知unKnow🏳️1
-    port: 53066
-    server: gonggao01.loveroise.com
+  - name: xy星月中国CN🇨🇳1
+    port: 14505
+    server: 36.151.192.242
+    type: trojan
+    udp: true
+    password: QwwHvrnN
+    skip-cert-verify: true
+    client-fingerprint: chrome
+  - name: xy星月中国CN🇨🇳2
+    port: 42395
+    server: 36.151.192.196
+    type: trojan
+    udp: true
+    password: QwwHvrnN
+    skip-cert-verify: true
+    client-fingerprint: chrome
+  - name: xy星月中国CN🇨🇳3
+    port: 53002
+    server: 183.236.51.23
+    type: vmess
+    tls: false
+    udp: true
+    skip-cert-verify: false
+    cipher: auto
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月中国CN🇨🇳4
+    port: 39949
+    server: 185.207.155.123
+    type: vmess
+    tls: false
+    udp: true
+    skip-cert-verify: false
+    cipher: auto
+    uuid: 0899b23d-fbd2-42b8-8e48-b057cf45e24e
+    alterId: 0
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月中国CN🇨🇳5
+    port: 8388
+    server: 194.41.59.80
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️2
-    port: 53070
-    server: gonggao03.loveroise.com
+    password: asd123456
+    cipher: chacha20-ietf
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月中国CN🇨🇳6
+    port: 58002
+    server: 120.232.153.27
+    type: vmess
+    tls: false
+    udp: true
+    skip-cert-verify: false
+    cipher: auto
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月中国CN🇨🇳7
+    port: 80
+    server: twriyfjhhhh1.hfhfb.homes
+    type: vmess
+    network: ws
+    tls: false
+    udp: true
+    skip-cert-verify: false
+    ws-opts:
+      path: /?ed
+      headers:
+        Host: app.dingtalk.com
+    cipher: auto
+    uuid: 2744bc46-8b19-40a5-9733-5bc819fa9553
+    alterId: 0
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月中国CN🇨🇳8
+    port: 17806
+    server: 36.151.192.239
+    type: trojan
+    udp: true
+    password: QwwHvrnN
+    skip-cert-verify: true
+    client-fingerprint: chrome
+  - name: xy星月日本JP🇯🇵9
+    port: 443
+    server: n2.jp4589871.top
+    type: trojan
+    udp: true
+    sni: n2.jp4589871.top
+    password: 0ff8c310-3191-4071-925e-1f7be8f1f94f
+    skip-cert-verify: false
+    client-fingerprint: chrome
+  - name: xy星月中国CN🇨🇳10
+    port: 36900
+    server: 36.151.192.198
+    type: trojan
+    udp: true
+    password: QwwHvrnN
+    skip-cert-verify: true
+    client-fingerprint: chrome
+  - name: xy星月美国US🇺🇸11
+    port: 34103
+    server: 45.94.68.179
+    type: vmess
+    tls: false
+    udp: true
+    skip-cert-verify: false
+    cipher: auto
+    uuid: f083427f-9d8b-4863-b4a5-fc15255547d2
+    alterId: 0
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月中国CN🇨🇳12
+    port: 39202
+    server: hzhz1.sssyun.xyz
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    password: b40fb56c-f538-4bf2-951e-b645f48b9937
     cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️3
-    port: 53070
-    server: gonggao03.loveroise.com
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月新加坡SG🇸🇬13
+    port: 8009
+    server: n2.sps465ad81.top
+    type: trojan
+    udp: true
+    sni: n2.sps465ad81.top
+    password: 0ff8c310-3191-4071-925e-1f7be8f1f94f
+    skip-cert-verify: false
+    client-fingerprint: chrome
+  - name: xy星月中国CN🇨🇳14
+    port: 52112
+    server: 183.236.51.23
+    type: vmess
+    tls: false
+    udp: true
+    skip-cert-verify: false
+    cipher: auto
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月美国US🇺🇸15
+    port: 443
+    server: 3.36.115.124
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️4
-    port: 53072
-    server: gonggao04.loveroise.com
+    password: amazonskr05
+    cipher: aes-256-cfb
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月日本JP🇯🇵16
+    port: 443
+    server: 54.95.5.168
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️5
-    port: 54000
-    server: h-k01.loveroise.com
+    password: amazonskr05
+    cipher: aes-256-cfb
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月新加坡SG🇸🇬17
+    port: 443
+    server: 13.229.212.209
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️6
-    port: 54002
-    server: h-k02.loveroise.com
+    password: amazonskr05
+    cipher: aes-256-cfb
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月俄罗斯RU🇷🇺18
+    port: 12345
+    server: 46.17.40.57
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️7
-    port: 54004
-    server: h-k03.loveroise.com
+    password: dongtaiwang.com
+    cipher: aes-256-gcm
+    client-fingerprint: chrome
+    tfo: false
+  - name: xy星月荷兰NL🇳🇱19
+    port: 27101
+    server: aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz
+    type: trojan
+    udp: true
+    sni: q08m.vgraxiw73s.hasyaf.cn
+    password: 4e399fb9-5a4c-49cd-9849-2051512f4c6c
+    skip-cert-verify: false
+    client-fingerprint: chrome
+  - name: xy星月西班牙ES🇪🇸20
+    port: 21771
+    server: 150.241.102.95
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    password: sE4HkRH9agsPPc7DE2IMDT
     cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️8
-    port: 54006
-    server: h-k04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月日本JP🇯🇵9
-    port: 60004
-    server: adoredone.cc
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️10
-    port: 54032
-    server: t-wn01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️11
-    port: 54034
-    server: t-wn02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️12
-    port: 54036
-    server: t-wn03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️13
-    port: 54038
-    server: t-wn04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月日本JP🇯🇵14
-    port: 60005
-    server: adoredone.cc
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️15
-    port: 54096
-    server: j-p01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️16
-    port: 54098
-    server: j-p02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️17
-    port: 54100
-    server: j-p03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️18
-    port: 54102
-    server: j-p04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月日本JP🇯🇵19
-    port: 60002
-    server: adoredone.cc
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️20
-    port: 54024
-    server: s-g01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️21
-    port: 54026
-    server: s-g02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️22
-    port: 54028
-    server: s-g03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️23
-    port: 54030
-    server: s-g04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月日本JP🇯🇵24
-    port: 60003
-    server: adoredone.cc
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️25
-    port: 54008
-    server: k-r01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️26
-    port: 54010
-    server: k-r02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️27
-    port: 54012
-    server: k-r03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️28
-    port: 54014
-    server: k-r04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️29
-    port: 54016
-    server: u-s01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️30
-    port: 54018
-    server: u-s02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️31
-    port: 54020
-    server: u-s03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: ry日月未知unKnow🏳️32
-    port: 54022
-    server: u-s04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
+    client-fingerprint: chrome
+    tfo: false
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - ry日月未知unKnow🏳️1
-      - ry日月未知unKnow🏳️2
-      - ry日月未知unKnow🏳️3
-      - ry日月未知unKnow🏳️4
-      - ry日月未知unKnow🏳️5
-      - ry日月未知unKnow🏳️6
-      - ry日月未知unKnow🏳️7
-      - ry日月未知unKnow🏳️8
-      - ry日月日本JP🇯🇵9
-      - ry日月未知unKnow🏳️10
-      - ry日月未知unKnow🏳️11
-      - ry日月未知unKnow🏳️12
-      - ry日月未知unKnow🏳️13
-      - ry日月日本JP🇯🇵14
-      - ry日月未知unKnow🏳️15
-      - ry日月未知unKnow🏳️16
-      - ry日月未知unKnow🏳️17
-      - ry日月未知unKnow🏳️18
-      - ry日月日本JP🇯🇵19
-      - ry日月未知unKnow🏳️20
-      - ry日月未知unKnow🏳️21
-      - ry日月未知unKnow🏳️22
-      - ry日月未知unKnow🏳️23
-      - ry日月日本JP🇯🇵24
-      - ry日月未知unKnow🏳️25
-      - ry日月未知unKnow🏳️26
-      - ry日月未知unKnow🏳️27
-      - ry日月未知unKnow🏳️28
-      - ry日月未知unKnow🏳️29
-      - ry日月未知unKnow🏳️30
-      - ry日月未知unKnow🏳️31
-      - ry日月未知unKnow🏳️32
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月日本JP🇯🇵9
+      - xy星月中国CN🇨🇳10
+      - xy星月美国US🇺🇸11
+      - xy星月中国CN🇨🇳12
+      - xy星月新加坡SG🇸🇬13
+      - xy星月中国CN🇨🇳14
+      - xy星月美国US🇺🇸15
+      - xy星月日本JP🇯🇵16
+      - xy星月新加坡SG🇸🇬17
+      - xy星月俄罗斯RU🇷🇺18
+      - xy星月荷兰NL🇳🇱19
+      - xy星月西班牙ES🇪🇸20
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - ry日月未知unKnow🏳️1
-      - ry日月未知unKnow🏳️2
-      - ry日月未知unKnow🏳️3
-      - ry日月未知unKnow🏳️4
-      - ry日月未知unKnow🏳️5
-      - ry日月未知unKnow🏳️6
-      - ry日月未知unKnow🏳️7
-      - ry日月未知unKnow🏳️8
-      - ry日月日本JP🇯🇵9
-      - ry日月未知unKnow🏳️10
-      - ry日月未知unKnow🏳️11
-      - ry日月未知unKnow🏳️12
-      - ry日月未知unKnow🏳️13
-      - ry日月日本JP🇯🇵14
-      - ry日月未知unKnow🏳️15
-      - ry日月未知unKnow🏳️16
-      - ry日月未知unKnow🏳️17
-      - ry日月未知unKnow🏳️18
-      - ry日月日本JP🇯🇵19
-      - ry日月未知unKnow🏳️20
-      - ry日月未知unKnow🏳️21
-      - ry日月未知unKnow🏳️22
-      - ry日月未知unKnow🏳️23
-      - ry日月日本JP🇯🇵24
-      - ry日月未知unKnow🏳️25
-      - ry日月未知unKnow🏳️26
-      - ry日月未知unKnow🏳️27
-      - ry日月未知unKnow🏳️28
-      - ry日月未知unKnow🏳️29
-      - ry日月未知unKnow🏳️30
-      - ry日月未知unKnow🏳️31
-      - ry日月未知unKnow🏳️32
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月日本JP🇯🇵9
+      - xy星月中国CN🇨🇳10
+      - xy星月美国US🇺🇸11
+      - xy星月中国CN🇨🇳12
+      - xy星月新加坡SG🇸🇬13
+      - xy星月中国CN🇨🇳14
+      - xy星月美国US🇺🇸15
+      - xy星月日本JP🇯🇵16
+      - xy星月新加坡SG🇸🇬17
+      - xy星月俄罗斯RU🇷🇺18
+      - xy星月荷兰NL🇳🇱19
+      - xy星月西班牙ES🇪🇸20
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - ry日月未知unKnow🏳️1
-      - ry日月未知unKnow🏳️2
-      - ry日月未知unKnow🏳️3
-      - ry日月未知unKnow🏳️4
-      - ry日月未知unKnow🏳️5
-      - ry日月未知unKnow🏳️6
-      - ry日月未知unKnow🏳️7
-      - ry日月未知unKnow🏳️8
-      - ry日月日本JP🇯🇵9
-      - ry日月未知unKnow🏳️10
-      - ry日月未知unKnow🏳️11
-      - ry日月未知unKnow🏳️12
-      - ry日月未知unKnow🏳️13
-      - ry日月日本JP🇯🇵14
-      - ry日月未知unKnow🏳️15
-      - ry日月未知unKnow🏳️16
-      - ry日月未知unKnow🏳️17
-      - ry日月未知unKnow🏳️18
-      - ry日月日本JP🇯🇵19
-      - ry日月未知unKnow🏳️20
-      - ry日月未知unKnow🏳️21
-      - ry日月未知unKnow🏳️22
-      - ry日月未知unKnow🏳️23
-      - ry日月日本JP🇯🇵24
-      - ry日月未知unKnow🏳️25
-      - ry日月未知unKnow🏳️26
-      - ry日月未知unKnow🏳️27
-      - ry日月未知unKnow🏳️28
-      - ry日月未知unKnow🏳️29
-      - ry日月未知unKnow🏳️30
-      - ry日月未知unKnow🏳️31
-      - ry日月未知unKnow🏳️32
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月日本JP🇯🇵9
+      - xy星月中国CN🇨🇳10
+      - xy星月美国US🇺🇸11
+      - xy星月中国CN🇨🇳12
+      - xy星月新加坡SG🇸🇬13
+      - xy星月中国CN🇨🇳14
+      - xy星月美国US🇺🇸15
+      - xy星月日本JP🇯🇵16
+      - xy星月新加坡SG🇸🇬17
+      - xy星月俄罗斯RU🇷🇺18
+      - xy星月荷兰NL🇳🇱19
+      - xy星月西班牙ES🇪🇸20
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - ry日月未知unKnow🏳️1
-      - ry日月未知unKnow🏳️2
-      - ry日月未知unKnow🏳️3
-      - ry日月未知unKnow🏳️4
-      - ry日月未知unKnow🏳️5
-      - ry日月未知unKnow🏳️6
-      - ry日月未知unKnow🏳️7
-      - ry日月未知unKnow🏳️8
-      - ry日月日本JP🇯🇵9
-      - ry日月未知unKnow🏳️10
-      - ry日月未知unKnow🏳️11
-      - ry日月未知unKnow🏳️12
-      - ry日月未知unKnow🏳️13
-      - ry日月日本JP🇯🇵14
-      - ry日月未知unKnow🏳️15
-      - ry日月未知unKnow🏳️16
-      - ry日月未知unKnow🏳️17
-      - ry日月未知unKnow🏳️18
-      - ry日月日本JP🇯🇵19
-      - ry日月未知unKnow🏳️20
-      - ry日月未知unKnow🏳️21
-      - ry日月未知unKnow🏳️22
-      - ry日月未知unKnow🏳️23
-      - ry日月日本JP🇯🇵24
-      - ry日月未知unKnow🏳️25
-      - ry日月未知unKnow🏳️26
-      - ry日月未知unKnow🏳️27
-      - ry日月未知unKnow🏳️28
-      - ry日月未知unKnow🏳️29
-      - ry日月未知unKnow🏳️30
-      - ry日月未知unKnow🏳️31
-      - ry日月未知unKnow🏳️32
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月日本JP🇯🇵9
+      - xy星月中国CN🇨🇳10
+      - xy星月美国US🇺🇸11
+      - xy星月中国CN🇨🇳12
+      - xy星月新加坡SG🇸🇬13
+      - xy星月中国CN🇨🇳14
+      - xy星月美国US🇺🇸15
+      - xy星月日本JP🇯🇵16
+      - xy星月新加坡SG🇸🇬17
+      - xy星月俄罗斯RU🇷🇺18
+      - xy星月荷兰NL🇳🇱19
+      - xy星月西班牙ES🇪🇸20
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - ry日月未知unKnow🏳️1
-      - ry日月未知unKnow🏳️2
-      - ry日月未知unKnow🏳️3
-      - ry日月未知unKnow🏳️4
-      - ry日月未知unKnow🏳️5
-      - ry日月未知unKnow🏳️6
-      - ry日月未知unKnow🏳️7
-      - ry日月未知unKnow🏳️8
-      - ry日月日本JP🇯🇵9
-      - ry日月未知unKnow🏳️10
-      - ry日月未知unKnow🏳️11
-      - ry日月未知unKnow🏳️12
-      - ry日月未知unKnow🏳️13
-      - ry日月日本JP🇯🇵14
-      - ry日月未知unKnow🏳️15
-      - ry日月未知unKnow🏳️16
-      - ry日月未知unKnow🏳️17
-      - ry日月未知unKnow🏳️18
-      - ry日月日本JP🇯🇵19
-      - ry日月未知unKnow🏳️20
-      - ry日月未知unKnow🏳️21
-      - ry日月未知unKnow🏳️22
-      - ry日月未知unKnow🏳️23
-      - ry日月日本JP🇯🇵24
-      - ry日月未知unKnow🏳️25
-      - ry日月未知unKnow🏳️26
-      - ry日月未知unKnow🏳️27
-      - ry日月未知unKnow🏳️28
-      - ry日月未知unKnow🏳️29
-      - ry日月未知unKnow🏳️30
-      - ry日月未知unKnow🏳️31
-      - ry日月未知unKnow🏳️32
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月日本JP🇯🇵9
+      - xy星月中国CN🇨🇳10
+      - xy星月美国US🇺🇸11
+      - xy星月中国CN🇨🇳12
+      - xy星月新加坡SG🇸🇬13
+      - xy星月中国CN🇨🇳14
+      - xy星月美国US🇺🇸15
+      - xy星月日本JP🇯🇵16
+      - xy星月新加坡SG🇸🇬17
+      - xy星月俄罗斯RU🇷🇺18
+      - xy星月荷兰NL🇳🇱19
+      - xy星月西班牙ES🇪🇸20
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - ry日月未知unKnow🏳️1
-      - ry日月未知unKnow🏳️2
-      - ry日月未知unKnow🏳️3
-      - ry日月未知unKnow🏳️4
-      - ry日月未知unKnow🏳️5
-      - ry日月未知unKnow🏳️6
-      - ry日月未知unKnow🏳️7
-      - ry日月未知unKnow🏳️8
-      - ry日月日本JP🇯🇵9
-      - ry日月未知unKnow🏳️10
-      - ry日月未知unKnow🏳️11
-      - ry日月未知unKnow🏳️12
-      - ry日月未知unKnow🏳️13
-      - ry日月日本JP🇯🇵14
-      - ry日月未知unKnow🏳️15
-      - ry日月未知unKnow🏳️16
-      - ry日月未知unKnow🏳️17
-      - ry日月未知unKnow🏳️18
-      - ry日月日本JP🇯🇵19
-      - ry日月未知unKnow🏳️20
-      - ry日月未知unKnow🏳️21
-      - ry日月未知unKnow🏳️22
-      - ry日月未知unKnow🏳️23
-      - ry日月日本JP🇯🇵24
-      - ry日月未知unKnow🏳️25
-      - ry日月未知unKnow🏳️26
-      - ry日月未知unKnow🏳️27
-      - ry日月未知unKnow🏳️28
-      - ry日月未知unKnow🏳️29
-      - ry日月未知unKnow🏳️30
-      - ry日月未知unKnow🏳️31
-      - ry日月未知unKnow🏳️32
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月日本JP🇯🇵9
+      - xy星月中国CN🇨🇳10
+      - xy星月美国US🇺🇸11
+      - xy星月中国CN🇨🇳12
+      - xy星月新加坡SG🇸🇬13
+      - xy星月中国CN🇨🇳14
+      - xy星月美国US🇺🇸15
+      - xy星月日本JP🇯🇵16
+      - xy星月新加坡SG🇸🇬17
+      - xy星月俄罗斯RU🇷🇺18
+      - xy星月荷兰NL🇳🇱19
+      - xy星月西班牙ES🇪🇸20
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -519,38 +422,26 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - ry日月未知unKnow🏳️1
-      - ry日月未知unKnow🏳️2
-      - ry日月未知unKnow🏳️3
-      - ry日月未知unKnow🏳️4
-      - ry日月未知unKnow🏳️5
-      - ry日月未知unKnow🏳️6
-      - ry日月未知unKnow🏳️7
-      - ry日月未知unKnow🏳️8
-      - ry日月日本JP🇯🇵9
-      - ry日月未知unKnow🏳️10
-      - ry日月未知unKnow🏳️11
-      - ry日月未知unKnow🏳️12
-      - ry日月未知unKnow🏳️13
-      - ry日月日本JP🇯🇵14
-      - ry日月未知unKnow🏳️15
-      - ry日月未知unKnow🏳️16
-      - ry日月未知unKnow🏳️17
-      - ry日月未知unKnow🏳️18
-      - ry日月日本JP🇯🇵19
-      - ry日月未知unKnow🏳️20
-      - ry日月未知unKnow🏳️21
-      - ry日月未知unKnow🏳️22
-      - ry日月未知unKnow🏳️23
-      - ry日月日本JP🇯🇵24
-      - ry日月未知unKnow🏳️25
-      - ry日月未知unKnow🏳️26
-      - ry日月未知unKnow🏳️27
-      - ry日月未知unKnow🏳️28
-      - ry日月未知unKnow🏳️29
-      - ry日月未知unKnow🏳️30
-      - ry日月未知unKnow🏳️31
-      - ry日月未知unKnow🏳️32
+      - xy星月中国CN🇨🇳1
+      - xy星月中国CN🇨🇳2
+      - xy星月中国CN🇨🇳3
+      - xy星月中国CN🇨🇳4
+      - xy星月中国CN🇨🇳5
+      - xy星月中国CN🇨🇳6
+      - xy星月中国CN🇨🇳7
+      - xy星月中国CN🇨🇳8
+      - xy星月日本JP🇯🇵9
+      - xy星月中国CN🇨🇳10
+      - xy星月美国US🇺🇸11
+      - xy星月中国CN🇨🇳12
+      - xy星月新加坡SG🇸🇬13
+      - xy星月中国CN🇨🇳14
+      - xy星月美国US🇺🇸15
+      - xy星月日本JP🇯🇵16
+      - xy星月新加坡SG🇸🇬17
+      - xy星月俄罗斯RU🇷🇺18
+      - xy星月荷兰NL🇳🇱19
+      - xy星月西班牙ES🇪🇸20
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
