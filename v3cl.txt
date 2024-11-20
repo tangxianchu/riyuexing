@@ -48,1859 +48,455 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 星月cs🇺🇸US美国1
-    port: 443
-    server: 47.128.215.67
+  - name: ry日月未知unKnow🏳️1
+    port: 53066
+    server: gonggao01.loveroise.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇺🇸US美国2
-    port: 443
-    server: 54.191.9.106
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️2
+    port: 53070
+    server: gonggao03.loveroise.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇺🇸US美国3
-    port: 443
-    server: 54.213.247.125
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️3
+    port: 53070
+    server: gonggao03.loveroise.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇯🇵JP日本4
-    port: 443
-    server: 52.196.65.55
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️4
+    port: 53072
+    server: gonggao04.loveroise.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇸🇬SG新加坡5
-    port: 443
-    server: 54.254.186.175
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️5
+    port: 54000
+    server: h-k01.loveroise.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇦🇺AU澳大利亚6
-    port: 443
-    server: 43.201.254.74
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️6
+    port: 54002
+    server: h-k02.loveroise.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇦🇺AU澳大利亚7
-    port: 443
-    server: 43.201.254.211
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️7
+    port: 54004
+    server: h-k03.loveroise.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇺🇸US美国8
-    port: 443
-    server: 47.129.175.47
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️8
+    port: 54006
+    server: h-k04.loveroise.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇸🇬SG新加坡9
-    port: 443
-    server: 13.228.183.100
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月日本JP🇯🇵9
+    port: 60004
+    server: adoredone.cc
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇺🇸US美国10
-    port: 443
-    server: 54.202.75.206
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️10
+    port: 54032
+    server: t-wn01.loveroise.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇺🇸US美国11
-    port: 443
-    server: 44.243.225.84
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️11
+    port: 54034
+    server: t-wn02.loveroise.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇺🇸US美国12
-    port: 443
-    server: 47.129.221.160
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️12
+    port: 54036
+    server: t-wn03.loveroise.com
     type: ss
     udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 星月cs🇬🇧GB英国13
-    port: 443
-    server: 103.136.68.11
-    type: vless
-    network: tcp
-    tls: true
-    udp: true
-    servername: apple.com
-    skip-cert-verify: true
-    reality-opts:
-      public-key: v9inmuM5DSaxqKRjqyL0MbIIYxJFpn4bTnOQWiAym1E
-      short-id: 7af4ba2e
-    uuid: 9f2b1194-faeb-4f20-8eb0-8456cc5c3286
-    client-fingerprint: chrome
-  - name: 星月cs🇧🇬BG保加利亚14
-    port: 2096
-    server: 147.78.140.193
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: juzibaipiao.5112233.xyz
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2048
-    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
-    client-fingerprint: chrome
-  - name: 星月cs🇪🇸ES西班牙15
-    port: 2053
-    server: 185.18.250.185
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: juzibaipiao.5112233.xyz
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2048
-    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
-    client-fingerprint: chrome
-  - name: 星月cs🇫🇮FI芬兰16
-    port: 8443
-    server: 95.216.174.145
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: happy.mianfeicf.lol
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-    uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd
-    client-fingerprint: chrome
-  - name: 星月cs🇱🇹LT立陶宛17
-    port: 2083
-    server: 89.116.250.6
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: juzibaipiao.5112233.xyz
-    skip-cert-verify: true
-    ws-opts:
-      path: /fp=chrome
-    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
-    client-fingerprint: chrome
-  - name: 星月cs🇳🇱NL荷兰18
-    port: 443
-    server: 45.133.247.151
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: juzibaipiao.5112233.xyz
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2048security=tls
-    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国19
-    port: 2096
-    server: 172.67.192.145
-    type: vless
-    network: grpc
-    tls: true
-    udp: true
-    servername: v2rayfree1.v2rayfree1.space
-    skip-cert-verify: true
-    grpc-opts: {}
-    uuid: 696c96fa-5467-4d2e-bfe5-b529222064bd
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国20
-    port: 443
-    server: 70.34.207.153
-    type: hysteria2
-    udp: true
-    sni: 70.34.207.153
-    obfs: salamander
-    password: 18240b2dfdd76484
-    skip-cert-verify: true
-    obfs-password: d2648ec2
-  - name: 星月cs🇺🇸US美国21
-    port: 443
-    server: 207.148.22.93
-    type: hysteria2
-    udp: true
-    obfs: salamander
-    password: 9bb452b106ffc217
-    skip-cert-verify: true
-    obfs-password: cd29099d
-  - name: 星月cs🇨🇦CA加拿大22
-    port: 60714
-    server: 108.181.24.39
-    type: hysteria2
-    udp: true
-    sni: www.bing.com
-    password: dongtaiwang.com
-    skip-cert-verify: true
-  - name: 星月cs🇺🇸US美国23
-    port: 443
-    server: 66.135.11.68
-    type: hysteria2
-    udp: true
-    obfs: salamander
-    password: 4e9ee29b39a28277
-    skip-cert-verify: true
-    obfs-password: 13f7ba5f
-  - name: 星月cs🇺🇸US美国24
-    port: 443
-    server: 45.76.0.86
-    type: hysteria2
-    udp: true
-    obfs: salamander
-    password: 1f17cdf0578a2860
-    skip-cert-verify: true
-    obfs-password: 4b817757
-  - name: 星月cs🇺🇸US美国25
-    port: 8443
-    server: 20.151.60.161
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: edgetunnel-free.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2048
-    uuid: de44b044-8f90-4e18-b742-16591667ff96
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国26
-    port: 443
-    server: 23.162.200.227
-    type: vmess
-    network: ws
-    tls: true
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    ws-opts:
-      path: /linkvws
-    cipher: auto
-    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-    alterId: 0
-  - name: 星月cs🇩🇪DE德国27
-    port: 7075
-    server: 91.107.156.72
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: vless.ifx.us.kg
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560fp=chrome
-    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-    client-fingerprint: chrome
-  - name: 星月cs🇩🇪DE德国28
-    port: 55627
-    server: 95.179.248.39
-    type: vless
-    network: tcp
-    udp: true
-    servername: check-host.net
-    skip-cert-verify: true
-    reality-opts:
-      public-key: RHl7o7KFArPUZU42UGrfiF7mZxzoxtRbNooZHKuZOA8
-    uuid: 0fcbbfb7-2eaf-4682-9d86-d1574f83a453
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国29
-    port: 443
-    server: 23.158.56.39
-    type: vmess
-    network: ws
-    tls: true
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    ws-opts:
-      path: /linkvws
-    cipher: auto
-    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-    alterId: 0
-  - name: 星月cs🇫🇷FR法国30
-    port: 443
-    server: hdfy6d3.cpi1.eu.org
-    type: vless
-    network: tcp
-    tls: true
-    udp: true
-    servername: javelynn.com
-    skip-cert-verify: true
-    reality-opts:
-      public-key: _Gav8saTrPFpqIY0pWdhA6Ssi1lv15Bh49YJ7xwW92I
-      short-id: d1
-    uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国31
-    port: 8443
-    server: 13.38.105.183
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: happy.mianfeicf.lol
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-    uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd
-    client-fingerprint: chrome
-  - name: 星月cs🇬🇷GR希腊32
-    port: 2096
-    server: 31.22.116.134
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: juzibaipiao.5112233.xyz
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2048
-    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
-    client-fingerprint: chrome
-  - name: 星月cs🇨🇦CA加拿大33
-    port: 443
-    server: 68.168.31.242
-    type: vmess
-    network: ws
-    tls: true
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    ws-opts:
-      path: /linkvws
-    cipher: auto
-    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-    alterId: 0
-  - name: 星月cs🇷🇺RU俄罗斯34
-    port: 443
-    server: 94.247.142.245
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: juzibaipiao.5112233.xyz
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2048
-    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国35
-    port: 443
-    server: 206.237.6.57
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: happy.mianfeicf.lol
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-    uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd
-    client-fingerprint: chrome
-  - name: 星月cs🇮🇳IN印度36
-    port: 443
-    server: 206.189.129.187
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: happy.mianfeicf.lol
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-    uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd
-    client-fingerprint: chrome
-  - name: 星月cs🇨🇳CN中国37
-    port: 443
-    server: 154.92.9.1
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: sb-1u6.pageS.Dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /o56edk55jth9andd/mtu4ljewms4ymdmumti3?ed=2560
-    uuid: fca01448-d84a-436e-9aec-3be1ebdfb350
-    client-fingerprint: chrome
-  - name: 星月cs🇨🇳CN中国38
-    port: 8443
-    server: 154.92.9.1
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: sB-1U6.PAGes.DeV
-    skip-cert-verify: true
-    ws-opts:
-      path: /6fzdo6vhq9d4ddj7/mtu4ljewms4ymdmumti3?ed=2560
-    uuid: fca01448-d84a-436e-9aec-3be1ebdfb350
-    client-fingerprint: chrome
-  - name: 星月cs🇷🇺RU俄罗斯39
-    port: 2501
-    server: 194.246.81.62
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: vless.ifx.us.kg
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560fp=chrome
-    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-    client-fingerprint: chrome
-  - name: 星月cs🇷🇺RU俄罗斯40
-    port: 8080
-    server: 91.219.150.221
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: vless.ifx.us.kg
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560fp=chrome
-    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-    client-fingerprint: chrome
-  - name: 星月cs🇷🇺RU俄罗斯41
-    port: 34607
-    server: bp.jisovpn.site
-    type: hysteria2
-    udp: true
-    password: 1bc872ea-c21d-477c-9d4b-8f4c52612e51
-    skip-cert-verify: true
-  - name: 星月cs🇷🇺RU俄罗斯42
-    port: 47382
-    server: 185.22.152.93
-    type: hysteria2
-    udp: true
-    sni: www.bing.com
-    password: dongtaiwang.com
-    skip-cert-verify: true
-  - name: 星月cs🇺🇸US美国43
-    port: 8443
-    server: 206.238.237.35
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: king-ae1.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
-    uuid: 9a4bc15d-a7d4-4181-9485-405629c36894
-    client-fingerprint: chrome
-  - name: 星月cs🇸🇬SG新加坡44
-    port: 26000
-    server: jiedianfsc.fsc.interld123456789.com
-    type: hysteria2
-    udp: true
-    sni: 234224.1234567890spcloud.com
-    password: b3b5f0b9-31a5-4868-8f86-8b4ea22ee781
-    skip-cert-verify: true
-  - name: 星月cs🇷🇺RU俄罗斯45
-    port: 30000
-    server: singapore.fqjc.store
-    type: hysteria2
-    udp: true
-    sni: bing.com
-    password: 6df9c8a5-624b-47ef-9d09-92102f92f572
-    skip-cert-verify: true
-  - name: 星月cs🇸🇬SG新加坡46
-    port: 24000
-    server: jiedianfsc.fsc.interld123456789.com
-    type: hysteria2
-    udp: true
-    sni: 234224.1234567890spcloud.com
-    password: b3b5f0b9-31a5-4868-8f86-8b4ea22ee781
-    skip-cert-verify: true
-  - name: 星月cs🇸🇬SG新加坡47
-    port: 22000
-    server: jiedianfsc.fsc.interld123456789.com
-    type: hysteria2
-    udp: true
-    sni: cesuuu.1234567890spcloud.com
-    password: b3b5f0b9-31a5-4868-8f86-8b4ea22ee781
-    skip-cert-verify: true
-  - name: 星月cs🇺🇸US美国48
-    port: 443
-    server: 129.150.50.63
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: happy.mianfeicf.lol
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560
-    uuid: 20fda433-1864-433b-b3dd-8f119fe4cafd
-    client-fingerprint: chrome
-  - name: 星月cs🏳️unKnow未知49
-    port: 8443
-    server: 209.94.90.200
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: sB-1U6.PAgeS.deV
-    skip-cert-verify: true
-    ws-opts:
-      path: /bdbeqy5r01xte4fl/mtu4ljewms4ymdmumti3?ed=2560
-    uuid: fca01448-d84a-436e-9aec-3be1ebdfb350
-    client-fingerprint: chrome
-  - name: 星月cs🇸🇬SG新加坡50
-    port: 28002
-    server: jiedianfsc.fsc.interld123456789.com
-    type: hysteria2
-    udp: true
-    sni: cesuuu.1234567890spcloud.com
-    password: b3b5f0b9-31a5-4868-8f86-8b4ea22ee781
-    skip-cert-verify: true
-  - name: 星月cs🇨🇦CA加拿大51
-    port: 2096
-    server: 205.233.181.174
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: Sb-1U6.paGES.deV
-    skip-cert-verify: true
-    ws-opts:
-      path: /s6rb9yyj3qaak606/mtu4ljewms4ymdmumti3?ed=2560
-    uuid: fca01448-d84a-436e-9aec-3be1ebdfb350
-    client-fingerprint: chrome
-  - name: 星月cs🇳🇱NL荷兰52
-    port: 443
-    server: 45.159.219.170
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: cfed.tgzdyz2.top
-    skip-cert-verify: true
-    ws-opts:
-      path: /tg@zdyz2
-    uuid: 2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国53
-    port: 587
-    server: 38.105.27.31
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: vless.ifx.us.kg
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560fp=chrome
-    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国54
-    port: 587
-    server: 38.105.31.168
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: vless.ifx.us.kg
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560fp=chrome
-    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国55
-    port: 8443
-    server: 199.34.228.147
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: bPb005.paGes.DEV
-    skip-cert-verify: true
-    ws-opts:
-      path: /fxhhv799mihz1xxp/mtuyljy3ljiznc40oq==?ed=2560
-    uuid: cc3a15eb-0a63-486c-8e12-c7be717ebcd4
-    client-fingerprint: chrome
-  - name: 星月cs🇨🇦CA加拿大56
-    port: 587
-    server: 154.12.45.61
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: vless.ifx.us.kg
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2560fp=chrome
-    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-    client-fingerprint: chrome
-  - name: 星月cs🇮🇳IN印度57
-    port: 2096
-    server: 14.102.228.210
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: juzibaipiao.5112233.xyz
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2048security=tls
-    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
-    client-fingerprint: chrome
-  - name: 星月cs🇸🇬SG新加坡58
-    port: 28001
-    server: jiedianfsc.fsc.interld123456789.com
-    type: hysteria2
-    udp: true
-    sni: cesuuu.1234567890spcloud.com
-    password: b3b5f0b9-31a5-4868-8f86-8b4ea22ee781
-    skip-cert-verify: true
-  - name: 星月cs🇺🇸US美国59
-    port: 443
-    server: 104.18.41.190
-    type: trojan
-    network: ws
-    udp: true
-    sni: trojanmz.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /trojanmz.pages.dev?ed=2560
-  - name: 星月cs🇺🇸US美国60
-    port: 443
-    server: 104.20.19.62
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: freedom-1rj.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /freedom-1rj.pages.dev/?ed=2560
-    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国61
-    port: 443
-    server: 172.67.193.108
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: st-pl-1.brocdn.com
-    skip-cert-verify: true
-    ws-opts:
-      path: /websocket
-    uuid: 48b94941-d602-11ee-aaa8-00505603e70d
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国62
-    port: 443
-    server: 172.67.165.101
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: freedom-1rj.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /freedom-1rj.pages.dev/?ed=2560
-    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国63
-    port: 443
-    server: 104.20.19.157
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: freedom-1rj.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /freedom-1rj.pages.dev/?ed=2560
-    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国64
-    port: 443
-    server: 104.25.182.54
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: purCOwfaSt.PAgES.DEv
-    skip-cert-verify: true
-    ws-opts:
-      path: /4ztBxup4VkbcJFlQ?ed=2560
-    uuid: f2dc17f5-3113-4a40-8c51-55fe0e2c7f75
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国65
-    port: 443
-    server: 172.64.35.159
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: purlitefastest.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /purlitefastest.pages.dev/?ed=2560
-    uuid: 50b7fc84-85b4-4043-b1f7-6477c9017a44
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国66
-    port: 443
-    server: 172.66.47.145
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: Ms-6mK.pAgES.dEv
-    skip-cert-verify: true
-    ws-opts:
-      path: /728vZjgRYWSnB1YM?ed=2560
-    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国67
-    port: 443
-    server: 172.66.46.223
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: BPB-WorkeR-PAnel-2U8.PAGes.DEv
-    skip-cert-verify: true
-    ws-opts:
-      path: /tXX6kdgwFYvOUwjJ?ed=2560
-    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国68
-    port: 443
-    server: 104.20.22.1
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: freedom-1rj.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /freedom-1rj.pages.dev/?ed=2560
-    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国69
-    port: 443
-    server: 172.66.44.74
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: pardazeshvpn-tg93.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN?ed=2048
-    uuid: c46e9a8a-226e-4cc2-aeff-31c774e1e4f9
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国70
-    port: 443
-    server: 104.20.20.42
-    type: trojan
-    network: ws
-    udp: true
-    sni: b96ef9ae.trojanfree-76s.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /b96ef9ae.trojanfree-76s.pages.dev/
-  - name: 星月cs🇺🇸US美国71
-    port: 443
-    server: 104.16.61.8
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: st-fr-1.brocdn.com
-    skip-cert-verify: true
-    ws-opts:
-      path: /websocket
-    uuid: 07c81e0d-d621-11ee-aaa8-00505603e70d
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国72
-    port: 2087
-    server: 104.21.7.193
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: freedom-1rj.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /freedom-1rj.pages.dev/?ed=2560
-    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国73
-    port: 2096
-    server: 172.66.47.197
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: BPb-worker-paNeL-brh.pAgES.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /GSIEb4Zs4mbCWhqi?ed=2560
-    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国74
-    port: 8443
-    server: 172.64.100.193
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: pardazeshvpn-tg36.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN?ed=2048
-    uuid: c1fcd7eb-7d28-419c-a62f-fe3437fd884b
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国75
-    port: 2083
-    server: 172.66.47.197
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: BPB-wOrKeR-pAnEl-Brh.PAGEs.dEv
-    skip-cert-verify: true
-    ws-opts:
-      path: /2HwPUy2BvnIRXUYb?ed=2560
-    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国76
-    port: 443
-    server: 172.66.44.243
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: pardazeshvpn-tg98.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN?ed=2048
-    uuid: 172c168f-c087-479f-b594-63dbf14aa504
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国77
-    port: 443
-    server: 104.20.19.18
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: freedom-1rj.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /freedom-1rj.pages.dev/?ed=2560
-    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国78
-    port: 443
-    server: 172.66.44.205
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: pardazeshvpn-tg96.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN?ed=2048fp=randomized
-    uuid: 16282c60-1fbf-4a28-b6e3-ae76a7a331da
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国79
-    port: 443
-    server: 104.16.79.146
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: 20Fb0424.bpB-wORKer-PAnEl-1xd.pages.deV
-    skip-cert-verify: true
-    ws-opts:
-      path: Telegram-------PROXY_MTM-_-_-_-Telegram-------PROXY_MTM/?ed=2048
-    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国80
-    port: 443
-    server: www.udemy.com
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: purlitefastest.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /purlitefastest.pages.dev/?ed=2560
-    uuid: 50b7fc84-85b4-4043-b1f7-6477c9017a44
-    client-fingerprint: chrome
-  - name: 星月cs🇧🇷BR巴西81
-    port: 443
-    server: 188.114.99.124
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: aw.ylks.xyz
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2048
-    uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国82
-    port: 443
-    server: 172.64.35.148
-    type: trojan
-    network: ws
-    udp: true
-    sni: trojanfree-76s.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-  - name: 星月cs🇺🇸US美国83
-    port: 443
-    server: 104.19.174.68
-    type: trojan
-    network: ws
-    udp: true
-    sni: trojanfree-76s.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /trojanfree-76s.pages.dev?ed=2560
-  - name: 星月cs🇺🇸US美国84
-    port: 443
-    server: 104.20.22.55
-    type: trojan
-    network: ws
-    udp: true
-    sni: b96ef9ae.trojanfree-76s.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /b96ef9ae.trojanfree-76s.pages.dev/
-  - name: 星月cs🇺🇸US美国85
-    port: 443
-    server: 104.20.20.173
-    type: trojan
-    network: ws
-    udp: true
-    sni: b96ef9ae.trojanfree-76s.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /b96ef9ae.trojanfree-76s.pages.dev/
-  - name: 星月cs🏳️unKnow未知86
-    port: 443
-    server: xewvr.mmzhk.website
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-    uuid: ef1ed10b-aacf-41c0-80ea-5da80dfcceb4
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国87
-    port: 443
-    server: 108.162.195.199
-    type: trojan
-    network: ws
-    udp: true
-    sni: trojanmz.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-  - name: 星月cs🇺🇸US美国88
-    port: 8443
-    server: 162.159.135.232
-    type: trojan
-    network: ws
-    udp: true
-    sni: e9464f45.trauma-2r4.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-  - name: 星月cs🇺🇸US美国89
-    port: 443
-    server: jamekk.org
-    type: vmess
-    network: ws
-    tls: true
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    ws-opts:
-      path: linkvws
-    cipher: auto
-    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-    alterId: 0
-  - name: 星月cs🇺🇸US美国90
-    port: 2053
-    server: 104.18.13.229
-    type: trojan
-    network: ws
-    udp: true
-    sni: e9464f45.trauma-2r4.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-  - name: 星月cs🇺🇸US美国91
-    port: 443
-    server: uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR/
-    uuid: 891d999f-7864-45c5-8db9-3c69f35dcb96
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国92
-    port: 443
-    server: 104.20.17.107
-    type: trojan
-    network: ws
-    udp: true
-    sni: b96ef9ae.trojanfree-76s.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /b96ef9ae.trojanfree-76s.pages.dev/
-  - name: 星月cs🇺🇸US美国93
-    port: 443
-    server: p.valkinin.org
-    type: vmess
-    network: ws
-    tls: true
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    ws-opts:
-      path: linkvws
-    cipher: auto
-    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-    alterId: 0
-  - name: 星月cs🇺🇸US美国94
-    port: 443
-    server: 198.41.220.20
-    type: trojan
-    network: ws
-    udp: true
-    sni: avianrecruit.com
-    password: e8105dfd24414268b6c7652c63731097
-    skip-cert-verify: true
-    ws-opts:
-      path: /6b777a91
-  - name: 星月cs🇺🇸US美国95
-    port: 443
-    server: 172.64.35.202
-    type: trojan
-    network: ws
-    udp: true
-    sni: b96ef9ae.trojanfree-76s.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /b96ef9ae.trojanfree-76s.pages.dev/
-  - name: 星月cs🇺🇸US美国96
-    port: 443
-    server: 104.20.18.192
-    type: trojan
-    network: ws
-    udp: true
-    sni: b96ef9ae.trojanfree-76s.pages.dev
-    password: auto
-    skip-cert-verify: true
-    ws-opts:
-      path: /b96ef9ae.trojanfree-76s.pages.dev/
-  - name: 星月cs🏳️unKnow未知97
-    port: 443
-    server: ::ffff:198.41.220.10
-    type: trojan
-    network: ws
-    udp: true
-    sni: jobscareerforstudent.com
-    password: 2cba4104747d49d18319e5ade1b93ab5
-    skip-cert-verify: true
-    ws-opts:
-      path: /6b777a91
-  - name: 星月cs🇺🇸US美国98
-    port: 443
-    server: 23spt.pages.dev
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: 23sPT.pAGEs.dEV
-    skip-cert-verify: true
-    ws-opts:
-      path: /xqc11iXB2DOVwbv9
-    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国99
-    port: 443
-    server: hagh.pages.dev
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: Hagh.PaGes.DEv
-    skip-cert-verify: true
-    ws-opts:
-      path: /@alpha_v2ray_fazayi/?ed=2048
-    uuid: d3a12e79-ef42-4268-b367-42eeb3494e60
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国100
-    port: 443
-    server: 172.66.47.128
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: pardazeshvpn-tg105.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-    uuid: ea93598b-a8d8-449a-a925-520c6e1626ee
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国101
-    port: 2087
-    server: 172.66.47.197
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: BPB-WOrker-paNEL-BRh.PagES.deV
-    skip-cert-verify: true
-    ws-opts:
-      path: /hpgIcareFuMCHS1a?ed=2560
-    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国102
-    port: 443
-    server: 172.67.75.208
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: freedom-1rj.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /freedom-1rj.pages.dev/?ed=2560
-    uuid: 2928d83a-ca75-4d52-b437-fa78c7601378
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国103
-    port: 443
-    server: 172.67.184.24
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: furina.thelastronin.cloudns.org
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-    uuid: 25dc75f9-b944-46bd-b36d-408b4a0879d8
-    client-fingerprint: chrome
-  - name: 星月cs🇺🇸US美国104
-    port: 2083
-    server: 172.67.214.246
-    type: vless
-    network: ws
-    tls: true
-    udp: true
-    servername: 1223-9ux.pages.dev
-    skip-cert-verify: true
-    ws-opts:
-      path: /?ed=2048
-    uuid: 6285e567-0c25-4ce2-a2fa-80517c1345e1
-    client-fingerprint: chrome
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️13
+    port: 54038
+    server: t-wn04.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月日本JP🇯🇵14
+    port: 60005
+    server: adoredone.cc
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️15
+    port: 54096
+    server: j-p01.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️16
+    port: 54098
+    server: j-p02.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️17
+    port: 54100
+    server: j-p03.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️18
+    port: 54102
+    server: j-p04.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月日本JP🇯🇵19
+    port: 60002
+    server: adoredone.cc
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️20
+    port: 54024
+    server: s-g01.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️21
+    port: 54026
+    server: s-g02.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️22
+    port: 54028
+    server: s-g03.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️23
+    port: 54030
+    server: s-g04.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月日本JP🇯🇵24
+    port: 60003
+    server: adoredone.cc
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️25
+    port: 54008
+    server: k-r01.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️26
+    port: 54010
+    server: k-r02.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️27
+    port: 54012
+    server: k-r03.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️28
+    port: 54014
+    server: k-r04.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️29
+    port: 54016
+    server: u-s01.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️30
+    port: 54018
+    server: u-s02.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️31
+    port: 54020
+    server: u-s03.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
+  - name: ry日月未知unKnow🏳️32
+    port: 54022
+    server: u-s04.loveroise.com
+    type: ss
+    udp: true
+    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    cipher: chacha20-ietf-poly1305
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 星月cs🇺🇸US美国1
-      - 星月cs🇺🇸US美国2
-      - 星月cs🇺🇸US美国3
-      - 星月cs🇯🇵JP日本4
-      - 星月cs🇸🇬SG新加坡5
-      - 星月cs🇦🇺AU澳大利亚6
-      - 星月cs🇦🇺AU澳大利亚7
-      - 星月cs🇺🇸US美国8
-      - 星月cs🇸🇬SG新加坡9
-      - 星月cs🇺🇸US美国10
-      - 星月cs🇺🇸US美国11
-      - 星月cs🇺🇸US美国12
-      - 星月cs🇬🇧GB英国13
-      - 星月cs🇧🇬BG保加利亚14
-      - 星月cs🇪🇸ES西班牙15
-      - 星月cs🇫🇮FI芬兰16
-      - 星月cs🇱🇹LT立陶宛17
-      - 星月cs🇳🇱NL荷兰18
-      - 星月cs🇺🇸US美国19
-      - 星月cs🇺🇸US美国20
-      - 星月cs🇺🇸US美国21
-      - 星月cs🇨🇦CA加拿大22
-      - 星月cs🇺🇸US美国23
-      - 星月cs🇺🇸US美国24
-      - 星月cs🇺🇸US美国25
-      - 星月cs🇺🇸US美国26
-      - 星月cs🇩🇪DE德国27
-      - 星月cs🇩🇪DE德国28
-      - 星月cs🇺🇸US美国29
-      - 星月cs🇫🇷FR法国30
-      - 星月cs🇺🇸US美国31
-      - 星月cs🇬🇷GR希腊32
-      - 星月cs🇨🇦CA加拿大33
-      - 星月cs🇷🇺RU俄罗斯34
-      - 星月cs🇺🇸US美国35
-      - 星月cs🇮🇳IN印度36
-      - 星月cs🇨🇳CN中国37
-      - 星月cs🇨🇳CN中国38
-      - 星月cs🇷🇺RU俄罗斯39
-      - 星月cs🇷🇺RU俄罗斯40
-      - 星月cs🇷🇺RU俄罗斯41
-      - 星月cs🇷🇺RU俄罗斯42
-      - 星月cs🇺🇸US美国43
-      - 星月cs🇸🇬SG新加坡44
-      - 星月cs🇷🇺RU俄罗斯45
-      - 星月cs🇸🇬SG新加坡46
-      - 星月cs🇸🇬SG新加坡47
-      - 星月cs🇺🇸US美国48
-      - 星月cs🏳️unKnow未知49
-      - 星月cs🇸🇬SG新加坡50
-      - 星月cs🇨🇦CA加拿大51
-      - 星月cs🇳🇱NL荷兰52
-      - 星月cs🇺🇸US美国53
-      - 星月cs🇺🇸US美国54
-      - 星月cs🇺🇸US美国55
-      - 星月cs🇨🇦CA加拿大56
-      - 星月cs🇮🇳IN印度57
-      - 星月cs🇸🇬SG新加坡58
-      - 星月cs🇺🇸US美国59
-      - 星月cs🇺🇸US美国60
-      - 星月cs🇺🇸US美国61
-      - 星月cs🇺🇸US美国62
-      - 星月cs🇺🇸US美国63
-      - 星月cs🇺🇸US美国64
-      - 星月cs🇺🇸US美国65
-      - 星月cs🇺🇸US美国66
-      - 星月cs🇺🇸US美国67
-      - 星月cs🇺🇸US美国68
-      - 星月cs🇺🇸US美国69
-      - 星月cs🇺🇸US美国70
-      - 星月cs🇺🇸US美国71
-      - 星月cs🇺🇸US美国72
-      - 星月cs🇺🇸US美国73
-      - 星月cs🇺🇸US美国74
-      - 星月cs🇺🇸US美国75
-      - 星月cs🇺🇸US美国76
-      - 星月cs🇺🇸US美国77
-      - 星月cs🇺🇸US美国78
-      - 星月cs🇺🇸US美国79
-      - 星月cs🇺🇸US美国80
-      - 星月cs🇧🇷BR巴西81
-      - 星月cs🇺🇸US美国82
-      - 星月cs🇺🇸US美国83
-      - 星月cs🇺🇸US美国84
-      - 星月cs🇺🇸US美国85
-      - 星月cs🏳️unKnow未知86
-      - 星月cs🇺🇸US美国87
-      - 星月cs🇺🇸US美国88
-      - 星月cs🇺🇸US美国89
-      - 星月cs🇺🇸US美国90
-      - 星月cs🇺🇸US美国91
-      - 星月cs🇺🇸US美国92
-      - 星月cs🇺🇸US美国93
-      - 星月cs🇺🇸US美国94
-      - 星月cs🇺🇸US美国95
-      - 星月cs🇺🇸US美国96
-      - 星月cs🏳️unKnow未知97
-      - 星月cs🇺🇸US美国98
-      - 星月cs🇺🇸US美国99
-      - 星月cs🇺🇸US美国100
-      - 星月cs🇺🇸US美国101
-      - 星月cs🇺🇸US美国102
-      - 星月cs🇺🇸US美国103
-      - 星月cs🇺🇸US美国104
+      - ry日月未知unKnow🏳️1
+      - ry日月未知unKnow🏳️2
+      - ry日月未知unKnow🏳️3
+      - ry日月未知unKnow🏳️4
+      - ry日月未知unKnow🏳️5
+      - ry日月未知unKnow🏳️6
+      - ry日月未知unKnow🏳️7
+      - ry日月未知unKnow🏳️8
+      - ry日月日本JP🇯🇵9
+      - ry日月未知unKnow🏳️10
+      - ry日月未知unKnow🏳️11
+      - ry日月未知unKnow🏳️12
+      - ry日月未知unKnow🏳️13
+      - ry日月日本JP🇯🇵14
+      - ry日月未知unKnow🏳️15
+      - ry日月未知unKnow🏳️16
+      - ry日月未知unKnow🏳️17
+      - ry日月未知unKnow🏳️18
+      - ry日月日本JP🇯🇵19
+      - ry日月未知unKnow🏳️20
+      - ry日月未知unKnow🏳️21
+      - ry日月未知unKnow🏳️22
+      - ry日月未知unKnow🏳️23
+      - ry日月日本JP🇯🇵24
+      - ry日月未知unKnow🏳️25
+      - ry日月未知unKnow🏳️26
+      - ry日月未知unKnow🏳️27
+      - ry日月未知unKnow🏳️28
+      - ry日月未知unKnow🏳️29
+      - ry日月未知unKnow🏳️30
+      - ry日月未知unKnow🏳️31
+      - ry日月未知unKnow🏳️32
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 星月cs🇺🇸US美国1
-      - 星月cs🇺🇸US美国2
-      - 星月cs🇺🇸US美国3
-      - 星月cs🇯🇵JP日本4
-      - 星月cs🇸🇬SG新加坡5
-      - 星月cs🇦🇺AU澳大利亚6
-      - 星月cs🇦🇺AU澳大利亚7
-      - 星月cs🇺🇸US美国8
-      - 星月cs🇸🇬SG新加坡9
-      - 星月cs🇺🇸US美国10
-      - 星月cs🇺🇸US美国11
-      - 星月cs🇺🇸US美国12
-      - 星月cs🇬🇧GB英国13
-      - 星月cs🇧🇬BG保加利亚14
-      - 星月cs🇪🇸ES西班牙15
-      - 星月cs🇫🇮FI芬兰16
-      - 星月cs🇱🇹LT立陶宛17
-      - 星月cs🇳🇱NL荷兰18
-      - 星月cs🇺🇸US美国19
-      - 星月cs🇺🇸US美国20
-      - 星月cs🇺🇸US美国21
-      - 星月cs🇨🇦CA加拿大22
-      - 星月cs🇺🇸US美国23
-      - 星月cs🇺🇸US美国24
-      - 星月cs🇺🇸US美国25
-      - 星月cs🇺🇸US美国26
-      - 星月cs🇩🇪DE德国27
-      - 星月cs🇩🇪DE德国28
-      - 星月cs🇺🇸US美国29
-      - 星月cs🇫🇷FR法国30
-      - 星月cs🇺🇸US美国31
-      - 星月cs🇬🇷GR希腊32
-      - 星月cs🇨🇦CA加拿大33
-      - 星月cs🇷🇺RU俄罗斯34
-      - 星月cs🇺🇸US美国35
-      - 星月cs🇮🇳IN印度36
-      - 星月cs🇨🇳CN中国37
-      - 星月cs🇨🇳CN中国38
-      - 星月cs🇷🇺RU俄罗斯39
-      - 星月cs🇷🇺RU俄罗斯40
-      - 星月cs🇷🇺RU俄罗斯41
-      - 星月cs🇷🇺RU俄罗斯42
-      - 星月cs🇺🇸US美国43
-      - 星月cs🇸🇬SG新加坡44
-      - 星月cs🇷🇺RU俄罗斯45
-      - 星月cs🇸🇬SG新加坡46
-      - 星月cs🇸🇬SG新加坡47
-      - 星月cs🇺🇸US美国48
-      - 星月cs🏳️unKnow未知49
-      - 星月cs🇸🇬SG新加坡50
-      - 星月cs🇨🇦CA加拿大51
-      - 星月cs🇳🇱NL荷兰52
-      - 星月cs🇺🇸US美国53
-      - 星月cs🇺🇸US美国54
-      - 星月cs🇺🇸US美国55
-      - 星月cs🇨🇦CA加拿大56
-      - 星月cs🇮🇳IN印度57
-      - 星月cs🇸🇬SG新加坡58
-      - 星月cs🇺🇸US美国59
-      - 星月cs🇺🇸US美国60
-      - 星月cs🇺🇸US美国61
-      - 星月cs🇺🇸US美国62
-      - 星月cs🇺🇸US美国63
-      - 星月cs🇺🇸US美国64
-      - 星月cs🇺🇸US美国65
-      - 星月cs🇺🇸US美国66
-      - 星月cs🇺🇸US美国67
-      - 星月cs🇺🇸US美国68
-      - 星月cs🇺🇸US美国69
-      - 星月cs🇺🇸US美国70
-      - 星月cs🇺🇸US美国71
-      - 星月cs🇺🇸US美国72
-      - 星月cs🇺🇸US美国73
-      - 星月cs🇺🇸US美国74
-      - 星月cs🇺🇸US美国75
-      - 星月cs🇺🇸US美国76
-      - 星月cs🇺🇸US美国77
-      - 星月cs🇺🇸US美国78
-      - 星月cs🇺🇸US美国79
-      - 星月cs🇺🇸US美国80
-      - 星月cs🇧🇷BR巴西81
-      - 星月cs🇺🇸US美国82
-      - 星月cs🇺🇸US美国83
-      - 星月cs🇺🇸US美国84
-      - 星月cs🇺🇸US美国85
-      - 星月cs🏳️unKnow未知86
-      - 星月cs🇺🇸US美国87
-      - 星月cs🇺🇸US美国88
-      - 星月cs🇺🇸US美国89
-      - 星月cs🇺🇸US美国90
-      - 星月cs🇺🇸US美国91
-      - 星月cs🇺🇸US美国92
-      - 星月cs🇺🇸US美国93
-      - 星月cs🇺🇸US美国94
-      - 星月cs🇺🇸US美国95
-      - 星月cs🇺🇸US美国96
-      - 星月cs🏳️unKnow未知97
-      - 星月cs🇺🇸US美国98
-      - 星月cs🇺🇸US美国99
-      - 星月cs🇺🇸US美国100
-      - 星月cs🇺🇸US美国101
-      - 星月cs🇺🇸US美国102
-      - 星月cs🇺🇸US美国103
-      - 星月cs🇺🇸US美国104
+      - ry日月未知unKnow🏳️1
+      - ry日月未知unKnow🏳️2
+      - ry日月未知unKnow🏳️3
+      - ry日月未知unKnow🏳️4
+      - ry日月未知unKnow🏳️5
+      - ry日月未知unKnow🏳️6
+      - ry日月未知unKnow🏳️7
+      - ry日月未知unKnow🏳️8
+      - ry日月日本JP🇯🇵9
+      - ry日月未知unKnow🏳️10
+      - ry日月未知unKnow🏳️11
+      - ry日月未知unKnow🏳️12
+      - ry日月未知unKnow🏳️13
+      - ry日月日本JP🇯🇵14
+      - ry日月未知unKnow🏳️15
+      - ry日月未知unKnow🏳️16
+      - ry日月未知unKnow🏳️17
+      - ry日月未知unKnow🏳️18
+      - ry日月日本JP🇯🇵19
+      - ry日月未知unKnow🏳️20
+      - ry日月未知unKnow🏳️21
+      - ry日月未知unKnow🏳️22
+      - ry日月未知unKnow🏳️23
+      - ry日月日本JP🇯🇵24
+      - ry日月未知unKnow🏳️25
+      - ry日月未知unKnow🏳️26
+      - ry日月未知unKnow🏳️27
+      - ry日月未知unKnow🏳️28
+      - ry日月未知unKnow🏳️29
+      - ry日月未知unKnow🏳️30
+      - ry日月未知unKnow🏳️31
+      - ry日月未知unKnow🏳️32
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 星月cs🇺🇸US美国1
-      - 星月cs🇺🇸US美国2
-      - 星月cs🇺🇸US美国3
-      - 星月cs🇯🇵JP日本4
-      - 星月cs🇸🇬SG新加坡5
-      - 星月cs🇦🇺AU澳大利亚6
-      - 星月cs🇦🇺AU澳大利亚7
-      - 星月cs🇺🇸US美国8
-      - 星月cs🇸🇬SG新加坡9
-      - 星月cs🇺🇸US美国10
-      - 星月cs🇺🇸US美国11
-      - 星月cs🇺🇸US美国12
-      - 星月cs🇬🇧GB英国13
-      - 星月cs🇧🇬BG保加利亚14
-      - 星月cs🇪🇸ES西班牙15
-      - 星月cs🇫🇮FI芬兰16
-      - 星月cs🇱🇹LT立陶宛17
-      - 星月cs🇳🇱NL荷兰18
-      - 星月cs🇺🇸US美国19
-      - 星月cs🇺🇸US美国20
-      - 星月cs🇺🇸US美国21
-      - 星月cs🇨🇦CA加拿大22
-      - 星月cs🇺🇸US美国23
-      - 星月cs🇺🇸US美国24
-      - 星月cs🇺🇸US美国25
-      - 星月cs🇺🇸US美国26
-      - 星月cs🇩🇪DE德国27
-      - 星月cs🇩🇪DE德国28
-      - 星月cs🇺🇸US美国29
-      - 星月cs🇫🇷FR法国30
-      - 星月cs🇺🇸US美国31
-      - 星月cs🇬🇷GR希腊32
-      - 星月cs🇨🇦CA加拿大33
-      - 星月cs🇷🇺RU俄罗斯34
-      - 星月cs🇺🇸US美国35
-      - 星月cs🇮🇳IN印度36
-      - 星月cs🇨🇳CN中国37
-      - 星月cs🇨🇳CN中国38
-      - 星月cs🇷🇺RU俄罗斯39
-      - 星月cs🇷🇺RU俄罗斯40
-      - 星月cs🇷🇺RU俄罗斯41
-      - 星月cs🇷🇺RU俄罗斯42
-      - 星月cs🇺🇸US美国43
-      - 星月cs🇸🇬SG新加坡44
-      - 星月cs🇷🇺RU俄罗斯45
-      - 星月cs🇸🇬SG新加坡46
-      - 星月cs🇸🇬SG新加坡47
-      - 星月cs🇺🇸US美国48
-      - 星月cs🏳️unKnow未知49
-      - 星月cs🇸🇬SG新加坡50
-      - 星月cs🇨🇦CA加拿大51
-      - 星月cs🇳🇱NL荷兰52
-      - 星月cs🇺🇸US美国53
-      - 星月cs🇺🇸US美国54
-      - 星月cs🇺🇸US美国55
-      - 星月cs🇨🇦CA加拿大56
-      - 星月cs🇮🇳IN印度57
-      - 星月cs🇸🇬SG新加坡58
-      - 星月cs🇺🇸US美国59
-      - 星月cs🇺🇸US美国60
-      - 星月cs🇺🇸US美国61
-      - 星月cs🇺🇸US美国62
-      - 星月cs🇺🇸US美国63
-      - 星月cs🇺🇸US美国64
-      - 星月cs🇺🇸US美国65
-      - 星月cs🇺🇸US美国66
-      - 星月cs🇺🇸US美国67
-      - 星月cs🇺🇸US美国68
-      - 星月cs🇺🇸US美国69
-      - 星月cs🇺🇸US美国70
-      - 星月cs🇺🇸US美国71
-      - 星月cs🇺🇸US美国72
-      - 星月cs🇺🇸US美国73
-      - 星月cs🇺🇸US美国74
-      - 星月cs🇺🇸US美国75
-      - 星月cs🇺🇸US美国76
-      - 星月cs🇺🇸US美国77
-      - 星月cs🇺🇸US美国78
-      - 星月cs🇺🇸US美国79
-      - 星月cs🇺🇸US美国80
-      - 星月cs🇧🇷BR巴西81
-      - 星月cs🇺🇸US美国82
-      - 星月cs🇺🇸US美国83
-      - 星月cs🇺🇸US美国84
-      - 星月cs🇺🇸US美国85
-      - 星月cs🏳️unKnow未知86
-      - 星月cs🇺🇸US美国87
-      - 星月cs🇺🇸US美国88
-      - 星月cs🇺🇸US美国89
-      - 星月cs🇺🇸US美国90
-      - 星月cs🇺🇸US美国91
-      - 星月cs🇺🇸US美国92
-      - 星月cs🇺🇸US美国93
-      - 星月cs🇺🇸US美国94
-      - 星月cs🇺🇸US美国95
-      - 星月cs🇺🇸US美国96
-      - 星月cs🏳️unKnow未知97
-      - 星月cs🇺🇸US美国98
-      - 星月cs🇺🇸US美国99
-      - 星月cs🇺🇸US美国100
-      - 星月cs🇺🇸US美国101
-      - 星月cs🇺🇸US美国102
-      - 星月cs🇺🇸US美国103
-      - 星月cs🇺🇸US美国104
+      - ry日月未知unKnow🏳️1
+      - ry日月未知unKnow🏳️2
+      - ry日月未知unKnow🏳️3
+      - ry日月未知unKnow🏳️4
+      - ry日月未知unKnow🏳️5
+      - ry日月未知unKnow🏳️6
+      - ry日月未知unKnow🏳️7
+      - ry日月未知unKnow🏳️8
+      - ry日月日本JP🇯🇵9
+      - ry日月未知unKnow🏳️10
+      - ry日月未知unKnow🏳️11
+      - ry日月未知unKnow🏳️12
+      - ry日月未知unKnow🏳️13
+      - ry日月日本JP🇯🇵14
+      - ry日月未知unKnow🏳️15
+      - ry日月未知unKnow🏳️16
+      - ry日月未知unKnow🏳️17
+      - ry日月未知unKnow🏳️18
+      - ry日月日本JP🇯🇵19
+      - ry日月未知unKnow🏳️20
+      - ry日月未知unKnow🏳️21
+      - ry日月未知unKnow🏳️22
+      - ry日月未知unKnow🏳️23
+      - ry日月日本JP🇯🇵24
+      - ry日月未知unKnow🏳️25
+      - ry日月未知unKnow🏳️26
+      - ry日月未知unKnow🏳️27
+      - ry日月未知unKnow🏳️28
+      - ry日月未知unKnow🏳️29
+      - ry日月未知unKnow🏳️30
+      - ry日月未知unKnow🏳️31
+      - ry日月未知unKnow🏳️32
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 星月cs🇺🇸US美国1
-      - 星月cs🇺🇸US美国2
-      - 星月cs🇺🇸US美国3
-      - 星月cs🇯🇵JP日本4
-      - 星月cs🇸🇬SG新加坡5
-      - 星月cs🇦🇺AU澳大利亚6
-      - 星月cs🇦🇺AU澳大利亚7
-      - 星月cs🇺🇸US美国8
-      - 星月cs🇸🇬SG新加坡9
-      - 星月cs🇺🇸US美国10
-      - 星月cs🇺🇸US美国11
-      - 星月cs🇺🇸US美国12
-      - 星月cs🇬🇧GB英国13
-      - 星月cs🇧🇬BG保加利亚14
-      - 星月cs🇪🇸ES西班牙15
-      - 星月cs🇫🇮FI芬兰16
-      - 星月cs🇱🇹LT立陶宛17
-      - 星月cs🇳🇱NL荷兰18
-      - 星月cs🇺🇸US美国19
-      - 星月cs🇺🇸US美国20
-      - 星月cs🇺🇸US美国21
-      - 星月cs🇨🇦CA加拿大22
-      - 星月cs🇺🇸US美国23
-      - 星月cs🇺🇸US美国24
-      - 星月cs🇺🇸US美国25
-      - 星月cs🇺🇸US美国26
-      - 星月cs🇩🇪DE德国27
-      - 星月cs🇩🇪DE德国28
-      - 星月cs🇺🇸US美国29
-      - 星月cs🇫🇷FR法国30
-      - 星月cs🇺🇸US美国31
-      - 星月cs🇬🇷GR希腊32
-      - 星月cs🇨🇦CA加拿大33
-      - 星月cs🇷🇺RU俄罗斯34
-      - 星月cs🇺🇸US美国35
-      - 星月cs🇮🇳IN印度36
-      - 星月cs🇨🇳CN中国37
-      - 星月cs🇨🇳CN中国38
-      - 星月cs🇷🇺RU俄罗斯39
-      - 星月cs🇷🇺RU俄罗斯40
-      - 星月cs🇷🇺RU俄罗斯41
-      - 星月cs🇷🇺RU俄罗斯42
-      - 星月cs🇺🇸US美国43
-      - 星月cs🇸🇬SG新加坡44
-      - 星月cs🇷🇺RU俄罗斯45
-      - 星月cs🇸🇬SG新加坡46
-      - 星月cs🇸🇬SG新加坡47
-      - 星月cs🇺🇸US美国48
-      - 星月cs🏳️unKnow未知49
-      - 星月cs🇸🇬SG新加坡50
-      - 星月cs🇨🇦CA加拿大51
-      - 星月cs🇳🇱NL荷兰52
-      - 星月cs🇺🇸US美国53
-      - 星月cs🇺🇸US美国54
-      - 星月cs🇺🇸US美国55
-      - 星月cs🇨🇦CA加拿大56
-      - 星月cs🇮🇳IN印度57
-      - 星月cs🇸🇬SG新加坡58
-      - 星月cs🇺🇸US美国59
-      - 星月cs🇺🇸US美国60
-      - 星月cs🇺🇸US美国61
-      - 星月cs🇺🇸US美国62
-      - 星月cs🇺🇸US美国63
-      - 星月cs🇺🇸US美国64
-      - 星月cs🇺🇸US美国65
-      - 星月cs🇺🇸US美国66
-      - 星月cs🇺🇸US美国67
-      - 星月cs🇺🇸US美国68
-      - 星月cs🇺🇸US美国69
-      - 星月cs🇺🇸US美国70
-      - 星月cs🇺🇸US美国71
-      - 星月cs🇺🇸US美国72
-      - 星月cs🇺🇸US美国73
-      - 星月cs🇺🇸US美国74
-      - 星月cs🇺🇸US美国75
-      - 星月cs🇺🇸US美国76
-      - 星月cs🇺🇸US美国77
-      - 星月cs🇺🇸US美国78
-      - 星月cs🇺🇸US美国79
-      - 星月cs🇺🇸US美国80
-      - 星月cs🇧🇷BR巴西81
-      - 星月cs🇺🇸US美国82
-      - 星月cs🇺🇸US美国83
-      - 星月cs🇺🇸US美国84
-      - 星月cs🇺🇸US美国85
-      - 星月cs🏳️unKnow未知86
-      - 星月cs🇺🇸US美国87
-      - 星月cs🇺🇸US美国88
-      - 星月cs🇺🇸US美国89
-      - 星月cs🇺🇸US美国90
-      - 星月cs🇺🇸US美国91
-      - 星月cs🇺🇸US美国92
-      - 星月cs🇺🇸US美国93
-      - 星月cs🇺🇸US美国94
-      - 星月cs🇺🇸US美国95
-      - 星月cs🇺🇸US美国96
-      - 星月cs🏳️unKnow未知97
-      - 星月cs🇺🇸US美国98
-      - 星月cs🇺🇸US美国99
-      - 星月cs🇺🇸US美国100
-      - 星月cs🇺🇸US美国101
-      - 星月cs🇺🇸US美国102
-      - 星月cs🇺🇸US美国103
-      - 星月cs🇺🇸US美国104
+      - ry日月未知unKnow🏳️1
+      - ry日月未知unKnow🏳️2
+      - ry日月未知unKnow🏳️3
+      - ry日月未知unKnow🏳️4
+      - ry日月未知unKnow🏳️5
+      - ry日月未知unKnow🏳️6
+      - ry日月未知unKnow🏳️7
+      - ry日月未知unKnow🏳️8
+      - ry日月日本JP🇯🇵9
+      - ry日月未知unKnow🏳️10
+      - ry日月未知unKnow🏳️11
+      - ry日月未知unKnow🏳️12
+      - ry日月未知unKnow🏳️13
+      - ry日月日本JP🇯🇵14
+      - ry日月未知unKnow🏳️15
+      - ry日月未知unKnow🏳️16
+      - ry日月未知unKnow🏳️17
+      - ry日月未知unKnow🏳️18
+      - ry日月日本JP🇯🇵19
+      - ry日月未知unKnow🏳️20
+      - ry日月未知unKnow🏳️21
+      - ry日月未知unKnow🏳️22
+      - ry日月未知unKnow🏳️23
+      - ry日月日本JP🇯🇵24
+      - ry日月未知unKnow🏳️25
+      - ry日月未知unKnow🏳️26
+      - ry日月未知unKnow🏳️27
+      - ry日月未知unKnow🏳️28
+      - ry日月未知unKnow🏳️29
+      - ry日月未知unKnow🏳️30
+      - ry日月未知unKnow🏳️31
+      - ry日月未知unKnow🏳️32
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 星月cs🇺🇸US美国1
-      - 星月cs🇺🇸US美国2
-      - 星月cs🇺🇸US美国3
-      - 星月cs🇯🇵JP日本4
-      - 星月cs🇸🇬SG新加坡5
-      - 星月cs🇦🇺AU澳大利亚6
-      - 星月cs🇦🇺AU澳大利亚7
-      - 星月cs🇺🇸US美国8
-      - 星月cs🇸🇬SG新加坡9
-      - 星月cs🇺🇸US美国10
-      - 星月cs🇺🇸US美国11
-      - 星月cs🇺🇸US美国12
-      - 星月cs🇬🇧GB英国13
-      - 星月cs🇧🇬BG保加利亚14
-      - 星月cs🇪🇸ES西班牙15
-      - 星月cs🇫🇮FI芬兰16
-      - 星月cs🇱🇹LT立陶宛17
-      - 星月cs🇳🇱NL荷兰18
-      - 星月cs🇺🇸US美国19
-      - 星月cs🇺🇸US美国20
-      - 星月cs🇺🇸US美国21
-      - 星月cs🇨🇦CA加拿大22
-      - 星月cs🇺🇸US美国23
-      - 星月cs🇺🇸US美国24
-      - 星月cs🇺🇸US美国25
-      - 星月cs🇺🇸US美国26
-      - 星月cs🇩🇪DE德国27
-      - 星月cs🇩🇪DE德国28
-      - 星月cs🇺🇸US美国29
-      - 星月cs🇫🇷FR法国30
-      - 星月cs🇺🇸US美国31
-      - 星月cs🇬🇷GR希腊32
-      - 星月cs🇨🇦CA加拿大33
-      - 星月cs🇷🇺RU俄罗斯34
-      - 星月cs🇺🇸US美国35
-      - 星月cs🇮🇳IN印度36
-      - 星月cs🇨🇳CN中国37
-      - 星月cs🇨🇳CN中国38
-      - 星月cs🇷🇺RU俄罗斯39
-      - 星月cs🇷🇺RU俄罗斯40
-      - 星月cs🇷🇺RU俄罗斯41
-      - 星月cs🇷🇺RU俄罗斯42
-      - 星月cs🇺🇸US美国43
-      - 星月cs🇸🇬SG新加坡44
-      - 星月cs🇷🇺RU俄罗斯45
-      - 星月cs🇸🇬SG新加坡46
-      - 星月cs🇸🇬SG新加坡47
-      - 星月cs🇺🇸US美国48
-      - 星月cs🏳️unKnow未知49
-      - 星月cs🇸🇬SG新加坡50
-      - 星月cs🇨🇦CA加拿大51
-      - 星月cs🇳🇱NL荷兰52
-      - 星月cs🇺🇸US美国53
-      - 星月cs🇺🇸US美国54
-      - 星月cs🇺🇸US美国55
-      - 星月cs🇨🇦CA加拿大56
-      - 星月cs🇮🇳IN印度57
-      - 星月cs🇸🇬SG新加坡58
-      - 星月cs🇺🇸US美国59
-      - 星月cs🇺🇸US美国60
-      - 星月cs🇺🇸US美国61
-      - 星月cs🇺🇸US美国62
-      - 星月cs🇺🇸US美国63
-      - 星月cs🇺🇸US美国64
-      - 星月cs🇺🇸US美国65
-      - 星月cs🇺🇸US美国66
-      - 星月cs🇺🇸US美国67
-      - 星月cs🇺🇸US美国68
-      - 星月cs🇺🇸US美国69
-      - 星月cs🇺🇸US美国70
-      - 星月cs🇺🇸US美国71
-      - 星月cs🇺🇸US美国72
-      - 星月cs🇺🇸US美国73
-      - 星月cs🇺🇸US美国74
-      - 星月cs🇺🇸US美国75
-      - 星月cs🇺🇸US美国76
-      - 星月cs🇺🇸US美国77
-      - 星月cs🇺🇸US美国78
-      - 星月cs🇺🇸US美国79
-      - 星月cs🇺🇸US美国80
-      - 星月cs🇧🇷BR巴西81
-      - 星月cs🇺🇸US美国82
-      - 星月cs🇺🇸US美国83
-      - 星月cs🇺🇸US美国84
-      - 星月cs🇺🇸US美国85
-      - 星月cs🏳️unKnow未知86
-      - 星月cs🇺🇸US美国87
-      - 星月cs🇺🇸US美国88
-      - 星月cs🇺🇸US美国89
-      - 星月cs🇺🇸US美国90
-      - 星月cs🇺🇸US美国91
-      - 星月cs🇺🇸US美国92
-      - 星月cs🇺🇸US美国93
-      - 星月cs🇺🇸US美国94
-      - 星月cs🇺🇸US美国95
-      - 星月cs🇺🇸US美国96
-      - 星月cs🏳️unKnow未知97
-      - 星月cs🇺🇸US美国98
-      - 星月cs🇺🇸US美国99
-      - 星月cs🇺🇸US美国100
-      - 星月cs🇺🇸US美国101
-      - 星月cs🇺🇸US美国102
-      - 星月cs🇺🇸US美国103
-      - 星月cs🇺🇸US美国104
+      - ry日月未知unKnow🏳️1
+      - ry日月未知unKnow🏳️2
+      - ry日月未知unKnow🏳️3
+      - ry日月未知unKnow🏳️4
+      - ry日月未知unKnow🏳️5
+      - ry日月未知unKnow🏳️6
+      - ry日月未知unKnow🏳️7
+      - ry日月未知unKnow🏳️8
+      - ry日月日本JP🇯🇵9
+      - ry日月未知unKnow🏳️10
+      - ry日月未知unKnow🏳️11
+      - ry日月未知unKnow🏳️12
+      - ry日月未知unKnow🏳️13
+      - ry日月日本JP🇯🇵14
+      - ry日月未知unKnow🏳️15
+      - ry日月未知unKnow🏳️16
+      - ry日月未知unKnow🏳️17
+      - ry日月未知unKnow🏳️18
+      - ry日月日本JP🇯🇵19
+      - ry日月未知unKnow🏳️20
+      - ry日月未知unKnow🏳️21
+      - ry日月未知unKnow🏳️22
+      - ry日月未知unKnow🏳️23
+      - ry日月日本JP🇯🇵24
+      - ry日月未知unKnow🏳️25
+      - ry日月未知unKnow🏳️26
+      - ry日月未知unKnow🏳️27
+      - ry日月未知unKnow🏳️28
+      - ry日月未知unKnow🏳️29
+      - ry日月未知unKnow🏳️30
+      - ry日月未知unKnow🏳️31
+      - ry日月未知unKnow🏳️32
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 星月cs🇺🇸US美国1
-      - 星月cs🇺🇸US美国2
-      - 星月cs🇺🇸US美国3
-      - 星月cs🇯🇵JP日本4
-      - 星月cs🇸🇬SG新加坡5
-      - 星月cs🇦🇺AU澳大利亚6
-      - 星月cs🇦🇺AU澳大利亚7
-      - 星月cs🇺🇸US美国8
-      - 星月cs🇸🇬SG新加坡9
-      - 星月cs🇺🇸US美国10
-      - 星月cs🇺🇸US美国11
-      - 星月cs🇺🇸US美国12
-      - 星月cs🇬🇧GB英国13
-      - 星月cs🇧🇬BG保加利亚14
-      - 星月cs🇪🇸ES西班牙15
-      - 星月cs🇫🇮FI芬兰16
-      - 星月cs🇱🇹LT立陶宛17
-      - 星月cs🇳🇱NL荷兰18
-      - 星月cs🇺🇸US美国19
-      - 星月cs🇺🇸US美国20
-      - 星月cs🇺🇸US美国21
-      - 星月cs🇨🇦CA加拿大22
-      - 星月cs🇺🇸US美国23
-      - 星月cs🇺🇸US美国24
-      - 星月cs🇺🇸US美国25
-      - 星月cs🇺🇸US美国26
-      - 星月cs🇩🇪DE德国27
-      - 星月cs🇩🇪DE德国28
-      - 星月cs🇺🇸US美国29
-      - 星月cs🇫🇷FR法国30
-      - 星月cs🇺🇸US美国31
-      - 星月cs🇬🇷GR希腊32
-      - 星月cs🇨🇦CA加拿大33
-      - 星月cs🇷🇺RU俄罗斯34
-      - 星月cs🇺🇸US美国35
-      - 星月cs🇮🇳IN印度36
-      - 星月cs🇨🇳CN中国37
-      - 星月cs🇨🇳CN中国38
-      - 星月cs🇷🇺RU俄罗斯39
-      - 星月cs🇷🇺RU俄罗斯40
-      - 星月cs🇷🇺RU俄罗斯41
-      - 星月cs🇷🇺RU俄罗斯42
-      - 星月cs🇺🇸US美国43
-      - 星月cs🇸🇬SG新加坡44
-      - 星月cs🇷🇺RU俄罗斯45
-      - 星月cs🇸🇬SG新加坡46
-      - 星月cs🇸🇬SG新加坡47
-      - 星月cs🇺🇸US美国48
-      - 星月cs🏳️unKnow未知49
-      - 星月cs🇸🇬SG新加坡50
-      - 星月cs🇨🇦CA加拿大51
-      - 星月cs🇳🇱NL荷兰52
-      - 星月cs🇺🇸US美国53
-      - 星月cs🇺🇸US美国54
-      - 星月cs🇺🇸US美国55
-      - 星月cs🇨🇦CA加拿大56
-      - 星月cs🇮🇳IN印度57
-      - 星月cs🇸🇬SG新加坡58
-      - 星月cs🇺🇸US美国59
-      - 星月cs🇺🇸US美国60
-      - 星月cs🇺🇸US美国61
-      - 星月cs🇺🇸US美国62
-      - 星月cs🇺🇸US美国63
-      - 星月cs🇺🇸US美国64
-      - 星月cs🇺🇸US美国65
-      - 星月cs🇺🇸US美国66
-      - 星月cs🇺🇸US美国67
-      - 星月cs🇺🇸US美国68
-      - 星月cs🇺🇸US美国69
-      - 星月cs🇺🇸US美国70
-      - 星月cs🇺🇸US美国71
-      - 星月cs🇺🇸US美国72
-      - 星月cs🇺🇸US美国73
-      - 星月cs🇺🇸US美国74
-      - 星月cs🇺🇸US美国75
-      - 星月cs🇺🇸US美国76
-      - 星月cs🇺🇸US美国77
-      - 星月cs🇺🇸US美国78
-      - 星月cs🇺🇸US美国79
-      - 星月cs🇺🇸US美国80
-      - 星月cs🇧🇷BR巴西81
-      - 星月cs🇺🇸US美国82
-      - 星月cs🇺🇸US美国83
-      - 星月cs🇺🇸US美国84
-      - 星月cs🇺🇸US美国85
-      - 星月cs🏳️unKnow未知86
-      - 星月cs🇺🇸US美国87
-      - 星月cs🇺🇸US美国88
-      - 星月cs🇺🇸US美国89
-      - 星月cs🇺🇸US美国90
-      - 星月cs🇺🇸US美国91
-      - 星月cs🇺🇸US美国92
-      - 星月cs🇺🇸US美国93
-      - 星月cs🇺🇸US美国94
-      - 星月cs🇺🇸US美国95
-      - 星月cs🇺🇸US美国96
-      - 星月cs🏳️unKnow未知97
-      - 星月cs🇺🇸US美国98
-      - 星月cs🇺🇸US美国99
-      - 星月cs🇺🇸US美国100
-      - 星月cs🇺🇸US美国101
-      - 星月cs🇺🇸US美国102
-      - 星月cs🇺🇸US美国103
-      - 星月cs🇺🇸US美国104
+      - ry日月未知unKnow🏳️1
+      - ry日月未知unKnow🏳️2
+      - ry日月未知unKnow🏳️3
+      - ry日月未知unKnow🏳️4
+      - ry日月未知unKnow🏳️5
+      - ry日月未知unKnow🏳️6
+      - ry日月未知unKnow🏳️7
+      - ry日月未知unKnow🏳️8
+      - ry日月日本JP🇯🇵9
+      - ry日月未知unKnow🏳️10
+      - ry日月未知unKnow🏳️11
+      - ry日月未知unKnow🏳️12
+      - ry日月未知unKnow🏳️13
+      - ry日月日本JP🇯🇵14
+      - ry日月未知unKnow🏳️15
+      - ry日月未知unKnow🏳️16
+      - ry日月未知unKnow🏳️17
+      - ry日月未知unKnow🏳️18
+      - ry日月日本JP🇯🇵19
+      - ry日月未知unKnow🏳️20
+      - ry日月未知unKnow🏳️21
+      - ry日月未知unKnow🏳️22
+      - ry日月未知unKnow🏳️23
+      - ry日月日本JP🇯🇵24
+      - ry日月未知unKnow🏳️25
+      - ry日月未知unKnow🏳️26
+      - ry日月未知unKnow🏳️27
+      - ry日月未知unKnow🏳️28
+      - ry日月未知unKnow🏳️29
+      - ry日月未知unKnow🏳️30
+      - ry日月未知unKnow🏳️31
+      - ry日月未知unKnow🏳️32
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1923,110 +519,38 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 星月cs🇺🇸US美国1
-      - 星月cs🇺🇸US美国2
-      - 星月cs🇺🇸US美国3
-      - 星月cs🇯🇵JP日本4
-      - 星月cs🇸🇬SG新加坡5
-      - 星月cs🇦🇺AU澳大利亚6
-      - 星月cs🇦🇺AU澳大利亚7
-      - 星月cs🇺🇸US美国8
-      - 星月cs🇸🇬SG新加坡9
-      - 星月cs🇺🇸US美国10
-      - 星月cs🇺🇸US美国11
-      - 星月cs🇺🇸US美国12
-      - 星月cs🇬🇧GB英国13
-      - 星月cs🇧🇬BG保加利亚14
-      - 星月cs🇪🇸ES西班牙15
-      - 星月cs🇫🇮FI芬兰16
-      - 星月cs🇱🇹LT立陶宛17
-      - 星月cs🇳🇱NL荷兰18
-      - 星月cs🇺🇸US美国19
-      - 星月cs🇺🇸US美国20
-      - 星月cs🇺🇸US美国21
-      - 星月cs🇨🇦CA加拿大22
-      - 星月cs🇺🇸US美国23
-      - 星月cs🇺🇸US美国24
-      - 星月cs🇺🇸US美国25
-      - 星月cs🇺🇸US美国26
-      - 星月cs🇩🇪DE德国27
-      - 星月cs🇩🇪DE德国28
-      - 星月cs🇺🇸US美国29
-      - 星月cs🇫🇷FR法国30
-      - 星月cs🇺🇸US美国31
-      - 星月cs🇬🇷GR希腊32
-      - 星月cs🇨🇦CA加拿大33
-      - 星月cs🇷🇺RU俄罗斯34
-      - 星月cs🇺🇸US美国35
-      - 星月cs🇮🇳IN印度36
-      - 星月cs🇨🇳CN中国37
-      - 星月cs🇨🇳CN中国38
-      - 星月cs🇷🇺RU俄罗斯39
-      - 星月cs🇷🇺RU俄罗斯40
-      - 星月cs🇷🇺RU俄罗斯41
-      - 星月cs🇷🇺RU俄罗斯42
-      - 星月cs🇺🇸US美国43
-      - 星月cs🇸🇬SG新加坡44
-      - 星月cs🇷🇺RU俄罗斯45
-      - 星月cs🇸🇬SG新加坡46
-      - 星月cs🇸🇬SG新加坡47
-      - 星月cs🇺🇸US美国48
-      - 星月cs🏳️unKnow未知49
-      - 星月cs🇸🇬SG新加坡50
-      - 星月cs🇨🇦CA加拿大51
-      - 星月cs🇳🇱NL荷兰52
-      - 星月cs🇺🇸US美国53
-      - 星月cs🇺🇸US美国54
-      - 星月cs🇺🇸US美国55
-      - 星月cs🇨🇦CA加拿大56
-      - 星月cs🇮🇳IN印度57
-      - 星月cs🇸🇬SG新加坡58
-      - 星月cs🇺🇸US美国59
-      - 星月cs🇺🇸US美国60
-      - 星月cs🇺🇸US美国61
-      - 星月cs🇺🇸US美国62
-      - 星月cs🇺🇸US美国63
-      - 星月cs🇺🇸US美国64
-      - 星月cs🇺🇸US美国65
-      - 星月cs🇺🇸US美国66
-      - 星月cs🇺🇸US美国67
-      - 星月cs🇺🇸US美国68
-      - 星月cs🇺🇸US美国69
-      - 星月cs🇺🇸US美国70
-      - 星月cs🇺🇸US美国71
-      - 星月cs🇺🇸US美国72
-      - 星月cs🇺🇸US美国73
-      - 星月cs🇺🇸US美国74
-      - 星月cs🇺🇸US美国75
-      - 星月cs🇺🇸US美国76
-      - 星月cs🇺🇸US美国77
-      - 星月cs🇺🇸US美国78
-      - 星月cs🇺🇸US美国79
-      - 星月cs🇺🇸US美国80
-      - 星月cs🇧🇷BR巴西81
-      - 星月cs🇺🇸US美国82
-      - 星月cs🇺🇸US美国83
-      - 星月cs🇺🇸US美国84
-      - 星月cs🇺🇸US美国85
-      - 星月cs🏳️unKnow未知86
-      - 星月cs🇺🇸US美国87
-      - 星月cs🇺🇸US美国88
-      - 星月cs🇺🇸US美国89
-      - 星月cs🇺🇸US美国90
-      - 星月cs🇺🇸US美国91
-      - 星月cs🇺🇸US美国92
-      - 星月cs🇺🇸US美国93
-      - 星月cs🇺🇸US美国94
-      - 星月cs🇺🇸US美国95
-      - 星月cs🇺🇸US美国96
-      - 星月cs🏳️unKnow未知97
-      - 星月cs🇺🇸US美国98
-      - 星月cs🇺🇸US美国99
-      - 星月cs🇺🇸US美国100
-      - 星月cs🇺🇸US美国101
-      - 星月cs🇺🇸US美国102
-      - 星月cs🇺🇸US美国103
-      - 星月cs🇺🇸US美国104
+      - ry日月未知unKnow🏳️1
+      - ry日月未知unKnow🏳️2
+      - ry日月未知unKnow🏳️3
+      - ry日月未知unKnow🏳️4
+      - ry日月未知unKnow🏳️5
+      - ry日月未知unKnow🏳️6
+      - ry日月未知unKnow🏳️7
+      - ry日月未知unKnow🏳️8
+      - ry日月日本JP🇯🇵9
+      - ry日月未知unKnow🏳️10
+      - ry日月未知unKnow🏳️11
+      - ry日月未知unKnow🏳️12
+      - ry日月未知unKnow🏳️13
+      - ry日月日本JP🇯🇵14
+      - ry日月未知unKnow🏳️15
+      - ry日月未知unKnow🏳️16
+      - ry日月未知unKnow🏳️17
+      - ry日月未知unKnow🏳️18
+      - ry日月日本JP🇯🇵19
+      - ry日月未知unKnow🏳️20
+      - ry日月未知unKnow🏳️21
+      - ry日月未知unKnow🏳️22
+      - ry日月未知unKnow🏳️23
+      - ry日月日本JP🇯🇵24
+      - ry日月未知unKnow🏳️25
+      - ry日月未知unKnow🏳️26
+      - ry日月未知unKnow🏳️27
+      - ry日月未知unKnow🏳️28
+      - ry日月未知unKnow🏳️29
+      - ry日月未知unKnow🏳️30
+      - ry日月未知unKnow🏳️31
+      - ry日月未知unKnow🏳️32
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
