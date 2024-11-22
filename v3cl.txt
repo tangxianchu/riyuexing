@@ -48,358 +48,148 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: xy星月中国CN🇨🇳1
-    port: 14505
-    server: 36.151.192.242
-    type: trojan
+  - name: DE 原生IP B
+    port: 8443
+    server: yyde1.benbo789.me
+    type: hysteria2
     udp: true
-    password: QwwHvrnN
+    sni: de1.yy.benbo789.me
+    password: 81a8a79f-e7ba-4cc8-be8b-7aa00a806f9d
     skip-cert-verify: true
-    client-fingerprint: chrome
-  - name: xy星月中国CN🇨🇳2
-    port: 42395
-    server: 36.151.192.196
-    type: trojan
+  - name: DE 原生IP A
+    port: 2053
+    server: yyde2.benbo789.me
+    type: hysteria2
     udp: true
-    password: QwwHvrnN
+    sni: yyde2.benbo789.me
+    password: 81a8a79f-e7ba-4cc8-be8b-7aa00a806f9d
     skip-cert-verify: true
-    client-fingerprint: chrome
-  - name: xy星月中国CN🇨🇳3
-    port: 53002
-    server: 183.236.51.23
-    type: vmess
-    tls: false
+  - name: DE 原生IP C
+    port: 8443
+    server: yyde3.benbo789.me
+    type: hysteria2
     udp: true
-    skip-cert-verify: false
-    cipher: auto
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-    alterId: 64
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月中国CN🇨🇳4
-    port: 39949
-    server: 185.207.155.123
-    type: vmess
-    tls: false
+    sni: yyde3.benbo789.me
+    password: 81a8a79f-e7ba-4cc8-be8b-7aa00a806f9d
+    skip-cert-verify: true
+  - name: US 原生IP C
+    port: 8443
+    server: yyus1.benbo789.me
+    type: hysteria2
     udp: true
-    skip-cert-verify: false
-    cipher: auto
-    uuid: 0899b23d-fbd2-42b8-8e48-b057cf45e24e
-    alterId: 0
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月中国CN🇨🇳5
-    port: 8388
-    server: 194.41.59.80
-    type: ss
+    sni: yyus1.benbo789.me
+    password: 81a8a79f-e7ba-4cc8-be8b-7aa00a806f9d
+    skip-cert-verify: true
+  - name: US 原生IP B
+    port: 8443
+    server: yyus2.benbo789.me
+    type: hysteria2
     udp: true
-    password: asd123456
-    cipher: chacha20-ietf
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月中国CN🇨🇳6
-    port: 58002
-    server: 120.232.153.27
-    type: vmess
-    tls: false
+    sni: yyus2.benbo789.me
+    password: 81a8a79f-e7ba-4cc8-be8b-7aa00a806f9d
+    skip-cert-verify: true
+  - name: HongKong [Normal A]
+    port: 28125
+    server: yyhk1.benbo789.me
+    type: hysteria2
     udp: true
-    skip-cert-verify: false
-    cipher: auto
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-    alterId: 64
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月中国CN🇨🇳7
-    port: 80
-    server: twriyfjhhhh1.hfhfb.homes
+    sni: yyhk1.benbo789.me
+    obfs: salamander
+    password: 81a8a79f-e7ba-4cc8-be8b-7aa00a806f9d
+    skip-cert-verify: true
+    obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  - name: Germany[Normal C]
+    port: 8443
+    server: yycfde1.benbo789.me
     type: vmess
     network: ws
-    tls: false
+    tls: true
     udp: true
-    skip-cert-verify: false
+    version: "2"
+    servername: ""
+    skip-cert-verify: true
     ws-opts:
-      path: /?ed
+      path: null
       headers:
-        Host: app.dingtalk.com
+        host: null
     cipher: auto
-    uuid: 2744bc46-8b19-40a5-9733-5bc819fa9553
+    uuid: 81a8a79f-e7ba-4cc8-be8b-7aa00a806f9d
     alterId: 0
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月中国CN🇨🇳8
-    port: 17806
-    server: 36.151.192.239
-    type: trojan
-    udp: true
-    password: QwwHvrnN
-    skip-cert-verify: true
-    client-fingerprint: chrome
-  - name: xy星月日本JP🇯🇵9
-    port: 443
-    server: n2.jp4589871.top
-    type: trojan
-    udp: true
-    sni: n2.jp4589871.top
-    password: 0ff8c310-3191-4071-925e-1f7be8f1f94f
-    skip-cert-verify: false
-    client-fingerprint: chrome
-  - name: xy星月中国CN🇨🇳10
-    port: 36900
-    server: 36.151.192.198
-    type: trojan
-    udp: true
-    password: QwwHvrnN
-    skip-cert-verify: true
-    client-fingerprint: chrome
-  - name: xy星月美国US🇺🇸11
-    port: 34103
-    server: 45.94.68.179
-    type: vmess
-    tls: false
-    udp: true
-    skip-cert-verify: false
-    cipher: auto
-    uuid: f083427f-9d8b-4863-b4a5-fc15255547d2
-    alterId: 0
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月中国CN🇨🇳12
-    port: 39202
-    server: hzhz1.sssyun.xyz
-    type: ss
-    udp: true
-    password: b40fb56c-f538-4bf2-951e-b645f48b9937
-    cipher: chacha20-ietf-poly1305
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月新加坡SG🇸🇬13
-    port: 8009
-    server: n2.sps465ad81.top
-    type: trojan
-    udp: true
-    sni: n2.sps465ad81.top
-    password: 0ff8c310-3191-4071-925e-1f7be8f1f94f
-    skip-cert-verify: false
-    client-fingerprint: chrome
-  - name: xy星月中国CN🇨🇳14
-    port: 52112
-    server: 183.236.51.23
-    type: vmess
-    tls: false
-    udp: true
-    skip-cert-verify: false
-    cipher: auto
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-    alterId: 64
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月美国US🇺🇸15
-    port: 443
-    server: 3.36.115.124
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月日本JP🇯🇵16
-    port: 443
-    server: 54.95.5.168
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月新加坡SG🇸🇬17
-    port: 443
-    server: 13.229.212.209
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月俄罗斯RU🇷🇺18
-    port: 12345
-    server: 46.17.40.57
-    type: ss
-    udp: true
-    password: dongtaiwang.com
-    cipher: aes-256-gcm
-    client-fingerprint: chrome
-    tfo: false
-  - name: xy星月荷兰NL🇳🇱19
-    port: 27101
-    server: aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz
-    type: trojan
-    udp: true
-    sni: q08m.vgraxiw73s.hasyaf.cn
-    password: 4e399fb9-5a4c-49cd-9849-2051512f4c6c
-    skip-cert-verify: false
-    client-fingerprint: chrome
-  - name: xy星月西班牙ES🇪🇸20
-    port: 21771
-    server: 150.241.102.95
-    type: ss
-    udp: true
-    password: sE4HkRH9agsPPc7DE2IMDT
-    cipher: chacha20-ietf-poly1305
-    client-fingerprint: chrome
-    tfo: false
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - xy星月中国CN🇨🇳1
-      - xy星月中国CN🇨🇳2
-      - xy星月中国CN🇨🇳3
-      - xy星月中国CN🇨🇳4
-      - xy星月中国CN🇨🇳5
-      - xy星月中国CN🇨🇳6
-      - xy星月中国CN🇨🇳7
-      - xy星月中国CN🇨🇳8
-      - xy星月日本JP🇯🇵9
-      - xy星月中国CN🇨🇳10
-      - xy星月美国US🇺🇸11
-      - xy星月中国CN🇨🇳12
-      - xy星月新加坡SG🇸🇬13
-      - xy星月中国CN🇨🇳14
-      - xy星月美国US🇺🇸15
-      - xy星月日本JP🇯🇵16
-      - xy星月新加坡SG🇸🇬17
-      - xy星月俄罗斯RU🇷🇺18
-      - xy星月荷兰NL🇳🇱19
-      - xy星月西班牙ES🇪🇸20
+      - DE 原生IP B
+      - DE 原生IP A
+      - DE 原生IP C
+      - US 原生IP C
+      - US 原生IP B
+      - HongKong [Normal A]
+      - Germany[Normal C]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - xy星月中国CN🇨🇳1
-      - xy星月中国CN🇨🇳2
-      - xy星月中国CN🇨🇳3
-      - xy星月中国CN🇨🇳4
-      - xy星月中国CN🇨🇳5
-      - xy星月中国CN🇨🇳6
-      - xy星月中国CN🇨🇳7
-      - xy星月中国CN🇨🇳8
-      - xy星月日本JP🇯🇵9
-      - xy星月中国CN🇨🇳10
-      - xy星月美国US🇺🇸11
-      - xy星月中国CN🇨🇳12
-      - xy星月新加坡SG🇸🇬13
-      - xy星月中国CN🇨🇳14
-      - xy星月美国US🇺🇸15
-      - xy星月日本JP🇯🇵16
-      - xy星月新加坡SG🇸🇬17
-      - xy星月俄罗斯RU🇷🇺18
-      - xy星月荷兰NL🇳🇱19
-      - xy星月西班牙ES🇪🇸20
+      - DE 原生IP B
+      - DE 原生IP A
+      - DE 原生IP C
+      - US 原生IP C
+      - US 原生IP B
+      - HongKong [Normal A]
+      - Germany[Normal C]
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - xy星月中国CN🇨🇳1
-      - xy星月中国CN🇨🇳2
-      - xy星月中国CN🇨🇳3
-      - xy星月中国CN🇨🇳4
-      - xy星月中国CN🇨🇳5
-      - xy星月中国CN🇨🇳6
-      - xy星月中国CN🇨🇳7
-      - xy星月中国CN🇨🇳8
-      - xy星月日本JP🇯🇵9
-      - xy星月中国CN🇨🇳10
-      - xy星月美国US🇺🇸11
-      - xy星月中国CN🇨🇳12
-      - xy星月新加坡SG🇸🇬13
-      - xy星月中国CN🇨🇳14
-      - xy星月美国US🇺🇸15
-      - xy星月日本JP🇯🇵16
-      - xy星月新加坡SG🇸🇬17
-      - xy星月俄罗斯RU🇷🇺18
-      - xy星月荷兰NL🇳🇱19
-      - xy星月西班牙ES🇪🇸20
+      - DE 原生IP B
+      - DE 原生IP A
+      - DE 原生IP C
+      - US 原生IP C
+      - US 原生IP B
+      - HongKong [Normal A]
+      - Germany[Normal C]
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - xy星月中国CN🇨🇳1
-      - xy星月中国CN🇨🇳2
-      - xy星月中国CN🇨🇳3
-      - xy星月中国CN🇨🇳4
-      - xy星月中国CN🇨🇳5
-      - xy星月中国CN🇨🇳6
-      - xy星月中国CN🇨🇳7
-      - xy星月中国CN🇨🇳8
-      - xy星月日本JP🇯🇵9
-      - xy星月中国CN🇨🇳10
-      - xy星月美国US🇺🇸11
-      - xy星月中国CN🇨🇳12
-      - xy星月新加坡SG🇸🇬13
-      - xy星月中国CN🇨🇳14
-      - xy星月美国US🇺🇸15
-      - xy星月日本JP🇯🇵16
-      - xy星月新加坡SG🇸🇬17
-      - xy星月俄罗斯RU🇷🇺18
-      - xy星月荷兰NL🇳🇱19
-      - xy星月西班牙ES🇪🇸20
+      - DE 原生IP B
+      - DE 原生IP A
+      - DE 原生IP C
+      - US 原生IP C
+      - US 原生IP B
+      - HongKong [Normal A]
+      - Germany[Normal C]
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - xy星月中国CN🇨🇳1
-      - xy星月中国CN🇨🇳2
-      - xy星月中国CN🇨🇳3
-      - xy星月中国CN🇨🇳4
-      - xy星月中国CN🇨🇳5
-      - xy星月中国CN🇨🇳6
-      - xy星月中国CN🇨🇳7
-      - xy星月中国CN🇨🇳8
-      - xy星月日本JP🇯🇵9
-      - xy星月中国CN🇨🇳10
-      - xy星月美国US🇺🇸11
-      - xy星月中国CN🇨🇳12
-      - xy星月新加坡SG🇸🇬13
-      - xy星月中国CN🇨🇳14
-      - xy星月美国US🇺🇸15
-      - xy星月日本JP🇯🇵16
-      - xy星月新加坡SG🇸🇬17
-      - xy星月俄罗斯RU🇷🇺18
-      - xy星月荷兰NL🇳🇱19
-      - xy星月西班牙ES🇪🇸20
+      - DE 原生IP B
+      - DE 原生IP A
+      - DE 原生IP C
+      - US 原生IP C
+      - US 原生IP B
+      - HongKong [Normal A]
+      - Germany[Normal C]
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - xy星月中国CN🇨🇳1
-      - xy星月中国CN🇨🇳2
-      - xy星月中国CN🇨🇳3
-      - xy星月中国CN🇨🇳4
-      - xy星月中国CN🇨🇳5
-      - xy星月中国CN🇨🇳6
-      - xy星月中国CN🇨🇳7
-      - xy星月中国CN🇨🇳8
-      - xy星月日本JP🇯🇵9
-      - xy星月中国CN🇨🇳10
-      - xy星月美国US🇺🇸11
-      - xy星月中国CN🇨🇳12
-      - xy星月新加坡SG🇸🇬13
-      - xy星月中国CN🇨🇳14
-      - xy星月美国US🇺🇸15
-      - xy星月日本JP🇯🇵16
-      - xy星月新加坡SG🇸🇬17
-      - xy星月俄罗斯RU🇷🇺18
-      - xy星月荷兰NL🇳🇱19
-      - xy星月西班牙ES🇪🇸20
+      - DE 原生IP B
+      - DE 原生IP A
+      - DE 原生IP C
+      - US 原生IP C
+      - US 原生IP B
+      - HongKong [Normal A]
+      - Germany[Normal C]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -422,26 +212,13 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - xy星月中国CN🇨🇳1
-      - xy星月中国CN🇨🇳2
-      - xy星月中国CN🇨🇳3
-      - xy星月中国CN🇨🇳4
-      - xy星月中国CN🇨🇳5
-      - xy星月中国CN🇨🇳6
-      - xy星月中国CN🇨🇳7
-      - xy星月中国CN🇨🇳8
-      - xy星月日本JP🇯🇵9
-      - xy星月中国CN🇨🇳10
-      - xy星月美国US🇺🇸11
-      - xy星月中国CN🇨🇳12
-      - xy星月新加坡SG🇸🇬13
-      - xy星月中国CN🇨🇳14
-      - xy星月美国US🇺🇸15
-      - xy星月日本JP🇯🇵16
-      - xy星月新加坡SG🇸🇬17
-      - xy星月俄罗斯RU🇷🇺18
-      - xy星月荷兰NL🇳🇱19
-      - xy星月西班牙ES🇪🇸20
+      - DE 原生IP B
+      - DE 原生IP A
+      - DE 原生IP C
+      - US 原生IP C
+      - US 原生IP B
+      - HongKong [Normal A]
+      - Germany[Normal C]
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
