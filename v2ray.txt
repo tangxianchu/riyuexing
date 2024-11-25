@@ -48,58 +48,1936 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 星月ˣʸ
+  - name: US_分享日记_1
     port: 443
-    server: 104.16.11.112
-    type: trojan
+    server: 104.24.223.118
+    type: vless
     network: ws
+    tls: true
     udp: true
-    sni: t2.rtx.al
-    password: UipJV58NIw
-    skip-cert-verify: false
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
     ws-opts:
-      path: /cfisthebest
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
       headers:
-        host: t2.rtx.al
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_2
+    port: 443
+    server: 104.19.147.161
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_3
+    port: 443
+    server: 104.22.78.164
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: CA_分享日记
+    port: 80
+    server: 142.4.216.225
+    type: ss
+    udp: true
+    password: JIhN6rBKkaEboLNXVSv5rq
+    cipher: chacha20-ietf-poly1305
+  - name: US_分享日记_4
+    port: 22222
+    server: 13.60.113.195
+    type: trojan
+    network: tcp
+    udp: true
+    sni: trojan.burgerip.co.uk
+    password: telegram-id-directvpn
+    skip-cert-verify: false
+  - name: BR_分享日记_1
+    port: 443
+    server: 188.114.96.208
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_5
+    port: 443
+    server: 156.146.38.169
+    type: ss
+    udp: true
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: US_分享日记_6
+    port: 443
+    server: www.speedtest.net
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: ntsafe.pages.dev
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: ntsafe.pages.dev
+    uuid: 9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39
+  - name: BR_分享日记_2
+    port: 443
+    server: 188.114.98.137
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: BpbpanEL.Ac.CN.EU.oRg
+    skip-cert-verify: true
+    ws-opts:
+      path: /p3stxwx49t13atgt/chjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw==?ed=2560
+      headers:
+        host: BpbpanEL.Ac.CN.EU.oRg
+    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  - name: US_分享日记_7
+    port: 443
+    server: 104.20.1.112
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_8
+    port: 443
+    server: 104.27.56.199
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_9
+    port: 443
+    server: 104.27.36.124
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_10
+    port: 443
+    server: 173.245.58.207
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_11
+    port: 443
+    server: 104.19.105.64
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_12
+    port: 443
+    server: 198.41.199.47
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_13
+    port: 443
+    server: 198.41.219.23
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_14
+    port: 2053
+    server: 104.24.168.233
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_15
+    port: 2053
+    server: 104.25.233.43
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_16
+    port: 443
+    server: 104.16.93.167
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_17
+    port: 443
+    server: 108.162.194.76
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_18
+    port: 2053
+    server: 104.25.11.62
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_19
+    port: 443
+    server: 173.245.49.62
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_20
+    port: 443
+    server: 104.19.197.130
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_21
+    port: 443
+    server: 104.25.196.198
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: BpbpanEL.Ac.CN.EU.oRg
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: BpbpanEL.Ac.CN.EU.oRg
+    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  - name: US_分享日记_22
+    port: 443
+    server: 198.41.208.109
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_23
+    port: 443
+    server: 104.19.89.44
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_24
+    port: 443
+    server: 104.25.79.149
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_25
+    port: 443
+    server: 103.21.244.93
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_26
+    port: 443
+    server: 104.22.74.255
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_27
+    port: 443
+    server: 172.64.104.152
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_28
+    port: 443
+    server: 104.20.183.63
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_29
+    port: 443
+    server: 103.21.244.48
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_30
+    port: 443
+    server: 103.21.244.113
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_31
+    port: 2082
+    server: russia.com
+    type: vmess
+    network: ws
+    tls: false
+    udp: true
+    servername: ip6.6929198.xyz
+    skip-cert-verify: true
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        host: ip6.6929198.xyz
+    cipher: auto
+    uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+    alterId: 0
+  - name: US_分享日记_32
+    port: 2053
+    server: 172.66.177.107
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: BR_分享日记_3
+    port: 443
+    server: 188.114.96.163
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: BR_分享日记_4
+    port: 443
+    server: 188.114.96.196
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_33
+    port: 443
+    server: 104.22.28.10
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_34
+    port: 2053
+    server: 104.20.140.168
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_35
+    port: 443
+    server: 198.41.201.21
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: BR_分享日记_5
+    port: 2053
+    server: 188.114.96.37
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_36
+    port: 2053
+    server: 104.25.20.152
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_37
+    port: 443
+    server: 104.25.76.240
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_38
+    port: 2053
+    server: 108.162.192.95
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: CH_分享日记_1
+    port: 443
+    server: 156.146.62.162
+    type: ss
+    udp: true
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: GB_分享日记_1
+    port: 443
+    server: 141.98.101.179
+    type: ss
+    udp: true
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: US_分享日记_39
+    port: 2053
+    server: 104.22.10.96
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_40
+    port: 443
+    server: 104.17.172.221
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_41
+    port: 2053
+    server: 104.18.251.53
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: BR_分享日记_6
+    port: 443
+    server: 188.114.97.108
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: GB_分享日记_2
+    port: 443
+    server: 212.102.53.78
+    type: ss
+    udp: true
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: US_分享日记_42
+    port: 443
+    server: 198.41.205.181
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: BR_分享日记_7
+    port: 443
+    server: 188.114.96.190
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_43
+    port: 2053
+    server: 104.27.7.39
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_44
+    port: 2053
+    server: 104.25.107.236
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_45
+    port: 443
+    server: 104.21.70.252
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: DE_分享日记_1
+    port: 22222
+    server: 18.185.70.228
+    type: trojan
+    network: tcp
+    udp: true
+    sni: trojan.burgerip.co.uk
+    password: telegram-id-privatevpns
+    skip-cert-verify: false
+  - name: US_分享日记_46
+    port: 443
+    server: 104.24.87.64
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: CH_分享日记_2
+    port: 443
+    server: 156.146.62.164
+    type: ss
+    udp: true
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: US_分享日记_47
+    port: 443
+    server: 104.22.70.81
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_48
+    port: 2053
+    server: 104.23.108.156
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_49
+    port: 443
+    server: 104.21.213.116
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_50
+    port: 22222
+    server: 16.171.118.101
+    type: trojan
+    network: tcp
+    udp: true
+    sni: trojan.burgerip.co.uk
+    password: telegram-id-privatevpns
+    skip-cert-verify: false
+  - name: DE_分享日记_2
+    port: 22222
+    server: 18.196.42.190
+    type: trojan
+    network: tcp
+    udp: true
+    sni: trojan.burgerip.co.uk
+    password: telegram-id-privatevpns
+    skip-cert-verify: false
+  - name: US_分享日记_51
+    port: 443
+    server: 104.19.50.99
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: BpbpanEL.Ac.CN.EU.oRg
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: BpbpanEL.Ac.CN.EU.oRg
+    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  - name: US_分享日记_52
+    port: 443
+    server: 47.130.79.130
+    type: trojan
+    network: tcp
+    udp: true
+    sni: neat-drake.squid592.motorcycles
+    password: "3648425794742788096"
+    skip-cert-verify: false
+  - name: US_分享日记_53
+    port: 2053
+    server: 173.245.59.110
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: GB_分享日记_3
+    port: 443
+    server: 212.102.53.196
+    type: ss
+    udp: true
+    password: shadowsocks
+    cipher: aes-128-gcm
+  - name: US_分享日记_54
+    port: 6679
+    server: 142.202.49.119
+    type: ss
+    udp: true
+    password: TEzjfAYq2IjtuoS
+    cipher: aes-256-gcm
+  - name: US_分享日记_55
+    port: 443
+    server: 103.21.244.63
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_56
+    port: 2082
+    server: japan.com
+    type: vmess
+    network: ws
+    tls: false
+    udp: true
+    servername: ip16.6929198.xyz
+    skip-cert-verify: true
+    ws-opts:
+      path: /github.com/Alvin9999
+      headers:
+        host: ip16.6929198.xyz
+    cipher: auto
+    uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+    alterId: 0
+  - name: US_分享日记_57
+    port: 2053
+    server: 104.19.5.89
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_58
+    port: 2053
+    server: 104.18.217.112
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_59
+    port: 443
+    server: 104.16.237.68
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_60
+    port: 443
+    server: 104.25.95.212
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: RU_分享日记
+    port: 33068
+    server: 193.124.22.253
+    type: ss
+    udp: true
+    password: 3MgIhqwp4pjM8SKwixNkYZ
+    cipher: chacha20-ietf-poly1305
+  - name: US_分享日记_61
+    port: 443
+    server: 104.19.61.244
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_62
+    port: 443
+    server: 172.67.70.188
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: BpBPaneL.aC.CN.EU.oRG
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: BpBPaneL.aC.CN.EU.oRG
+    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  - name: US_分享日记_63
+    port: 2053
+    server: 172.66.135.56
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_64
+    port: 2053
+    server: 104.19.87.202
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_65
+    port: 2053
+    server: 141.101.122.35
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_66
+    port: 443
+    server: 104.24.69.3
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: CR_分享日记_1
+    port: 2053
+    server: 190.93.247.104
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_67
+    port: 2082
+    server: icook.tw
+    type: vmess
+    network: ws
+    tls: false
+    udp: true
+    servername: ip3.6929198.xyz
+    skip-cert-verify: true
+    ws-opts:
+      path: github.com/Alvin9999
+      headers:
+        host: ip3.6929198.xyz
+    cipher: auto
+    uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+    alterId: 0
+  - name: US_分享日记_68
+    port: 30251
+    server: 34.92.66.193
+    type: vmess
+    network: tcp
+    tls: false
+    udp: true
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 9e88a10b-655c-5120-89d0-408634169561
+    alterId: 0
+  - name: IE_分享日记_1
+    port: 443
+    server: 99.80.130.48
+    type: trojan
+    network: tcp
+    udp: true
+    sni: splendid-rat.squid592.motorcycles
+    password: "3648425794742788096"
+    skip-cert-verify: false
+  - name: US_分享日记_69
+    port: 2086
+    server: shs.xiaoqi666.xyz
+    type: vmess
+    network: ws
+    tls: false
+    udp: true
+    servername: shs.xiaoqi666.xyz
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+      headers:
+        host: shs.xiaoqi666.xyz
+    cipher: auto
+    uuid: 3fd7b958-2161-46e1-b6fc-bd6bb2165312
+    alterId: 0
+  - name: IE_分享日记_2
+    port: 443
+    server: 63.35.47.160
+    type: trojan
+    network: tcp
+    udp: true
+    sni: cosmic-mammal.squid592.motorcycles
+    password: "3648425794742788096"
+    skip-cert-verify: false
+  - name: US_分享日记_70
+    port: 2053
+    server: 104.24.224.122
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_71
+    port: 2053
+    server: 104.22.60.240
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /proxyip=proxyip.us.fxxk.dedyn.io
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: BR_分享日记_8
+    port: 443
+    server: 188.114.98.96
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_72
+    port: 2053
+    server: 190.93.244.184
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_73
+    port: 2053
+    server: 198.41.220.14
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: JP_分享日记
+    port: 443
+    server: 18.183.139.216
+    type: trojan
+    network: tcp
+    udp: true
+    sni: optimum-whippet.squid592.motorcycles
+    password: "3648425794742788096"
+    skip-cert-verify: false
+  - name: CR_分享日记_2
+    port: 443
+    server: 190.93.247.208
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_74
+    port: 443
+    server: 198.41.211.125
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_75
+    port: 443
+    server: 198.41.214.175
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: BpbpanEL.Ac.CN.EU.oRg
+    skip-cert-verify: true
+    ws-opts:
+      path: /p3stxwx49t13atgt/chjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw==?ed=2560
+      headers:
+        host: BpbpanEL.Ac.CN.EU.oRg
+    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  - name: US_分享日记_76
+    port: 443
+    server: 162.159.250.4
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: BR_分享日记_9
+    port: 443
+    server: 188.114.98.239
+    type: vless
+    network: ws
+    tls: true
+    udp: true
+    servername: lv.ylks01.eu.org
+    skip-cert-verify: true
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: lv.ylks01.eu.org
+    uuid: 8041c6d9-8359-4e57-a55d-8f14e99bb9bc
+  - name: US_分享日记_77
+    port: 22222
+    server: 13.61.133.104
+    type: trojan
+    network: tcp
+    udp: true
+    sni: trojan.burgerip.co.uk
+    password: telegram-id-directvpn
+    skip-cert-verify: false
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 星月ˣʸ
+      - US_分享日记_1
+      - US_分享日记_2
+      - US_分享日记_3
+      - CA_分享日记
+      - US_分享日记_4
+      - BR_分享日记_1
+      - US_分享日记_5
+      - US_分享日记_6
+      - BR_分享日记_2
+      - US_分享日记_7
+      - US_分享日记_8
+      - US_分享日记_9
+      - US_分享日记_10
+      - US_分享日记_11
+      - US_分享日记_12
+      - US_分享日记_13
+      - US_分享日记_14
+      - US_分享日记_15
+      - US_分享日记_16
+      - US_分享日记_17
+      - US_分享日记_18
+      - US_分享日记_19
+      - US_分享日记_20
+      - US_分享日记_21
+      - US_分享日记_22
+      - US_分享日记_23
+      - US_分享日记_24
+      - US_分享日记_25
+      - US_分享日记_26
+      - US_分享日记_27
+      - US_分享日记_28
+      - US_分享日记_29
+      - US_分享日记_30
+      - US_分享日记_31
+      - US_分享日记_32
+      - BR_分享日记_3
+      - BR_分享日记_4
+      - US_分享日记_33
+      - US_分享日记_34
+      - US_分享日记_35
+      - BR_分享日记_5
+      - US_分享日记_36
+      - US_分享日记_37
+      - US_分享日记_38
+      - CH_分享日记_1
+      - GB_分享日记_1
+      - US_分享日记_39
+      - US_分享日记_40
+      - US_分享日记_41
+      - BR_分享日记_6
+      - GB_分享日记_2
+      - US_分享日记_42
+      - BR_分享日记_7
+      - US_分享日记_43
+      - US_分享日记_44
+      - US_分享日记_45
+      - DE_分享日记_1
+      - US_分享日记_46
+      - CH_分享日记_2
+      - US_分享日记_47
+      - US_分享日记_48
+      - US_分享日记_49
+      - US_分享日记_50
+      - DE_分享日记_2
+      - US_分享日记_51
+      - US_分享日记_52
+      - US_分享日记_53
+      - GB_分享日记_3
+      - US_分享日记_54
+      - US_分享日记_55
+      - US_分享日记_56
+      - US_分享日记_57
+      - US_分享日记_58
+      - US_分享日记_59
+      - US_分享日记_60
+      - RU_分享日记
+      - US_分享日记_61
+      - US_分享日记_62
+      - US_分享日记_63
+      - US_分享日记_64
+      - US_分享日记_65
+      - US_分享日记_66
+      - CR_分享日记_1
+      - US_分享日记_67
+      - US_分享日记_68
+      - IE_分享日记_1
+      - US_分享日记_69
+      - IE_分享日记_2
+      - US_分享日记_70
+      - US_分享日记_71
+      - BR_分享日记_8
+      - US_分享日记_72
+      - US_分享日记_73
+      - JP_分享日记
+      - CR_分享日记_2
+      - US_分享日记_74
+      - US_分享日记_75
+      - US_分享日记_76
+      - BR_分享日记_9
+      - US_分享日记_77
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 星月ˣʸ
+      - US_分享日记_1
+      - US_分享日记_2
+      - US_分享日记_3
+      - CA_分享日记
+      - US_分享日记_4
+      - BR_分享日记_1
+      - US_分享日记_5
+      - US_分享日记_6
+      - BR_分享日记_2
+      - US_分享日记_7
+      - US_分享日记_8
+      - US_分享日记_9
+      - US_分享日记_10
+      - US_分享日记_11
+      - US_分享日记_12
+      - US_分享日记_13
+      - US_分享日记_14
+      - US_分享日记_15
+      - US_分享日记_16
+      - US_分享日记_17
+      - US_分享日记_18
+      - US_分享日记_19
+      - US_分享日记_20
+      - US_分享日记_21
+      - US_分享日记_22
+      - US_分享日记_23
+      - US_分享日记_24
+      - US_分享日记_25
+      - US_分享日记_26
+      - US_分享日记_27
+      - US_分享日记_28
+      - US_分享日记_29
+      - US_分享日记_30
+      - US_分享日记_31
+      - US_分享日记_32
+      - BR_分享日记_3
+      - BR_分享日记_4
+      - US_分享日记_33
+      - US_分享日记_34
+      - US_分享日记_35
+      - BR_分享日记_5
+      - US_分享日记_36
+      - US_分享日记_37
+      - US_分享日记_38
+      - CH_分享日记_1
+      - GB_分享日记_1
+      - US_分享日记_39
+      - US_分享日记_40
+      - US_分享日记_41
+      - BR_分享日记_6
+      - GB_分享日记_2
+      - US_分享日记_42
+      - BR_分享日记_7
+      - US_分享日记_43
+      - US_分享日记_44
+      - US_分享日记_45
+      - DE_分享日记_1
+      - US_分享日记_46
+      - CH_分享日记_2
+      - US_分享日记_47
+      - US_分享日记_48
+      - US_分享日记_49
+      - US_分享日记_50
+      - DE_分享日记_2
+      - US_分享日记_51
+      - US_分享日记_52
+      - US_分享日记_53
+      - GB_分享日记_3
+      - US_分享日记_54
+      - US_分享日记_55
+      - US_分享日记_56
+      - US_分享日记_57
+      - US_分享日记_58
+      - US_分享日记_59
+      - US_分享日记_60
+      - RU_分享日记
+      - US_分享日记_61
+      - US_分享日记_62
+      - US_分享日记_63
+      - US_分享日记_64
+      - US_分享日记_65
+      - US_分享日记_66
+      - CR_分享日记_1
+      - US_分享日记_67
+      - US_分享日记_68
+      - IE_分享日记_1
+      - US_分享日记_69
+      - IE_分享日记_2
+      - US_分享日记_70
+      - US_分享日记_71
+      - BR_分享日记_8
+      - US_分享日记_72
+      - US_分享日记_73
+      - JP_分享日记
+      - CR_分享日记_2
+      - US_分享日记_74
+      - US_分享日记_75
+      - US_分享日记_76
+      - BR_分享日记_9
+      - US_分享日记_77
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 星月ˣʸ
+      - US_分享日记_1
+      - US_分享日记_2
+      - US_分享日记_3
+      - CA_分享日记
+      - US_分享日记_4
+      - BR_分享日记_1
+      - US_分享日记_5
+      - US_分享日记_6
+      - BR_分享日记_2
+      - US_分享日记_7
+      - US_分享日记_8
+      - US_分享日记_9
+      - US_分享日记_10
+      - US_分享日记_11
+      - US_分享日记_12
+      - US_分享日记_13
+      - US_分享日记_14
+      - US_分享日记_15
+      - US_分享日记_16
+      - US_分享日记_17
+      - US_分享日记_18
+      - US_分享日记_19
+      - US_分享日记_20
+      - US_分享日记_21
+      - US_分享日记_22
+      - US_分享日记_23
+      - US_分享日记_24
+      - US_分享日记_25
+      - US_分享日记_26
+      - US_分享日记_27
+      - US_分享日记_28
+      - US_分享日记_29
+      - US_分享日记_30
+      - US_分享日记_31
+      - US_分享日记_32
+      - BR_分享日记_3
+      - BR_分享日记_4
+      - US_分享日记_33
+      - US_分享日记_34
+      - US_分享日记_35
+      - BR_分享日记_5
+      - US_分享日记_36
+      - US_分享日记_37
+      - US_分享日记_38
+      - CH_分享日记_1
+      - GB_分享日记_1
+      - US_分享日记_39
+      - US_分享日记_40
+      - US_分享日记_41
+      - BR_分享日记_6
+      - GB_分享日记_2
+      - US_分享日记_42
+      - BR_分享日记_7
+      - US_分享日记_43
+      - US_分享日记_44
+      - US_分享日记_45
+      - DE_分享日记_1
+      - US_分享日记_46
+      - CH_分享日记_2
+      - US_分享日记_47
+      - US_分享日记_48
+      - US_分享日记_49
+      - US_分享日记_50
+      - DE_分享日记_2
+      - US_分享日记_51
+      - US_分享日记_52
+      - US_分享日记_53
+      - GB_分享日记_3
+      - US_分享日记_54
+      - US_分享日记_55
+      - US_分享日记_56
+      - US_分享日记_57
+      - US_分享日记_58
+      - US_分享日记_59
+      - US_分享日记_60
+      - RU_分享日记
+      - US_分享日记_61
+      - US_分享日记_62
+      - US_分享日记_63
+      - US_分享日记_64
+      - US_分享日记_65
+      - US_分享日记_66
+      - CR_分享日记_1
+      - US_分享日记_67
+      - US_分享日记_68
+      - IE_分享日记_1
+      - US_分享日记_69
+      - IE_分享日记_2
+      - US_分享日记_70
+      - US_分享日记_71
+      - BR_分享日记_8
+      - US_分享日记_72
+      - US_分享日记_73
+      - JP_分享日记
+      - CR_分享日记_2
+      - US_分享日记_74
+      - US_分享日记_75
+      - US_分享日记_76
+      - BR_分享日记_9
+      - US_分享日记_77
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 星月ˣʸ
+      - US_分享日记_1
+      - US_分享日记_2
+      - US_分享日记_3
+      - CA_分享日记
+      - US_分享日记_4
+      - BR_分享日记_1
+      - US_分享日记_5
+      - US_分享日记_6
+      - BR_分享日记_2
+      - US_分享日记_7
+      - US_分享日记_8
+      - US_分享日记_9
+      - US_分享日记_10
+      - US_分享日记_11
+      - US_分享日记_12
+      - US_分享日记_13
+      - US_分享日记_14
+      - US_分享日记_15
+      - US_分享日记_16
+      - US_分享日记_17
+      - US_分享日记_18
+      - US_分享日记_19
+      - US_分享日记_20
+      - US_分享日记_21
+      - US_分享日记_22
+      - US_分享日记_23
+      - US_分享日记_24
+      - US_分享日记_25
+      - US_分享日记_26
+      - US_分享日记_27
+      - US_分享日记_28
+      - US_分享日记_29
+      - US_分享日记_30
+      - US_分享日记_31
+      - US_分享日记_32
+      - BR_分享日记_3
+      - BR_分享日记_4
+      - US_分享日记_33
+      - US_分享日记_34
+      - US_分享日记_35
+      - BR_分享日记_5
+      - US_分享日记_36
+      - US_分享日记_37
+      - US_分享日记_38
+      - CH_分享日记_1
+      - GB_分享日记_1
+      - US_分享日记_39
+      - US_分享日记_40
+      - US_分享日记_41
+      - BR_分享日记_6
+      - GB_分享日记_2
+      - US_分享日记_42
+      - BR_分享日记_7
+      - US_分享日记_43
+      - US_分享日记_44
+      - US_分享日记_45
+      - DE_分享日记_1
+      - US_分享日记_46
+      - CH_分享日记_2
+      - US_分享日记_47
+      - US_分享日记_48
+      - US_分享日记_49
+      - US_分享日记_50
+      - DE_分享日记_2
+      - US_分享日记_51
+      - US_分享日记_52
+      - US_分享日记_53
+      - GB_分享日记_3
+      - US_分享日记_54
+      - US_分享日记_55
+      - US_分享日记_56
+      - US_分享日记_57
+      - US_分享日记_58
+      - US_分享日记_59
+      - US_分享日记_60
+      - RU_分享日记
+      - US_分享日记_61
+      - US_分享日记_62
+      - US_分享日记_63
+      - US_分享日记_64
+      - US_分享日记_65
+      - US_分享日记_66
+      - CR_分享日记_1
+      - US_分享日记_67
+      - US_分享日记_68
+      - IE_分享日记_1
+      - US_分享日记_69
+      - IE_分享日记_2
+      - US_分享日记_70
+      - US_分享日记_71
+      - BR_分享日记_8
+      - US_分享日记_72
+      - US_分享日记_73
+      - JP_分享日记
+      - CR_分享日记_2
+      - US_分享日记_74
+      - US_分享日记_75
+      - US_分享日记_76
+      - BR_分享日记_9
+      - US_分享日记_77
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 星月ˣʸ
+      - US_分享日记_1
+      - US_分享日记_2
+      - US_分享日记_3
+      - CA_分享日记
+      - US_分享日记_4
+      - BR_分享日记_1
+      - US_分享日记_5
+      - US_分享日记_6
+      - BR_分享日记_2
+      - US_分享日记_7
+      - US_分享日记_8
+      - US_分享日记_9
+      - US_分享日记_10
+      - US_分享日记_11
+      - US_分享日记_12
+      - US_分享日记_13
+      - US_分享日记_14
+      - US_分享日记_15
+      - US_分享日记_16
+      - US_分享日记_17
+      - US_分享日记_18
+      - US_分享日记_19
+      - US_分享日记_20
+      - US_分享日记_21
+      - US_分享日记_22
+      - US_分享日记_23
+      - US_分享日记_24
+      - US_分享日记_25
+      - US_分享日记_26
+      - US_分享日记_27
+      - US_分享日记_28
+      - US_分享日记_29
+      - US_分享日记_30
+      - US_分享日记_31
+      - US_分享日记_32
+      - BR_分享日记_3
+      - BR_分享日记_4
+      - US_分享日记_33
+      - US_分享日记_34
+      - US_分享日记_35
+      - BR_分享日记_5
+      - US_分享日记_36
+      - US_分享日记_37
+      - US_分享日记_38
+      - CH_分享日记_1
+      - GB_分享日记_1
+      - US_分享日记_39
+      - US_分享日记_40
+      - US_分享日记_41
+      - BR_分享日记_6
+      - GB_分享日记_2
+      - US_分享日记_42
+      - BR_分享日记_7
+      - US_分享日记_43
+      - US_分享日记_44
+      - US_分享日记_45
+      - DE_分享日记_1
+      - US_分享日记_46
+      - CH_分享日记_2
+      - US_分享日记_47
+      - US_分享日记_48
+      - US_分享日记_49
+      - US_分享日记_50
+      - DE_分享日记_2
+      - US_分享日记_51
+      - US_分享日记_52
+      - US_分享日记_53
+      - GB_分享日记_3
+      - US_分享日记_54
+      - US_分享日记_55
+      - US_分享日记_56
+      - US_分享日记_57
+      - US_分享日记_58
+      - US_分享日记_59
+      - US_分享日记_60
+      - RU_分享日记
+      - US_分享日记_61
+      - US_分享日记_62
+      - US_分享日记_63
+      - US_分享日记_64
+      - US_分享日记_65
+      - US_分享日记_66
+      - CR_分享日记_1
+      - US_分享日记_67
+      - US_分享日记_68
+      - IE_分享日记_1
+      - US_分享日记_69
+      - IE_分享日记_2
+      - US_分享日记_70
+      - US_分享日记_71
+      - BR_分享日记_8
+      - US_分享日记_72
+      - US_分享日记_73
+      - JP_分享日记
+      - CR_分享日记_2
+      - US_分享日记_74
+      - US_分享日记_75
+      - US_分享日记_76
+      - BR_分享日记_9
+      - US_分享日记_77
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 星月ˣʸ
+      - US_分享日记_1
+      - US_分享日记_2
+      - US_分享日记_3
+      - CA_分享日记
+      - US_分享日记_4
+      - BR_分享日记_1
+      - US_分享日记_5
+      - US_分享日记_6
+      - BR_分享日记_2
+      - US_分享日记_7
+      - US_分享日记_8
+      - US_分享日记_9
+      - US_分享日记_10
+      - US_分享日记_11
+      - US_分享日记_12
+      - US_分享日记_13
+      - US_分享日记_14
+      - US_分享日记_15
+      - US_分享日记_16
+      - US_分享日记_17
+      - US_分享日记_18
+      - US_分享日记_19
+      - US_分享日记_20
+      - US_分享日记_21
+      - US_分享日记_22
+      - US_分享日记_23
+      - US_分享日记_24
+      - US_分享日记_25
+      - US_分享日记_26
+      - US_分享日记_27
+      - US_分享日记_28
+      - US_分享日记_29
+      - US_分享日记_30
+      - US_分享日记_31
+      - US_分享日记_32
+      - BR_分享日记_3
+      - BR_分享日记_4
+      - US_分享日记_33
+      - US_分享日记_34
+      - US_分享日记_35
+      - BR_分享日记_5
+      - US_分享日记_36
+      - US_分享日记_37
+      - US_分享日记_38
+      - CH_分享日记_1
+      - GB_分享日记_1
+      - US_分享日记_39
+      - US_分享日记_40
+      - US_分享日记_41
+      - BR_分享日记_6
+      - GB_分享日记_2
+      - US_分享日记_42
+      - BR_分享日记_7
+      - US_分享日记_43
+      - US_分享日记_44
+      - US_分享日记_45
+      - DE_分享日记_1
+      - US_分享日记_46
+      - CH_分享日记_2
+      - US_分享日记_47
+      - US_分享日记_48
+      - US_分享日记_49
+      - US_分享日记_50
+      - DE_分享日记_2
+      - US_分享日记_51
+      - US_分享日记_52
+      - US_分享日记_53
+      - GB_分享日记_3
+      - US_分享日记_54
+      - US_分享日记_55
+      - US_分享日记_56
+      - US_分享日记_57
+      - US_分享日记_58
+      - US_分享日记_59
+      - US_分享日记_60
+      - RU_分享日记
+      - US_分享日记_61
+      - US_分享日记_62
+      - US_分享日记_63
+      - US_分享日记_64
+      - US_分享日记_65
+      - US_分享日记_66
+      - CR_分享日记_1
+      - US_分享日记_67
+      - US_分享日记_68
+      - IE_分享日记_1
+      - US_分享日记_69
+      - IE_分享日记_2
+      - US_分享日记_70
+      - US_分享日记_71
+      - BR_分享日记_8
+      - US_分享日记_72
+      - US_分享日记_73
+      - JP_分享日记
+      - CR_分享日记_2
+      - US_分享日记_74
+      - US_分享日记_75
+      - US_分享日记_76
+      - BR_分享日记_9
+      - US_分享日记_77
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -122,7 +2000,106 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 星月ˣʸ
+      - US_分享日记_1
+      - US_分享日记_2
+      - US_分享日记_3
+      - CA_分享日记
+      - US_分享日记_4
+      - BR_分享日记_1
+      - US_分享日记_5
+      - US_分享日记_6
+      - BR_分享日记_2
+      - US_分享日记_7
+      - US_分享日记_8
+      - US_分享日记_9
+      - US_分享日记_10
+      - US_分享日记_11
+      - US_分享日记_12
+      - US_分享日记_13
+      - US_分享日记_14
+      - US_分享日记_15
+      - US_分享日记_16
+      - US_分享日记_17
+      - US_分享日记_18
+      - US_分享日记_19
+      - US_分享日记_20
+      - US_分享日记_21
+      - US_分享日记_22
+      - US_分享日记_23
+      - US_分享日记_24
+      - US_分享日记_25
+      - US_分享日记_26
+      - US_分享日记_27
+      - US_分享日记_28
+      - US_分享日记_29
+      - US_分享日记_30
+      - US_分享日记_31
+      - US_分享日记_32
+      - BR_分享日记_3
+      - BR_分享日记_4
+      - US_分享日记_33
+      - US_分享日记_34
+      - US_分享日记_35
+      - BR_分享日记_5
+      - US_分享日记_36
+      - US_分享日记_37
+      - US_分享日记_38
+      - CH_分享日记_1
+      - GB_分享日记_1
+      - US_分享日记_39
+      - US_分享日记_40
+      - US_分享日记_41
+      - BR_分享日记_6
+      - GB_分享日记_2
+      - US_分享日记_42
+      - BR_分享日记_7
+      - US_分享日记_43
+      - US_分享日记_44
+      - US_分享日记_45
+      - DE_分享日记_1
+      - US_分享日记_46
+      - CH_分享日记_2
+      - US_分享日记_47
+      - US_分享日记_48
+      - US_分享日记_49
+      - US_分享日记_50
+      - DE_分享日记_2
+      - US_分享日记_51
+      - US_分享日记_52
+      - US_分享日记_53
+      - GB_分享日记_3
+      - US_分享日记_54
+      - US_分享日记_55
+      - US_分享日记_56
+      - US_分享日记_57
+      - US_分享日记_58
+      - US_分享日记_59
+      - US_分享日记_60
+      - RU_分享日记
+      - US_分享日记_61
+      - US_分享日记_62
+      - US_分享日记_63
+      - US_分享日记_64
+      - US_分享日记_65
+      - US_分享日记_66
+      - CR_分享日记_1
+      - US_分享日记_67
+      - US_分享日记_68
+      - IE_分享日记_1
+      - US_分享日记_69
+      - IE_分享日记_2
+      - US_分享日记_70
+      - US_分享日记_71
+      - BR_分享日记_8
+      - US_分享日记_72
+      - US_分享日记_73
+      - JP_分享日记
+      - CR_分享日记_2
+      - US_分享日记_74
+      - US_分享日记_75
+      - US_分享日记_76
+      - BR_分享日记_9
+      - US_分享日记_77
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
