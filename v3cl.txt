@@ -48,374 +48,121 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 🇭🇰 香港|@fxrj_TG
-    port: 42395
-    server: 36.151.192.239
+  - name: 🇸🇬新加坡-公开
+    port: 50001
+    server: gysg1.mlshu.top
+    type: hysteria2
+    udp: true
+    password: de5d32ff-ce3b-4a38-8467-3772235dbd7e
+    skip-cert-verify: true
+  - name: 🇯🇵日本-公开
+    port: 30001
+    server: gyjp1.mlshu.top
+    type: hysteria2
+    udp: true
+    password: de5d32ff-ce3b-4a38-8467-3772235dbd7e
+    skip-cert-verify: true
+  - name: 🇺🇸美国-公开1
+    port: 30001
+    server: gyus1.mlshu.top
+    type: hysteria2
+    udp: true
+    password: de5d32ff-ce3b-4a38-8467-3772235dbd7e
+    skip-cert-verify: true
+  - name: 🇺🇸美国-公开2
+    port: 30001
+    server: node18.mlshu.top
+    type: hysteria2
+    udp: true
+    password: de5d32ff-ce3b-4a38-8467-3772235dbd7e
+    skip-cert-verify: true
+  - name: 🇯🇵V1-德国-IPv6
+    port: 43842
+    server: e2e4b37d061e45b9297bfbfc32e4c2f1.v1.cac.node-is.green
     type: trojan
     network: tcp
     udp: true
-    password: DNUMdmnJ
+    sni: de1.bilibili.com
+    password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856
     skip-cert-verify: true
-  - name: 🇭🇰 香港2|@fxrj_TG
-    port: 25241
-    server: 36.151.192.203
+  - name: 🇸🇬 新加坡西部
+    port: 443
+    server: 52.74.162.69
     type: trojan
     network: tcp
     udp: true
-    password: QwwHvrnN
-    skip-cert-verify: true
-  - name: 🇭🇰 香港3|@fxrj_TG
-    port: 10002
-    server: hk02.51feitu.com
-    type: ss
-    udp: true
-    password: 718b6119-17fb-4700-a3ed-32e8417a3daa
-    cipher: chacha20-ietf-poly1305
-  - name: 🇭🇰 香港4|@fxrj_TG
-    port: 15015
-    server: 219.135.227.209
-    type: ss
-    udp: true
-    password: 9UB4OF8WZ0YXIPBD
-    cipher: aes-256-gcm
-  - name: 🇭🇰 香港5|@fxrj_TG
-    port: 15012
-    server: 219.135.227.209
-    type: ss
-    udp: true
-    password: PW5K9ORIVZQLTTCZ
-    cipher: aes-256-gcm
-  - name: 🇭🇰 香港6|@fxrj_TG
-    port: 41001
-    server: hk1.tiljkc.top
-    type: vmess
-    network: http
-    tls: true
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    cipher: auto
-    uuid: 8995f5b8-6ad5-3c29-836f-ec8baa292ba0
-    alterId: 0
-  - name: 🇭🇰 香港7|@fxrj_TG
-    port: 46602
-    server: 183.236.51.23
-    type: vmess
-    network: ""
-    tls: false
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    cipher: auto
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-    alterId: 64
-  - name: 🇹🇼 台湾|@fxrj_TG
-    port: 81
-    server: 210.61.97.241
-    type: trojan
-    network: ws
-    udp: true
-    sni: tr.koiok.us.kg
-    password: ouo
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-  - name: 🇯🇵 日本|@fxrj_TG
-    port: 31071
-    server: 36.151.192.198
-    type: trojan
-    network: tcp
-    udp: true
-    password: QwwHvrnN
-    skip-cert-verify: true
-  - name: 🇯🇵 日本2|@fxrj_TG
-    port: 53892
-    server: jp1.tiljkc.top
-    type: vmess
-    network: http
-    tls: true
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    cipher: auto
-    uuid: 8995f5b8-6ad5-3c29-836f-ec8baa292ba0
-    alterId: 0
-  - name: 🇯🇵 日本3|@fxrj_TG
-    port: 2086
-    server: cdn1.bpcdn.cc
-    type: vmess
-    network: ws
-    tls: false
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-    cipher: auto
-    uuid: b2295415-b953-4959-8be0-88b358111e95
-    alterId: 0
-  - name: 🇯🇵 日本4|@fxrj_TG
-    port: 18011
-    server: 219.135.227.209
-    type: ss
-    udp: true
-    password: 364S7BOP8HTUCLZP
-    cipher: aes-256-gcm
-  - name: 🇸🇬 新加坡|@fxrj_TG
-    port: 40000
-    server: ml01.333210.xyz
-    type: vmess
-    network: ws
-    tls: false
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    ws-opts:
-      path: /bby
-    cipher: auto
-    uuid: 13364789-a8b2-4bcd-8df7-a794fb6f87e5
-    alterId: 0
-  - name: 🇸🇬 新加坡2|@fxrj_TG
-    port: 21005
-    server: sg1.tiljkc.top
-    type: vmess
-    network: http
-    tls: true
-    udp: true
-    version: "2"
-    skip-cert-verify: true
-    cipher: auto
-    uuid: 8995f5b8-6ad5-3c29-836f-ec8baa292ba0
-    alterId: 0
-  - name: 🇸🇬 新加坡3|@fxrj_TG
-    port: 16015
-    server: 219.135.227.209
-    type: ss
-    udp: true
-    password: OWLCP6DOQ4PZ5M7G
-    cipher: aes-256-gcm
-  - name: 🇺🇸 美国|@fxrj_TG
-    port: 443
-    server: usla.mjt000.com
-    type: trojan
-    network: tcp
-    udp: true
-    sni: usla.mjt000.com
-    password: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c
-    skip-cert-verify: true
-  - name: 🇺🇸 美国2|@fxrj_TG
-    port: 14491
-    server: 65.75.193.154
-    type: trojan
-    network: ws
-    udp: true
-    sni: tr.koiok.us.kg
-    password: ouo
-    skip-cert-verify: true
-    ws-opts:
-      path: /
-  - name: 🇺🇸 美国3|@fxrj_TG
-    port: 17003
-    server: 219.135.227.209
-    type: ss
-    udp: true
-    password: TTK8DSO6MZREEJQ1
-    cipher: aes-256-gcm
-  - name: 🇰🇷 韩国特殊|@fxrj_TG
-    port: 443
-    server: 18.143.139.72
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 🇯🇵 日本特殊|@fxrj_TG
-    port: 443
-    server: 54.178.84.59
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 🇸🇬 狮城特殊|@fxrj_TG
-    port: 443
-    server: 54.151.196.32
-    type: ss
-    udp: true
-    password: amazonskr05
-    cipher: aes-256-cfb
-  - name: 🇻🇳 越南|@fxrj_TG
-    port: 443
-    server: vn.mjt000.com
-    type: trojan
-    network: tcp
-    udp: true
-    sni: vn.mjt000.com
-    password: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c
-    skip-cert-verify: true
+    sni: patient-ghost.treefrog761.one
+    password: "3648425794742788096"
+    skip-cert-verify: false
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇭🇰 香港|@fxrj_TG
-      - 🇭🇰 香港2|@fxrj_TG
-      - 🇭🇰 香港3|@fxrj_TG
-      - 🇭🇰 香港4|@fxrj_TG
-      - 🇭🇰 香港5|@fxrj_TG
-      - 🇭🇰 香港6|@fxrj_TG
-      - 🇭🇰 香港7|@fxrj_TG
-      - 🇹🇼 台湾|@fxrj_TG
-      - 🇯🇵 日本|@fxrj_TG
-      - 🇯🇵 日本2|@fxrj_TG
-      - 🇯🇵 日本3|@fxrj_TG
-      - 🇯🇵 日本4|@fxrj_TG
-      - 🇸🇬 新加坡|@fxrj_TG
-      - 🇸🇬 新加坡2|@fxrj_TG
-      - 🇸🇬 新加坡3|@fxrj_TG
-      - 🇺🇸 美国|@fxrj_TG
-      - 🇺🇸 美国2|@fxrj_TG
-      - 🇺🇸 美国3|@fxrj_TG
-      - 🇰🇷 韩国特殊|@fxrj_TG
-      - 🇯🇵 日本特殊|@fxrj_TG
-      - 🇸🇬 狮城特殊|@fxrj_TG
-      - 🇻🇳 越南|@fxrj_TG
+      - 🇸🇬新加坡-公开
+      - 🇯🇵日本-公开
+      - 🇺🇸美国-公开1
+      - 🇺🇸美国-公开2
+      - 🇯🇵V1-德国-IPv6
+      - 🇸🇬 新加坡西部
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇭🇰 香港|@fxrj_TG
-      - 🇭🇰 香港2|@fxrj_TG
-      - 🇭🇰 香港3|@fxrj_TG
-      - 🇭🇰 香港4|@fxrj_TG
-      - 🇭🇰 香港5|@fxrj_TG
-      - 🇭🇰 香港6|@fxrj_TG
-      - 🇭🇰 香港7|@fxrj_TG
-      - 🇹🇼 台湾|@fxrj_TG
-      - 🇯🇵 日本|@fxrj_TG
-      - 🇯🇵 日本2|@fxrj_TG
-      - 🇯🇵 日本3|@fxrj_TG
-      - 🇯🇵 日本4|@fxrj_TG
-      - 🇸🇬 新加坡|@fxrj_TG
-      - 🇸🇬 新加坡2|@fxrj_TG
-      - 🇸🇬 新加坡3|@fxrj_TG
-      - 🇺🇸 美国|@fxrj_TG
-      - 🇺🇸 美国2|@fxrj_TG
-      - 🇺🇸 美国3|@fxrj_TG
-      - 🇰🇷 韩国特殊|@fxrj_TG
-      - 🇯🇵 日本特殊|@fxrj_TG
-      - 🇸🇬 狮城特殊|@fxrj_TG
-      - 🇻🇳 越南|@fxrj_TG
+      - 🇸🇬新加坡-公开
+      - 🇯🇵日本-公开
+      - 🇺🇸美国-公开1
+      - 🇺🇸美国-公开2
+      - 🇯🇵V1-德国-IPv6
+      - 🇸🇬 新加坡西部
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇭🇰 香港|@fxrj_TG
-      - 🇭🇰 香港2|@fxrj_TG
-      - 🇭🇰 香港3|@fxrj_TG
-      - 🇭🇰 香港4|@fxrj_TG
-      - 🇭🇰 香港5|@fxrj_TG
-      - 🇭🇰 香港6|@fxrj_TG
-      - 🇭🇰 香港7|@fxrj_TG
-      - 🇹🇼 台湾|@fxrj_TG
-      - 🇯🇵 日本|@fxrj_TG
-      - 🇯🇵 日本2|@fxrj_TG
-      - 🇯🇵 日本3|@fxrj_TG
-      - 🇯🇵 日本4|@fxrj_TG
-      - 🇸🇬 新加坡|@fxrj_TG
-      - 🇸🇬 新加坡2|@fxrj_TG
-      - 🇸🇬 新加坡3|@fxrj_TG
-      - 🇺🇸 美国|@fxrj_TG
-      - 🇺🇸 美国2|@fxrj_TG
-      - 🇺🇸 美国3|@fxrj_TG
-      - 🇰🇷 韩国特殊|@fxrj_TG
-      - 🇯🇵 日本特殊|@fxrj_TG
-      - 🇸🇬 狮城特殊|@fxrj_TG
-      - 🇻🇳 越南|@fxrj_TG
+      - 🇸🇬新加坡-公开
+      - 🇯🇵日本-公开
+      - 🇺🇸美国-公开1
+      - 🇺🇸美国-公开2
+      - 🇯🇵V1-德国-IPv6
+      - 🇸🇬 新加坡西部
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇭🇰 香港|@fxrj_TG
-      - 🇭🇰 香港2|@fxrj_TG
-      - 🇭🇰 香港3|@fxrj_TG
-      - 🇭🇰 香港4|@fxrj_TG
-      - 🇭🇰 香港5|@fxrj_TG
-      - 🇭🇰 香港6|@fxrj_TG
-      - 🇭🇰 香港7|@fxrj_TG
-      - 🇹🇼 台湾|@fxrj_TG
-      - 🇯🇵 日本|@fxrj_TG
-      - 🇯🇵 日本2|@fxrj_TG
-      - 🇯🇵 日本3|@fxrj_TG
-      - 🇯🇵 日本4|@fxrj_TG
-      - 🇸🇬 新加坡|@fxrj_TG
-      - 🇸🇬 新加坡2|@fxrj_TG
-      - 🇸🇬 新加坡3|@fxrj_TG
-      - 🇺🇸 美国|@fxrj_TG
-      - 🇺🇸 美国2|@fxrj_TG
-      - 🇺🇸 美国3|@fxrj_TG
-      - 🇰🇷 韩国特殊|@fxrj_TG
-      - 🇯🇵 日本特殊|@fxrj_TG
-      - 🇸🇬 狮城特殊|@fxrj_TG
-      - 🇻🇳 越南|@fxrj_TG
+      - 🇸🇬新加坡-公开
+      - 🇯🇵日本-公开
+      - 🇺🇸美国-公开1
+      - 🇺🇸美国-公开2
+      - 🇯🇵V1-德国-IPv6
+      - 🇸🇬 新加坡西部
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇭🇰 香港|@fxrj_TG
-      - 🇭🇰 香港2|@fxrj_TG
-      - 🇭🇰 香港3|@fxrj_TG
-      - 🇭🇰 香港4|@fxrj_TG
-      - 🇭🇰 香港5|@fxrj_TG
-      - 🇭🇰 香港6|@fxrj_TG
-      - 🇭🇰 香港7|@fxrj_TG
-      - 🇹🇼 台湾|@fxrj_TG
-      - 🇯🇵 日本|@fxrj_TG
-      - 🇯🇵 日本2|@fxrj_TG
-      - 🇯🇵 日本3|@fxrj_TG
-      - 🇯🇵 日本4|@fxrj_TG
-      - 🇸🇬 新加坡|@fxrj_TG
-      - 🇸🇬 新加坡2|@fxrj_TG
-      - 🇸🇬 新加坡3|@fxrj_TG
-      - 🇺🇸 美国|@fxrj_TG
-      - 🇺🇸 美国2|@fxrj_TG
-      - 🇺🇸 美国3|@fxrj_TG
-      - 🇰🇷 韩国特殊|@fxrj_TG
-      - 🇯🇵 日本特殊|@fxrj_TG
-      - 🇸🇬 狮城特殊|@fxrj_TG
-      - 🇻🇳 越南|@fxrj_TG
+      - 🇸🇬新加坡-公开
+      - 🇯🇵日本-公开
+      - 🇺🇸美国-公开1
+      - 🇺🇸美国-公开2
+      - 🇯🇵V1-德国-IPv6
+      - 🇸🇬 新加坡西部
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇭🇰 香港|@fxrj_TG
-      - 🇭🇰 香港2|@fxrj_TG
-      - 🇭🇰 香港3|@fxrj_TG
-      - 🇭🇰 香港4|@fxrj_TG
-      - 🇭🇰 香港5|@fxrj_TG
-      - 🇭🇰 香港6|@fxrj_TG
-      - 🇭🇰 香港7|@fxrj_TG
-      - 🇹🇼 台湾|@fxrj_TG
-      - 🇯🇵 日本|@fxrj_TG
-      - 🇯🇵 日本2|@fxrj_TG
-      - 🇯🇵 日本3|@fxrj_TG
-      - 🇯🇵 日本4|@fxrj_TG
-      - 🇸🇬 新加坡|@fxrj_TG
-      - 🇸🇬 新加坡2|@fxrj_TG
-      - 🇸🇬 新加坡3|@fxrj_TG
-      - 🇺🇸 美国|@fxrj_TG
-      - 🇺🇸 美国2|@fxrj_TG
-      - 🇺🇸 美国3|@fxrj_TG
-      - 🇰🇷 韩国特殊|@fxrj_TG
-      - 🇯🇵 日本特殊|@fxrj_TG
-      - 🇸🇬 狮城特殊|@fxrj_TG
-      - 🇻🇳 越南|@fxrj_TG
+      - 🇸🇬新加坡-公开
+      - 🇯🇵日本-公开
+      - 🇺🇸美国-公开1
+      - 🇺🇸美国-公开2
+      - 🇯🇵V1-德国-IPv6
+      - 🇸🇬 新加坡西部
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -438,28 +185,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇭🇰 香港|@fxrj_TG
-      - 🇭🇰 香港2|@fxrj_TG
-      - 🇭🇰 香港3|@fxrj_TG
-      - 🇭🇰 香港4|@fxrj_TG
-      - 🇭🇰 香港5|@fxrj_TG
-      - 🇭🇰 香港6|@fxrj_TG
-      - 🇭🇰 香港7|@fxrj_TG
-      - 🇹🇼 台湾|@fxrj_TG
-      - 🇯🇵 日本|@fxrj_TG
-      - 🇯🇵 日本2|@fxrj_TG
-      - 🇯🇵 日本3|@fxrj_TG
-      - 🇯🇵 日本4|@fxrj_TG
-      - 🇸🇬 新加坡|@fxrj_TG
-      - 🇸🇬 新加坡2|@fxrj_TG
-      - 🇸🇬 新加坡3|@fxrj_TG
-      - 🇺🇸 美国|@fxrj_TG
-      - 🇺🇸 美国2|@fxrj_TG
-      - 🇺🇸 美国3|@fxrj_TG
-      - 🇰🇷 韩国特殊|@fxrj_TG
-      - 🇯🇵 日本特殊|@fxrj_TG
-      - 🇸🇬 狮城特殊|@fxrj_TG
-      - 🇻🇳 越南|@fxrj_TG
+      - 🇸🇬新加坡-公开
+      - 🇯🇵日本-公开
+      - 🇺🇸美国-公开1
+      - 🇺🇸美国-公开2
+      - 🇯🇵V1-德国-IPv6
+      - 🇸🇬 新加坡西部
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
