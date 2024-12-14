@@ -76,14 +76,77 @@ proxies:
     udp: true
     password: de5d32ff-ce3b-4a38-8467-3772235dbd7e
     skip-cert-verify: true
-  - name: 🇯🇵V1-德国-IPv6
-    port: 43842
-    server: e2e4b37d061e45b9297bfbfc32e4c2f1.v1.cac.node-is.green
+  - name: 基础 | 日本AWS1 | 1倍
+    port: 30800
+    server: ecu.zarelay.com
     type: trojan
     network: tcp
     udp: true
-    sni: de1.bilibili.com
-    password: aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856
+    sni: baidu.com
+    password: 53e2088f-c54b-3836-ac98-38ff26a7da4a
+    skip-cert-verify: true
+  - name: 基础 | 日本AWS2 | 1倍
+    port: 30801
+    server: ecu.zarelay.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: baidu.com
+    password: 53e2088f-c54b-3836-ac98-38ff26a7da4a
+    skip-cert-verify: true
+  - name: 基础 | 日本AWS3 | 1倍
+    port: 30802
+    server: ecu.zarelay.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: baidu.com
+    password: 53e2088f-c54b-3836-ac98-38ff26a7da4a
+    skip-cert-verify: true
+  - name: 基础 | 新加坡AWS1 | 1倍
+    port: 30810
+    server: scm.zarelayv1.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: baidu.com
+    password: 53e2088f-c54b-3836-ac98-38ff26a7da4a
+    skip-cert-verify: true
+  - name: 基础 | 新加坡AWS2 | 1倍
+    port: 30811
+    server: scm.zarelayv1.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: baidu.com
+    password: 53e2088f-c54b-3836-ac98-38ff26a7da4a
+    skip-cert-verify: true
+  - name: 基础 | 新加坡AWS3 | 1倍
+    port: 30812
+    server: scm.zarelayv1.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: baidu.com
+    password: 53e2088f-c54b-3836-ac98-38ff26a7da4a
+    skip-cert-verify: true
+  - name: 基础 | 新加坡SG1 | 2倍 流媒体
+    port: 36599
+    server: scm.zarelayv1.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: sg-misaka.zodlink.com
+    password: 53e2088f-c54b-3836-ac98-38ff26a7da4a
+    skip-cert-verify: true
+  - name: 基础 | 新加坡SG2 | 2倍 流媒体
+    port: 23584
+    server: scm.zarelayv1.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: sg-misaka2.zodlink.com
+    password: 53e2088f-c54b-3836-ac98-38ff26a7da4a
     skip-cert-verify: true
   - name: 🇸🇬 新加坡西部
     port: 443
@@ -104,7 +167,14 @@ proxy-groups:
       - 🇯🇵日本-公开
       - 🇺🇸美国-公开1
       - 🇺🇸美国-公开2
-      - 🇯🇵V1-德国-IPv6
+      - 基础 | 日本AWS1 | 1倍
+      - 基础 | 日本AWS2 | 1倍
+      - 基础 | 日本AWS3 | 1倍
+      - 基础 | 新加坡AWS1 | 1倍
+      - 基础 | 新加坡AWS2 | 1倍
+      - 基础 | 新加坡AWS3 | 1倍
+      - 基础 | 新加坡SG1 | 2倍 流媒体
+      - 基础 | 新加坡SG2 | 2倍 流媒体
       - 🇸🇬 新加坡西部
   - name: ♻️ 自动选择
     type: url-test
@@ -116,7 +186,14 @@ proxy-groups:
       - 🇯🇵日本-公开
       - 🇺🇸美国-公开1
       - 🇺🇸美国-公开2
-      - 🇯🇵V1-德国-IPv6
+      - 基础 | 日本AWS1 | 1倍
+      - 基础 | 日本AWS2 | 1倍
+      - 基础 | 日本AWS3 | 1倍
+      - 基础 | 新加坡AWS1 | 1倍
+      - 基础 | 新加坡AWS2 | 1倍
+      - 基础 | 新加坡AWS3 | 1倍
+      - 基础 | 新加坡SG1 | 2倍 流媒体
+      - 基础 | 新加坡SG2 | 2倍 流媒体
       - 🇸🇬 新加坡西部
   - name: 🌍 国外媒体
     type: select
@@ -128,7 +205,14 @@ proxy-groups:
       - 🇯🇵日本-公开
       - 🇺🇸美国-公开1
       - 🇺🇸美国-公开2
-      - 🇯🇵V1-德国-IPv6
+      - 基础 | 日本AWS1 | 1倍
+      - 基础 | 日本AWS2 | 1倍
+      - 基础 | 日本AWS3 | 1倍
+      - 基础 | 新加坡AWS1 | 1倍
+      - 基础 | 新加坡AWS2 | 1倍
+      - 基础 | 新加坡AWS3 | 1倍
+      - 基础 | 新加坡SG1 | 2倍 流媒体
+      - 基础 | 新加坡SG2 | 2倍 流媒体
       - 🇸🇬 新加坡西部
   - name: 📲 电报信息
     type: select
@@ -139,7 +223,14 @@ proxy-groups:
       - 🇯🇵日本-公开
       - 🇺🇸美国-公开1
       - 🇺🇸美国-公开2
-      - 🇯🇵V1-德国-IPv6
+      - 基础 | 日本AWS1 | 1倍
+      - 基础 | 日本AWS2 | 1倍
+      - 基础 | 日本AWS3 | 1倍
+      - 基础 | 新加坡AWS1 | 1倍
+      - 基础 | 新加坡AWS2 | 1倍
+      - 基础 | 新加坡AWS3 | 1倍
+      - 基础 | 新加坡SG1 | 2倍 流媒体
+      - 基础 | 新加坡SG2 | 2倍 流媒体
       - 🇸🇬 新加坡西部
   - name: Ⓜ️ 微软服务
     type: select
@@ -150,7 +241,14 @@ proxy-groups:
       - 🇯🇵日本-公开
       - 🇺🇸美国-公开1
       - 🇺🇸美国-公开2
-      - 🇯🇵V1-德国-IPv6
+      - 基础 | 日本AWS1 | 1倍
+      - 基础 | 日本AWS2 | 1倍
+      - 基础 | 日本AWS3 | 1倍
+      - 基础 | 新加坡AWS1 | 1倍
+      - 基础 | 新加坡AWS2 | 1倍
+      - 基础 | 新加坡AWS3 | 1倍
+      - 基础 | 新加坡SG1 | 2倍 流媒体
+      - 基础 | 新加坡SG2 | 2倍 流媒体
       - 🇸🇬 新加坡西部
   - name: 🍎 苹果服务
     type: select
@@ -161,7 +259,14 @@ proxy-groups:
       - 🇯🇵日本-公开
       - 🇺🇸美国-公开1
       - 🇺🇸美国-公开2
-      - 🇯🇵V1-德国-IPv6
+      - 基础 | 日本AWS1 | 1倍
+      - 基础 | 日本AWS2 | 1倍
+      - 基础 | 日本AWS3 | 1倍
+      - 基础 | 新加坡AWS1 | 1倍
+      - 基础 | 新加坡AWS2 | 1倍
+      - 基础 | 新加坡AWS3 | 1倍
+      - 基础 | 新加坡SG1 | 2倍 流媒体
+      - 基础 | 新加坡SG2 | 2倍 流媒体
       - 🇸🇬 新加坡西部
   - name: 🎯 全球直连
     type: select
@@ -189,7 +294,14 @@ proxy-groups:
       - 🇯🇵日本-公开
       - 🇺🇸美国-公开1
       - 🇺🇸美国-公开2
-      - 🇯🇵V1-德国-IPv6
+      - 基础 | 日本AWS1 | 1倍
+      - 基础 | 日本AWS2 | 1倍
+      - 基础 | 日本AWS3 | 1倍
+      - 基础 | 新加坡AWS1 | 1倍
+      - 基础 | 新加坡AWS2 | 1倍
+      - 基础 | 新加坡AWS3 | 1倍
+      - 基础 | 新加坡SG1 | 2倍 流媒体
+      - 基础 | 新加坡SG2 | 2倍 流媒体
       - 🇸🇬 新加坡西部
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
