@@ -48,403 +48,374 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 本订阅由日月提供
-    port: 53066
-    server: gonggao01.loveroise.com
+  - name: 🇭🇰 香港|@fxrj_TG
+    port: 42395
+    server: 36.151.192.239
+    type: trojan
+    network: tcp
+    udp: true
+    password: DNUMdmnJ
+    skip-cert-verify: true
+  - name: 🇭🇰 香港2|@fxrj_TG
+    port: 25241
+    server: 36.151.192.203
+    type: trojan
+    network: tcp
+    udp: true
+    password: QwwHvrnN
+    skip-cert-verify: true
+  - name: 🇭🇰 香港3|@fxrj_TG
+    port: 10002
+    server: hk02.51feitu.com
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
+    password: 718b6119-17fb-4700-a3ed-32e8417a3daa
     cipher: chacha20-ietf-poly1305
-  - name: 关注频道获取更多资源
-    port: 53068
-    server: gonggao02.loveroise.com
+  - name: 🇭🇰 香港4|@fxrj_TG
+    port: 15015
+    server: 219.135.227.209
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 感谢您的关注
-    port: 53072
-    server: gonggao04.loveroise.com
+    password: 9UB4OF8WZ0YXIPBD
+    cipher: aes-256-gcm
+  - name: 🇭🇰 香港5|@fxrj_TG
+    port: 15012
+    server: 219.135.227.209
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 频道@fxrj_TG
-    port: 53070
-    server: gonggao03.loveroise.com
+    password: PW5K9ORIVZQLTTCZ
+    cipher: aes-256-gcm
+  - name: 🇭🇰 香港6|@fxrj_TG
+    port: 41001
+    server: hk1.tiljkc.top
+    type: vmess
+    network: http
+    tls: true
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 8995f5b8-6ad5-3c29-836f-ec8baa292ba0
+    alterId: 0
+  - name: 🇭🇰 香港7|@fxrj_TG
+    port: 46602
+    server: 183.236.51.23
+    type: vmess
+    network: ""
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+  - name: 🇹🇼 台湾|@fxrj_TG
+    port: 81
+    server: 210.61.97.241
+    type: trojan
+    network: ws
+    udp: true
+    sni: tr.koiok.us.kg
+    password: ouo
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+  - name: 🇯🇵 日本|@fxrj_TG
+    port: 31071
+    server: 36.151.192.198
+    type: trojan
+    network: tcp
+    udp: true
+    password: QwwHvrnN
+    skip-cert-verify: true
+  - name: 🇯🇵 日本2|@fxrj_TG
+    port: 53892
+    server: jp1.tiljkc.top
+    type: vmess
+    network: http
+    tls: true
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 8995f5b8-6ad5-3c29-836f-ec8baa292ba0
+    alterId: 0
+  - name: 🇯🇵 日本3|@fxrj_TG
+    port: 2086
+    server: cdn1.bpcdn.cc
+    type: vmess
+    network: ws
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+    cipher: auto
+    uuid: b2295415-b953-4959-8be0-88b358111e95
+    alterId: 0
+  - name: 🇯🇵 日本4|@fxrj_TG
+    port: 18011
+    server: 219.135.227.209
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇭🇰 香港 ¹
-    port: 54000
-    server: h-k01.loveroise.com
+    password: 364S7BOP8HTUCLZP
+    cipher: aes-256-gcm
+  - name: 🇸🇬 新加坡|@fxrj_TG
+    port: 40000
+    server: ml01.333210.xyz
+    type: vmess
+    network: ws
+    tls: false
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    ws-opts:
+      path: /bby
+    cipher: auto
+    uuid: 13364789-a8b2-4bcd-8df7-a794fb6f87e5
+    alterId: 0
+  - name: 🇸🇬 新加坡2|@fxrj_TG
+    port: 21005
+    server: sg1.tiljkc.top
+    type: vmess
+    network: http
+    tls: true
+    udp: true
+    version: "2"
+    skip-cert-verify: true
+    cipher: auto
+    uuid: 8995f5b8-6ad5-3c29-836f-ec8baa292ba0
+    alterId: 0
+  - name: 🇸🇬 新加坡3|@fxrj_TG
+    port: 16015
+    server: 219.135.227.209
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇭🇰 香港 ²
-    port: 54002
-    server: h-k02.loveroise.com
+    password: OWLCP6DOQ4PZ5M7G
+    cipher: aes-256-gcm
+  - name: 🇺🇸 美国|@fxrj_TG
+    port: 443
+    server: usla.mjt000.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: usla.mjt000.com
+    password: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c
+    skip-cert-verify: true
+  - name: 🇺🇸 美国2|@fxrj_TG
+    port: 14491
+    server: 65.75.193.154
+    type: trojan
+    network: ws
+    udp: true
+    sni: tr.koiok.us.kg
+    password: ouo
+    skip-cert-verify: true
+    ws-opts:
+      path: /
+  - name: 🇺🇸 美国3|@fxrj_TG
+    port: 17003
+    server: 219.135.227.209
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇭🇰 香港 ³
-    port: 54004
-    server: h-k03.loveroise.com
+    password: TTK8DSO6MZREEJQ1
+    cipher: aes-256-gcm
+  - name: 🇰🇷 韩国特殊|@fxrj_TG
+    port: 443
+    server: 18.143.139.72
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇭🇰 香港 ⁴
-    port: 54006
-    server: h-k04.loveroise.com
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: 🇯🇵 日本特殊|@fxrj_TG
+    port: 443
+    server: 54.178.84.59
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇼🇸 台湾 ¹
-    port: 54032
-    server: t-wn01.loveroise.com
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: 🇸🇬 狮城特殊|@fxrj_TG
+    port: 443
+    server: 54.151.196.32
     type: ss
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇼🇸 台湾 ²
-    port: 54034
-    server: t-wn02.loveroise.com
-    type: ss
+    password: amazonskr05
+    cipher: aes-256-cfb
+  - name: 🇻🇳 越南|@fxrj_TG
+    port: 443
+    server: vn.mjt000.com
+    type: trojan
+    network: tcp
     udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇼🇸 台湾 ³
-    port: 54036
-    server: t-wn03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇼🇸 台湾 ⁴
-    port: 54038
-    server: t-wn04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇯🇵 日本 ¹
-    port: 54096
-    server: j-p01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇯🇵 日本 ²
-    port: 54098
-    server: j-p02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇯🇵 日本 ³
-    port: 54100
-    server: j-p03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇯🇵 日本 ⁴
-    port: 54102
-    server: j-p04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇰🇷 韩国 ¹
-    port: 54008
-    server: k-r01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇰🇷 韩国 ²
-    port: 54010
-    server: k-r02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇰🇷 韩国 ³
-    port: 54012
-    server: k-r03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇰🇷 韩国 ⁴
-    port: 54014
-    server: k-r04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇸🇬 新加坡 ¹
-    port: 54024
-    server: s-g01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇸🇬 新加坡 ²
-    port: 54026
-    server: s-g02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇸🇬 新加坡 ³
-    port: 54028
-    server: s-g03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇸🇬 新加坡 ⁴
-    port: 54030
-    server: s-g04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇺🇸 美国 ¹
-    port: 54016
-    server: u-s01.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇺🇸 美国 ²
-    port: 54018
-    server: u-s02.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇺🇸 美国 ³
-    port: 54020
-    server: u-s03.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
-  - name: 🇺🇸 美国 ⁴
-    port: 54022
-    server: u-s04.loveroise.com
-    type: ss
-    udp: true
-    password: 09833a6f-4d46-426e-87fe-7793a5489f84
-    cipher: chacha20-ietf-poly1305
+    sni: vn.mjt000.com
+    password: 1ba48a0e-af2e-45fb-9e15-2b2d4134657c
+    skip-cert-verify: true
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 本订阅由日月提供
-      - 关注频道获取更多资源
-      - 感谢您的关注
-      - 频道@fxrj_TG
-      - 🇭🇰 香港 ¹
-      - 🇭🇰 香港 ²
-      - 🇭🇰 香港 ³
-      - 🇭🇰 香港 ⁴
-      - 🇼🇸 台湾 ¹
-      - 🇼🇸 台湾 ²
-      - 🇼🇸 台湾 ³
-      - 🇼🇸 台湾 ⁴
-      - 🇯🇵 日本 ¹
-      - 🇯🇵 日本 ²
-      - 🇯🇵 日本 ³
-      - 🇯🇵 日本 ⁴
-      - 🇰🇷 韩国 ¹
-      - 🇰🇷 韩国 ²
-      - 🇰🇷 韩国 ³
-      - 🇰🇷 韩国 ⁴
-      - 🇸🇬 新加坡 ¹
-      - 🇸🇬 新加坡 ²
-      - 🇸🇬 新加坡 ³
-      - 🇸🇬 新加坡 ⁴
-      - 🇺🇸 美国 ¹
-      - 🇺🇸 美国 ²
-      - 🇺🇸 美国 ³
-      - 🇺🇸 美国 ⁴
+      - 🇭🇰 香港|@fxrj_TG
+      - 🇭🇰 香港2|@fxrj_TG
+      - 🇭🇰 香港3|@fxrj_TG
+      - 🇭🇰 香港4|@fxrj_TG
+      - 🇭🇰 香港5|@fxrj_TG
+      - 🇭🇰 香港6|@fxrj_TG
+      - 🇭🇰 香港7|@fxrj_TG
+      - 🇹🇼 台湾|@fxrj_TG
+      - 🇯🇵 日本|@fxrj_TG
+      - 🇯🇵 日本2|@fxrj_TG
+      - 🇯🇵 日本3|@fxrj_TG
+      - 🇯🇵 日本4|@fxrj_TG
+      - 🇸🇬 新加坡|@fxrj_TG
+      - 🇸🇬 新加坡2|@fxrj_TG
+      - 🇸🇬 新加坡3|@fxrj_TG
+      - 🇺🇸 美国|@fxrj_TG
+      - 🇺🇸 美国2|@fxrj_TG
+      - 🇺🇸 美国3|@fxrj_TG
+      - 🇰🇷 韩国特殊|@fxrj_TG
+      - 🇯🇵 日本特殊|@fxrj_TG
+      - 🇸🇬 狮城特殊|@fxrj_TG
+      - 🇻🇳 越南|@fxrj_TG
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 本订阅由日月提供
-      - 关注频道获取更多资源
-      - 感谢您的关注
-      - 频道@fxrj_TG
-      - 🇭🇰 香港 ¹
-      - 🇭🇰 香港 ²
-      - 🇭🇰 香港 ³
-      - 🇭🇰 香港 ⁴
-      - 🇼🇸 台湾 ¹
-      - 🇼🇸 台湾 ²
-      - 🇼🇸 台湾 ³
-      - 🇼🇸 台湾 ⁴
-      - 🇯🇵 日本 ¹
-      - 🇯🇵 日本 ²
-      - 🇯🇵 日本 ³
-      - 🇯🇵 日本 ⁴
-      - 🇰🇷 韩国 ¹
-      - 🇰🇷 韩国 ²
-      - 🇰🇷 韩国 ³
-      - 🇰🇷 韩国 ⁴
-      - 🇸🇬 新加坡 ¹
-      - 🇸🇬 新加坡 ²
-      - 🇸🇬 新加坡 ³
-      - 🇸🇬 新加坡 ⁴
-      - 🇺🇸 美国 ¹
-      - 🇺🇸 美国 ²
-      - 🇺🇸 美国 ³
-      - 🇺🇸 美国 ⁴
+      - 🇭🇰 香港|@fxrj_TG
+      - 🇭🇰 香港2|@fxrj_TG
+      - 🇭🇰 香港3|@fxrj_TG
+      - 🇭🇰 香港4|@fxrj_TG
+      - 🇭🇰 香港5|@fxrj_TG
+      - 🇭🇰 香港6|@fxrj_TG
+      - 🇭🇰 香港7|@fxrj_TG
+      - 🇹🇼 台湾|@fxrj_TG
+      - 🇯🇵 日本|@fxrj_TG
+      - 🇯🇵 日本2|@fxrj_TG
+      - 🇯🇵 日本3|@fxrj_TG
+      - 🇯🇵 日本4|@fxrj_TG
+      - 🇸🇬 新加坡|@fxrj_TG
+      - 🇸🇬 新加坡2|@fxrj_TG
+      - 🇸🇬 新加坡3|@fxrj_TG
+      - 🇺🇸 美国|@fxrj_TG
+      - 🇺🇸 美国2|@fxrj_TG
+      - 🇺🇸 美国3|@fxrj_TG
+      - 🇰🇷 韩国特殊|@fxrj_TG
+      - 🇯🇵 日本特殊|@fxrj_TG
+      - 🇸🇬 狮城特殊|@fxrj_TG
+      - 🇻🇳 越南|@fxrj_TG
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 本订阅由日月提供
-      - 关注频道获取更多资源
-      - 感谢您的关注
-      - 频道@fxrj_TG
-      - 🇭🇰 香港 ¹
-      - 🇭🇰 香港 ²
-      - 🇭🇰 香港 ³
-      - 🇭🇰 香港 ⁴
-      - 🇼🇸 台湾 ¹
-      - 🇼🇸 台湾 ²
-      - 🇼🇸 台湾 ³
-      - 🇼🇸 台湾 ⁴
-      - 🇯🇵 日本 ¹
-      - 🇯🇵 日本 ²
-      - 🇯🇵 日本 ³
-      - 🇯🇵 日本 ⁴
-      - 🇰🇷 韩国 ¹
-      - 🇰🇷 韩国 ²
-      - 🇰🇷 韩国 ³
-      - 🇰🇷 韩国 ⁴
-      - 🇸🇬 新加坡 ¹
-      - 🇸🇬 新加坡 ²
-      - 🇸🇬 新加坡 ³
-      - 🇸🇬 新加坡 ⁴
-      - 🇺🇸 美国 ¹
-      - 🇺🇸 美国 ²
-      - 🇺🇸 美国 ³
-      - 🇺🇸 美国 ⁴
+      - 🇭🇰 香港|@fxrj_TG
+      - 🇭🇰 香港2|@fxrj_TG
+      - 🇭🇰 香港3|@fxrj_TG
+      - 🇭🇰 香港4|@fxrj_TG
+      - 🇭🇰 香港5|@fxrj_TG
+      - 🇭🇰 香港6|@fxrj_TG
+      - 🇭🇰 香港7|@fxrj_TG
+      - 🇹🇼 台湾|@fxrj_TG
+      - 🇯🇵 日本|@fxrj_TG
+      - 🇯🇵 日本2|@fxrj_TG
+      - 🇯🇵 日本3|@fxrj_TG
+      - 🇯🇵 日本4|@fxrj_TG
+      - 🇸🇬 新加坡|@fxrj_TG
+      - 🇸🇬 新加坡2|@fxrj_TG
+      - 🇸🇬 新加坡3|@fxrj_TG
+      - 🇺🇸 美国|@fxrj_TG
+      - 🇺🇸 美国2|@fxrj_TG
+      - 🇺🇸 美国3|@fxrj_TG
+      - 🇰🇷 韩国特殊|@fxrj_TG
+      - 🇯🇵 日本特殊|@fxrj_TG
+      - 🇸🇬 狮城特殊|@fxrj_TG
+      - 🇻🇳 越南|@fxrj_TG
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 本订阅由日月提供
-      - 关注频道获取更多资源
-      - 感谢您的关注
-      - 频道@fxrj_TG
-      - 🇭🇰 香港 ¹
-      - 🇭🇰 香港 ²
-      - 🇭🇰 香港 ³
-      - 🇭🇰 香港 ⁴
-      - 🇼🇸 台湾 ¹
-      - 🇼🇸 台湾 ²
-      - 🇼🇸 台湾 ³
-      - 🇼🇸 台湾 ⁴
-      - 🇯🇵 日本 ¹
-      - 🇯🇵 日本 ²
-      - 🇯🇵 日本 ³
-      - 🇯🇵 日本 ⁴
-      - 🇰🇷 韩国 ¹
-      - 🇰🇷 韩国 ²
-      - 🇰🇷 韩国 ³
-      - 🇰🇷 韩国 ⁴
-      - 🇸🇬 新加坡 ¹
-      - 🇸🇬 新加坡 ²
-      - 🇸🇬 新加坡 ³
-      - 🇸🇬 新加坡 ⁴
-      - 🇺🇸 美国 ¹
-      - 🇺🇸 美国 ²
-      - 🇺🇸 美国 ³
-      - 🇺🇸 美国 ⁴
+      - 🇭🇰 香港|@fxrj_TG
+      - 🇭🇰 香港2|@fxrj_TG
+      - 🇭🇰 香港3|@fxrj_TG
+      - 🇭🇰 香港4|@fxrj_TG
+      - 🇭🇰 香港5|@fxrj_TG
+      - 🇭🇰 香港6|@fxrj_TG
+      - 🇭🇰 香港7|@fxrj_TG
+      - 🇹🇼 台湾|@fxrj_TG
+      - 🇯🇵 日本|@fxrj_TG
+      - 🇯🇵 日本2|@fxrj_TG
+      - 🇯🇵 日本3|@fxrj_TG
+      - 🇯🇵 日本4|@fxrj_TG
+      - 🇸🇬 新加坡|@fxrj_TG
+      - 🇸🇬 新加坡2|@fxrj_TG
+      - 🇸🇬 新加坡3|@fxrj_TG
+      - 🇺🇸 美国|@fxrj_TG
+      - 🇺🇸 美国2|@fxrj_TG
+      - 🇺🇸 美国3|@fxrj_TG
+      - 🇰🇷 韩国特殊|@fxrj_TG
+      - 🇯🇵 日本特殊|@fxrj_TG
+      - 🇸🇬 狮城特殊|@fxrj_TG
+      - 🇻🇳 越南|@fxrj_TG
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 本订阅由日月提供
-      - 关注频道获取更多资源
-      - 感谢您的关注
-      - 频道@fxrj_TG
-      - 🇭🇰 香港 ¹
-      - 🇭🇰 香港 ²
-      - 🇭🇰 香港 ³
-      - 🇭🇰 香港 ⁴
-      - 🇼🇸 台湾 ¹
-      - 🇼🇸 台湾 ²
-      - 🇼🇸 台湾 ³
-      - 🇼🇸 台湾 ⁴
-      - 🇯🇵 日本 ¹
-      - 🇯🇵 日本 ²
-      - 🇯🇵 日本 ³
-      - 🇯🇵 日本 ⁴
-      - 🇰🇷 韩国 ¹
-      - 🇰🇷 韩国 ²
-      - 🇰🇷 韩国 ³
-      - 🇰🇷 韩国 ⁴
-      - 🇸🇬 新加坡 ¹
-      - 🇸🇬 新加坡 ²
-      - 🇸🇬 新加坡 ³
-      - 🇸🇬 新加坡 ⁴
-      - 🇺🇸 美国 ¹
-      - 🇺🇸 美国 ²
-      - 🇺🇸 美国 ³
-      - 🇺🇸 美国 ⁴
+      - 🇭🇰 香港|@fxrj_TG
+      - 🇭🇰 香港2|@fxrj_TG
+      - 🇭🇰 香港3|@fxrj_TG
+      - 🇭🇰 香港4|@fxrj_TG
+      - 🇭🇰 香港5|@fxrj_TG
+      - 🇭🇰 香港6|@fxrj_TG
+      - 🇭🇰 香港7|@fxrj_TG
+      - 🇹🇼 台湾|@fxrj_TG
+      - 🇯🇵 日本|@fxrj_TG
+      - 🇯🇵 日本2|@fxrj_TG
+      - 🇯🇵 日本3|@fxrj_TG
+      - 🇯🇵 日本4|@fxrj_TG
+      - 🇸🇬 新加坡|@fxrj_TG
+      - 🇸🇬 新加坡2|@fxrj_TG
+      - 🇸🇬 新加坡3|@fxrj_TG
+      - 🇺🇸 美国|@fxrj_TG
+      - 🇺🇸 美国2|@fxrj_TG
+      - 🇺🇸 美国3|@fxrj_TG
+      - 🇰🇷 韩国特殊|@fxrj_TG
+      - 🇯🇵 日本特殊|@fxrj_TG
+      - 🇸🇬 狮城特殊|@fxrj_TG
+      - 🇻🇳 越南|@fxrj_TG
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 本订阅由日月提供
-      - 关注频道获取更多资源
-      - 感谢您的关注
-      - 频道@fxrj_TG
-      - 🇭🇰 香港 ¹
-      - 🇭🇰 香港 ²
-      - 🇭🇰 香港 ³
-      - 🇭🇰 香港 ⁴
-      - 🇼🇸 台湾 ¹
-      - 🇼🇸 台湾 ²
-      - 🇼🇸 台湾 ³
-      - 🇼🇸 台湾 ⁴
-      - 🇯🇵 日本 ¹
-      - 🇯🇵 日本 ²
-      - 🇯🇵 日本 ³
-      - 🇯🇵 日本 ⁴
-      - 🇰🇷 韩国 ¹
-      - 🇰🇷 韩国 ²
-      - 🇰🇷 韩国 ³
-      - 🇰🇷 韩国 ⁴
-      - 🇸🇬 新加坡 ¹
-      - 🇸🇬 新加坡 ²
-      - 🇸🇬 新加坡 ³
-      - 🇸🇬 新加坡 ⁴
-      - 🇺🇸 美国 ¹
-      - 🇺🇸 美国 ²
-      - 🇺🇸 美国 ³
-      - 🇺🇸 美国 ⁴
+      - 🇭🇰 香港|@fxrj_TG
+      - 🇭🇰 香港2|@fxrj_TG
+      - 🇭🇰 香港3|@fxrj_TG
+      - 🇭🇰 香港4|@fxrj_TG
+      - 🇭🇰 香港5|@fxrj_TG
+      - 🇭🇰 香港6|@fxrj_TG
+      - 🇭🇰 香港7|@fxrj_TG
+      - 🇹🇼 台湾|@fxrj_TG
+      - 🇯🇵 日本|@fxrj_TG
+      - 🇯🇵 日本2|@fxrj_TG
+      - 🇯🇵 日本3|@fxrj_TG
+      - 🇯🇵 日本4|@fxrj_TG
+      - 🇸🇬 新加坡|@fxrj_TG
+      - 🇸🇬 新加坡2|@fxrj_TG
+      - 🇸🇬 新加坡3|@fxrj_TG
+      - 🇺🇸 美国|@fxrj_TG
+      - 🇺🇸 美国2|@fxrj_TG
+      - 🇺🇸 美国3|@fxrj_TG
+      - 🇰🇷 韩国特殊|@fxrj_TG
+      - 🇯🇵 日本特殊|@fxrj_TG
+      - 🇸🇬 狮城特殊|@fxrj_TG
+      - 🇻🇳 越南|@fxrj_TG
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -467,34 +438,28 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 本订阅由日月提供
-      - 关注频道获取更多资源
-      - 感谢您的关注
-      - 频道@fxrj_TG
-      - 🇭🇰 香港 ¹
-      - 🇭🇰 香港 ²
-      - 🇭🇰 香港 ³
-      - 🇭🇰 香港 ⁴
-      - 🇼🇸 台湾 ¹
-      - 🇼🇸 台湾 ²
-      - 🇼🇸 台湾 ³
-      - 🇼🇸 台湾 ⁴
-      - 🇯🇵 日本 ¹
-      - 🇯🇵 日本 ²
-      - 🇯🇵 日本 ³
-      - 🇯🇵 日本 ⁴
-      - 🇰🇷 韩国 ¹
-      - 🇰🇷 韩国 ²
-      - 🇰🇷 韩国 ³
-      - 🇰🇷 韩国 ⁴
-      - 🇸🇬 新加坡 ¹
-      - 🇸🇬 新加坡 ²
-      - 🇸🇬 新加坡 ³
-      - 🇸🇬 新加坡 ⁴
-      - 🇺🇸 美国 ¹
-      - 🇺🇸 美国 ²
-      - 🇺🇸 美国 ³
-      - 🇺🇸 美国 ⁴
+      - 🇭🇰 香港|@fxrj_TG
+      - 🇭🇰 香港2|@fxrj_TG
+      - 🇭🇰 香港3|@fxrj_TG
+      - 🇭🇰 香港4|@fxrj_TG
+      - 🇭🇰 香港5|@fxrj_TG
+      - 🇭🇰 香港6|@fxrj_TG
+      - 🇭🇰 香港7|@fxrj_TG
+      - 🇹🇼 台湾|@fxrj_TG
+      - 🇯🇵 日本|@fxrj_TG
+      - 🇯🇵 日本2|@fxrj_TG
+      - 🇯🇵 日本3|@fxrj_TG
+      - 🇯🇵 日本4|@fxrj_TG
+      - 🇸🇬 新加坡|@fxrj_TG
+      - 🇸🇬 新加坡2|@fxrj_TG
+      - 🇸🇬 新加坡3|@fxrj_TG
+      - 🇺🇸 美国|@fxrj_TG
+      - 🇺🇸 美国2|@fxrj_TG
+      - 🇺🇸 美国3|@fxrj_TG
+      - 🇰🇷 韩国特殊|@fxrj_TG
+      - 🇯🇵 日本特殊|@fxrj_TG
+      - 🇸🇬 狮城特殊|@fxrj_TG
+      - 🇻🇳 越南|@fxrj_TG
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
