@@ -48,33 +48,643 @@ tun:
     - 1.1.1.1
     - 1.0.0.1
 proxies:
-  - name: 🇸🇬新加坡-公开
-    port: 50001
-    server: gysg1.mlshu.top
-    type: hysteria2
+  - name: defaultName
+    port: 31878
+    server: 183.236.48.143
+    type: vmess
+    network: tcp
+    tls: false
     udp: true
-    password: de5d32ff-ce3b-4a38-8467-3772235dbd7e
+    version: "2"
+    servername: ""
     skip-cert-verify: true
-  - name: 🇯🇵日本-公开
-    port: 30001
-    server: gyjp1.mlshu.top
-    type: hysteria2
+    cipher: auto
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+  - name: 🇭🇰 上港美1.5relay
+    port: 11744
+    server: tunnel-08301515.520300.xyz
+    type: ss
     udp: true
-    password: de5d32ff-ce3b-4a38-8467-3772235dbd7e
-    skip-cert-verify: true
-  - name: 🇺🇸美国-公开1
-    port: 30001
-    server: gyus1.mlshu.top
-    type: hysteria2
+    password: A9J2D4zi9RxqSdxuQ1YsTtrABO2JXBcDIPLV3SduacDR
+    cipher: aes-128-gcm
+  - name: 🇭🇰 上港relay
+    port: 16757
+    server: tunnel-08301515.520300.xyz
+    type: ss
     udp: true
-    password: de5d32ff-ce3b-4a38-8467-3772235dbd7e
-    skip-cert-verify: true
+    password: qspvBDyBY0XVx7Rp3kEXne6kAzSMtQOQlYwk6xxJq3jY
+    cipher: aes-128-gcm
   - name: 🇺🇸美国-公开2
     port: 30001
     server: node18.mlshu.top
     type: hysteria2
     udp: true
     password: de5d32ff-ce3b-4a38-8467-3772235dbd7e
+    skip-cert-verify: true
+  - name: 🇸🇬 新加坡西部
+    port: 443
+    server: 52.74.162.69
+    type: trojan
+    network: tcp
+    udp: true
+    sni: patient-ghost.treefrog761.one
+    password: "3648425794742788096"
+    skip-cert-verify: false
+  - name: 🇭🇰 香港1
+    port: 47119
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mm1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇭🇰 香港2
+    port: 47119
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mm1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇭🇰 香港3
+    port: 47119
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mm1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇨🇳 台湾1
+    port: 18147
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mm2.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇨🇳 台湾2
+    port: 18147
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mm2.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇨🇳 台湾3
+    port: 18147
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mm2.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇸🇬 新加坡1
+    port: 55357
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇸🇬 新加坡2
+    port: 55357
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇸🇬 新加坡3
+    port: 55357
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇯🇵 日本1
+    port: 28721
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇯🇵 日本2
+    port: 28721
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇯🇵 日本3
+    port: 28721
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇺🇸 美国1
+    port: 59861
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇺🇸 美国2
+    port: 59861
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇺🇸 美国3
+    port: 59861
+    server: nb_ae7a7.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇮🇳 印度-孟买
+    port: 20780
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz13.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇩🇪 德国
+    port: 21463
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz12.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇫🇷 法国
+    port: 52508
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz12.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇬🇧 英国
+    port: 59358
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz11.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇳🇱 荷兰
+    port: 23852
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz13.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇮🇹 意大利
+    port: 35989
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz12.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇮🇳 印度-西部
+    port: 33243
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz13.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇨🇱 智利
+    port: 44134
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz10.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇧🇷 巴西
+    port: 28499
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz10.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇪🇸 西班牙
+    port: 34249
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz12.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇨🇭 瑞士
+    port: 50140
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz11.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇸🇪 瑞典
+    port: 59225
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz12.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇲🇽 墨西哥
+    port: 14571
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz13.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇨🇦 加拿大
+    port: 50121
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz13.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇦🇺 澳大利亚
+    port: 58757
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz14.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇦🇪 迪拜
+    port: 47621
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz10.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇿🇦 南非
+    port: 53759
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz11.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇸🇦 沙特阿拉伯
+    port: 56072
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz11.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇨🇴 哥伦比亚
+    port: 25118
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz10.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇮🇱 以色列
+    port: 44650
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz11.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇻🇳 越南
+    port: 11306
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz14.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇷🇺 莫斯科
+    port: 16783
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz15.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇳🇬 尼日利亚
+    port: 34183
+    server: lm.kaiqsz.com
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz16.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇭🇰香港 IPV6
+    port: 47119
+    server: ipv6.hongxingdl.vip
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mm1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇨🇳 台湾 IPV6
+    port: 18147
+    server: ipv6.hongxingdl.vip
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mm2.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇸🇬 新加坡 IPV6
+    port: 55357
+    server: ipv6.hongxingdl.vip
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇯🇵 日本 IPV6
+    port: 28721
+    server: ipv6.hongxingdl.vip
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz1.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: 🇺🇸 美国 IPV6
+    port: 59861
+    server: ipv6.hongxingdl.vip
+    type: trojan
+    network: tcp
+    udp: true
+    sni: mmbiz.redapricotcloud.com
+    password: 89366c7f-20dc-41ab-92b1-d4f769251e73
+    skip-cert-verify: true
+  - name: "19202"
+    port: 19202
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19204"
+    port: 19204
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19213"
+    port: 19213
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19214"
+    port: 19214
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19215"
+    port: 19215
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19216"
+    port: 19216
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19221"
+    port: 19221
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19222"
+    port: 19222
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19223"
+    port: 19223
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19224"
+    port: 19224
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19225"
+    port: 19225
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19226"
+    port: 19226
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19231"
+    port: 19231
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19232"
+    port: 19232
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19233"
+    port: 19233
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19234"
+    port: 19234
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19235"
+    port: 19235
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19236"
+    port: 19236
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19237"
+    port: 19237
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19238"
+    port: 19238
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19242"
+    port: 19242
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19243"
+    port: 19243
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19244"
+    port: 19244
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19249"
+    port: 19249
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19252"
+    port: 19252
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
+    skip-cert-verify: true
+  - name: "19253"
+    port: 19253
+    server: 122.188.71.132
+    type: trojan
+    network: tcp
+    udp: true
+    password: 165ebad5-2f9b-307d-b7e4-2b2ee84a4530
     skip-cert-verify: true
   - name: 基础 | 日本AWS1 | 1倍
     port: 30800
@@ -148,25 +758,86 @@ proxies:
     sni: sg-misaka2.zodlink.com
     password: 53e2088f-c54b-3836-ac98-38ff26a7da4a
     skip-cert-verify: true
-  - name: 🇸🇬 新加坡西部
-    port: 443
-    server: 52.74.162.69
-    type: trojan
-    network: tcp
-    udp: true
-    sni: patient-ghost.treefrog761.one
-    password: "3648425794742788096"
-    skip-cert-verify: false
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇸🇬新加坡-公开
-      - 🇯🇵日本-公开
-      - 🇺🇸美国-公开1
+      - defaultName
+      - 🇭🇰 上港美1.5relay
+      - 🇭🇰 上港relay
       - 🇺🇸美国-公开2
+      - 🇸🇬 新加坡西部
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港3
+      - 🇨🇳 台湾1
+      - 🇨🇳 台湾2
+      - 🇨🇳 台湾3
+      - 🇸🇬 新加坡1
+      - 🇸🇬 新加坡2
+      - 🇸🇬 新加坡3
+      - 🇯🇵 日本1
+      - 🇯🇵 日本2
+      - 🇯🇵 日本3
+      - 🇺🇸 美国1
+      - 🇺🇸 美国2
+      - 🇺🇸 美国3
+      - 🇮🇳 印度-孟买
+      - 🇩🇪 德国
+      - 🇫🇷 法国
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰
+      - 🇮🇹 意大利
+      - 🇮🇳 印度-西部
+      - 🇨🇱 智利
+      - 🇧🇷 巴西
+      - 🇪🇸 西班牙
+      - 🇨🇭 瑞士
+      - 🇸🇪 瑞典
+      - 🇲🇽 墨西哥
+      - 🇨🇦 加拿大
+      - 🇦🇺 澳大利亚
+      - 🇦🇪 迪拜
+      - 🇿🇦 南非
+      - 🇸🇦 沙特阿拉伯
+      - 🇨🇴 哥伦比亚
+      - 🇮🇱 以色列
+      - 🇻🇳 越南
+      - 🇷🇺 莫斯科
+      - 🇳🇬 尼日利亚
+      - 🇭🇰香港 IPV6
+      - 🇨🇳 台湾 IPV6
+      - 🇸🇬 新加坡 IPV6
+      - 🇯🇵 日本 IPV6
+      - 🇺🇸 美国 IPV6
+      - "19202"
+      - "19204"
+      - "19213"
+      - "19214"
+      - "19215"
+      - "19216"
+      - "19221"
+      - "19222"
+      - "19223"
+      - "19224"
+      - "19225"
+      - "19226"
+      - "19231"
+      - "19232"
+      - "19233"
+      - "19234"
+      - "19235"
+      - "19236"
+      - "19237"
+      - "19238"
+      - "19242"
+      - "19243"
+      - "19244"
+      - "19249"
+      - "19252"
+      - "19253"
       - 基础 | 日本AWS1 | 1倍
       - 基础 | 日本AWS2 | 1倍
       - 基础 | 日本AWS3 | 1倍
@@ -175,17 +846,86 @@ proxy-groups:
       - 基础 | 新加坡AWS3 | 1倍
       - 基础 | 新加坡SG1 | 2倍 流媒体
       - 基础 | 新加坡SG2 | 2倍 流媒体
-      - 🇸🇬 新加坡西部
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇸🇬新加坡-公开
-      - 🇯🇵日本-公开
-      - 🇺🇸美国-公开1
+      - defaultName
+      - 🇭🇰 上港美1.5relay
+      - 🇭🇰 上港relay
       - 🇺🇸美国-公开2
+      - 🇸🇬 新加坡西部
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港3
+      - 🇨🇳 台湾1
+      - 🇨🇳 台湾2
+      - 🇨🇳 台湾3
+      - 🇸🇬 新加坡1
+      - 🇸🇬 新加坡2
+      - 🇸🇬 新加坡3
+      - 🇯🇵 日本1
+      - 🇯🇵 日本2
+      - 🇯🇵 日本3
+      - 🇺🇸 美国1
+      - 🇺🇸 美国2
+      - 🇺🇸 美国3
+      - 🇮🇳 印度-孟买
+      - 🇩🇪 德国
+      - 🇫🇷 法国
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰
+      - 🇮🇹 意大利
+      - 🇮🇳 印度-西部
+      - 🇨🇱 智利
+      - 🇧🇷 巴西
+      - 🇪🇸 西班牙
+      - 🇨🇭 瑞士
+      - 🇸🇪 瑞典
+      - 🇲🇽 墨西哥
+      - 🇨🇦 加拿大
+      - 🇦🇺 澳大利亚
+      - 🇦🇪 迪拜
+      - 🇿🇦 南非
+      - 🇸🇦 沙特阿拉伯
+      - 🇨🇴 哥伦比亚
+      - 🇮🇱 以色列
+      - 🇻🇳 越南
+      - 🇷🇺 莫斯科
+      - 🇳🇬 尼日利亚
+      - 🇭🇰香港 IPV6
+      - 🇨🇳 台湾 IPV6
+      - 🇸🇬 新加坡 IPV6
+      - 🇯🇵 日本 IPV6
+      - 🇺🇸 美国 IPV6
+      - "19202"
+      - "19204"
+      - "19213"
+      - "19214"
+      - "19215"
+      - "19216"
+      - "19221"
+      - "19222"
+      - "19223"
+      - "19224"
+      - "19225"
+      - "19226"
+      - "19231"
+      - "19232"
+      - "19233"
+      - "19234"
+      - "19235"
+      - "19236"
+      - "19237"
+      - "19238"
+      - "19242"
+      - "19243"
+      - "19244"
+      - "19249"
+      - "19252"
+      - "19253"
       - 基础 | 日本AWS1 | 1倍
       - 基础 | 日本AWS2 | 1倍
       - 基础 | 日本AWS3 | 1倍
@@ -194,17 +934,86 @@ proxy-groups:
       - 基础 | 新加坡AWS3 | 1倍
       - 基础 | 新加坡SG1 | 2倍 流媒体
       - 基础 | 新加坡SG2 | 2倍 流媒体
-      - 🇸🇬 新加坡西部
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇸🇬新加坡-公开
-      - 🇯🇵日本-公开
-      - 🇺🇸美国-公开1
+      - defaultName
+      - 🇭🇰 上港美1.5relay
+      - 🇭🇰 上港relay
       - 🇺🇸美国-公开2
+      - 🇸🇬 新加坡西部
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港3
+      - 🇨🇳 台湾1
+      - 🇨🇳 台湾2
+      - 🇨🇳 台湾3
+      - 🇸🇬 新加坡1
+      - 🇸🇬 新加坡2
+      - 🇸🇬 新加坡3
+      - 🇯🇵 日本1
+      - 🇯🇵 日本2
+      - 🇯🇵 日本3
+      - 🇺🇸 美国1
+      - 🇺🇸 美国2
+      - 🇺🇸 美国3
+      - 🇮🇳 印度-孟买
+      - 🇩🇪 德国
+      - 🇫🇷 法国
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰
+      - 🇮🇹 意大利
+      - 🇮🇳 印度-西部
+      - 🇨🇱 智利
+      - 🇧🇷 巴西
+      - 🇪🇸 西班牙
+      - 🇨🇭 瑞士
+      - 🇸🇪 瑞典
+      - 🇲🇽 墨西哥
+      - 🇨🇦 加拿大
+      - 🇦🇺 澳大利亚
+      - 🇦🇪 迪拜
+      - 🇿🇦 南非
+      - 🇸🇦 沙特阿拉伯
+      - 🇨🇴 哥伦比亚
+      - 🇮🇱 以色列
+      - 🇻🇳 越南
+      - 🇷🇺 莫斯科
+      - 🇳🇬 尼日利亚
+      - 🇭🇰香港 IPV6
+      - 🇨🇳 台湾 IPV6
+      - 🇸🇬 新加坡 IPV6
+      - 🇯🇵 日本 IPV6
+      - 🇺🇸 美国 IPV6
+      - "19202"
+      - "19204"
+      - "19213"
+      - "19214"
+      - "19215"
+      - "19216"
+      - "19221"
+      - "19222"
+      - "19223"
+      - "19224"
+      - "19225"
+      - "19226"
+      - "19231"
+      - "19232"
+      - "19233"
+      - "19234"
+      - "19235"
+      - "19236"
+      - "19237"
+      - "19238"
+      - "19242"
+      - "19243"
+      - "19244"
+      - "19249"
+      - "19252"
+      - "19253"
       - 基础 | 日本AWS1 | 1倍
       - 基础 | 日本AWS2 | 1倍
       - 基础 | 日本AWS3 | 1倍
@@ -213,16 +1022,85 @@ proxy-groups:
       - 基础 | 新加坡AWS3 | 1倍
       - 基础 | 新加坡SG1 | 2倍 流媒体
       - 基础 | 新加坡SG2 | 2倍 流媒体
-      - 🇸🇬 新加坡西部
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇸🇬新加坡-公开
-      - 🇯🇵日本-公开
-      - 🇺🇸美国-公开1
+      - defaultName
+      - 🇭🇰 上港美1.5relay
+      - 🇭🇰 上港relay
       - 🇺🇸美国-公开2
+      - 🇸🇬 新加坡西部
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港3
+      - 🇨🇳 台湾1
+      - 🇨🇳 台湾2
+      - 🇨🇳 台湾3
+      - 🇸🇬 新加坡1
+      - 🇸🇬 新加坡2
+      - 🇸🇬 新加坡3
+      - 🇯🇵 日本1
+      - 🇯🇵 日本2
+      - 🇯🇵 日本3
+      - 🇺🇸 美国1
+      - 🇺🇸 美国2
+      - 🇺🇸 美国3
+      - 🇮🇳 印度-孟买
+      - 🇩🇪 德国
+      - 🇫🇷 法国
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰
+      - 🇮🇹 意大利
+      - 🇮🇳 印度-西部
+      - 🇨🇱 智利
+      - 🇧🇷 巴西
+      - 🇪🇸 西班牙
+      - 🇨🇭 瑞士
+      - 🇸🇪 瑞典
+      - 🇲🇽 墨西哥
+      - 🇨🇦 加拿大
+      - 🇦🇺 澳大利亚
+      - 🇦🇪 迪拜
+      - 🇿🇦 南非
+      - 🇸🇦 沙特阿拉伯
+      - 🇨🇴 哥伦比亚
+      - 🇮🇱 以色列
+      - 🇻🇳 越南
+      - 🇷🇺 莫斯科
+      - 🇳🇬 尼日利亚
+      - 🇭🇰香港 IPV6
+      - 🇨🇳 台湾 IPV6
+      - 🇸🇬 新加坡 IPV6
+      - 🇯🇵 日本 IPV6
+      - 🇺🇸 美国 IPV6
+      - "19202"
+      - "19204"
+      - "19213"
+      - "19214"
+      - "19215"
+      - "19216"
+      - "19221"
+      - "19222"
+      - "19223"
+      - "19224"
+      - "19225"
+      - "19226"
+      - "19231"
+      - "19232"
+      - "19233"
+      - "19234"
+      - "19235"
+      - "19236"
+      - "19237"
+      - "19238"
+      - "19242"
+      - "19243"
+      - "19244"
+      - "19249"
+      - "19252"
+      - "19253"
       - 基础 | 日本AWS1 | 1倍
       - 基础 | 日本AWS2 | 1倍
       - 基础 | 日本AWS3 | 1倍
@@ -231,16 +1109,85 @@ proxy-groups:
       - 基础 | 新加坡AWS3 | 1倍
       - 基础 | 新加坡SG1 | 2倍 流媒体
       - 基础 | 新加坡SG2 | 2倍 流媒体
-      - 🇸🇬 新加坡西部
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇸🇬新加坡-公开
-      - 🇯🇵日本-公开
-      - 🇺🇸美国-公开1
+      - defaultName
+      - 🇭🇰 上港美1.5relay
+      - 🇭🇰 上港relay
       - 🇺🇸美国-公开2
+      - 🇸🇬 新加坡西部
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港3
+      - 🇨🇳 台湾1
+      - 🇨🇳 台湾2
+      - 🇨🇳 台湾3
+      - 🇸🇬 新加坡1
+      - 🇸🇬 新加坡2
+      - 🇸🇬 新加坡3
+      - 🇯🇵 日本1
+      - 🇯🇵 日本2
+      - 🇯🇵 日本3
+      - 🇺🇸 美国1
+      - 🇺🇸 美国2
+      - 🇺🇸 美国3
+      - 🇮🇳 印度-孟买
+      - 🇩🇪 德国
+      - 🇫🇷 法国
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰
+      - 🇮🇹 意大利
+      - 🇮🇳 印度-西部
+      - 🇨🇱 智利
+      - 🇧🇷 巴西
+      - 🇪🇸 西班牙
+      - 🇨🇭 瑞士
+      - 🇸🇪 瑞典
+      - 🇲🇽 墨西哥
+      - 🇨🇦 加拿大
+      - 🇦🇺 澳大利亚
+      - 🇦🇪 迪拜
+      - 🇿🇦 南非
+      - 🇸🇦 沙特阿拉伯
+      - 🇨🇴 哥伦比亚
+      - 🇮🇱 以色列
+      - 🇻🇳 越南
+      - 🇷🇺 莫斯科
+      - 🇳🇬 尼日利亚
+      - 🇭🇰香港 IPV6
+      - 🇨🇳 台湾 IPV6
+      - 🇸🇬 新加坡 IPV6
+      - 🇯🇵 日本 IPV6
+      - 🇺🇸 美国 IPV6
+      - "19202"
+      - "19204"
+      - "19213"
+      - "19214"
+      - "19215"
+      - "19216"
+      - "19221"
+      - "19222"
+      - "19223"
+      - "19224"
+      - "19225"
+      - "19226"
+      - "19231"
+      - "19232"
+      - "19233"
+      - "19234"
+      - "19235"
+      - "19236"
+      - "19237"
+      - "19238"
+      - "19242"
+      - "19243"
+      - "19244"
+      - "19249"
+      - "19252"
+      - "19253"
       - 基础 | 日本AWS1 | 1倍
       - 基础 | 日本AWS2 | 1倍
       - 基础 | 日本AWS3 | 1倍
@@ -249,16 +1196,85 @@ proxy-groups:
       - 基础 | 新加坡AWS3 | 1倍
       - 基础 | 新加坡SG1 | 2倍 流媒体
       - 基础 | 新加坡SG2 | 2倍 流媒体
-      - 🇸🇬 新加坡西部
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇸🇬新加坡-公开
-      - 🇯🇵日本-公开
-      - 🇺🇸美国-公开1
+      - defaultName
+      - 🇭🇰 上港美1.5relay
+      - 🇭🇰 上港relay
       - 🇺🇸美国-公开2
+      - 🇸🇬 新加坡西部
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港3
+      - 🇨🇳 台湾1
+      - 🇨🇳 台湾2
+      - 🇨🇳 台湾3
+      - 🇸🇬 新加坡1
+      - 🇸🇬 新加坡2
+      - 🇸🇬 新加坡3
+      - 🇯🇵 日本1
+      - 🇯🇵 日本2
+      - 🇯🇵 日本3
+      - 🇺🇸 美国1
+      - 🇺🇸 美国2
+      - 🇺🇸 美国3
+      - 🇮🇳 印度-孟买
+      - 🇩🇪 德国
+      - 🇫🇷 法国
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰
+      - 🇮🇹 意大利
+      - 🇮🇳 印度-西部
+      - 🇨🇱 智利
+      - 🇧🇷 巴西
+      - 🇪🇸 西班牙
+      - 🇨🇭 瑞士
+      - 🇸🇪 瑞典
+      - 🇲🇽 墨西哥
+      - 🇨🇦 加拿大
+      - 🇦🇺 澳大利亚
+      - 🇦🇪 迪拜
+      - 🇿🇦 南非
+      - 🇸🇦 沙特阿拉伯
+      - 🇨🇴 哥伦比亚
+      - 🇮🇱 以色列
+      - 🇻🇳 越南
+      - 🇷🇺 莫斯科
+      - 🇳🇬 尼日利亚
+      - 🇭🇰香港 IPV6
+      - 🇨🇳 台湾 IPV6
+      - 🇸🇬 新加坡 IPV6
+      - 🇯🇵 日本 IPV6
+      - 🇺🇸 美国 IPV6
+      - "19202"
+      - "19204"
+      - "19213"
+      - "19214"
+      - "19215"
+      - "19216"
+      - "19221"
+      - "19222"
+      - "19223"
+      - "19224"
+      - "19225"
+      - "19226"
+      - "19231"
+      - "19232"
+      - "19233"
+      - "19234"
+      - "19235"
+      - "19236"
+      - "19237"
+      - "19238"
+      - "19242"
+      - "19243"
+      - "19244"
+      - "19249"
+      - "19252"
+      - "19253"
       - 基础 | 日本AWS1 | 1倍
       - 基础 | 日本AWS2 | 1倍
       - 基础 | 日本AWS3 | 1倍
@@ -267,7 +1283,6 @@ proxy-groups:
       - 基础 | 新加坡AWS3 | 1倍
       - 基础 | 新加坡SG1 | 2倍 流媒体
       - 基础 | 新加坡SG2 | 2倍 流媒体
-      - 🇸🇬 新加坡西部
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -290,10 +1305,80 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇸🇬新加坡-公开
-      - 🇯🇵日本-公开
-      - 🇺🇸美国-公开1
+      - defaultName
+      - 🇭🇰 上港美1.5relay
+      - 🇭🇰 上港relay
       - 🇺🇸美国-公开2
+      - 🇸🇬 新加坡西部
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港3
+      - 🇨🇳 台湾1
+      - 🇨🇳 台湾2
+      - 🇨🇳 台湾3
+      - 🇸🇬 新加坡1
+      - 🇸🇬 新加坡2
+      - 🇸🇬 新加坡3
+      - 🇯🇵 日本1
+      - 🇯🇵 日本2
+      - 🇯🇵 日本3
+      - 🇺🇸 美国1
+      - 🇺🇸 美国2
+      - 🇺🇸 美国3
+      - 🇮🇳 印度-孟买
+      - 🇩🇪 德国
+      - 🇫🇷 法国
+      - 🇬🇧 英国
+      - 🇳🇱 荷兰
+      - 🇮🇹 意大利
+      - 🇮🇳 印度-西部
+      - 🇨🇱 智利
+      - 🇧🇷 巴西
+      - 🇪🇸 西班牙
+      - 🇨🇭 瑞士
+      - 🇸🇪 瑞典
+      - 🇲🇽 墨西哥
+      - 🇨🇦 加拿大
+      - 🇦🇺 澳大利亚
+      - 🇦🇪 迪拜
+      - 🇿🇦 南非
+      - 🇸🇦 沙特阿拉伯
+      - 🇨🇴 哥伦比亚
+      - 🇮🇱 以色列
+      - 🇻🇳 越南
+      - 🇷🇺 莫斯科
+      - 🇳🇬 尼日利亚
+      - 🇭🇰香港 IPV6
+      - 🇨🇳 台湾 IPV6
+      - 🇸🇬 新加坡 IPV6
+      - 🇯🇵 日本 IPV6
+      - 🇺🇸 美国 IPV6
+      - "19202"
+      - "19204"
+      - "19213"
+      - "19214"
+      - "19215"
+      - "19216"
+      - "19221"
+      - "19222"
+      - "19223"
+      - "19224"
+      - "19225"
+      - "19226"
+      - "19231"
+      - "19232"
+      - "19233"
+      - "19234"
+      - "19235"
+      - "19236"
+      - "19237"
+      - "19238"
+      - "19242"
+      - "19243"
+      - "19244"
+      - "19249"
+      - "19252"
+      - "19253"
       - 基础 | 日本AWS1 | 1倍
       - 基础 | 日本AWS2 | 1倍
       - 基础 | 日本AWS3 | 1倍
@@ -302,7 +1387,6 @@ proxy-groups:
       - 基础 | 新加坡AWS3 | 1倍
       - 基础 | 新加坡SG1 | 2倍 流媒体
       - 基础 | 新加坡SG2 | 2倍 流媒体
-      - 🇸🇬 新加坡西部
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
